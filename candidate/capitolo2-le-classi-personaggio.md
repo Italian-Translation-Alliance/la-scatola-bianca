@@ -8,17 +8,6 @@ I Chierici sono sacerdoti corazzati che servono un particolare allineamento, rel
 
 Il Chierico è un campione della sua fede e del suo allineamento morale. Il personaggio potrebbe essere un sinistro cacciatore di streghe, un esorcista di demoni, uno splendente cavaliere della fede, o un agente segreto di qualche gerarchia del tempio. Poiché molte delle abilità del Chierico sono orientate alla guarigione e alla protezione, tendono a svolgere un ruolo di supporto durante il combattimento. Tuttavia, sono in grado di stare spalla a spalla con i guerrieri del gruppo, se necessario, almeno per un po'. I Chierici devono essere o Legali (buoni) o Caotici (malvagi); non esistono Chierici Neutrali, a meno che l'arbitro non decida altrimenti.
 
-### Abilità del Chierico
-
-#### Restrizioni su Armi e Armature
-A causa di pratiche religiose segrete, i Chierici possono usare solo armi contundenti (clava, flagello, mazza, ecc.) e l'unica arma a distanza consentita è l'olio. I chierici non hanno restrizioni di armatura.
-
-#### Lancio degli Incantesimi
-I Chierici lanciano incantesimi divini da una specifica lista di incantesimi, come da tabella di avanzamento dei Chierici. Ogni giorno, il Chierico prega per un certa scelta di incantesimi, scegliendo qualsiasi incantesimo dalla lista standard. I Chierici di divinità specifiche potrebbero avere una scelta di incantesimi completamente diversi, come pensata dall'Arbitro, ma il Chierico standard utilizza la lista di incantesimi standard.
-
-#### Tiro Salvezza
-I chierici ricevono un bonus di +2 ai tiri salvezza contro veleno e paralisi (a meno che non venga utilizzata l'alternativa "Matrice dei tiri salvezza").
-
 #### Tabella 3: Avanzamento del Chierico
 
 | Livello | Punti Esperienza | Dado Vita | Per Colpire | Tiro Salvezza | Incantesimi |   |   |   |   |
@@ -34,6 +23,17 @@ I chierici ricevono un bonus di +2 ai tiri salvezza contro veleno e paralisi (a 
 | 8       | 96,000           | 6+1       | +3          | 8             | 2           | 2 | 2 | 2 | 2 |
 | 9       | 192,000          | 7         | +4          | 7             | 3           | 3 | 3 | 2 | 2 |
 | 10      | 384,000          | 8         | +5          | 6             | 3           | 3 | 3 | 3 | 3 |
+
+### Abilità del Chierico
+
+#### Restrizioni su Armi e Armature
+A causa di pratiche religiose segrete, i Chierici possono usare solo armi contundenti (clava, flagello, mazza, ecc.) e l'unica arma a distanza consentita è l'olio. I chierici non hanno restrizioni di armatura.
+
+#### Lancio degli Incantesimi
+I Chierici lanciano incantesimi divini da una specifica lista di incantesimi, come da tabella di avanzamento dei Chierici. Ogni giorno, il Chierico prega per un certa scelta di incantesimi, scegliendo qualsiasi incantesimo dalla lista standard. I Chierici di divinità specifiche potrebbero avere una scelta di incantesimi completamente diversi, come pensata dall'Arbitro, ma il Chierico standard utilizza la lista di incantesimi standard.
+
+#### Tiro Salvezza
+I chierici ricevono un bonus di +2 ai tiri salvezza contro veleno e paralisi (a meno che non venga utilizzata l'alternativa "Matrice dei tiri salvezza").
 
 #### Scacciare i non-morti
 I Chierici possono usare il loro potere divino per bandire i non-morti, facendoli fuggire.
@@ -76,16 +76,6 @@ Molti Arbitri permettono ai chierici caotici, così come ai chierici legali, di 
 ## Il Guerriero
 Il Guerriero è un soldato, addestrato alla battaglia e all'uso di armature e armi. Il tuo personaggio potrebbe essere un feroce predone vichingo, un samurai vagabondo o un cavaliere medievale. Poiché è la meglio equipaggiata tra tutte le classi personaggio a infliggere e assorbire danni, i Guerrieri finiscono spesso in prima linea, affrontando draghi, goblin e cultisti malvagi. Se sei il Guerriero del gruppo, il lavoro sporco spetta a te.
 
-### Abilità del combattente
-#### Restrizioni su Armi e Armature
-I guerrieri sono addestrati alla guerra e, come tali, non hanno restrizioni sul tipo di armi o armature che possono utilizzare.
-
-#### Furia in combattimento
-Contro i nemici con un dado vita (DV) o meno, i guerrieri ottengono un attacco per livello in ogni round di combattimento.
-
-#### Tiro salvezza
-I guerrieri ricevono un bonus di +2 ai Tiri Salvezza contro Morte e Veleno (a meno che non venga utilizzata l'alternativa "Matrice dei Tiri Salvezza").
-
 #### Tabella 5: Avanzamento del Guerriero
 | Livello | Punti Esperienza | Dado Vita | Per Colpire | Tiro Salvezza |
 |---------|------------------|-----------|-------------|---------------|
@@ -100,9 +90,101 @@ I guerrieri ricevono un bonus di +2 ai Tiri Salvezza contro Morte e Veleno (a me
 | 9       | 256,000          | 9         | +6          | 6             |
 | 10      | 512,000          | 10        | +6          | 5             |
 
+### Abilità del combattente
+#### Restrizioni su Armi e Armature
+I guerrieri sono addestrati alla guerra e, come tali, non hanno restrizioni sul tipo di armi o armature che possono utilizzare.
+
+#### Furia in combattimento
+Contro i nemici con un dado vita (DV) o meno, i guerrieri ottengono un attacco per livello in ogni round di combattimento.
+
+#### Tiro salvezza
+I guerrieri ricevono un bonus di +2 ai Tiri Salvezza contro Morte e Veleno (a meno che non venga utilizzata l'alternativa "Matrice dei Tiri Salvezza").
+
 #### Costruire un Castello
 Al nono livello, un guerriero che sceglie di costruire un castello si considera aver raggiunto il grado di "barone" o "baronessa", conferitogli dal sovrano o dal monarca locale.
 Il personaggio può scegliere di attirare un corpo di soldati, che giureranno la loro lealtà come fedeli seguaci.
 
 ### Bonus di Esperienza per la Forza
 La Forza è l'Attributo Primario dei guerrieri, il che significa che un punteggio di Forza di 15+ garantisce un 5% di esperienza aggiuntiva.
+
+## Il Mago
+Il Mago è una figura misteriosa, uno studente di poteri arcani e di magia nera. Possono essere avversari devastanti. Tuttavia, ai livelli più bassi, sono piuttosto vulnerabili e devono essere protetti dagli altri membri del gruppo. Man mano che progrediscono, gli utenti magici diventano generalmente la più potente delle classi personaggio, in grado di influenzare i destini politici di grandi regni e di creare potenti artefatti magici.
+
+#### Tabella 6: Avanzamento del Mago
+
+| Livello | Punti Esperienza | Dado Vita | Per Colpire | Tiro Salvezza | Incantesimi |   |   |   |   |   |
+|---------|------------------|-----------|-------------|---------------|-------------|---|---|---|---|---|
+|         |                  |           |             |               | 1           | 2 | 3 | 4 | 5 | 6 |
+| 1       | 0                | 1         | +0          | 15            | 1           | – | – | – | – | – |
+| 2       | 2,500            | 1+1       | +0          | 14            | 2           | – | – | – | – | – |
+| 3       | 5,000            | 2         | +0          | 13            | 3           | 1 | – | – | – | – |
+| 4       | 10,000           | 2+1       | +0          | 12            | 4           | 2 | – | – | – | – |
+| 5       | 20,000           | 3         | +1          | 11            | 4           | 2 | 1 | – | – | – |
+| 6       | 40,000           | 3+1       | +1          | 10            | 4           | 2 | 2 | – | – | – |
+| 7       | 80,000           | 4         | +2          | 9             | 4           | 3 | 2 | 1 | – | – |
+| 8       | 160,000          | 4+1       | +2          | 8             | 4           | 3 | 3 | 2 | – | – |
+| 9       | 320,000          | 5         | +3          | 7             | 4           | 3 | 3 | 2 | 1 | – |
+| 10      | 640,000          | 5+1       | +3          | 6             | 4           | 4 | 3 | 2 | 2 | – |
+| 11      | –                | 6         | +4          | 5             | 4           | 4 | 4 | 3 | 3 | – |
+| 12      | –                | 6+1       | +4          | 4             | 4           | 4 | 4 | 4 | 4 | 1 |
+
+### Abilità dell'utente magico
+
+#### Restrizioni su Armi e Armature
+I Maghi tendono a trascorrere le loro ore di veglia nello studio di tomi e pergamene arcane, per cui hanno poco tempo per allenarsi con le armi o per imparare a ingaggiare correttamente un combattimento fisico.
+
+#### Incantesimo
+A differenza del Chierico, il Mago possiede un libro di incantesimi, che non include necessariamente tutti gli incantesimi presenti nelle liste standard. Leggendo da questo libro, il mago imprime nella sua mente la formula di un incantesimo scelto, "preparandolo" efficacemente per essere lanciato. Una volta che un incantesimo preparato è stato lanciato, la formula dell'incantesimo scompare dalla mente del mago e deve essere preparata di nuovo prima di poter effettuare un altro tentativo di lancio; tuttavia, è possibile preparare un incantesimo più volte utilizzando gli "spazi" disponibili nella memoria del mago. Se il mago trova delle pergamene di incantesimi durante un'avventura, può copiarle nel suo libro degli incantesimi.
+
+#### Tiro Salvezza
+Il Mago riceve un bonus di +2 ai Tiri Salvezza contro gli incantesimi, compresi quelli lanciati da bacchette e bastoni (a meno che non venga utilizzata la "Matrice dei Tiri Salvezza" alternativa).
+
+#### Bonus di Esperienza per l'Intelligenza
+L'Intelligenza è l'Attributo Primario dei maghi, il che significa che un punteggio di Intelligenza di 15+ garantisce loro un ulteriore 5% a tutti i punti esperienza assegnati.
+
+#### Costruire una Torre
+Al decimo livello, un mago ottiene il titolo di "strega" o "stregone" e può costruire una roccaforte per ospitare la sua biblioteca e il suo laboratorio. Attirerà un mix di mercenari, strani servitori e persino alcuni mostri (come le scimmie volanti). Questo eterogeneo seguito giurerà fedeltà e servirà rispetto al livello di fedeltà che il mago riuscirà a ispirare.
+
+## Il Ladro (Opzionale)
+Mentre ci sono molti che brandiscono spade e incantesimi mentre esplorano tombe e sotterranei, il Ladro spera di recuperare le ricchezze perdute attraverso l'uso di astuzia e furtività. Anche se addestrato alle armi, non è un combattente di professione. Colpisce invece dall'ombra e i suoi occhi acuti vedono i pericoli che i suoi compagni non vedono. I ladri raramente sono nobili, ma sono più spesso professionisti pragmatici che cercano opportunità per accumulare rapidamente grandi ricchezze. Tuttavia, le loro abilità uniche li rendono molto utili per gli avventurieri e gli esploratori e ci sono alcuni tra loro che si attengono a un codice di "onore tra i ladri".
+
+I ladri spesso vanno equipaggiati con poche armi e armature leggere, e si affidano a grimaldelli e strumenti per la sopravvivenza. Quando il combattimento è inevitabile, svaniscono nell'oscurità, pronti ad affondare un pugnale nella schiena dei nemici ignari. I pochi ladri che riescno ad accumulare fortuna e gloria è probabile che si ritirino e fondino una gilda di altre persone con abilità simili.
+
+#### Tabella 7: Avanzamento del Ladro
+| Livello | Punti Esperienza | Dado Vita | Per Colpire | Tiro Salvezza | Furto |
+|---------|------------------|-----------|-------------|---------------|-------|
+| 1       | 0                | 1         | +0          | 14            | 2     |
+| 2       | 1,250            | 1+1       | +0          | 13            | 2     |
+| 3       | 2,500            | 2         | +0          | 12            | 2     |
+| 4       | 5,000            | 2+1       | +1          | 11            | 3     |
+| 5       | 10,000           | 3         | +1          | 10            | 3     |
+| 6       | 20,000           | 3+1       | +2          | 9             | 3     |
+| 7       | 40,000           | 4         | +2          | 8             | 4     |
+| 8       | 80,000           | 4+1       | +3          | 7             | 4     |
+| 9       | 160,000          | 5         | +4          | 6             | 4     |
+| 10      | 320,000          | 5+1       | +5          | 5             | 5     |
+
+### Abilità del ladro
+
+#### Restrizioni su Armi e Armature
+I ladri sono agili e abili nel combattimento e possono impugnare qualsiasi arma, ma preferiscono affidarsi ai loro riflessi e indossare solo armature di cuoio.
+
+#### Pugnalata alla schiena
+Ogni volta che un ladro attacca un avversario che non è consapevole della sua presenza, riceve un bonus di +2 al suo bonus di attacco base. Se l'attacco ha successo, il ladro può tirare due volte i danni della sua arma.
+
+#### Tiro salvezza
+I ladri ricevono un bonus di +2 a qualsiasi tiro salvezza effettuato per ridurre o evitare gli effetti di qualsiasi trappola, magica o terrena.
+
+#### Furto
+I ladri sono furtivi e dai piedi leggeri e l'abilità di furto può essere utilizzata per qualsiasi azione clandestina o basata sulla furtività: borseggiare o scassinare serrature, scoprire e disarmare trappole, rimanere silenziosi e nascosti mentre ci si muove o persino scalare muri a mani nude. Se il risultato del tiro è uguale o inferiore al suo punteggio nell'abilità di ladro, il ladro ha successo nel suo tentativo. I ladri non sono spesso consapevoli di quando i loro tentativi di rimanere furtivi falliscono, e il ladro crede sempre di aver avuto successo.
+
+#### Fondare una Gilda:
+Un ladro di nono livello o superiore può scegliere di stabilire un nascondiglio segreto, spesso in un luogo urbano. Egli attirerà l'attenzione e il servizio di altri ladri di livello inferiore che sperano di imparare da un maestro. È conosciuto come un Maestro di Gilda, e quelli che arrivano sono membri della sua Gilda dei Ladri. In cambio di una parte dei loro guadagni, il ladro fornirà a questi apprendisti protezione dalle forze dell'ordine locali, per quanto possibile.
+
+#### Bonus di esperienza per la Destrezza
+La Destrezza è l'Attributo Primario dei ladri, il che significa che un punteggio di Destrezza di 15+ garantisce un ulteriore 5% di esperienza.
+
+
+
+
+

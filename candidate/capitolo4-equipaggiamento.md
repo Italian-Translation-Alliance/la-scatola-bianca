@@ -14,13 +14,13 @@ Nel gioco originale, tutte le armi infliggono 1d6 danni, indipendentemente dal t
 | Aconito, mazzo                  | 10             |
 | Acqua Santa, fiala piccola      | 25             |
 | Aglio (1 libbra)                | 10             |
-| Asta, 10 ft.                    | 1              |
+| Asta, 10'                    | 1              |
 | Astuccio (mappa o pergamena)    | 3              |
 | Attrezzi da ladro               | 25             |
 | Belladonna, mazzo               | 10             |
 | Bottiglia (vino), bicchiere     | 1              |
-| Corda (50 ft.), canapa          | 1              |
-| Corda (50 ft.), seta            | 5              |
+| Corda (50'), canapa          | 1              |
+| Corda (50'), seta            | 5              |
 | Elmo                            | 10             |
 | Lanterna                        | 10             |
 | Libro degli incantesimi (vuoto) | 100            |
@@ -98,19 +98,19 @@ Nel gioco originale, tutte le armi infliggono 1d6 danni, indipendentemente dal t
 
 | Arma                 | **Danno** | **Cadenza di fuoco\*** | **Gittata** | **Peso** | **Costo (po)** |
 |----------------------|-----------|----------------------|-------------|----------|----------------|
-| Arco, corto          | 1d6-1     | 2                    | 50 ft.      | 5        | 25             |
-| Arco, lungo          | 1d6       | 2                    | 70 ft.      | 5        | 40             |
-| Ascia, mano          | 1d6       | 1                    | 10 ft.      | 10       | 3              |
-| Balestra, leggera    | 1d6-1     | 1                    | 60 ft.      | 5        | 15             |
-| Balestra, pesante    | 1d6+1     | 01-feb               | 80 ft.      | 5        | 25             |
+| Arco, corto          | 1d6-1     | 2                    | 50'      | 5        | 25             |
+| Arco, lungo          | 1d6       | 2                    | 70'      | 5        | 40             |
+| Ascia, mano          | 1d6       | 1                    | 10'      | 10       | 3              |
+| Balestra, leggera    | 1d6-1     | 1                    | 60'      | 5        | 15             |
+| Balestra, pesante    | 1d6+1     | 01-feb               | 80'      | 5        | 25             |
 | Borsa (20 pietre)    | -         | -                    | -           | 1        | 1              |
 | Custodia (30 dardi)  | -         | -                    | -           | 1        | 5              |
 | Dardo, balestra (30) | -         | -                    | -           | 5        | 5              |
 | Faretra (20 frecce)  | -         | -                    | -           | 1        | 5              |
-| Fionda               | -         | 1                    | 30 ft.      | 1        | 2              |
+| Fionda               | -         | 1                    | 30'      | 1        | 2              |
 | Frecce (20)          | -         | -                    | -           | 1        | 5              |
 | Freccia, argento     | -         | -                    | -           | 1        | 5              |
-| Lancia               | 1d6       | 1                    | 20 ft.      | 10       | 2              |
+| Lancia               | 1d6       | 1                    | 20'      | 10       | 2              |
 | Pietre (20)          | 1d6       | -                    | -           | 1        | 1              |
 
 \* La cadenza di fuoco è il numero di proiettili che possono essere sparati per round di combattimento

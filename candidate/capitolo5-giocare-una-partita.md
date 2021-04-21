@@ -108,11 +108,11 @@ Il tiro di attacco viene poi confrontato con una tabella per vedere se l'attacco
 
 Se un attacco colpisce, infligge un danno (determinato dal dado del danno dell'arma). Il danno viene sottratto dal totale dei punti ferita del difensore (vedi "Danno e Morte").
 
-#### Tabella 17: Tiri d'Attacco di Chierici e Ladri
+#### Tabella 17: Tiri d'Attacco del Chierico/Ladro
 
-| Livello del Chierico (Ladro)                  | Classe Armatura Bersaglio or \[Classe Armatura Ascendente\] |              |              |              |              |              |              |              |              |              |
+| Livello del Chierico/Ladro                 | Classe Armatura Bersaglio or \[Classe Armatura Ascendente\] |              |              |              |              |              |              |              |              |              |
 |-------------------------------------------|-------------------------------------------------------------|--------------|--------------|--------------|--------------|--------------|--------------|--------------|--------------|--------------|
-|                                           | 9 <br> \[10\]                                                | 8 <br> \[11\] | 7 <br> \[12\] | 6 <br> \[13\] | 5 <br> \[14\] | 4 <br> \[15\] | 3 <br> \[16\] | 2 <br> \[17\] | 1 <br> \[18\] | 0 <br> \[19\] |
+|                                           | 9 \[10\]                                                | 8 \[11\] | 7 \[12\] | 6 \[13\] | 5 \[14\] | 4 \[15\] | 3 \[16\] | 2 \[17\] | 1 \[18\] | 0 \[19\] |
 | ----------------------------------------- | -----------------------------------------------             | --------     | --------     | --------     | --------     | --------     | --------     | --------     | --------     | --------     |
 | 1–3                                       | 10                                                          | 11           | 12           | 13           | 14           | 15           | 16           | 17           | 18           | 19           |
 | 4–5                                       | 9                                                           | 10           | 11           | 12           | 13           | 14           | 15           | 16           | 17           | 18           |
@@ -121,11 +121,11 @@ Se un attacco colpisce, infligge un danno (determinato dal dado del danno dell'a
 | 9                                         | 6                                                           | 7            | 8            | 9            | 10           | 11           | 12           | 13           | 14           | 15           |
 | 10                                        | 5                                                           | 6            | 7            | 8            | 9            | 10           | 11           | 12           | 13           | 14           |
 
-#### Tabella 18: Tiri d'Attacco dei Guerrieri
+#### Tabella 18: Tiri d'Attacco del Guerriero
 
 | Livello del Guerriero            | Classe Armatura Bersaglio or \[Classe Armatura Ascendente\] |            |            |            |            |            |            |            |            |            |
 |----------------------------------|-------------------------------------------------------------|------------|------------|------------|------------|------------|------------|------------|------------|------------|
-|                                  | 9 <br> \[10\]                                                    | 8 <br> \[11\]   | 7  <br>\[12\]   | 6 <br> \[13\]   | 5 <br> \[14\]   | 4 <br> \[15\]   | 3 <br> \[16\]   | 2 <br> \[17\]   | 1 <br> \[18\]   | 0 <br> \[19\]   |
+|                                  | 9 \[10\]                                                    | 8 \[11\]   | 7  <br>\[12\]   | 6 \[13\]   | 5 \[14\]   | 4 \[15\]   | 3 \[16\]   | 2 \[17\]   | 1 \[18\]   | 0 \[19\]   |
 | -------------------------------- | -------------------------------------------------           | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |
 | 1                                | 10                                                          | 11         | 12         | 13         | 14         | 15         | 16         | 17         | 18         | 19         |
 | 2                                | 9                                                           | 10         | 11         | 12         | 13         | 14         | 15         | 16         | 17         | 18         |
@@ -135,10 +135,11 @@ Se un attacco colpisce, infligge un danno (determinato dal dado del danno dell'a
 | 8                                | 5                                                           | 6          | 7          | 8          | 9          | 10         | 11         | 12         | 13         | 14         |
 | 9–10                             | 4                                                           | 5          | 6          | 7          | 8          | 9          | 10         | 11         | 12         | 13         |
 
-| Table 19: Magic\-User Attack Rolls |                                                 |          |          |          |          |          |          |          |          |          |
-|------------------------------------|-------------------------------------------------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
+#### Tabella 19: Tiri d'Attacco del Mago
+
 | Livello del Mago                   | Classe Armatura Bersaglio or \[Classe Armatura Ascendente\] |          |          |          |          |          |          |          |          |          |
-|                                    | 9 <br> \[10\]                                        | 8 <br> \[11\] | 7 <br> \[12\] | 6 <br> \[13\] | 5 <br> \[14\] | 4 <br> \[15\] | 3 <br> \[16\] | 2 <br> \[17\] | 1 <br> \[18\] | 0 <br> \[19\] |
+|                                    | 9 \[10\]                                        | 8 \[11\] | 7 \[12\] | 6 \[13\] | 5 \[14\] | 4 \[15\] | 3 \[16\] | 2 \[17\] | 1 \[18\] | 0 \[19\] |
+|------------------------------------|-------------------------------------------------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
 | 1–4                                | 10                                              | 11       | 12       | 13       | 14       | 15       | 16       | 17       | 18       | 19       |
 | 5–6                                | 9                                               | 10       | 11       | 12       | 13       | 14       | 15       | 16       | 17       | 18       |
 | 7–8                                | 8                                               | 9        | 10       | 11       | 12       | 13       | 14       | 15       | 16       | 17       |
@@ -206,28 +207,127 @@ Se c'è incertezza sul morale dei PNG o dei mostri, la seguente tabella può ess
 | 9-11     | Combatti per il vantaggio |
 | 12       | Attacco!                  |
 
-#### Negoziazione e diplomazia
+### Negoziazione e diplomazia
 
 Alcuni combattimenti possono essere evitati con poche parole ben scelte (anche bugie). Se il gruppo è in svantaggio, o se non sembra che i mostri abbiano un gran bottino, il gruppo potrebbe scegliere di farsi strada sfacciatamente nel tentativo di evitare il combattimento o almeno di ritardarlo fino a quando non si presenteranno condizioni più favorevoli.
 
-#### Jousting
+### Giostra
 
-A joust is a contest in which two fighters ride at one another while wielding lances. The object is to make contact with the opponent’s armor or shield that is hard enough to break the lance or to actually unhorse your opponent.
+Una giostra è una gara in cui due combattenti si affrontano brandendo delle lance. L'obiettivo è quello di stabilire un contatto con l'armatura o lo scudo dell'avversario che sia abbastanza forte da rompere la lancia o da disarcionare effettivamente l'avversario.
 
-The joust, as a sport, consisted of three tilts. In White Box, this equates to three rounds of combat. Each round consists of an attack with a lance. If the lances are blunted, they deal 1d6-1 points of damage, but cannot kill the jouster. At 0 hit points, the jouster is knocked unconscious and falls from his steed (no additional damage). If the lances are not blunted, they deal normal damage and might kill.
+La giostra, come sport, consisteva in tre tiri. In White Box, questo equivale a tre round di combattimento. Ogni round consiste in un attacco con una lancia. Se le lance sono smussate, infliggono 1d6-1 punti di danno, ma non possono uccidere il giostratore. A 0 punti ferita, il giostratore è stordito e cade dal suo destriero (nessun danno aggiuntivo). Se le lance non sono smussate, infliggono danni normali e potrebbero uccidere.
 
-Any jouster that suffers damage must pass a Saving Throw or be knocked from his steed and suffer 1d6 damage from the fall.
+Ogni giostratore che subisce danni deve superare un tiro salvezza o essere sbalzato dal suo destriero e subire 1d6 danni dalla caduta.
 
-#### Table 21: Jousting Points   |            |
+#### Tabella 21: Punti Giostra
 
-| Condition                   | **Points** |
-|-----------------------------|------------|
-| Attack Roll of 12 or Higher | 1          |
-| Inflict Damage              | 2          |
-| Unhorse Opponent            | 3          |
+| Condizione               | **Punti** |
+|--------------------------|-----------|
+| Attacco di 12 o più alto | 1         |
+| Infliggere danni         | 2         |
+| Sconfiggere l'avversario | 3         |
 
-Medium war horses grant a +1 bonus to attack. Heavy war horses grant a +2.
+I cavalli da guerra medi concedono un bonus di +1 all'attacco. I cavalli da guerra pesanti garantiscono un +2.
 
-The jouster with the most points after three rounds wins the joust. If one opponent is knocked unconscious or killed, they automatically lose the joust.
+Il giostratore con più punti dopo tre round vince la giostra. Se un avversario viene messo al tappeto o ucciso, perde automaticamente la giostra.
 
-In a duel, the loser must forfeit his mount and his armor, and permit himself to be ransomed for as much as his companions or family can pay, usually commensurate with the fighter’s social class.
+In un duello, il perdente deve rinunciare alla sua cavalcatura e alla sua armatura, e concedere un riscatto pari a quanto i suoi compagni o la sua famiglia possono pagare, di solito commisurato alla classe sociale del combattente.
+
+### Incantesimi
+
+Il lancio degli incantesimi inizia all'inizio del round di combattimento. È possibile preparare un incantesimo mentre ci si trova nel raggio d'azione di mischia di un avversario (10'), ma se l'incantatore subisce danni mentre prepara un incantesimo, l'incantesimo viene perso. A meno che non sia indicato diversamente, l'incantesimo viene lanciato (ha effetto) nella fase di iniziativa dell'incantatore.
+
+Nota che nella Sequenza Alternativa di Combattimento il lancio degli incantesimi funziona diversamente. In quel sistema, ci vuole un intero round per preparare un incantesimo, l'incantesimo viene lanciato all'inizio del round prima che succeda qualsiasi altra cosa, e l'incantatore può passare il resto del round a preparare un nuovo incantesimo (o a fare qualcos'altro, come muoversi o anche combattere).
+
+### Loyalty
+
+L'Arbitro potrebbe voler fare delle "prove di lealtà" per i PNG messi in situazioni pericolose o per quelli a cui vengono offerte tangenti per cambiare parte durante un conflitto. Quando viene effettuato una prova di lealtà, tira 3d6 e consulta la tabella della lealtà per il risultato. Ricorda che queste prove possono essere modificate dal punteggio di Carisma del giocatore.
+
+#### Tabella 22: Lealtà
+
+| Tiro  | **Lealtà**                       |
+|-------|----------------------------------|
+| 3     | Traditore                        |
+| 4-5   | -2 alla prossima prova di lealtà |
+| 6-8   | -1 alla prossima prova di lealtà |
+| 9-12  | Media                            |
+| 13-15 | +1 alla prossima prova di lealtà |
+| 16-17 | +2 alla prossima provadi lealtà  |
+| 18    | Lealista                         |
+
+Un buon trattamento, il rispetto e un'equa porzione del tesoro guadagnato dovrebbero garantire bonus ai controlli di lealtà, mentre l'abuso, fisico o altro, porterà a penalità, abbandono o peggio. I PNG dovrebbero essere trattati come individui distinti e non come semplici estensioni del personaggio del giocatore.
+
+Se un PNG si trova in una situazione in cui una prova di morale può essere appropriata, il modificatore di lealtà può essere applicato al tiro di morale (opzionale).
+
+### Tiri salvezza
+
+Di tanto in tanto, un incantesimo o qualche altro tipo di pericolo richiede di effettuare un "tiro salvezza". Un tiro salvezza riuscito significa che il personaggio evita la minaccia o ne riduce l'effetto. Ogni classe di personaggi ha un numero obiettivo del tiro salvezza che diventa più basso man mano che il personaggio aumenta di livello. Per effettuare un tiro salvezza, tira un d20. Se il risultato è uguale o superiore al numero obiettivo del tiro salvezza del personaggio, il tiro salvezza ha successo.
+
+### Regola alternativa: La matrice dei tiri salvezza
+
+Il sistema di tiro salvezza di White Box è un adattamento dell'originale, che aveva parecchie categorie di rischi diversi invece di un singolo tiro salvezza di base come quello usato qui. I numeri ispirati al sistema originale sono forniti di seguito (il numero del singolo tiro salvezza è fornito per confronto):
+
+#### Tabella 23: Tiri Salvezza del Chierico
+
+| Livello | Morte Veleno | Bacchette Raggi | Parilisi Pietra | Respiro Drago | Incantesimi Bastoni | TS Unico |
+|---------|--------------|-----------------|-----------------|---------------|---------------------|----------|
+| 1       | 11           | 12              | 14              | 16            | 15                  | 15       |
+| 2       | 10           | 11              | 13              | 15            | 14                  | 14       |
+| 3       | 10           | 11              | 13              | 15            | 14                  | 13       |
+| 4       | 9            | 10              | 12              | 14            | 13                  | 12       |
+| 5       | 9            | 10              | 12              | 14            | 13                  | 11       |
+| 6       | 8            | 9               | 11              | 13            | 12                  | 10       |
+| 7       | 8            | 9               | 11              | 13            | 12                  | 9        |
+| 8       | 7            | 8               | 10              | 12            | 11                  | 8        |
+| 9       | 7            | 8               | 10              | 12            | 11                  | 7        |
+| 10      | 6            | 7               | 9               | 11            | 10                  | 6        |
+
+#### Tabella 24: Tiri Salvezza del Guerriero
+
+| Livello | Morte Veleno | Bacchette Raggi | Parilisi Pietra | Respiro Drago | Incantesimi Bastoni | TS Unico |
+|---------|--------------|-----------------|-----------------|---------------|---------------------|----------|
+| 1       | 12           | 13              | 14              | 15            | 16                  | 14       |
+| 2       | 12           | 13              | 14              | 15            | 16                  | 13       |
+| 3       | 10           | 11              | 12              | 15            | 14                  | 16       |
+| 4       | 10           | 11              | 12              | 12            | 14                  | 11       |
+| 5       | 10           | 11              | 12              | 12            | 14                  | 10       |
+| 6       | 8            | 9               | 10              | 12            | 12                  | 9        |
+| 7       | 8            | 9               | 10              | 12            | 12                  | 8        |
+| 8       | 8            | 9               | 10              | 9             | 12                  | 7        |
+| 9       | 6            | 7               | 8               | 9             | 10                  | 6        |
+| 10      | 6            | 7               | 8               | 9             | 10                  | 5        |
+
+#### Tabella 25: Tiri Salvezza del Mago
+
+| Livello | Morte Veleno | Bacchette Raggi | Parilisi Pietra | Respiro Drago | Incantesimi Bastoni | TS Unico |
+|---------|--------------|-----------------|-----------------|---------------|---------------------|----------|
+| 1       | 13           | 14              | 13              | 16            | 15                  | 15       |
+| 2       | 12           | 13              | 12              | 15            | 15                  | 14       |
+| 3       | 12           | 13              | 12              | 15            | 15                  | 13       |
+| 4       | 11           | 12              | 11              | 14            | 12                  | 12       |
+| 5       | 11           | 12              | 11              | 14            | 12                  | 11       |
+| 6       | 10           | 11              | 10              | 13            | 12                  | 10       |
+| 7       | 10           | 11              | 10              | 13            | 12                  | 9        |
+| 8       | 9            | 10              | 9               | 12            | 9                   | 8        |
+| 9       | 9            | 10              | 9               | 12            | 9                   | 7        |
+| 10      | 8            | 9               | 8               | 11            | 9                   | 6        |
+#### Tabella 26: Tiri Salvezza del Ladro
+
+| Livello | Morte Veleno | Bacchette Raggi | Parilisi Pietra | Respiro Drago | Incantesimi Bastoni | TS Unico |
+|---------|--------------|-----------------|-----------------|---------------|---------------------|----------|
+| 1       | 13           | 14              | 13              | 15            | 16                  | 14       |
+| 2       | 12           | 14              | 12              | 14            | 15                  | 13       |
+| 3       | 12           | 14              | 12              | 14            | 15                  | 16       |
+| 4       | 11           | 11              | 11              | 13            | 14                  | 11       |
+| 5       | 11           | 11              | 11              | 13            | 14                  | 10       |
+| 6       | 10           | 11              | 10              | 12            | 13                  | 9        |
+| 7       | 10           | 11              | 10              | 12            | 13                  | 8        |
+| 8       | 9            | 8               | 9               | 11            | 12                  | 7        |
+| 9       | 9            | 8               | 9               | 11            | 12                  | 6        |
+| 10      | 8            | 8               | 8               | 10            | 11                  | 5        |
+
+Questa tabelle non si integrano direttamente in White Box: se si volessero inserire come regola della casa, si dovrebbero eliminare i bonus di classe di White Box sui tiri salvezza (cioè i bonus elencati per ogni classe nella descrizione della classe, ma non i bonus razziali per i non umani).
+
+### Ricorda
+
+White Box è un gioco di ruolo freeform, il che significa che non ci sono molte regole. L'Arbitro ha la responsabilità di gestire le situazioni che non sono coperte dalle regole, facendo valutazioni corrette su ciò che i personaggi fanno e decidendo cosa succede come risultato. Questo non è un gioco in cui i giocatori sono "contro" l'Arbitro, anche se l'Arbitro è responsabile della creazione di trappole insidiose, situazioni pericolose e della gestione dei mostri e degli altri nemici che i PG incontreranno durante il gioco. In realtà, i giocatori e l'Arbitro collaborano tra loro per creare un'epopea fantasy, con l'Arbitro che crea l'ambientazione e i giocatori che sviluppano la storia degli eroi. Se non sono abili e intelligenti, l'epopea potrebbe essere molto breve. Ma non è compito dell'Arbitro sconfiggere i giocatori: è suo compito fornire sfide interessanti (e pericolose), e poi guidare la storia in modo equo.

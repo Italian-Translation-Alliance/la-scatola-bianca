@@ -1679,7 +1679,7 @@ Intent (optional)
 
 Some Referees prefer to have all parties make a “statement of intent”
 before they roll initiative in order to force players to decide what
-they’re doing before they know who goes first. 
+they’re doing before they know who goes first.
 
 How Initiative Works
 

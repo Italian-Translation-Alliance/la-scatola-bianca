@@ -1,0 +1,1 @@
+Immagine di copertina di David Demaret rilasciata sotto licenza Creative Commons Attribution-Share Alike 3.0 Unported

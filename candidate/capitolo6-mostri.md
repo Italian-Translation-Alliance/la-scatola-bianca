@@ -158,6 +158,16 @@ HDE/XP: 11/1,700
 
 La chimera è una bestia alata a tre teste; una è una testa di capra, l'altra di leone e la terza di drago. La testa di drago può sputare fuoco (3 volte al giorno) con una portata di 50', causando 3d8 danni a chiunque venga catturato dal getto di fuoco (tiro salvezza per sbuire solo metà danno).
 
+### Coboldi
+Classe Armatura: 6 [13]
+Dadi per colpire: 1/2
+Attacchi: Arma
+Speciale: Nessuno
+Muoversi: 6
+HDE/XP: < 1/10
+
+I coboldi sono umanoidi sotterranei, vagamente assomiglianti a goblin. Hanno una penalità di -1 "per colpire" quando combattono in superficie. Molti usano fionde o archi corti e combattono con spade corte o mazze chiodate nel combattimento corpo a corpo.
+
 ### Coccatrice
 Classe Armatura: 6 [13]
 Dadi per colpire: 5
@@ -632,6 +642,46 @@ HDE/XP: 8/800
 
 I grifoni hanno il corpo di un leone, con le ali, la testa e le zampe anteriori di un'aquila. Queste creature possono essere addomesticate e cavalcate come cavalcature. Di solito nidificano nelle aerie di alta montagna, dove depongono le uova e cacciano le loro prede. Poiché i piccoli possono essere addomesticati, i giovani grifoni e le uova di grifone hanno un prezzo molto alto nei mercati delle grandi città, o per i baroni e gli stregoni.
 
+### Hobgoblin
+Classe Armatura: 5 [14]
+Dadi per colpire: 1+1
+Attacchi: Arma
+Speciale: Nessuno
+Muoversi: 9
+HDE/XP: 1/15
+
+Gli hobgoblin sono semplicemente dei grandi goblin, possibilmente una razza separata che vive separata dai loro cugini più piccoli. Per una questione di varietà della campagna, l'Arbitro potrebbe scegliere di rendere gli hobgoblin i goblin "fatati" della leggenda irlandese, mentre i goblin normali sono gli abitanti del sottosuolo più in stile Tolkien.
+
+### Kraken
+Classe Armatura: 2 [17]
+Dadi per colpire: 15
+Attacchi: Tentacolo (2d6) o Morso (4d6)
+Speciale: IngoiaTutto
+Muoversi: 15 nuotare
+HDE/XP: 15/2,900
+
+Questi enormi mostri marini assomigliano a calamari di dimensioni inimmaginabili con otto (o più) appendici contorte. Attaccano intere navi, facendole a pezzi e ingoiando l'intero equipaggio con la loro enorme bocca dentata. Quando un kraken attacca, afferra un bersaglio con uno dei suoi tentacoli nel primo round, tenta di morderlo nel secondo round e poi lo ingoia intero nel terzo round. Un bersaglio che è stato inghiottito intero viene ucciso. I Kraken hanno tipicamente otto tentacoli e possono effettuare un attacco con ognuno di essi ad ogni round di combattimento.
+
+### Idra
+Classe Armatura: 5 [14]
+Dadi per colpire: 5-12 (uguale al numero di teste)
+Attacchi: 5-12 morsi
+Speciale: Vedi sotto
+Muoversi: 9
+HDE/XP: 6/400; 7/600; 8/800; 9/1,100; 10/1,400; 11/1,700; 12/2,000; 13/2,300
+
+Le Idre sono grandi creature simili a lucertole o serpenti con 5-12 teste. Ogni testa ha un proprio dado vita, e quando la testa viene uccisa, quella testa muore. Il corpo ha tanti dadi vita quanti sono quelli delle teste, quindi è una questione di buona strategia per gli avventurieri concentrarsi o sull'uccisione delle teste (quando tutte le teste sono morte il corpo muore) o sull'uccidere la creatura attaccando il corpo (nel qual caso anche le teste muoiono). Si sa che esistono idre che sputano fuoco o che rigenerano le loro teste. 
+
+### Inseguitore Invisibile
+Classe Armatura: 3 [16]
+Dadi per colpire: 8
+Attacchi: Morso
+Speciale: Volo, invisibilità
+Muoversi: 12
+HDE/XP: 9/1,100
+
+Gli inseguitori invisibili si trovano generalmente solo come risultato dell'incantesimo Inseguitore Invisibile. Sono esseri volanti invisibili creati per seguire un singolo comando fatto dall'incantatore.
+
 ### Ippogrifo
 Classe Armatura: 5 [14]
 Dadi per colpire: 3+1
@@ -642,15 +692,69 @@ HDE/XP: 3/60
 
 L'ippogrifo è simile a un grifone, avendo la testa, gli artigli anteriori e le ali di un'aquila, ma invece del corpo di un leone, ha il corpo di un cavallo. Il poema Orlando Furioso (scritto nel 1516) suggerisce che l'ippogrifo è la progenie di un grifone e di un cavallo, ma sono apparentemente una razza indipendente, perché la tradizione folcloristica sostiene che i grifoni attaccano spesso gli ippogrifi. Gli ippogrifi non sono così difficili da addestrare come i grifoni - di nuovo, dall'Orlando Furioso: "Quivi per forza lo tirò d’incanto;e poi che l’ebbe, ad altro non attese,e con studio e fatica operò tanto,ch’a sella e briglia il cavalcò in un mese:cosí ch’in terra e in aria e in ogni canto lo facea volteggiar senza contese."
 
-### Hobgoblin
-Classe Armatura: 5 [14]
-Dadi per colpire: 1+1
-Attacchi: Arma
-Speciale: Nessuno
-Muoversi: 9
-HDE/XP: 1/15
+## Licantropi.
+I licantropi sono creature mannare, in particolare quelli in cui la malattia permette l'assunzione di una forma ibrida dell'umano e dell'animale. Non possono essere colpiti da armi normali; solo le armi d'argento o magiche gli infliggono danni. Se un personaggio viene portato sotto il 50% di punti ferita da un licantropo, il personaggio stesso diventerà un licantropo.
 
-Gli hobgoblin sono semplicemente dei grandi goblin, possibilmente una razza separata che vive separata dai loro cugini più piccoli. Per una questione di varietà della campagna, l'Arbitro potrebbe scegliere di rendere gli hobgoblin i goblin "fatati" della leggenda irlandese, mentre i goblin normali sono gli abitanti del sottosuolo più in stile Tolkien.
+### Licantropo, Lupo Mannaro
+Classe Armatura: 5 [14]
+Dadi per colpire: 3
+Attacchi: Morso o Artiglio
+Speciale: Licantropia
+Muoversi: 12
+HDE/XP: 4/120
+
+I lupi mannari sono i tradizionali licantropi visti nei film horror. Possono essere danneggiati solo dall'argento o da armi magiche, e sono spesso umanoidi, tranne che durante le notti di luna piena e così via.
+
+### Licantropo, Orso Mannaro
+Classe Armatura: 2 [17]
+Dadi per colpire: 7+3
+Attacchi: Morso (1d6+1)
+Speciale: Licantropia
+Muoversi: 9
+HDE/XP: 8/800
+
+Gli orsi mannari si trovano spesso nelle foreste temperate.
+
+### Licantropo, Ratto Mannaro
+Classe Armatura: 6 [13]
+Dadi per colpire: 3
+Attacchi: Arma
+Speciale: Controllo dei ratti, licantropia
+Muoversi: 12
+HDE/XP: 4/120
+
+I ratti mannari si trovano per lo più nelle città, appostati in vicoli ombrosi. I ratti mannari possono controllare i ratti e sono estremamente furtivi (sorprendendo gli avversari 1-4 su un d6).
+
+### Lich
+Classe Armatura: 0 [19]
+Dadi per colpire: 12-18
+Attacchi: Tocco
+Speciale: Vedi sotto
+Muoversi: 6
+HDE/XP: 15/2,900; 16/3,200; 17/3,500; 18/3,800; 19/4,100; 20/4,400; 21/4,700
+
+I lich sono i resti non-morti degli stregoni, resi tali dalle loro azioni deliberate durante la vita o come risultato di altre forze magiche (possibilmente incluse le loro stesse magie andate male). Un lich ha gli stessi poteri di incantatore del mago originale (e lo stesso livello dei suoi DV). Il tocco di un lich provoca paralisi senza tiro salvezza e la sola vista di una di queste terribili creature provoca la paralisi in qualsiasi essere di 4 DV o inferiore. I lich sono altamente maligni e intelligenti.
+
+### Manticora
+Classe Armatura: 4 [15]
+Dadi per colpire: 6+4
+Attacchi: Morso (1d6+1), o Punte della coda
+(1d6)
+Speciale: Volo
+Muoversi: 12/8(quando vola)
+HDE/XP: 8/800
+
+Un orribile mostro con ali di pipistrello, la faccia di un umano selvaggio, il corpo di un leone e una coda dotata di 24 spine di ferro. La manticora può lanciare fino a 6 spine di ferro dalla sua coda per round, con una portata massima di 180 piedi.
+
+### Medusa
+Classe Armatura: 8 [11]
+Dadi per colpire: 6
+Attacchi: Morso o arma avvelenata
+Speciale: Sguardo pietrificante
+Muoversi: 9
+HDE/XP: 8/800
+
+Le meduse sono orribili creature della mitologia greca con un volto femminile ma capelli di serpenti contorti; non hanno gambe, ma il corpo di un serpente. Lo sguardo di una medusa trasforma in pietra chiunque la guardi. Oltre all'attacco in mischia relativamente debole della medusa, i capelli-serpente effettuano un attacco per round, che non provoca danni ma è mortalmente velenoso in caso di successo (si applica il tiro salvezza).
 
 ### Melma Grigia
 Classe Armatura: 8 [11]
@@ -778,3 +882,12 @@ HDE/XP: 1/15
 
 I soldati umani servono come guardia cittadina, mercenari e uomini d'arme. Sono generalmente armati con armature di cuoio e una mazza, una spada o una lancia. Per ogni cinque guardie cittadine di solito c'è un sergente.
 
+### Uomo Lucertola
+Classe Armatura: 5 [14]
+Dadi per colpire: 2+1
+Attacchi: Artiglio o spada
+Speciale: Vedi sotto
+Muoversi: 6/12 (quando nuota)
+HDE/XP: 2/30
+
+Gli uomini lucertola sono umanoidi rettiliani, che di solito vivono in villaggi tribali nelle profondità delle paludi fetide. Alcuni possono trattenere il respiro per lungo tempo (un'ora o più), mentre altri possono effettivamente respirare sott'acqua. Alcuni uomini lucertola brandiscono una spada malvagia fatta di ossa affilate.

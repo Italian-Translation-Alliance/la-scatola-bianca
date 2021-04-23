@@ -464,4 +464,82 @@ Tira 1d20 e aggiungi +0, +20 o +40, a seconda che il tesoro sia minore, medio o 
 
 **Resistenza al veleno**: +5 ai tiri salvezza contro il veleno.
 
+## Anelli maggiori
 
+#### Tabella 65: Anelli Maggiori
+
+| Tiro | **Tipo**                         |
+|------|----------------------------------|
+| 1    | Controllo Umano                  |
+| 2    | Tre desideri                     |
+| 3    | Rigenerazione                    |
+| 4    | Evocazione dei Djinn             |
+| 5    | Stelle cadenti                   |
+| 6    | Visione a raggi X                |
+| 7    | Telecinesi                       |
+| 8    | Rifletti Incantesimi             |
+| 9    | Memorizza Incantesimi (Mago)     |
+| 10   | Memorizza Incantesimi (Chierico) |
+
+### Descrizioni degli Anelli Maggiori
+
+**Controllo umano**: Permette a chi lo indossa di lanciare Ammalia Persona una volta al giorno e mantenere l'incanto su un massimo di 3 individui alla volta.
+
+**Evocazione dei Djinn**: Chi indossa questo anello può evocare un djinn.
+
+**Rigenerazione**: Chi lo indossa rigenera 1 PF/round e quindi non può morire a meno che l'anello non venga rimosso o il corpo bruciato.
+
+**Memorizza Incantesimi (Mago)**: L'anello contiene 1d6 incantesimi per Maghi. Tira 1d6 per ogni incantesimo per determinarne il livello. Chi lo indossa (se è un Mago) può lanciare questi incantesimi come se fossero i propri incantesimi memorizzati e preparati. Una volta che l'incantesimo è stato lanciato, non può essere lanciato una seconda volta finché l'incantatore non riposa per 8 ore.
+
+**Memorizza Incantesimi (Chierico)**: L'anello contiene 1d6 incantesimi per Chierici. Tira 1d6 per ogni incantesimo per determinarne il livello (rilancia un 6). Chi lo indossa (se è un Chierico) può lanciare questi incantesimi come se fossero i propri incantesimi memorizzati e preparati. Una volta che l'incantesimo è stato lanciato, non può essere lanciato una seconda volta finché l'incantatore non riposa per 8 ore.
+
+**Rifletti Incantesimi**: Qualsiasi incantesimo (che non provenga da una bacchetta, ecc.) rivolto direttamente a chi indossa questo anello viene parzialmente riflesso all'incantatore. Tira un d100 per determinare quanta parte del potere dell'incantesimo rimbalza indietro; la determinazione esatta di ciò che accade spetta all'Arbitro.
+
+**Stelle cadenti**: Una volta al giorno, questo anello può evocare 1d6 meteore infuocate dalle profondità dello spazio. Ogni meteora può colpire un nemico separato e infligge 3d6 danni. Se usate al chiuso o sottoterra, le meteore colpiranno qualsiasi cosa si trovi direttamente sopra il bersaglio.
+
+**Telecinesi**: Chi lo indossa può sollevare e spostare mentalmente fino a 200 libbre di peso ad una distanza di 120 piedi.
+
+**Tre desideri**: Concede a chi lo indossa 3 desideri; i desideri oltraggiosi si ritorcono contro.
+
+**Visione a raggi X**: Chi lo indossa ha una visione a raggi X ad una distanza di 40 piedi. La distanza massima attraverso la quale il personaggio può vedere attraverso la roccia solida è poco più di 3 metri, anche se i metalli solidi (diversi dal piombo) è di 1 piede, e attraverso il piombo è di 1 pollice.
+
+## Bastoni
+
+#### Tabella 66: Bastoni
+
+| Tiro | **Tipo**            |
+|------|---------------------|
+| 1    | Guarigione          |
+| 2    | Comando             |
+| 3    | Serpente            |
+| 4    | Colpire             |
+| 5    | Appassimento        |
+| 6    | Potere              |
+| 7    | Stregoneria         |
+| 8    | Ammaliatore         |
+| 9    | Assorbimento        |
+| 10   | Potenza del Signore |
+
+### Descrizioni dei Bastoni
+
+**Assorbimento**: Assorbe gli incantesimi lanciati direttamente a chi lo impugna e permette a chi lo impugna di lanciare un incantesimo dalla propria memoria usando quel potere (e quindi non perdendo l'incantesimo dalla memoria). Una volta che il bastone ha assorbito 50 livelli di incantesimi (che il potere sia stato rilanciato o meno), non assorbe più gli incantesimi.
+
+**Ammaliatore**: Lancia Ammalia Persona in un raggio di 20 piedi da chi lo impugna (usa una carica). La durata dell'incanto è di 1 ora.
+
+**Comando**: Una carica può essere usata per controllare umani (come per Ammalia Persona), piante o animali.
+
+**Guarigione**: Cura 1d6+1 punti ferita di danni per carica.
+
+**Potere**: Lancia Luce (nessuna carica utilizzata), lancia Palla di Fuoco (4d6 danni), Freddo come una Bacchetta del Freddo, Fulmine (4d6 danni), agisce come un anello di Telecinesi (costa una carica) e colpisce per 2d6 danni (nessuna carica utilizzata).
+
+**Potenza del Signore**: Questi bastoni hanno solo 10 cariche, ma una carica può essere usata per lanciare Resuscitare.
+
+**Serpente**: +1 "per colpire" e +1 danno. Quando viene comandato (usando una carica) il bastone si avvolge intorno al bersaglio con un colpo riuscito e pizzica la vittima per 1d4 × 10 minuti. La vittima deve avere le dimensioni di un umano o più piccolo per usare questo potere. Il bastone tornerà poi strisciando al suo proprietario ad una velocità di 24. Solo i chierici possono utilizzare il Bastone del Serpente.
+
+**Colpire**: Infligge 2d6 punti di danno con un colpo riuscito (non usa cariche). 
+
+**Avvizzire**: Aggiunge dieci anni di invecchiamento fisico con un successo.
+
+**Stregoneria**: Il più potente dei bastoni. È un bastone del potere con abilità aggiuntive. Al costo di una carica, permette Invisibilità, Evocazione degli elementali (chiamando 1d4 alla volta), Trattenere Persona, Muro di Fuoco, Passamuro, un incantesimo Rete o Volare.
+
+**Cariche del bastone** - La maggior parte dei bastoni porta 200 cariche

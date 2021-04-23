@@ -1,8 +1,8 @@
 # Capitolo 1: Come iniziare
-La Scatola Bianca richiede due tipi di partecipanti: (1) L'arbitro e (2) il Giocatore. Per i Giocatori, il primo passo per giocare è quello di creare un Personaggio Giocante (PG). Si tratta semplicemente di tirare alcuni dadi per determinare gli attributi del tuo personaggio, scegliendo una classe, una razza (se non umana) e comprando l'equipaggiamento di gioco. Se sei l'arbitro, tuttavia, hai un po' più preparazione da fare - questo è trattato nel Capitolo 7.
+La Scatola Bianca richiede due tipi di partecipanti: (1) L'Arbitro e (2) il Giocatore. Per i Giocatori, il primo passo per giocare è quello di creare un Personaggio Giocante (PG). Si tratta semplicemente di tirare alcuni dadi per determinare gli attributi del tuo personaggio, scegliendo una classe, una razza (se non umana) e comprando l'equipaggiamento di gioco. Se sei l'Arbitro, tuttavia, hai un po' più preparazione da fare - come è trattato nel Capitolo 7.
 
 ### Regola numero uno
-La regola più importante di La Scatola Bianca è che l'arbitro ha sempre il diritto di modificare le regole.
+La regola più importante di La Scatola Bianca è che l'Arbitro ha sempre il diritto di modificare le regole.
 di modificare le regole. Infatti, è incoraggiato! Questo è il tuo gioco, dopo tutto.
 Ci sono delle lacune nelle regole - buchi lasciati aperti di proposito - perché gran parte del divertimento dei
 dei giochi di ruolo è la possibilità di inventare regole a seconda delle necessità.
@@ -24,8 +24,9 @@ Per La Scatola Bianca, il foglio del personaggio potrebbe essere qualcosa di sem
 
 ## Attributi
 Gli attributi di base sono numeri che rappresentano la Forza, la Destrezza, la Costituzione, l'Intelligenza, la Saggezza e il Carisma di un personaggio. Il metodo standard per determinare i punteggi degli attributi è quello di tirare 3d6 per ciascuno di essi nell'ordine menzionato in precedenza. Una volta che questi tiri sono stati effettuati, è spesso ovvio quale tipo di personaggio meglio si adatti alle abilità, anche se il giocatore ha sempre la possibilità di giocare qualsiasi classe desiderata. Una volta che il giocatore ha deciso una classe, i punti degli altri attributi possono essere spostati (su una base di 2 a 1), ma solo nel ma solo nell'"Attributo Primario" di quella classe personaggio.
+Lo spostamento di punti non può comunque abbassare un altro punteggio di abilità sotto il 9, in ogni caso. 
 
-Lo spostamento di punti non può comunque abbassare un altro punteggio di abilità sotto il 9. Alcuni Arbitri permettono una maggiore flessibilità (opzionalmente): un esempio è quello di permettere ai giocatori di tirare 3d6 per un totale di sei volte e disporre i tiri come vogliono. Questo permette al giocatore di mettere i risultati migliori nelle abilità che meglio si adattano al tipo di personaggio che il giocatore vuole essere.
+Alcuni Arbitri permettono una maggiore flessibilità (opzionalmente): un esempio è quello di permettere ai giocatori di tirare 3d6 per un totale di sei volte e disporre i tiri come vogliono. Questo permette al giocatore di mettere i risultati migliori nelle abilità che meglio si adattano al tipo di personaggio che il giocatore vuole essere.
 
 ### Modificatore di attributo
 La Scatola Bianca non fornisce molti modificatori per la gamma di punteggi degli attributi. Puoi modificare il gioco per cambiare l'effetto che questi punteggi generano. La tabella 1 fornisce la scala standard e gli effetti per i punteggi degli attributi. Sentitevi liberi di cambiare i valori. Per esempio, se preferite che la scala "media" sia 9-12, modificate la tabella.

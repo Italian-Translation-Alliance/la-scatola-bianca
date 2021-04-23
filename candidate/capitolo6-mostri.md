@@ -112,7 +112,7 @@ Speciale: Vedi sotto
 Movimento: 12
 DVE/PE: 11/1,700
 
-Le banshee sono orribili creature fatate (o non-morte) che vivono nelle paludi e altri luoghi desolati. Possono essere danneggiate solo da armi magiche o d'argento. Le Banshee hanno una resistenza del 49% alla magia e sono immuni agli incantesimi. Il loro urlo (una volta al giorno) richiede un tiro salvezza contro la morte o l'ascoltatore morirà in 2d6 round. Possono viaggiare sull'acqua e altri terreni come se fossero terra, ma attraversare l'acqua corrente gli fa perdere la sua resistenza alla magia per 3d6 ore. Hanno l'aspetto di esseri umani smilzi con lunghi capelli filiformi e occhi gialli occhi gialli. Spesso indossano mantelli mantelli. A discrezione dell'arbitro, queste creature potrebbero essere non-morti piuttosto piuttosto che fate/folletti, e si considera che abbiano 9 DV ai fini dello scacciare.
+Le banshee sono orribili creature Fey (o non-morte) che vivono nelle paludi e altri luoghi desolati. Possono essere danneggiate solo da armi magiche o d'argento. Le Banshee hanno una resistenza del 49% alla magia e sono immuni agli incantesimi. Il loro urlo (una volta al giorno) richiede un tiro salvezza contro la morte o l'ascoltatore morirà in 2d6 round. Possono viaggiare sull'acqua e altri terreni come se fossero terra, ma attraversare l'acqua corrente gli fa perdere la sua resistenza alla magia per 3d6 ore. Hanno l'aspetto di esseri umani smilzi con lunghi capelli filiformi e occhi gialli occhi gialli. Spesso indossano mantelli mantelli. A discrezione dell'arbitro, queste creature potrebbero essere non-morti piuttosto piuttosto che fate/folletti, e si considera che abbiano 9 DV ai fini dello scacciare.
 
 ### Basilisco
 Classe Armatura: 4 [15]
@@ -606,7 +606,7 @@ Speciale: -1 "colpire" alla luce del sole
 Movimento: 9
 DVE/PE: < 1/10
 
-I goblin sono piccole creature (alte circa 4 piedi) che abitano i boschi oscuri, le caverne sotterranee e (forse) i regni ultraterreni delle Fate. Attaccano con un -1 "per colpire" in piena luce del sole.
+I goblin sono piccole creature (alte circa 4 piedi) che abitano i boschi oscuri, le caverne sotterranee e (forse) i regni ultraterreni dei Fey. Attaccano con un -1 "per colpire" in piena luce del sole.
 
 ## Golem
 I golem sono creature a forma di uomo costruite per servire i loro padroni, di solito potenti maghi o alti sacerdoti, e sono spesso usati come guardiani. I golem non possono essere colpiti con armi non magiche e sono immuni ai tipi di incantesimi usati per crearli (i golem di ferro sono immuni al fuoco, per esempio).
@@ -689,7 +689,7 @@ Speciale: Nessuno
 Movimento: 9
 DVE/PE: 1/15
 
-Gli hobgoblin sono semplicemente dei grandi goblin, possibilmente una razza separata che vive separata dai loro cugini più piccoli. Per una questione di varietà della campagna, l'Arbitro potrebbe scegliere di rendere gli hobgoblin i goblin "fatati" della leggenda irlandese, mentre i goblin normali sono gli abitanti del sottosuolo più in stile Tolkien.
+Gli hobgoblin sono semplicemente dei grandi goblin, possibilmente una razza separata che vive separata dai loro cugini più piccoli. Per una questione di varietà della campagna, l'Arbitro potrebbe scegliere di rendere gli hobgoblin i goblin "Fey" della leggenda irlandese, mentre i goblin normali sono gli abitanti del sottosuolo più in stile Tolkien.
 
 ### Kraken
 Classe Armatura: 2 [17]
@@ -896,7 +896,7 @@ Speciale: Vedi sotto
 Movimento: 12
 DVE/PE: 4/120
 
-Le ninfe sono dei fate che appaiono come donne nude o vestite di foglie di una bellezza inimmaginabile. Abitano nelle profondità delle foreste e cercano di proteggere i luoghi selvaggi del mondo. Gli uomini che le guardano devono effettuare un tiro salvezza con una penalità di -4 o cadere completamente sotto il loro charm. Le ninfe scacceranno i viandanti dai loro amati boschi e conduranno i loro malvagi nemici verso la morte, spesso facendoli annegare nei laghi dei boschi mentre sono incantati. Le ninfe sono invisibili nei boschi finché rimangono ferme, confondendosi perfettamente con l'ambiente circostante.
+Le ninfe sono dei Fey che appaiono come donne nude o vestite di foglie di una bellezza inimmaginabile. Abitano nelle profondità delle foreste e cercano di proteggere i luoghi selvaggi del mondo. Gli uomini che le guardano devono effettuare un tiro salvezza con una penalità di -4 o cadere completamente sotto il loro charm. Le ninfe scacceranno i viandanti dai loro amati boschi e conduranno i loro malvagi nemici verso la morte, spesso facendoli annegare nei laghi dei boschi mentre sono incantati. Le ninfe sono invisibili nei boschi finché rimangono ferme, confondendosi perfettamente con l'ambiente circostante.
 
 ### Ombra
 Classe Armatura: 7 [12]
@@ -1046,7 +1046,7 @@ Speciale: Vedi sotto
 Movimento: 12
 DVE/PE: 7/600
 
-I Sidhe (pron. /ʃiː/) sono nobili Fey che raramente viaggiano nel regno mortale. Appaiono come esseri elfici alti e di una bellezza sorprendente e sono vestiti con cotte e vesti gloriose. Tutti coloro che li guardano rimangono abbagliati dalla loro bellezza a meno che non venga effettuato con successo un tiro salvezza. I Sidhe attaccano con le loro lame magiche da fey che infliggono 2d6 punti di danno e possono lanciare Alterare il Tempo, Invisibilità e Forza Fantasmatica una volta al giorno. Sono inoltre molto resistenti alla magia dei mortali e hanno un bonus di +5 a tutti i tiri salvezza effettuati per resistere alla magia.
+I Sidhe (pron. /ʃiː/) sono nobili Fey che raramente viaggiano nel regno mortale. Appaiono come esseri elfici alti e di una bellezza sorprendente e sono vestiti con cotte e vesti gloriose. Tutti coloro che li guardano rimangono abbagliati dalla loro bellezza a meno che non venga effettuato con successo un tiro salvezza. I Sidhe attaccano con le loro lame magiche fey che infliggono 2d6 punti di danno e possono lanciare Alterare il Tempo, Invisibilità e Forza Fantasmatica una volta al giorno. Sono inoltre molto resistenti alla magia dei mortali e hanno un bonus di +5 a tutti i tiri salvezza effettuati per resistere alla magia.
 
 ### Spettro
 Classe Armatura: 2 [17]

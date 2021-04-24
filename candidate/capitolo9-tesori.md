@@ -543,3 +543,289 @@ Tira 1d20 e aggiungi +0, +20 o +40, a seconda che il tesoro sia minore, medio o 
 **Stregoneria**: Il più potente dei bastoni. È un bastone del potere con abilità aggiuntive. Al costo di una carica, permette Invisibilità, Evocazione degli elementali (chiamando 1d4 alla volta), Trattenere Persona, Muro di Fuoco, Passamuro, un incantesimo Rete o Volare.
 
 **Cariche del bastone** - La maggior parte dei bastoni porta 200 cariche
+
+## Oggetti magici vari minori
+
+#### Tabella 67: Oggetti Magici Vari (Minore)
+
+| Tiro | **Oggetto**                                                      |
+|------|------------------------------------------------------------------|
+| 1    | Freccia di Direzione                                             |
+| 2    | Sacco di Raccolta                                                |
+| 3    | Stivali degli Elfi                                               |
+| 4    | Stivali della Velocità o del Balzo (50%)                         |
+| 5    | Bracciali della Difesa, CA 6 \[13\]                              |
+| 6    | Campana dell'Apertura                                            |
+| 7    | Mantello degli Elfi                                              |
+| 8    | Mantello della Protezione, +1                                    |
+| 9    | Oggetto Maledetto                                                |
+| 10   | Ampolla dell'Acqua Infinita                                      |
+| 11   | Polvere di Apparizione o Scomparsa (50%)                         |
+| 12   | Polvere di Starnuti e Soffocamento                               |
+| 13   | Guanti del Nuoto e dell'Arrampicata                              |
+| 14   | Ferri di Cavallo della Velocità                                  |
+| 15   | Pietra della Fortuna (+1 ai tiri salvezza e ai tiri per colpire) |
+| 16   | Manuale di Esercizio Benefico                                    |
+| 17   | Tubi delle Fogne                                                 |
+| 18   | Corda dell'Arrampicata                                           |
+| 19   | Corda dell'Impigliamento                                         |
+| 20   | Vanga da Scavo                                                   |
+
+
+## Oggetti magici medi vari
+
+#### Tabella 68: Oggetti magici vari (Medio)
+
+| Tiro | **Oggetto**                                          |
+|------|------------------------------------------------------|
+| 1    | Amuleto Contro la Scrittura                          |
+| 2    | Stivali di Levitazione                               |
+| 3    | Bracciali della Difesa, CA 4 \[15\] o 2 \[17\] (50%) |
+| 4    | Tappeto Volante                                      |
+| 5    | Mantello di Dislocazione                             |
+| 6    | Mantello di Protezione, +2 o +3                      |
+| 7    | Mazzo delle Molte Cose                               |
+| 8    | Figurina del Cane d'Onice                            |
+| 9    | Guanti del Potere Orchesco                           |
+| 10   | Elmo di Lettura del Magico e delle Lingue            |
+| 11   | Buco, portatile                                      |
+| 12   | Corno di Valhalla, bronzo                            |
+| 13   | Corno del Valhalla, argento                          |
+| 14   | Brocca dell'Alchimia                                 |
+| 15   | Manuale della Rapidità                               |
+| 16   | Medaglione del Rilevamento dei Pensieri (ESP)        |
+| 17   | Specchio di Scrittura Mentale                        |
+| 18   | Veste di Mimetizzazione                              |
+| 19   | Veste degli Occhi                                    |
+| 20   | Veste della Magia                                    |
+
+## Oggetti magici vari maggiori
+
+#### Tabella 69: Oggetti Magici Vari (Maggiore)
+
+| Tiro | **Oggetto**                                                           |
+|------|-----------------------------------------------------------------------|
+| 1    | Amuleto del Controllo dei Demoni                                      |
+| 2    | Bicchiere delle Pozioni                                               |
+| 3    | Incensiere, Ciotola, Braciere o Pietra del Controllo degli Elementali |
+| 4    | Sfera di Cristallo                                                    |
+| 5    | Bottiglia dell'Efreeti                                                |
+| 6    | Figurina dei Leoni Dorati                                             |
+| 7    | Guanti della Destrezza                                                |
+| 8    | Gemma del Vedere                                                      |
+| 9    | Cintura della Forza del Gigante                                       |
+| 10   | Elmo della Brillanza Ardente                                          |
+| 11   | Elmo di Teletrasporto                                                 |
+| 12   | Corno di Abbattimento                                                 |
+| 13   | Corno di Valhalla, di ferro                                           |
+| 14   | Lenti di Incanto                                                      |
+| 15   | Libram, magico (guadagno di livello)                                  |
+| 16   | Manuale dei Golem                                                     |
+| 17   | Manuale dell'Intelligenza                                             |
+| 18   | Manuale della Saggezza                                                |
+| 19   | Collana di Palle di Fuoco                                             |
+| 20   | Simbolo-Scarabeo della Follia                                         |
+
+### Descrizioni di vari oggetti magici
+
+**Ampolla dell'Acqua Infinita**: Questa brocca versa un gallone di acqua al minuto quando non viene fermata. Utilizzabile da: Tutte le classi.
+
+**Amuleto Contro la Scrittura**: Protegge chi lo indossa da tutte le attività di scrying, come Detect Thoughts o essere visti attraverso una sfera di cristallo. Utilizzabile da: Tutte le classi. 
+
+**Amuleto del Controllo dei Demoni**: Funziona come un incantesimo di Protezione dal Caos e permette a chi lo indossa di tentare di lanciare Mostro Affascinante su un demone. In caso di successo, il demone viene schiavizzato per 1d6 settimane, dopodiché diventa libero. Utilizzabile da: Utilizzatori di magia e chierici.
+
+**Bicchiere delle Pozioni**: Questa piccola brocca si riempie con la pozione richiesta, tra le 1d4+1 pozioni che è in grado di produrre. La brocca può essere usata tante volte alla settimana quante sono le pozioni che può creare. Utilizzabile da: Tutte le Classi.
+
+**Borsa di Raccolta**: L'interno di questa borsa è più grande dell'esterno. Le dimensioni interne sono circa 10 × 5 × 3 piedi, ma la borsa può trasportare fino a 1.000 libbre di peso. Se non è vuota, la borsa pesa 50 libbre, non importa quanto peso contenga effettivamente. Utilizzabile da: Tutte le classi.
+
+**Bottiglia dell'Efreeti**: L'Efreeti della bottiglia servirà il suo proprietario per un anno e un giorno, a meno che non venga accidentalmente liberato dalla servitù. Utilizzabile da: Tutte le classi.
+
+**Bracciali della Difesa, CA 4 \[15\] o CA 2 \[17\] (50% di possibilità)**: Questi bracciali migliorano la classe di armatura di chi li indossa (qualunque sia la parte dovuta all'armatura vera e propria) al livello indicato - non c'è effetto se chi li indossa è già corazzato allo stesso livello o a un livello superiore. La CA garantita dai bracciali può essere aumentata da anelli magici o altre magie protettive. Utilizzabile da: Tutte le classi.
+
+**Bracciali della Difesa, CA 6 \[13\]**: Questi bracciali migliorano la classe di armatura di chi li indossa (qualsiasi parte di essa sia dovuta all'armatura vera e propria) fino al livello indicato - non c'è alcun effetto se chi li indossa è già corazzato allo stesso livello o a un livello superiore. La CA garantita dai bracciali può essere aumentata da anelli magici o altre magie protettive. Utilizzabile da: Tutte le classi.
+
+**Brocca dell'Alchimia**: Questa brocca produce qualsiasi liquido desiderato, in una grande quantità di uso comune (ad esempio, 10 galloni di acqua, ma solo cinque galloni di vino). Può essere usata non più di 7 volte al giorno, e produrrà solo il liquido richiesto per primo in quel giorno. Non produce liquidi magici. Utilizzabile da: Tutte le classi.
+
+**Buco, portatile**: Un pezzo di stoffa scura di circa un metro e mezzo di diametro. È in realtà la bocca di un buco interdimensionale profondo 10 piedi - gli oggetti e le persone possono cadere attraverso di esso o arrampicarsi in esso una volta che è posto sul terreno. Il pezzo di stoffa può essere tirato dall'interno per chiudere completamente il buco, anche se non c'è nessuna fonte di aria fresca all'interno, e rimanere all'interno asfissierà chi ci cade in poco tempo. Il pezzo di stoffa può essere preso e portato via quando si vuole, da cui il nome "portatile". Utilizzabile da: Tutte le classi.
+
+**Campana dell'Apertura**: Suonando questa piccola campana si apre qualsiasi porta, anche se la porta è sbarrata o bloccata da un mago. Utilizzabile da: Tutte le classi.
+
+**Cintura della Forza Gigante**: Questa ampia cintura garantisce a chi la indossa la forza di un gigante delle colline (+8 danni alla forza, non cumulabili con eventuali bonus di forza esistenti). Non aumenta la probabilità di colpire. Utilizzabile da: Tutte le classi. 
+
+**Collana di Palle di Fuoco**: Questa collana è appesa con 3d4 piccole palline. Quando viene lanciata, le palline esplodono in 6d6 palle di fuoco (secondo l'incantesimo). Utilizzabile da: Tutte le classi. 
+
+**Corda dell'Arrampicata**: Una corda lunga 50 piedi che salta magicamente verso l'alto e può legarsi e slegarsi a comando. Utilizzabile da: Tutte le classi.
+
+**Corda dell'Impigliamento**: Questa corda, a comando, si attorciglia intorno a 2d4+1 nemici di taglia umana. La corda non può essere colpita se non con un tiro naturale di 20 (è magica), e può sostenere 20 punti ferita di danno prima di sfilacciarsi e diventare inutile. Utilizzabile da: Tutte le classi.
+
+**Corno di Abbattimento**: Questo corno, quando viene soffiato, ha lo stesso effetto sulle strutture di una catapulta, e causa 2d6 punti di danno alle creature, assordandole anche per 10 minuti. Il cono di suono è lungo 100 piedi, e si allarga ad una base di 20 piedi (la "punta" del cono, alla bocca del corno, è larga 10 piedi). Utilizzabile da: Tutte le classi.
+
+**Corno del Valhalla, Argento**: Evoca 2d4 guerrieri berserk (2 DV) per assistere colui che ha caricato il corno. Utilizzabile da: Tutte le classi.
+
+**Corno di Valhalla, Bronzo**: Evoca 2d4 guerrieri berserk (3 DV) per assistere colui che ha caricato il corno. Utilizzabile da: Combattenti e Clerici.
+
+**Corno del Valhalla, Ferro**: Evoca 2d4 guerrieri berserk (4 DV) per assistere colui che ha caricato il corno. Utilizzabile da: Combattenti.
+
+**Elmo della Brillanza Ardente**: Questo elmo prodigiosamente potente garantisce molti benefici a chi lo indossa. Guadagna un +10 ai tiri salvezza contro i danni da fuoco e può creare lui stesso un muro di fuoco. I combattenti che indossano l'elmo possono comandare un'arma a mano infuocata (+1d6 danni). Gli utilizzatori di magia che indossano l'elmo possono aggiungere +1 a ogni dado di danno inflitto da un incantesimo Palla di fuoco. I chierici che indossano l'elmo possono incendiare a volontà gli oggetti nel raggio di 30 piedi e possono lanciare due incantesimi di Luce o Luce Continua per ogni incantesimo effettivamente preparato. È probabile che chi indossa questo elmo venga attaccato da qualsiasi creatura dell'elemento aria, ma i tipi dell'elemento fuoco (come gli Efreet o le Salamandre) saranno favorevolmente disposti verso chi lo indossa. Utilizzabile da: Tutte le classi.
+
+**Elmo di Lettura del Magico e delle Lingue**: Chi lo indossa può leggere tutte le lingue, comprese le scritture magiche. Utilizzabile da: Tutte le classi.
+
+**Elmo di Teletrasporto**: Quando chi lo indossa lancia un incantesimo di Teletrasporto su se stesso, mentre indossa l'elmo, può teletrasportarsi senza errori ovunque desideri. L'elmo non permette il lancio di un incantesimo di teletrasporto su nessun altro oltre a chi lo indossa. Utilizzabile da: maghi.
+
+**Ferri di Cavallo della Velocità**: Raddoppia la velocità di movimento di un cavallo. Utilizzabile da: Cavalli.
+
+**Figurina del Cane d'Onice:** Questa figura di pietra si trasforma in un segugio di pietra vivente quando viene pronunciata la sua parola di comando. Cercherà qualsiasi cosa il padrone gli dica di trovare, senza fermarsi finché non ci riesce o viene ucciso. Ha una probabilità del 75% di rilevare oggetti invisibili o nascosti (e naturalmente il suo olfatto rileva creature invisibili e nascoste con successo quasi perfetto). Ai fini della difesa e dell'attacco, il cane di pietra viene trattato come un lupo. Può essere usato dodici volte prima che la statuetta diventi non magica. Utilizzabile da: Tutte le classi.
+
+**Figurina dei Leoni Dorati**: Una piccola statuetta di pietra che si trasforma in un leone quando viene pronunciata la parola di comando, combattendo agli ordini del proprietario. Se viene uccisa, torna ad essere una statuetta, ma può essere usata di nuovo. La statuetta può essere usata una volta alla settimana e non di più. Utilizzabile da: Tutte le classi.
+
+**Freccia di Direzione**: Punta la direzione di qualsiasi cosa il proprietario richieda. Non può essere usata più di 7 volte in una sola settimana. Utilizzabile da: Tutte le classi.
+
+**Gemma del Vedere**: Una Gemma del Vedere è usata come una lente, e mostra la verità di ciò che vede, tagliando le illusioni di tutti i tipi, anche quelle molto potenti. Utilizzabile da: Tutte le classi.
+
+**Guanti della Destrezza**: Quando indossati, questi guanti garantiscono un bonus di +2 alla destrezza di chi li indossa (fino a un massimo di 18). Utilizzabili da: Tutte le classi.
+
+**Guanti da Nuoto e Arrampicata**: Questi guanti permettono a chi li indossa di nuotare a una velocità di 18, e di scalare pareti a strapiombo con una probabilità di successo del 95% per ogni dieci piedi di scalata. Utilizzabile da: tutti tranne gli maghi.
+
+**Guanti del Potere Orchesco**: Questi guanti elevano la forza di chi li indossa a quella di un orco. La probabilità di colpire non è aumentata rispetto al normale, ma i bonus ai danni derivanti dalla forza sono aumentati a +4 (non cumulabili con il bonus alla forza esistente di chi li indossa, se presente). Utilizzabile da: tutti tranne gli utilizzatori di magia.
+
+**Incensiere, Ciotola, Braciere o Pietra del Controllo degli Elementali**: Gli incensieri controllano gli elementali dell'aria, le ciotole (se riempite) controllano gli elementali dell'acqua, i bracieri controllano gli elementali del fuoco e le pietre controllano gli elementali della terra. Questi oggetti possono essere utilizzati per evocare un elementale di 12 HD del tipo appropriato. Generalmente, ci vogliono 10 minuti per preparare l'oggetto per l'uso. Utilizzabile da: maghi.
+
+**Lenti di Incanto**: Queste lenti, se poste sugli occhi, danno a chi le indossa la capacità di incantare chi lo guarda negli occhi (come per un incantesimo Ammalia Persona). Il tiro salvezza contro il potere delle lenti viene effettuato a -2. Utilizzabile da: Tutte le classi.
+
+**Libram, magico (aumento di livello)**: I libram magici concedono un livello di esperienza al lettore, se il lettore è della classe giusta. Determina a caso la classe per la quale il libram è scritto.
+
+**Mantello di Dislocazione**: Chi lo indossa sembra trovarsi in un luogo leggermente diverso da quello in cui si trova realmente. La sua CA migliora di 2 e ottiene un tiro salvezza di +2 contro qualsiasi attacco mirato su di lui. Utilizzabile da: Tutte le classi.
+
+**Mantello degli Elfi**: Chi lo indossa è quasi, ma non del tutto, invisibile. Utilizzabile da: Tutte le classi.
+
+**Mantello di Protezione, +1**: Questo mantello migliora la CA di chi lo indossa di 1 e garantisce un bonus di +1 ai tiri salvezza. Utilizzabile da: Tutti tranne i combattenti.
+
+**Mantello di Protezione, +2 o +3 (50%)**: Questo mantello migliora la classe armatura di chi lo indossa di 2 (o 3) e garantisce un bonus di +2 (o +3) ai tiri salvezza. Utilizzabile da: Tutti tranne i combattenti.
+
+**Manuale di Esercizio Benefico**: La lettura di questo tomo aumenta la Forza del lettore di 1 punto (fino a un massimo di 18). Utilizzabile da: Tutte le classi.
+
+**Manuale dei Golem**: Questo libro contiene le istruzioni e le formule di base per creare un singolo tipo di golem. Il processo è costoso, e il creatore deve aver raggiunto un certo livello di competenza magica per poter utilizzare il libro, ma questi sono inestimabili depositari di una tradizione dimenticata. Tali libri sono spesso protetti, dal proprietario originale, dal tocco di chiunque non appartenga alla classe degli utilizzatori di magia, incantati per infliggere danni o addirittura la perdita di un livello. Utilizzabile da: Solo maghi.
+
+**Manuale dell'Intelligenza**: La lettura di questo tomo aumenta l'Intelligenza del lettore di 1 punto (fino a un massimo di 18). Utilizzabile da: Tutte le classi.
+
+**Manuale della Rapidità**: La lettura di questo tomo aumenta la Destrezza del lettore di 1 punto (fino ad un massimo di 18). Utilizzabile da: Tutte le classi.
+
+**Manuale della Saggezza**: La lettura di questo tomo aumenta la Saggezza del lettore di 1 punto (fino ad un massimo di 18). Utilizzabile da: Tutte le classi.
+
+**Mazzo delle Molte Cose**: Un apparentemente ordinario mazzo di carte dipinte a mano, questo oggetto porta incantesimi tremendi e vari, uno per ogni carta del mazzo. Il mazzo contiene tutti gli assi e le carte di faccia, più un Joker (il Matto). Un personaggio può pescare tutte le carte che vuole (con il mazzo rimescolato ogni volta), ma una volta che smette di pescare carte, il mazzo scompare in un suono di risate debolmente malevole. I risultati sono i seguenti:
+
+- **Cuori** (♥)
+
+    - *Asso*: Guadagnate 50.000 PE.
+
+    - *Re*: Ottenete un oggetto magico dalla tabella Var. Oggetti Magici (Maggiori).
+
+    - *Regina*: Guadagnate 1d3 desideri
+
+    - *Jack*: Ottenete la capacità di evocare un guerriero con 8 DV e +3 spade, scudo, da servire per un totale di 1 ora.
+
+- **Fiori** (♣)
+    - *Asso*: L'allineamento del personaggio viene cambiato. Se il gioco non usa allineamento, il personaggio riceve una Cerca pericolosa (secondo l'incantesimo).
+
+    - *Re*: L'oggetto magico più potente del personaggio viene risucchiato nel vuoto e scompare.
+
+    - *Regina*: Il personaggio viene istantaneamente trasformato in pietra, con uno sguardo di grande sorpresa sul suo volto.
+
+    - *Jack*: Il personaggio perde un punto dal suo Attributo Primario.
+
+- **Le picche** (♠)
+
+    - *Asso*: Perdete un livello di esperienza
+
+    - *Re*: Un guerriero con 9 DV, un'arma +4, uno scudo +4 e un'armatura +4 appare e attacca. Quando viene ucciso, il suo corpo e tutti i suoi averi scompaiono di nuovo.
+
+    - *Regina*: Il personaggio muore all'istante.
+
+    - *Jack*: Un mostro casuale, con 1d4+6 DV, attacca gli avventurieri. Il mostro guadagna un turno di sorpresa, perché appare dal nulla.
+
+- **Quadri** (♦)
+
+    - *Asso*: Ottenete una mappa per un tesoro molto importante
+
+    - *Re*: Ottenete 5d6 oggetti di gioielleria
+
+    - *Regina*: Ottenete una pergamena con sette incantesimi, tutti di 2° livello o superiori
+
+    - *Jack*: Aggiunge un punto a un singolo attributo a scelta del giocatore
+
+- **Il Joker**: Guadagnate 25.000 XP.
+
+**Medaglione di Rilevamento dei Pensieri (ESP)**: Funziona come un incantesimo Rileva Pensieri (ESP) entro 30 piedi (75%) o 90 piedi (25%). Utilizzabile da: Tutte le classi.
+
+**Oggetto Maledetto**: (Vedi Oggetti Maledetti)
+
+**Pietra della Fortuna**: Questa pietra garantisce +1 ai tiri salvezza e ai tiri per colpire. Utilizzabile da: Tutte le classi.
+
+**Polvere di Apparizione o Sparizione (50%)**: La Polvere di Apparizione viene lanciata in un raggio di 10 piedi intorno all'utente, e rende completamente visibile qualsiasi cosa invisibile, astrale, spostata, fuori fase o dimensionale. La polvere viene generalmente fornita in un sacchetto, con abbastanza per 20-30 usi. La Polvere della Scomparsa funziona al contrario: quando viene aspersa in un raggio di 10 piedi, tutto ciò che vi si trova diventa invisibile per 5d6 turni. I normali mezzi per rilevare l'invisibilità (come l'incantesimo Rileva Invisibilità) non sono abbastanza forti da funzionare contro il potente incantesimo della polvere. Utilizzabile da: Tutte le classi.
+
+**Polvere di Starnuti e Soffocamento**: I sacchetti che contengono questa polvere ne contengono normalmente solo per una "dose". Quando viene aspersa in un raggio di 3 metri, la polvere fa sì che tutti coloro che si trovano nell'area debbano effettuare un tiro salvezza o morire. Se la natura della polvere viene identificata prima che venga sperimentata, può essere usata come un'arma da lancio devastante. Utilizzabile da: Tutte le classi.
+
+**Sfera di Cristallo**: Permette all'utilizzatore di vedere ciò che desidera vedere, a una distanza considerevole. Una sfera di cristallo non può essere usata più di tre volte al giorno, o l'utilizzatore diventerà pazzo. Alcuni incantesimi e altre precauzioni possono essere usati per evitare di essere visti attraverso una sfera di cristallo. Alcune sfere di cristallo comunicano suoni o anche pensieri dall'area che viene scremata, anche se questi sono rari. Utilizzabile da: Utenti magici.
+
+**Simbolo-Scarabeo della Follia**: Questo è una scultura di uno scarabeo, o forse i resti pietrificati di uno vero. Quando lo scarabeo viene mostrato, tutte le creature con 9 o meno dadi per colpire, entro un raggio di 30 piedi, cadono in una temporanea follia che dura 2 ore. Le creature con 10 o più dadi per colpire non ricevono comunque un tiro salvezza, ma hanno una possibilità su 4 di superare l'insidiosa influenza dello scarabeo. Lo scarabeo può essere usato 12 volte, dopodiché si sgretola in polvere. A discrezione dell'Arbitro, può essere ricaricato, ma con una probabilità del 5% per ogni carica che l'oggetto venga distrutto. Utilizzabile da: Tutte le classi.
+
+**Specchio di Scrittura Mentale**: Questo specchio a mano (potrebbe anche essere trovato come uno specchio più piccolo su una collana) permette all'utente di lanciare Chiarudienza, Chiaroveggenza e Rilevare Pensieri (ESP), con la portata normale, ma per un tempo illimitato. Lo specchio risponderà anche ad una domanda su ciò che ritrae (la risposta sarà probabilmente piuttosto criptica), ma è possibile solo una domanda a settimana. Utilizzabile da: Tutte le classi.
+
+**Stivali degli Elfi**: Chi li indossa si muove in completo silenzio. Utilizzabile da: Tutte le classi.
+
+**Stivali di Levitazione**: Questi stivali permettono a chi li indossa di levitare (come da incantesimo) con durata illimitata. Utilizzabile da: Tutte le classi.
+
+**Stivali della Velocità o Stivali del Balzo (50%)**: Gli Stivali della Velocità raddoppiano la velocità di movimento di chi li indossa, ma richiedono un riposo completo per un periodo di tempo equivalente a quello in cui sono stati usati. Gli Stivali del balzo permettono a chi li indossa di fare salti prodigiosi di 10 piedi in altezza e fino a 30 piedi in orizzontale. Questi stivali raddoppiano anche la velocità di movimento, ma solo all'aperto. Non richiedono che chi li indossa si riposi dopo averli usati. Utilizzabili da: Tutte le classi.
+
+**Tappeto Volante**: Il tappeto può trasportare fino a tre persone, e viaggia ad una velocità di 18 quando ha più di un passeggero. Con un solo cavaliere, il tappeto si muove ad una velocità di 30. Utilizzabile da: Tutte le classi.
+
+**Tubi delle Fogne**: Questi tubi evocano 10d6 ratti giganti. Il pifferaio non ha bisogno di concentrarsi una volta che i ratti arrivano (che richiede 1d4 × 10 minuti), ma è saggio farlo. Quando i ratti arrivano, c'è un 5% di possibilità che non gli obbediscano, e se smette di concentrarsi sulla sua melodia c'è un 10% di possibilità che perda il controllo su di loro. Ogni turno successivo in cui non riesce a concentrarsi c'è un'altra possibilità di perdere il controllo, e la possibilità aumenta del 10% ogni volta che viene fatta (primo turno, 10%, secondo turno 20%, ecc.). Utilizzabile da: Tutte le classi.
+
+**Vanga da Scavo**: Questa vanga dall'aspetto ordinario scava da sola quando viene comandata, spalando fuori 1 metro cubo (3 x 3 x 3) ogni dieci minuti. Utilizzabile da: Combattenti.
+
+**Veste della Magia**: Questa veste garantisce a chi la indossa la capacità di lanciare Incanto, Polimorfo e Trattenere Persona con il 95% di probabilità di successo. Le tuniche possono essere legate a specifici allineamenti. Utilizzabile da: Solo maghi.
+
+**Veste di Mimetizzazione**: Queste vesti fanno apparire chi le indossa come una parte dell'ambiente circostante, compresa la capacità di apparire come un altro di un gruppo di creature vicine. Apparirà come un piccolo albero nei dintorni della foresta, una formazione di sabbia nel deserto, ecc. Le creature con 10+ dadi per colpire (o livelli di esperienza) hanno una probabilità del 10% per ogni livello (o HD) superiore al 9° di percepire chi lo indossa come una figura vestita piuttosto che una parte dell'ambiente circostante. Utilizzabile da: Tutte le classi.
+
+**Veste degli Occhi**: Centinaia di occhi sono intessuti e ricamati nel tessuto di queste vesti magiche, garantendo a chi le indossa enormi poteri di percezione soprannaturale. In un raggio di 240 piedi, qualsiasi cosa su cui guardi viene vista per quello che è: vede le creature invisibili, percepisce le illusioni e la sua vista si estende anche al piano astrale. Non può subire imboscate o essere colto di sorpresa e può seguire le tracce di qualsiasi cosa sia passata nell'ultimo giorno. Utilizzabile da: Solo maghi.
+
+## Oggetti Maledetti
+
+Gli oggetti maledetti si presentano in molte forme: molto probabilmente si tratta di antichi oggetti magici la cui magia si è deteriorata o è cambiata con l'età, anche se alcuni di essi sono stati chiaramente creati per servire come trappole per gli incauti (o per i nemici del creatore, forse). Nota che gli oggetti maledetti di solito non possono essere lasciati cadere o rimossi senza l'assistenza di un incantesimo Revoca Maledizione. Anche se l'arbitro è incoraggiato a creare i propri oggetti maledetti, gli esempi nella pagina seguente dovrebbero essere una guida utile:
+
+#### Tabella 70: Oggetti Maledetti
+
+| Rotolo | **Articoli Maledetti**               |
+|--------|--------------------------------------|
+| 1      | Borsa del Divoramento                |
+| 2      | Incensiere degli Elementali Ostili   |
+| 3      | Mantello del Veleno                  |
+| 4      | Sfera di Cristallo della Suggestione |
+| 5      | Stivali Danzanti                     |
+| 6      | Fiaschetta delle Maledizioni Tappate |
+| 7      | Corno del Crollo                     |
+| 8      | Medaglione dei Pensieri Proiettati   |
+| 9      | Specchio dell'Opposizione            |
+| 10     | Veste della Debolezza                |
+
+### Descrizioni degli Oggetti Maledetti
+
+**Borsa del Divoramento**: Funziona come un sacchetto, ma divora qualsiasi oggetto posto al suo interno entro 1d4+1 ore.
+
+**Corno del Crollo**: Quando viene suonato, questo corno provoca un'esplosione distruttiva verso l'alto, sgretolando qualsiasi soffitto e facendolo crollare.
+
+**Fiaschetta di Maledizioni Tappate**: Questa fiaschetta rilascia una maledizione di qualche tipo quando il suo sigillo viene rotto.
+
+**Incensiere degli Elementali Ostili**: Un incensiere (o braciere, ciotola o pietra) che evoca gli elementali, ma gli elementali sono ostili invece che sotto il controllo dell'evocatore.
+
+**Mantello del Veleno**: Quando si indossa questo mantello, il corpo di chi lo indossa è soffuso di veleni magici di molti tipi, e muore all'istante, senza la possibilità di un tiro salvezza.
+
+**Medaglione dei Pensieri Proiettati**: I pensieri di chi lo indossa possono essere "sentiti" da tutti i vicini.
+
+**Sfera di Cristallo della Suggestione**: Non funziona come una sfera di cristallo, ma impianta una suggestione nella mente dell'osservatore. Versioni potenti di questo oggetto possono anche impiantare una Cerca.
+
+**Specchio dell'Opposizione**: Tutte le persone che guardano in questo specchio vengono attaccate da versioni malvagie di se stessi, duplicati esatti compresi incantesimi e oggetti magici. Quando gli avversari usciti dello specchio vengono uccisi, i loro corpi e il loro equipaggiamento scompaiono nella nebbia e ritornano nello specchio.
+
+**Stivali Danzanti**: Questi stivali funzionano come stivali elfici o di velocità, fino a quando chi li indossa è in combattimento o in fuga. Improvvisamente a quel punto inizierà a ballare una giga, o forse un valzer maestoso.
+
+**Veste della Debolezza**: Chiunque indossi questo mantello ha l'intelligenza ridotta a quella di una lumaca da giardino.

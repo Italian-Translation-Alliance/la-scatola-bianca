@@ -1,6 +1,6 @@
 # Capitolo 2: Classi Personaggio
 
-Ci sono quattro possibili Classi Personaggio nel gioco: il Chierico, il Guerriero, il Mago e il Ladro (opzionale). L'Arbitro è, ovviamente, libero di inventare o ammettere altre classi personaggio nel gioco.
+Ci sono quattro possibili Classi Personaggio nel gioco: il Chierico, il Guerriero, il Mago e il Ladro (opzionale). L'Arbitro è, ovviamente, libero di inventare o ammettere altre Classi Personaggio nel gioco.
 
 ## Il Chierico
 

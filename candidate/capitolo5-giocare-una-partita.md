@@ -1,37 +1,40 @@
-# Capitolo 5: Giocare una partita
-Una volta che i personaggi sono stati creati, l'Arbitro descrive dove si trovano i personaggi e cosa possono vedere. Il gioco potrebbe iniziare in un villaggio rurale di contadini, in una vasta e brulicante città costellata di torri e minareti, in un castello, in una taverna o alle porte di un'antica tomba. Da quel punto in poi, i giocatori descrivono ciò che i loro personaggi fanno. Scendere le scale, attaccare un drago, parlare con altri Personaggi Giocanti (PG) o Personaggi Non Giocanti (PNG) controllati dall'Arbitro - tutti questi tipi di azioni sono decise dai giocatori; l'Arbitro poi descrive cosa succede come risultato: le scale portano giù in un'enorme tomba, il drago attacca i personaggi, etc. Le regole che seguono sono linee guida per gestire eventi come il combattimento, guadagnare esperienza, movimento, guarire, morire, e altre parti importanti del gioco. 
+# Capitolo 5: Come Giocare
 
-Fondamentalmente, il giocatore e l'Arbitro lavorano insieme, con l'arbitro che gestisce i dettagli di un pericoloso mondo fantasy, e il giocatore che gestisce ciò che il suo personaggio fa in esso. È il giocatore a creare la storia epica dell'ascesa di un personaggio alla grandezza (o la morte nel tentativo) nel mondo dell'Arbitro.
+Una volta che i personaggi sono stati creati, l'Arbitro descrive dove si trovano i personaggi e cosa possono vedere. Il gioco potrebbe iniziare in un villaggio rurale abitato da contadini, in una enorme e brulicante città costellata di torri e minareti, in un castello, in una taverna o alle porte di un'antica tomba. Da quel punto in poi, i giocatori descrivono ciò che i loro personaggi fanno. Scendere delle scale, attaccare un drago, parlare con altri Personaggi Giocanti (PG) o Personaggi Non Giocanti (PNG) controllati dall'Arbitro - tutti questi tipi di azioni sono decise dai giocatori; l'Arbitro poi descrive cosa succede come risultato: le scale portano giù in un'enorme tomba, il drago attacca i personaggi, ecc. Le regole che seguono sono linee guida per gestire eventi come il combattimento, guadagnare esperienza, il movimento, la guarigione, la morte e altre importanti parti del gioco. 
 
-### Guadagnare esperienza
-I personaggi ottengono punti esperienza (PE) uccidendo mostri e accumulando tesori; quando si guadagnano abbastanza PE, il personaggio sale di livello. I mostri hanno valori di punti esperienza stabiliti nelle loro descrizioni, e un pezzo d'oro acquisito equivale a un PE. L'esperienza viene assegnata per accumulare tesori perché ogni pezzo d'oro guadagnato da un personaggio è un indice dell'abilità del suo giocatore. Assegnare esperienza solo per l'uccisione di mostri non premia un gruppo di avventurieri che riesce ad attirare un drago lontano dal suo tesoro, in modo da poterlo rubare senza combattere; non premia i personaggi che operano con intelligenza, furtività, inganno e depistaggio. 
+Fondamentalmente, il giocatore e l'Arbitro lavorano insieme, con l'Arbitro che gestisce i dettagli di un pericoloso mondo fantasy, e il giocatore che gestisce ciò che il suo personaggio fa in esso. È il giocatore a creare la storia epica dell'ascesa di un personaggio alla grandezza (o della sua morte nel tentativo) nel mondo dell'Arbitro.
+
+### Guadagnare Esperienza
+
+I personaggi ottengono punti esperienza (PE) uccidendo mostri e accumulando tesori; quando si guadagnano abbastanza PE, il personaggio sale di livello. I mostri hanno valori di punti esperienza stabiliti nelle loro descrizioni e un pezzo d'oro acquisito equivale a 1 PE. L'esperienza viene assegnata accumulando tesori perché ogni pezzo d'oro guadagnato da un personaggio è un indice dell'abilità del suo giocatore. Assegnare esperienza solo per l'uccisione di mostri non premia un gruppo di avventurieri che riesce ad attirare un drago lontano dal suo tesoro, in modo da poterlo derubare senza combattere; non premia i personaggi che operano con intelligenza, furtività, inganno e depistaggio. 
 
 Ogni classe di personaggi ha un attributo principale elencato nella sua descrizione, e il processo di creazione del personaggio spiega come determinare il bonus PE totale del personaggio. Ci sono due modi diversi di farlo, ma ognuno si traduce in un bonus percentuale. Se il bonus di un personaggio è del 10%, per esempio, e l'arbitro assegna 1000 PE ad ogni personaggio, quel particolare personaggio riceverà 1100 PE (il 10% di 1000 è 100, quindi il personaggio riceve un bonus di 100 PE).
 
 ### Tempo
-L'Arbitro dovrà stabilire delle regole generali sul passaggio del tempo nel corso di una campagna (ad esempio: "Qualche ora dopo...") e dovrebbe essere guidato dal buon senso. Ci sono, comunque, due importanti misure di tempo che meritano una breve definizione: il "turno" e il "round di combattimento". Un turno (della durata di dieci minuti) è usato per tracciare e misurare azioni, movimenti e risorse quando gli intrepidi avventurieri sono in luoghi pericolosi. Il turno di combattimento (della durata di un minuto) rappresenta l'azione avanti e indietro della battaglia.
+
+L'Arbitro dovrà stabilire delle regole generali sul passaggio del tempo nel corso di una campagna (ad esempio: "Qualche ora dopo...") e dovrebbe essere guidato dal buon senso. Ci sono, comunque, due importanti misure di tempo che meritano una breve definizione: il "turno" e il "round di combattimento". Un turno (della durata di dieci minuti) è usato per tracciare e misurare azioni, movimenti e risorse quando gli intrepidi avventurieri sono in luoghi pericolosi. Il turno di combattimento (della durata di un minuto) rappresenta la concitazione della battaglia.
 
 ### Movimento
+
 La velocità di movimento base per tutte le razze è calcolata sulla tabella sottostante in decine di piedi per turno, permettendo due mosse per turno. 
 
 #### Tabella 15: Tasso di Movimento
 
 | Peso Portato (lb.) | **Elfo/Umano** | **Nano/Halfling** |
-|--------------------|----------------|-------------------|
+|:------------------:|:--------------:|:-----------------:|
 | 0-75               | 12             | 9                 |
 | 76-100             | 9              | 6                 |
 | 101-150            | 6              | 3                 |
 | 151-300            | 3              | 3                 |
 
+Il movimento cauto è usato per esplorare, controllare le trappole e ciò che è nascosto. Il movimento di corsa si usa quando si sta cercando di arrivare da qualche parte velocemente o di scappare da qualcosa di ostile. Il movimento normale è praticamente tutto il resto. 
 
-Il movimento cauto è usato per esplorare, controllare le trappole e le cose nascoste. Il movimento di corsa si usa quando si sta cercando di arrivare da qualche parte velocemente o di scappare da qualcosa di malvagio. Il movimento normale è praticamente tutto il resto. 
+Il movimento di combattimento si usa quando i personaggi sono impegnati in combattimento e il tempo è passato dai Turni ai Round.
 
-Il movimento di combattimento si usa quando i personaggi sono impegnati in battaglia e il tempo è passato ai Round anziché ai Turni.
+#### Tabella 16: Adeguamenti al Tasso di Movimento
 
-#### Tabella 16: Aggiustamenti al Tasso di Movimento
-
-| Tipo Movimento | **Aggiustamento**                |
-|----------------|----------------------------------|
+| Tipo Movimento | **Adeguamento**                  |
+|:--------------:|:--------------------------------:|
 | Attento        | Metà della velocità di movimento |
 | Combattimento  | 1/3 della velocità di movimento  |
 | Corsa          | Tasso di movimento doppio        |
@@ -39,35 +42,36 @@ Il movimento di combattimento si usa quando i personaggi sono impegnati in batta
 
 ### Movimento all'aperto
 
-La velocità di movimento di base è in miglia al giorno, ma può essere raddoppiata durante una marcia forzata. Per la velocità di movimento per round di combattimento all'aperto, prendi la velocità di base, dividi per tre e moltiplica per 10 iarde. Per esempio una velocità di movimento base di 9 permette normalmente 9 miglia di viaggio al giorno, 18 miglia forzate e 30 iarde di movimento per round di combattimento. L'arbitro dovrebbe diminuire la normale velocità di movimento per i viaggi su terreni difficili, come paludi o montagne.
+La velocità di movimento di base è in miglia al giorno, ma può essere raddoppiata durante una marcia forzata. Per la velocità di movimento per round di combattimento all'aperto, prendete la velocità di base, dividete per tre e moltiplica per 10 iarde. Per esempio una velocità di movimento base di 9 permette normalmente 9 miglia di viaggio al giorno, 18 miglia forzate e 30 iarde di movimento per round di combattimento. L'Arbitro dovrebbe diminuire la normale velocità di movimento per i viaggi su terreni difficili, come paludi o montagne.
 
 ### Porte dei dungeon
 
-Le porte dei dungeon sono grandi, pesanti e anche se sbloccate sono difficili da aprire. Umani ed Elfi apriranno una porta aperta con un tiro di 1-2 su 6, mentre Nani e Mezzuomini hanno una probabilità di base di 1 su 6. A discrezione dell'Arbitro, i personaggi possono applicare qualsiasi bonus o penalità di forza a questo tiro. Si presume che la maggior parte dei mostri possa facilmente aprire le porte e che, una volta aperte, le porte si chiudano da sole.
+Le porte dei dungeon sono grandi, pesanti e anche se sbloccate sono difficili da aprire. Umani ed elfi apriranno una porta aperta con un tiro di 1-2 su 6, mentre nani e halfling hanno una probabilità di base di 1 su 6. A discrezione dell'Arbitro, i personaggi possono applicare qualsiasi bonus o penalità di forza a questo tiro. Si presume che la maggior parte dei mostri possa facilmente aprire le porte e che, una volta aperte, le porte si richiudano da sole.
 
 ### Luce
 
-Torce e lanterne illuminano un raggio di 30 piedi. Le torce bruciano per un'ora (sei turni), mentre le lanterne bruciano una pinta di olio in quattro ore (24 turni). I giocatori che usano una fonte di luce non possono normalmente sorprendere i mostri, ma possono comunque essere sorpresi. Si presume che tutti i mostri vedano al buio, a meno che non siano incantati o comunque al servizio dei giocatori.
+Torce e lanterne illuminano un raggio di 30 piedi. Le torce bruciano per un'ora (sei turni), mentre le lanterne bruciano una pinta di olio in quattro ore (24 turni). I giocatori che usano una fonte di luce non possono normalmente sorprendere i mostri, ma possono comunque essere sorpresi. Si presume che tutti i mostri vedano al buio, a meno che non siano incantati o asserviti ai giocatori.
 
 ### Ascolto alle porte
 
-Gli umani hanno 1 probabilità su 6 di sentire i rumori, i non umani sentono i rumori con un tiro di 1-2 su 6. Nota che il successo indica che il giocatore ha sentito qualcosa, ma potrebbe non sapere cosa ha causato il suono.
+Gli umani hanno 1 probabilità su 6 di sentire i rumori, i non umani sentono i rumori con un tiro di 1-2 su 6. Notate che il successo indica che il giocatore ha sentito qualcosa, ma potrebbe non sapere cosa ha causato il suono.
 
 ### Porte segrete
 
-Le porte segrete possono essere individuate da qualsiasi giocatore che ne stia attivamente cercando una con un tiro di 1-2 su un d6. Gli Elfi, tuttavia, trovano le porte segrete con un tiro di 1-4 su un d6 quando cercano, o possono percepire con un 1-2 su un d6 che qualcosa non va semplicemente passando vicino a una porta segreta. Ci vuole un turno per ogni area di 10'x10' perlustrata.
+Le porte segrete possono essere individuate da qualsiasi giocatore che ne stia attivamente cercando una con un tiro di 1-2 su un d6. Gli Elfi, tuttavia, trovano le porte segrete con un tiro di 1-4 su un d6 quando cercano o possono percepire con un 1-2 su un d6 che qualcosa non va semplicemente passando vicino a una porta segreta. Ci vuole un turno per ogni area perlustrata di 10'x10'.
 
 ### Trappole
 
-La maggior parte delle trappole e delle fosse si attivano con un tiro di 1-2 su un d6 quando un giocatore passa sopra il meccanismo di attivazione. Nota che i Nani possono rilevare le trappole di pietra in modo simile a come gli Elfi rilevano le porte segrete - hanno una probabilità di 1-4 su un d6 di rilevare tali trappole se cercano attivamente, o 1-2 su 6 se semplicemente ci passano accanto. I giocatori che cadono in una trappola prendono 1d6 danni ogni 10' caduti.
+La maggior parte delle trappole e delle fosse si attivano con un tiro di 1-2 su un d6 quando un giocatore passa sopra il meccanismo di attivazione. Nota che i nani possono rilevare le trappole di pietra in modo simile a come gli elfi rilevano le porte segrete - hanno una probabilità di 1-4 su un d6 di rilevare tali trappole se cercano attivamente, o 1-2 su 6 se semplicemente ci passano accanto. I giocatori che cadono in una trappola prendono 1d6 danni ogni 10' di caduta.
 
 ### Nota sulla ricerca di porte segrete e trappole
 
-Idealmente, i giocatori saranno abbastanza descrittivi durante una ricerca da trovare automaticamente una trappola o una porta segreta. Per esempio, se spostando un'applique si apre una porta segreta, e il giocatore dice "Esamino le applique sulla parete nord per trovare qualcosa di insolito", un arbitro potrebbe automaticamente permettergli di capire come si apre la porta segreta. Se, invece, si limita a dire "cerco sul muro nord se ci sono porte segrete", l'Arbitro può richiedere un tiro di dado. Alcune caratteristiche potrebbero essere così ben nascoste da meritare sempre un tiro di dado, o almeno un tiro con qualche tipo di aggiustamento.
+Idealmente, i giocatori saranno abbastanza descrittivi durante una ricerca da trovare automaticamente una trappola o una porta segreta. Per esempio, se spostando un porta torcia si apre una porta segreta, e il giocatore dice "Esamino i porta torce sulla parete nord per trovare qualcosa di insolito", un arbitro potrebbe automaticamente permettergli di capire come si apre la porta segreta. Se, invece, si limita a dire "cerco sul muro nord se ci sono porte segrete", l'Arbitro può richiedere un tiro di dado. Alcune caratteristiche potrebbero essere così ben nascoste da meritare sempre un tiro di dado o almeno un tiro con qualche tipo di adeguamento.
 
 ## Combattimento
+
 Quando il gruppo di avventurieri entra in contatto con i nemici, l'ordine degli eventi nel round di combattimento è il seguente:  
-1\) L'arbitro determina se una parte o l'altra ha diritto ad un attacco gratuito o ad una mossa come risultato della sorpresa - questo è o un giudizio o un tiro di dado di qualche tipo, a seconda delle circostanze. Normalmente, chiunque è sorpreso se tira un 1 o un 2 su un d6.  
+1\) L'arbitro determina se una parte o l'altra ha diritto ad un attacco gratuito o ad una mossa come risultato della sorpresa - questo è o una valutazione o un tiro di dado di qualche tipo, a seconda delle circostanze. Normalmente, chiunque è sorpreso se tira un 1 o un 2 su un d6.  
 2\) Si determina l'iniziativa. Si effettua un tiro per ogni parte, non per ogni individuo in combattimento.  
 
 - La parte che ha l'iniziativa agisce per prima (lancio di dardi, incantesimi, movimento, attacchi in mischia, ecc.) e i risultati hanno effetto.
@@ -98,60 +102,58 @@ Successivamente, vengono usate le armi a distanza (se l'arco era già nelle mani
 
 Poi ha luogo il combattimento in mischia, in ordine di iniziativa. Infine, il movimento ha luogo, in ordine di iniziativa.
 
-Se è importante scoprire quale personaggio del gruppo va prima di un altro, basta confrontare i loro punteggi di Destrezza per vedere quale è più alto.
+Se è importante sapere quale personaggio del gruppo va prima di un altro, basta confrontare i loro punteggi di Destrezza e vedere quale è più alto.
 
 ### Il Tiro d'Attacco
 
 Per attaccare con un'arma, il giocatore tira un d20 e aggiunge qualsiasi bonus al risultato. Questi bonus "per colpire" possono includere un bonus alla forza (per gli attacchi con armi a mano), un bonus alla destrezza (per gli attacchi con armi a distanza) e qualsiasi bonus per le armi magiche. Il giocatore sottrae poi qualsiasi penalità "per colpire" che potrebbe avere dal suo tiro.
 
-Il tiro di attacco viene poi confrontato con una tabella per vedere se l'attacco va a segno. Se il tiro di attacco è uguale o superiore al numero sulla tabella, l'attacco va a segno. Se stai usando il sistema di CA ascendente, piuttosto che fare riferimento a queste tabelle, c'è un metodo veloce presentato qui sotto che puoi usare. L'arbitro decide quale sarà usato.
+Il Tiro d'Attacco viene poi confrontato con una tabella per vedere se l'attacco va a segno. Se il tiro di attacco è uguale o superiore al numero sulla tabella, l'attacco va a segno. Se stai usando il sistema di CA ascendente, piuttosto che fare riferimento a queste tabelle, c'è un metodo veloce presentato qui sotto che puoi usare. L'arbitro decide quale sarà usato.
 
-Se un attacco colpisce, infligge un danno (determinato dal dado del danno dell'arma). Il danno viene sottratto dal totale dei punti ferita del difensore (vedi "Danno e Morte").
+Se un attacco va a segno, infligge un danno (determinato dal dado del danno dell'arma). Il danno viene sottratto dal totale dei punti ferita del difensore (vedi "Danno e Morte").
 
 #### Tabella 17: Tiri d'Attacco del Chierico/Ladro
 
-| Livello del Chierico/Ladro                 | Classe Armatura Bersaglio or \[Classe Armatura Ascendente\] |              |              |              |              |              |              |              |              |              |
-|-------------------------------------------|-------------------------------------------------------------|--------------|--------------|--------------|--------------|--------------|--------------|--------------|--------------|--------------|
-|                                           | 9 \[10\]                                                | 8 \[11\] | 7 \[12\] | 6 \[13\] | 5 \[14\] | 4 \[15\] | 3 \[16\] | 2 \[17\] | 1 \[18\] | 0 \[19\] |
-| ----------------------------------------- | -----------------------------------------------             | --------     | --------     | --------     | --------     | --------     | --------     | --------     | --------     | --------     |
-| 1–3                                       | 10                                                          | 11           | 12           | 13           | 14           | 15           | 16           | 17           | 18           | 19           |
-| 4–5                                       | 9                                                           | 10           | 11           | 12           | 13           | 14           | 15           | 16           | 17           | 18           |
-| 6–7                                       | 8                                                           | 9            | 10           | 11           | 12           | 13           | 14           | 15           | 16           | 17           |
-| 8                                         | 7                                                           | 8            | 9            | 10           | 11           | 12           | 13           | 14           | 15           | 16           |
-| 9                                         | 6                                                           | 7            | 8            | 9            | 10           | 11           | 12           | 13           | 14           | 15           |
-| 10                                        | 5                                                           | 6            | 7            | 8            | 9            | 10           | 11           | 12           | 13           | 14           |
+| Livello del Chierico/Ladro | Classe Armatura Bersaglio or \[Classe Armatura Ascendente\] |          |          |          |          |          |          |          |          |          |
+| -------------------------- | ----------------------------------------------------------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
+|                            | 9 \[10\]                                                    | 8 \[11\] | 7 \[12\] | 6 \[13\] | 5 \[14\] | 4 \[15\] | 3 \[16\] | 2 \[17\] | 1 \[18\] | 0 \[19\] |
+| 1–3                        | 10                                                          | 11       | 12       | 13       | 14       | 15       | 16       | 17       | 18       | 19       |
+| 4–5                        | 9                                                           | 10       | 11       | 12       | 13       | 14       | 15       | 16       | 17       | 18       |
+| 6–7                        | 8                                                           | 9        | 10       | 11       | 12       | 13       | 14       | 15       | 16       | 17       |
+| 8                          | 7                                                           | 8        | 9        | 10       | 11       | 12       | 13       | 14       | 15       | 16       |
+| 9                          | 6                                                           | 7        | 8        | 9        | 10       | 11       | 12       | 13       | 14       | 15       |
+| 10                         | 5                                                           | 6        | 7        | 8        | 9        | 10       | 11       | 12       | 13       | 14       |
 
 #### Tabella 18: Tiri d'Attacco del Guerriero
 
-| Livello del Guerriero            | Classe Armatura Bersaglio or \[Classe Armatura Ascendente\] |            |            |            |            |            |            |            |            |            |
-|----------------------------------|-------------------------------------------------------------|------------|------------|------------|------------|------------|------------|------------|------------|------------|
-|                                  | 9 \[10\]                                                    | 8 \[11\]   | 7  <br>\[12\]   | 6 \[13\]   | 5 \[14\]   | 4 \[15\]   | 3 \[16\]   | 2 \[17\]   | 1 \[18\]   | 0 \[19\]   |
-| -------------------------------- | -------------------------------------------------           | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |
-| 1                                | 10                                                          | 11         | 12         | 13         | 14         | 15         | 16         | 17         | 18         | 19         |
-| 2                                | 9                                                           | 10         | 11         | 12         | 13         | 14         | 15         | 16         | 17         | 18         |
-| 3–4                              | 8                                                           | 9          | 10         | 11         | 12         | 13         | 14         | 15         | 16         | 17         |
-| 5                                | 7                                                           | 8          | 9          | 10         | 11         | 12         | 13         | 14         | 15         | 16         |
-| 6–7                              | 6                                                           | 7          | 8          | 9          | 10         | 11         | 12         | 13         | 14         | 15         |
-| 8                                | 5                                                           | 6          | 7          | 8          | 9          | 10         | 11         | 12         | 13         | 14         |
-| 9–10                             | 4                                                           | 5          | 6          | 7          | 8          | 9          | 10         | 11         | 12         | 13         |
+| Livello del Guerriero | Classe Armatura Bersaglio or \[Classe Armatura Ascendente\] |          |          |          |          |          |          |          |          |          |
+| --------------------- | ----------------------------------------------------------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
+|                       | 9 \[10\]                                                    | 8 \[11\] | 7 \[12\] | 6 \[13\] | 5 \[14\] | 4 \[15\] | 3 \[16\] | 2 \[17\] | 1 \[18\] | 0 \[19\] |
+| 1                     | 10                                                          | 11       | 12       | 13       | 14       | 15       | 16       | 17       | 18       | 19       |
+| 2                     | 9                                                           | 10       | 11       | 12       | 13       | 14       | 15       | 16       | 17       | 18       |
+| 3–4                   | 8                                                           | 9        | 10       | 11       | 12       | 13       | 14       | 15       | 16       | 17       |
+| 5                     | 7                                                           | 8        | 9        | 10       | 11       | 12       | 13       | 14       | 15       | 16       |
+| 6–7                   | 6                                                           | 7        | 8        | 9        | 10       | 11       | 12       | 13       | 14       | 15       |
+| 8                     | 5                                                           | 6        | 7        | 8        | 9        | 10       | 11       | 12       | 13       | 14       |
+| 9–10                  | 4                                                           | 5        | 6        | 7        | 8        | 9        | 10       | 11       | 12       | 13       |
 
 #### Tabella 19: Tiri d'Attacco del Mago
 
-| Livello del Mago                   | Classe Armatura Bersaglio or \[Classe Armatura Ascendente\] |          |          |          |          |          |          |          |          |          |
-|                                    | 9 \[10\]                                        | 8 \[11\] | 7 \[12\] | 6 \[13\] | 5 \[14\] | 4 \[15\] | 3 \[16\] | 2 \[17\] | 1 \[18\] | 0 \[19\] |
-|------------------------------------|-------------------------------------------------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
-| 1–4                                | 10                                              | 11       | 12       | 13       | 14       | 15       | 16       | 17       | 18       | 19       |
-| 5–6                                | 9                                               | 10       | 11       | 12       | 13       | 14       | 15       | 16       | 17       | 18       |
-| 7–8                                | 8                                               | 9        | 10       | 11       | 12       | 13       | 14       | 15       | 16       | 17       |
-| 9–10                               | 7                                               | 8        | 9        | 10       | 11       | 12       | 13       | 14       | 15       | 16       |
+| Livello del Mago | Classe Armatura Bersaglio or \[Classe Armatura Ascendente\] |          |          |          |          |          |          |          |          |          |
+| ---------------- | ----------------------------------------------------------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
+|                  | 9 \[10\]                                                    | 8 \[11\] | 7 \[12\] | 6 \[13\] | 5 \[14\] | 4 \[15\] | 3 \[16\] | 2 \[17\] | 1 \[18\] | 0 \[19\] |
+| 1–4              | 10                                                          | 11       | 12       | 13       | 14       | 15       | 16       | 17       | 18       | 19       |
+| 5–6              | 9                                                           | 10       | 11       | 12       | 13       | 14       | 15       | 16       | 17       | 18       |
+| 7–8              | 8                                                           | 9        | 10       | 11       | 12       | 13       | 14       | 15       | 16       | 17       |
+| 9–10             | 7                                                           | 8        | 9        | 10       | 11       | 12       | 13       | 14       | 15       | 16       |
 
 ### Combattimento a CA ascendente - Metodo rapido
 
-Se stai usando il sistema di CA ascendente, potrebbe essere più facile calcolare i tuoi tiri per colpire secondo una semplice formula. I numeri sono gli stessi delle tabelle della CA Discendente - questo è solo un modo diverso di calcolare i risultati. Ecco come si fa:
+Se state usando il sistema di CA ascendente, potrebbe essere più facile calcolare i vostri tiri per colpire secondo una semplice formula. I numeri sono gli stessi delle tabelle della CA Discendente - questo è solo un modo diverso di calcolare i risultati. Ecco come si fa:
 
-Per attaccare con un'arma, il giocatore tira un d20 e aggiunge qualsiasi bonus al risultato. Questi bonus "per colpire" ora includono il bonus base "per colpire" del personaggio, come indicato nella tabella delle classi personaggio, e possono includere un bonus alla forza (per gli attacchi con armi manuali), un bonus alla destrezza (per gli attacchi con armi a distanza), e qualsiasi bonus per le armi magiche. Il giocatore, poi, sottrae al tiro qualsiasi penalità "per colpire" che potrebbe avere. Se il risultato è uguale o superiore alla CA ascendente dell'avversario, l'attacco va a segno.
+Per attaccare con un'arma, il giocatore tira un d20 e aggiunge qualsiasi bonus al risultato. Questi bonus "per colpire" ora includono il bonus base "per colpire" del personaggio, come indicato nella tabella delle classi personaggio, e possono includere un bonus alla forza (per gli attacchi con armi a mano), un bonus alla destrezza (per gli attacchi con armi a distanza), e qualsiasi bonus per le armi magiche. Il giocatore, poi, sottrae al tiro qualsiasi penalità "per colpire" che potrebbe avere. Se il risultato è uguale o superiore alla CA ascendente dell'avversario, l'attacco va a segno.
 
-Nota: Questo sistema rapido funziona solo per il sistema di CA Ascendente. Per usare questo sistema, dovrai scrivere il tuo Bonus di base "per colpire", e aggiustarlo man mano che guadagni livelli, ma dopo averlo fatto, non dovrai controllare la tabella per vedere se ottieni un successo. Tutto quello che dovete sapere è se il risultato totale è stato uguale o superiore alla Classe Armatura del bersaglio.
+Nota: Questo sistema rapido funziona solo per il sistema di CA Ascendente. Per usare questo sistema, dovrete scrivere il vostro Bonus di base "per colpire", e aggiustarlo man mano che guadagnate livelli, ma dopo averlo fatto, non dovrete controllare la tabella per vedere se ottenete un successo. Tutto quello che dovete sapere è se il risultato totale è stato uguale o superiore alla Classe Armatura del bersaglio.
 
 ### Danno e Morte
 
@@ -197,10 +199,10 @@ Alcuni mostri, come le creature senza intelletto o non-morte, non hanno paura e 
 
 Se c'è incertezza sul morale dei PNG o dei mostri, la seguente tabella può essere utilizzata a discrezione dell'arbitro.
 
-####  Tabella 20: Prova di Morale
+#### Tabella 20: Prova di Morale
 
 | Tiro     | **Morale**                |
-|----------|---------------------------|
+| -------- | ------------------------- |
 | 2 o meno | Arrenditi                 |
 | 3-5      | Fuga                      |
 | 6-8      | Tenere                    |
@@ -222,7 +224,7 @@ Ogni giostratore che subisce danni deve superare un tiro salvezza o essere sbalz
 #### Tabella 21: Punti Giostra
 
 | Condizione               | **Punti** |
-|--------------------------|-----------|
+| ------------------------ | --------- |
 | Attacco di 12 o più alto | 1         |
 | Infliggere danni         | 2         |
 | Sconfiggere l'avversario | 3         |
@@ -246,7 +248,7 @@ L'Arbitro potrebbe voler fare delle "prove di lealtà" per i PNG messi in situaz
 #### Tabella 22: Lealtà
 
 | Tiro  | **Lealtà**                       |
-|-------|----------------------------------|
+| ----- | -------------------------------- |
 | 3     | Traditore                        |
 | 4-5   | -2 alla prossima prova di lealtà |
 | 6-8   | -1 alla prossima prova di lealtà |
@@ -270,7 +272,7 @@ Il sistema di tiro salvezza di White Box è un adattamento dell'originale, che a
 #### Tabella 23: Tiri Salvezza del Chierico
 
 | Livello | Morte Veleno | Bacchette Raggi | Parilisi Pietra | Respiro Drago | Incantesimi Bastoni | TS Unico |
-|---------|--------------|-----------------|-----------------|---------------|---------------------|----------|
+| ------- | ------------ | --------------- | --------------- | ------------- | ------------------- | -------- |
 | 1       | 11           | 12              | 14              | 16            | 15                  | 15       |
 | 2       | 10           | 11              | 13              | 15            | 14                  | 14       |
 | 3       | 10           | 11              | 13              | 15            | 14                  | 13       |
@@ -285,7 +287,7 @@ Il sistema di tiro salvezza di White Box è un adattamento dell'originale, che a
 #### Tabella 24: Tiri Salvezza del Guerriero
 
 | Livello | Morte Veleno | Bacchette Raggi | Parilisi Pietra | Respiro Drago | Incantesimi Bastoni | TS Unico |
-|---------|--------------|-----------------|-----------------|---------------|---------------------|----------|
+| ------- | ------------ | --------------- | --------------- | ------------- | ------------------- | -------- |
 | 1       | 12           | 13              | 14              | 15            | 16                  | 14       |
 | 2       | 12           | 13              | 14              | 15            | 16                  | 13       |
 | 3       | 10           | 11              | 12              | 15            | 14                  | 16       |
@@ -300,7 +302,7 @@ Il sistema di tiro salvezza di White Box è un adattamento dell'originale, che a
 #### Tabella 25: Tiri Salvezza del Mago
 
 | Livello | Morte Veleno | Bacchette Raggi | Parilisi Pietra | Respiro Drago | Incantesimi Bastoni | TS Unico |
-|---------|--------------|-----------------|-----------------|---------------|---------------------|----------|
+| ------- | ------------ | --------------- | --------------- | ------------- | ------------------- | -------- |
 | 1       | 13           | 14              | 13              | 16            | 15                  | 15       |
 | 2       | 12           | 13              | 12              | 15            | 15                  | 14       |
 | 3       | 12           | 13              | 12              | 15            | 15                  | 13       |
@@ -311,10 +313,11 @@ Il sistema di tiro salvezza di White Box è un adattamento dell'originale, che a
 | 8       | 9            | 10              | 9               | 12            | 9                   | 8        |
 | 9       | 9            | 10              | 9               | 12            | 9                   | 7        |
 | 10      | 8            | 9               | 8               | 11            | 9                   | 6        |
+
 #### Tabella 26: Tiri Salvezza del Ladro
 
 | Livello | Morte Veleno | Bacchette Raggi | Parilisi Pietra | Respiro Drago | Incantesimi Bastoni | TS Unico |
-|---------|--------------|-----------------|-----------------|---------------|---------------------|----------|
+| ------- | ------------ | --------------- | --------------- | ------------- | ------------------- | -------- |
 | 1       | 13           | 14              | 13              | 15            | 16                  | 14       |
 | 2       | 12           | 14              | 12              | 14            | 15                  | 13       |
 | 3       | 12           | 14              | 12              | 14            | 15                  | 16       |

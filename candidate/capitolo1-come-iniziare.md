@@ -1,6 +1,6 @@
 # Capitolo 1: Come iniziare
 
-La Scatola Bianca richiede due tipi di partecipanti: (1) L'Arbitro e (2) il Giocatore. Per i Giocatori, il primo passo per giocare è quello di creare un Personaggio Giocante (PG). Dovete semplicemente di tirare alcuni dadi per determinare gli attributi del vostro personaggio, scegliendo una classe, una razza (se non umana) e comprando l'equipaggiamento di gioco. Se sei l'Arbitro, tuttavia, hai un po' più preparazione da fare - come è trattato nel Capitolo 7.
+La Scatola Bianca richiede due tipi di partecipanti: (1) L'Arbitro e (2) il Giocatore. Per i Giocatori, il primo passo per giocare è quello di creare un Personaggio Giocante (PG). Dovete semplicemente di tirare alcuni dadi per determinare gli attributi del vostro personaggio, scegliendo una classe, una razza (se non umana) e comprando l'equipaggiamento di gioco. Chi voi è l'Arbitro, tuttavia, ha un po' più preparazione da fare - come è trattato nel Capitolo 7.
 
 ### Regola numero uno
 

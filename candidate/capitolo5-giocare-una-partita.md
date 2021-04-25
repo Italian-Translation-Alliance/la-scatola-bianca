@@ -157,13 +157,13 @@ Nota: Questo sistema rapido funziona solo per il sistema di CA Ascendente. Per u
 
 ### Danno e Morte
 
-Quando un personaggio (o una creatura) viene colpito, la quantità di danni subiti viene dedotta dai suoi punti ferita. Quando i punti ferita raggiungono lo 0, il personaggio muore.
+Quando un personaggio (o una creatura) viene colpito, la quantità di danni subiti viene dedotta dai suoi Punti Ferita. Quando i punti ferita raggiungono lo 0, il personaggio muore.
 
-### Un metodo meno duro (opzionale)
+### Un metodo meno severo (opzionale)
 
-Gli Arbitri hanno idee diverse su quanto dovrebbe essere letale una partita. Per questo motivo, molti permettono ai personaggi di cadere "incoscienti" a 0 PF, con la morte rimandata finché il personaggio non raggiunge un numero negativo predeterminato.
+Gli Arbitri hanno idee diverse su quanto dovrebbe essere letale una partita. Per questo motivo molti permettono ai personaggi di cadere "incoscienti" a 0 PF, con la morte rimandata finché il personaggio non raggiunge un numero negativo predeterminato.
 
-Per esempio, molti Arbitri impiegano una regola della casa che permette agli PF di un personaggio di scendere sotto lo 0 di tanti punti quanto il suo livello prima che il personaggio muoia; un personaggio di 4° livello potrebbe morire solo se scende sotto -4 PF. Generalmente, però, un personaggio con meno di 0 PF si considera in corso di dissanguamento a 1 PF per round finché le ferite non vengono fasciate.
+Ad esempio, molti Arbitri impiegano una regola della casa che permette ai PF di un personaggio di scendere sotto lo 0 di un numero di punti pari al livello, prima che il personaggio muoia; un personaggio di 4° livello potrebbe morire solo se scende sotto -4 PF. Generalmente, però, un personaggio con meno di 0 PF si considera in corso di dissanguamento a 1 PF per round finché le ferite non vengono fasciate.
 
 ### Guarigione
 
@@ -175,19 +175,19 @@ Gli Arbitri possono permettere ai personaggi di guarire 1d4 PF bendando le ferit
 
 Si noti che il personaggio può solo recuperare i PF persi durante questa particolare battaglia. I PF recuperati non possono far sì che un personaggio abbia più punti ferita del normale.
 
-Alcuni Arbitri considerano i Punti Ferita come una misura astratta della resistenza di un personaggio, mentre l'attacco finale che porta un personaggio a zero punti ferita rappresenta un effettivo colpo significativo inferto da un'arma. In tal senso, possono permettere ai personaggi di guarire più punti ferita per ogni giorno di riposo e permettere di tirare i dadi per le ferite curate con bende.
+Alcuni Arbitri considerano i Punti Ferita come una misura astratta della resistenza di un personaggio, mentre l'attacco finale che porta un personaggio a zero punti ferita rappresenta un colpo effettivo e significativo inferto da un'arma. In tal senso, possono permettere ai personaggi di guarire più punti ferita per ogni giorno di riposo e permettere di tirare i dadi per le ferite curate con bende.
 
 ### Avversari invisibili
 
-Un avversario invisibile può essere attaccato solo se la sua posizione è nota a grandi linee, e l'attacco subisce una penalità di -4 "per colpire". Nota che i mostri più potenti (quelli con olfatto e udito sensibili, o quelli con più di 6 DV) saranno spesso in grado di individuare gli avversari invisibili; l'arbitro dovrebbe determinare la possibilità di ciò in base alla creatura e alla situazione.
+Un avversario invisibile può essere attaccato solo se la sua posizione è nota a grandi linee, e l'attacco subisce una penalità di -4 "per colpire". Nota che i mostri più potenti (quelli con olfatto e udito sensibili, o quelli con più di 6 DV) saranno spesso in grado di individuare gli avversari invisibili; l'Arbitro dovrebbe determinare la possibilità di ciò in base alla creatura e alla situazione.
 
 ### Olio
 
-L'olio lanciato che viene successivamente incendiato da una torcia lanciata o qualcosa di simile brucerà per due round, facendo 1d6 danni per round su un colpo a segno di CA 8 \[11\]. L'arbitro dovrebbe regolare la probabilità di colpire in base alla dimensione della creatura bersaglio, ovviamente creature grandi come orchi e giganti saranno più facili da colpire rispetto, ad esempio, a ragni giganti.
+L'olio lanciato che viene successivamente incendiato da una torcia lanciata o qualcosa di simile brucerà per due round, facendo 1d6 danni per round su un colpo a segno di CA 8 \[11\]. L'Arbitro dovrebbe regolare la probabilità di colpire in base alla dimensione della creatura bersaglio, ovviamente creature grandi come orchi e giganti saranno più facili da colpire rispetto, ad esempio, a ragni giganti.
 
 ### Attacco in mischia
 
-Un attacco in mischia è un attacco con un'arma a mano come una spada, una lancia o un pugnale. Due combattenti entro tre metri l'uno dall'altro sono considerati "in mischia".
+Un attacco in mischia è un attacco con un'arma a mano come una spada, una lancia o un pugnale. Due combattenti entro 10 piedi l'uno dall'altro sono considerati "in mischia".
 
 ### Attacco a distanza
 
@@ -195,39 +195,39 @@ Gli attacchi a distanza sono effettuati con armi come balestre, fionde o asce la
 
 ### Morale
 
-Alcuni mostri, come le creature senza intelletto o non-morte, non hanno paura e combatteranno sempre fino alla morte. La maggioranza, tuttavia, non continuerà a combattere una battaglia senza speranza e cercherà di ritirarsi, arrendersi o fuggire. L'Arbitro deciderà quando i mostri abbandonano la battaglia e si ritirano, basandosi sulla situazione e sull'intelligenza del mostro. Gli arbitri dovrebbero anche usare il morale per determinare le azioni e la lealtà degli assoldati o di altri PNG compagni.
+Alcuni mostri, come le creature senza intelletto o non-morte, non hanno paura e combatteranno sempre fino alla morte. La maggior parte, tuttavia, non continuerà a combattere una battaglia senza speranza e cercherà di ritirarsi, arrendersi o fuggire. L'Arbitro deciderà quando i mostri abbandonano la battaglia e si ritirano, basandosi sulla situazione e sull'intelligenza del mostro. Gli arbitri dovrebbero anche usare il morale per determinare le azioni e la lealtà degli assoldati o di altri PNG compagni.
 
-Se c'è incertezza sul morale dei PNG o dei mostri, la seguente tabella può essere utilizzata a discrezione dell'arbitro.
+Se c'è incertezza sul morale dei PNG o dei mostri, la seguente tabella può essere utilizzata a discrezione dell'Arbitro.
 
 #### Tabella 20: Prova di Morale
 
-| Tiro     | **Morale**                |
-| -------- | ------------------------- |
-| 2 o meno | Arrenditi                 |
-| 3-5      | Fuga                      |
-| 6-8      | Tenere                    |
-| 9-11     | Combatti per il vantaggio |
-| 12       | Attacco!                  |
+| Tiro     | **Morale**                           |
+|:--------:|:------------------------------------:|
+| 2 o meno | Resa                                 |
+| 3-5      | Fuga                                 |
+| 6-8      | Posizione mantenuta                  |
+| 9-11     | Combattimento per ottenere vantaggio |
+| 12       | Attacco!                             |
 
 ### Negoziazione e diplomazia
 
-Alcuni combattimenti possono essere evitati con poche parole ben scelte (anche bugie). Se il gruppo è in svantaggio, o se non sembra che i mostri abbiano un gran bottino, il gruppo potrebbe scegliere di farsi strada sfacciatamente nel tentativo di evitare il combattimento o almeno di ritardarlo fino a quando non si presenteranno condizioni più favorevoli.
+Alcuni combattimenti possono essere evitati con poche parole ben scelte (persino bugie). Se il gruppo è in svantaggio, o se non sembra che i mostri abbiano un gran bottino, il gruppo potrebbe scegliere di agire spudoratamente nel tentativo di evitare il combattimento o almeno di ritardarlo fino a quando non si presenteranno condizioni più favorevoli.
 
 ### Giostra
 
 Una giostra è una gara in cui due combattenti si affrontano brandendo delle lance. L'obiettivo è quello di stabilire un contatto con l'armatura o lo scudo dell'avversario che sia abbastanza forte da rompere la lancia o da disarcionare effettivamente l'avversario.
 
-La giostra, come sport, consisteva in tre tiri. In White Box, questo equivale a tre round di combattimento. Ogni round consiste in un attacco con una lancia. Se le lance sono smussate, infliggono 1d6-1 punti di danno, ma non possono uccidere il giostratore. A 0 punti ferita, il giostratore è stordito e cade dal suo destriero (nessun danno aggiuntivo). Se le lance non sono smussate, infliggono danni normali e potrebbero uccidere.
+La giostra, come sport, consisteva in tre tornei. In *La Scatola Bianca*, questo equivale a tre round di combattimento. Ogni round consiste in un attacco con una lancia. Se le lance sono smussate, infliggono 1d6-1 punti di danno, ma non possono uccidere il giostratore. A 0 punti ferita, il giostratore è stordito e cade dal suo destriero (nessun danno aggiuntivo). Se le lance non sono smussate, infliggono danni normali e potrebbero uccidere.
 
 Ogni giostratore che subisce danni deve superare un tiro salvezza o essere sbalzato dal suo destriero e subire 1d6 danni dalla caduta.
 
 #### Tabella 21: Punti Giostra
 
-| Condizione               | **Punti** |
-| ------------------------ | --------- |
-| Attacco di 12 o più alto | 1         |
-| Infliggere danni         | 2         |
-| Sconfiggere l'avversario | 3         |
+| Condizione                      | **Punti** |
+|:-------------------------------:|:---------:|
+| Tiro d'Attacco di 12 o più alto | 1         |
+| Infliggere danni                | 2         |
+| Sconfiggere l'avversario        | 3         |
 
 I cavalli da guerra medi concedono un bonus di +1 all'attacco. I cavalli da guerra pesanti garantiscono un +2.
 
@@ -239,16 +239,16 @@ In un duello, il perdente deve rinunciare alla sua cavalcatura e alla sua armatu
 
 Il lancio degli incantesimi inizia all'inizio del round di combattimento. È possibile preparare un incantesimo mentre ci si trova nel raggio d'azione di mischia di un avversario (10'), ma se l'incantatore subisce danni mentre prepara un incantesimo, l'incantesimo viene perso. A meno che non sia indicato diversamente, l'incantesimo viene lanciato (ha effetto) nella fase di iniziativa dell'incantatore.
 
-Nota che nella Sequenza Alternativa di Combattimento il lancio degli incantesimi funziona diversamente. In quel sistema, ci vuole un intero round per preparare un incantesimo, l'incantesimo viene lanciato all'inizio del round prima che succeda qualsiasi altra cosa, e l'incantatore può passare il resto del round a preparare un nuovo incantesimo (o a fare qualcos'altro, come muoversi o anche combattere).
+Notate che nella Sequenza Alternativa di Combattimento il lancio degli incantesimi funziona diversamente. In quel sistema, è necessario un intero round per preparare un incantesimo, l'incantesimo viene lanciato all'inizio del round prima che succeda qualsiasi altra cosa, e l'incantatore può passare il resto del round a preparare un nuovo incantesimo (o a fare qualcos'altro, come muoversi o anche combattere).
 
-### Loyalty
+### Lealtà
 
-L'Arbitro potrebbe voler fare delle "prove di lealtà" per i PNG messi in situazioni pericolose o per quelli a cui vengono offerte tangenti per cambiare parte durante un conflitto. Quando viene effettuato una prova di lealtà, tira 3d6 e consulta la tabella della lealtà per il risultato. Ricorda che queste prove possono essere modificate dal punteggio di Carisma del giocatore.
+L'Arbitro potrebbe voler fare delle "prove di lealtà" per i PNG messi in situazioni pericolose o per quelli a cui vengono offerte tangenti per cambiare parte durante un conflitto. Quando viene effettuato una prova di lealtà, tirate 3d6 e consultate la tabella della lealtà per il risultato. Ricordate che queste prove possono essere modificate dal punteggio di Carisma del giocatore.
 
 #### Tabella 22: Lealtà
 
 | Tiro  | **Lealtà**                       |
-| ----- | -------------------------------- |
+|:-----:|:--------------------------------:|
 | 3     | Traditore                        |
 | 4-5   | -2 alla prossima prova di lealtà |
 | 6-8   | -1 alla prossima prova di lealtà |
@@ -257,80 +257,80 @@ L'Arbitro potrebbe voler fare delle "prove di lealtà" per i PNG messi in situaz
 | 16-17 | +2 alla prossima provadi lealtà  |
 | 18    | Lealista                         |
 
-Un buon trattamento, il rispetto e un'equa porzione del tesoro guadagnato dovrebbero garantire bonus ai controlli di lealtà, mentre l'abuso, fisico o altro, porterà a penalità, abbandono o peggio. I PNG dovrebbero essere trattati come individui distinti e non come semplici estensioni del personaggio del giocatore.
+Un buon trattamento, il rispetto e un'equa quota del tesoro guadagnato dovrebbero garantire bonus alle prove di lealtà, mentre l'abuso, fisico o di altro tipo, porterà a penalità, abbandono o peggio. I PNG dovrebbero essere trattati come individui distinti e non come semplici estensioni del personaggio del giocatore.
 
 Se un PNG si trova in una situazione in cui una prova di morale può essere appropriata, il modificatore di lealtà può essere applicato al tiro di morale (opzionale).
 
-### Tiri salvezza
+### Tiri Salvezza
 
-Di tanto in tanto, un incantesimo o qualche altro tipo di pericolo richiede di effettuare un "tiro salvezza". Un tiro salvezza riuscito significa che il personaggio evita la minaccia o ne riduce l'effetto. Ogni classe di personaggi ha un numero obiettivo del tiro salvezza che diventa più basso man mano che il personaggio aumenta di livello. Per effettuare un tiro salvezza, tira un d20. Se il risultato è uguale o superiore al numero obiettivo del tiro salvezza del personaggio, il tiro salvezza ha successo.
+Di tanto in tanto, un incantesimo o qualche altro tipo di pericolo richiede di effettuare un "tiro salvezza". Un tiro salvezza riuscito significa che il personaggio evita la minaccia o ne riduce l'effetto. Ogni classe personaggio ha un numero obiettivo del tiro salvezza che diventa più basso man mano che il personaggio aumenta di livello. Per effettuare un tiro salvezza, tira un d20. Se il risultato è uguale o superiore al numero obiettivo del tiro salvezza del personaggio, il tiro salvezza ha successo.
 
-### Regola alternativa: La matrice dei tiri salvezza
+### Regola alternativa: La Matrice dei Tiri Salvezza
 
-Il sistema di tiro salvezza di White Box è un adattamento dell'originale, che aveva parecchie categorie di rischi diversi invece di un singolo tiro salvezza di base come quello usato qui. I numeri ispirati al sistema originale sono forniti di seguito (il numero del singolo tiro salvezza è fornito per confronto):
+Il sistema di tiro salvezza di *La Scatola Bianca* è un adattamento dell'originale, che aveva parecchie categorie di rischi diversi invece di un singolo tiro salvezza di base come quello usato qui. I numeri ispirati al sistema originale sono forniti di seguito (il numero del singolo tiro salvezza è fornito per confronto):
 
 #### Tabella 23: Tiri Salvezza del Chierico
 
-| Livello | Morte Veleno | Bacchette Raggi | Parilisi Pietra | Respiro Drago | Incantesimi Bastoni | TS Unico |
-| ------- | ------------ | --------------- | --------------- | ------------- | ------------------- | -------- |
-| 1       | 11           | 12              | 14              | 16            | 15                  | 15       |
-| 2       | 10           | 11              | 13              | 15            | 14                  | 14       |
-| 3       | 10           | 11              | 13              | 15            | 14                  | 13       |
-| 4       | 9            | 10              | 12              | 14            | 13                  | 12       |
-| 5       | 9            | 10              | 12              | 14            | 13                  | 11       |
-| 6       | 8            | 9               | 11              | 13            | 12                  | 10       |
-| 7       | 8            | 9               | 11              | 13            | 12                  | 9        |
-| 8       | 7            | 8               | 10              | 12            | 11                  | 8        |
-| 9       | 7            | 8               | 10              | 12            | 11                  | 7        |
-| 10      | 6            | 7               | 9               | 11            | 10                  | 6        |
+| Livello | Morte Veleno | Bacchette Raggi | Paralisi Pietra | Soffio Drago | Incantesimi Bastoni | TS Unico |
+| ------- | ------------ | --------------- | --------------- | ------------ | ------------------- | -------- |
+| 1       | 11           | 12              | 14              | 16           | 15                  | 15       |
+| 2       | 10           | 11              | 13              | 15           | 14                  | 14       |
+| 3       | 10           | 11              | 13              | 15           | 14                  | 13       |
+| 4       | 9            | 10              | 12              | 14           | 13                  | 12       |
+| 5       | 9            | 10              | 12              | 14           | 13                  | 11       |
+| 6       | 8            | 9               | 11              | 13           | 12                  | 10       |
+| 7       | 8            | 9               | 11              | 13           | 12                  | 9        |
+| 8       | 7            | 8               | 10              | 12           | 11                  | 8        |
+| 9       | 7            | 8               | 10              | 12           | 11                  | 7        |
+| 10      | 6            | 7               | 9               | 11           | 10                  | 6        |
 
 #### Tabella 24: Tiri Salvezza del Guerriero
 
-| Livello | Morte Veleno | Bacchette Raggi | Parilisi Pietra | Respiro Drago | Incantesimi Bastoni | TS Unico |
-| ------- | ------------ | --------------- | --------------- | ------------- | ------------------- | -------- |
-| 1       | 12           | 13              | 14              | 15            | 16                  | 14       |
-| 2       | 12           | 13              | 14              | 15            | 16                  | 13       |
-| 3       | 10           | 11              | 12              | 15            | 14                  | 16       |
-| 4       | 10           | 11              | 12              | 12            | 14                  | 11       |
-| 5       | 10           | 11              | 12              | 12            | 14                  | 10       |
-| 6       | 8            | 9               | 10              | 12            | 12                  | 9        |
-| 7       | 8            | 9               | 10              | 12            | 12                  | 8        |
-| 8       | 8            | 9               | 10              | 9             | 12                  | 7        |
-| 9       | 6            | 7               | 8               | 9             | 10                  | 6        |
-| 10      | 6            | 7               | 8               | 9             | 10                  | 5        |
+| Livello | Morte Veleno | Bacchette Raggi | Paralisi Pietra | Soffio Drago | Incantesimi Bastoni | TS Unico |
+| ------- | ------------ | --------------- | --------------- | ------------ | ------------------- | -------- |
+| 1       | 12           | 13              | 14              | 15           | 16                  | 14       |
+| 2       | 12           | 13              | 14              | 15           | 16                  | 13       |
+| 3       | 10           | 11              | 12              | 15           | 14                  | 16       |
+| 4       | 10           | 11              | 12              | 12           | 14                  | 11       |
+| 5       | 10           | 11              | 12              | 12           | 14                  | 10       |
+| 6       | 8            | 9               | 10              | 12           | 12                  | 9        |
+| 7       | 8            | 9               | 10              | 12           | 12                  | 8        |
+| 8       | 8            | 9               | 10              | 9            | 12                  | 7        |
+| 9       | 6            | 7               | 8               | 9            | 10                  | 6        |
+| 10      | 6            | 7               | 8               | 9            | 10                  | 5        |
 
 #### Tabella 25: Tiri Salvezza del Mago
 
-| Livello | Morte Veleno | Bacchette Raggi | Parilisi Pietra | Respiro Drago | Incantesimi Bastoni | TS Unico |
-| ------- | ------------ | --------------- | --------------- | ------------- | ------------------- | -------- |
-| 1       | 13           | 14              | 13              | 16            | 15                  | 15       |
-| 2       | 12           | 13              | 12              | 15            | 15                  | 14       |
-| 3       | 12           | 13              | 12              | 15            | 15                  | 13       |
-| 4       | 11           | 12              | 11              | 14            | 12                  | 12       |
-| 5       | 11           | 12              | 11              | 14            | 12                  | 11       |
-| 6       | 10           | 11              | 10              | 13            | 12                  | 10       |
-| 7       | 10           | 11              | 10              | 13            | 12                  | 9        |
-| 8       | 9            | 10              | 9               | 12            | 9                   | 8        |
-| 9       | 9            | 10              | 9               | 12            | 9                   | 7        |
-| 10      | 8            | 9               | 8               | 11            | 9                   | 6        |
+| Livello | Morte Veleno | Bacchette Raggi | Paralisi Pietra | Soffio Drago | Incantesimi Bastoni | TS Unico |
+| ------- | ------------ | --------------- | --------------- | ------------ | ------------------- | -------- |
+| 1       | 13           | 14              | 13              | 16           | 15                  | 15       |
+| 2       | 12           | 13              | 12              | 15           | 15                  | 14       |
+| 3       | 12           | 13              | 12              | 15           | 15                  | 13       |
+| 4       | 11           | 12              | 11              | 14           | 12                  | 12       |
+| 5       | 11           | 12              | 11              | 14           | 12                  | 11       |
+| 6       | 10           | 11              | 10              | 13           | 12                  | 10       |
+| 7       | 10           | 11              | 10              | 13           | 12                  | 9        |
+| 8       | 9            | 10              | 9               | 12           | 9                   | 8        |
+| 9       | 9            | 10              | 9               | 12           | 9                   | 7        |
+| 10      | 8            | 9               | 8               | 11           | 9                   | 6        |
 
 #### Tabella 26: Tiri Salvezza del Ladro
 
-| Livello | Morte Veleno | Bacchette Raggi | Parilisi Pietra | Respiro Drago | Incantesimi Bastoni | TS Unico |
-| ------- | ------------ | --------------- | --------------- | ------------- | ------------------- | -------- |
-| 1       | 13           | 14              | 13              | 15            | 16                  | 14       |
-| 2       | 12           | 14              | 12              | 14            | 15                  | 13       |
-| 3       | 12           | 14              | 12              | 14            | 15                  | 16       |
-| 4       | 11           | 11              | 11              | 13            | 14                  | 11       |
-| 5       | 11           | 11              | 11              | 13            | 14                  | 10       |
-| 6       | 10           | 11              | 10              | 12            | 13                  | 9        |
-| 7       | 10           | 11              | 10              | 12            | 13                  | 8        |
-| 8       | 9            | 8               | 9               | 11            | 12                  | 7        |
-| 9       | 9            | 8               | 9               | 11            | 12                  | 6        |
-| 10      | 8            | 8               | 8               | 10            | 11                  | 5        |
+| Livello | Morte Veleno | Bacchette Raggi | Paralisi Pietra | Soffio Drago | Incantesimi Bastoni | TS Unico |
+| ------- | ------------ | --------------- | --------------- | ------------ | ------------------- | -------- |
+| 1       | 13           | 14              | 13              | 15           | 16                  | 14       |
+| 2       | 12           | 14              | 12              | 14           | 15                  | 13       |
+| 3       | 12           | 14              | 12              | 14           | 15                  | 16       |
+| 4       | 11           | 11              | 11              | 13           | 14                  | 11       |
+| 5       | 11           | 11              | 11              | 13           | 14                  | 10       |
+| 6       | 10           | 11              | 10              | 12           | 13                  | 9        |
+| 7       | 10           | 11              | 10              | 12           | 13                  | 8        |
+| 8       | 9            | 8               | 9               | 11           | 12                  | 7        |
+| 9       | 9            | 8               | 9               | 11           | 12                  | 6        |
+| 10      | 8            | 8               | 8               | 10           | 11                  | 5        |
 
-Questa tabelle non si integrano direttamente in White Box: se si volessero inserire come regola della casa, si dovrebbero eliminare i bonus di classe di White Box sui tiri salvezza (cioè i bonus elencati per ogni classe nella descrizione della classe, ma non i bonus razziali per i non umani).
+Queste tabelle non si integrano direttamente in *La Scatola Bianca*: se si volessero inserire come regola della casa, si dovrebbero eliminare i bonus di classe di *La Scatola Bianca* sui tiri salvezza (cioè i bonus elencati per ogni classe nella descrizione della classe, ma non i bonus razziali per i non umani).
 
-### Ricorda
+### Ricordate
 
-White Box è un gioco di ruolo freeform, il che significa che non ci sono molte regole. L'Arbitro ha la responsabilità di gestire le situazioni che non sono coperte dalle regole, facendo valutazioni corrette su ciò che i personaggi fanno e decidendo cosa succede come risultato. Questo non è un gioco in cui i giocatori sono "contro" l'Arbitro, anche se l'Arbitro è responsabile della creazione di trappole insidiose, situazioni pericolose e della gestione dei mostri e degli altri nemici che i PG incontreranno durante il gioco. In realtà, i giocatori e l'Arbitro collaborano tra loro per creare un'epopea fantasy, con l'Arbitro che crea l'ambientazione e i giocatori che sviluppano la storia degli eroi. Se non sono abili e intelligenti, l'epopea potrebbe essere molto breve. Ma non è compito dell'Arbitro sconfiggere i giocatori: è suo compito fornire sfide interessanti (e pericolose), e poi guidare la storia in modo equo.
+*La Scatola Bianca* è un gioco di ruolo in forma libera, il che significa che non ci sono molte regole. L'Arbitro ha la responsabilità di gestire le situazioni che non sono coperte dalle regole, facendo valutazioni corrette su ciò che i personaggi fanno e decidendo cosa succede come risultato. Questo non è un gioco in cui i giocatori sono "contro" l'Arbitro, anche se l'Arbitro è responsabile della creazione di trappole insidiose, situazioni pericolose e della gestione dei mostri e degli altri nemici che i PG incontreranno durante il gioco. In realtà, i giocatori e l'Arbitro collaborano tra loro per creare un'epopea fantasy, con l'Arbitro che crea l'ambientazione e i giocatori che sviluppano la storia degli eroi. Se non sono abili e intelligenti, l'epopea potrebbe essere molto breve. Ma non è compito dell'Arbitro sconfiggere i giocatori: è suo compito fornire sfide interessanti (e pericolose) e poi guidare la storia in modo equo.

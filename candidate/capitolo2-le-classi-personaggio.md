@@ -4,7 +4,7 @@ Ci sono quattro possibili Classi Personaggio nel gioco: il Chierico, il Guerrier
 
 ## Il Chierico
 
-I Chierici sono sacerdoti corazzati che servono un particolare allineamento, religione o divinità patrona. I giocatori possono inventare i dettagli se l'Arbitro non usa una particolare mitologia per la campagna. Se l'Arbitro è agli inizi, la mitologia e gli altri dettagli del mondo per la campagna spesso si sviluppano in un secondo momento.
+I Chierici sono sacerdoti corazzati che servono un particolare allineamento, religione o divinità patrona. I giocatori possono inventare i dettagli se l'Arbitro non usa una particolare mitologia per la campagna. Se l'Arbitro è agli inizi, la mitologia e gli altri dettagli del mondo per la campagna spesso si svilupperanno in un secondo momento.
 
 Il Chierico è un campione della sua fede e del suo allineamento morale. Il personaggio potrebbe essere un sinistro cacciatore di streghe, un esorcista di demoni, uno splendente cavaliere della fede, o un agente segreto della gerarchia del tempio. Poiché molte delle abilità del Chierico sono orientate alla guarigione e alla protezione, tendono a svolgere un ruolo di supporto durante il combattimento. Tuttavia, sono in grado di stare spalla a spalla con i guerrieri del gruppo, se necessario, almeno per un po'. I Chierici devono essere o Legali (buoni) o Caotici (malvagi); non esistono Chierici Neutrali, a meno che l'Arbitro non decida altrimenti.
 
@@ -36,7 +36,7 @@ I Chierici lanciano incantesimi divini da una specifica lista di incantesimi, co
 
 #### Tiro Salvezza
 
-I chierici ricevono un bonus di +2 ai tiri salvezza contro veleno e paralisi (a meno che non venga utilizzata l'alternativa "Matrice dei tiri salvezza").
+I Chierici ricevono un bonus di +2 ai tiri salvezza contro veleno e paralisi (a meno che non venga utilizzata l'alternativa "Matrice dei Tiri Salvezza").
 
 #### Scacciare i non-morti
 
@@ -85,7 +85,7 @@ Molti Arbitri permettono ai Chierici Caotici, così come ai Chierici Legali, di 
 
 ## Il Guerriero
 
-Il Guerriero è un soldato, addestrato alla battaglia e all'uso di armature e armi. Il tuo personaggio potrebbe essere un feroce predone vichingo, un samurai vagabondo o un cavaliere medievale. Poiché è la meglio equipaggiata tra tutte le classi personaggio a infliggere e assorbire danni, i Guerrieri finiscono spesso in prima linea, affrontando draghi, goblin e cultisti malvagi. Se sei il Guerriero del gruppo, il lavoro sporco spetta a te.
+Il Guerriero è un soldato, addestrato alla battaglia e all'uso di armature e armi. Il vostro personaggio potrebbe essere un feroce predone vichingo, un samurai vagabondo o un cavaliere medievale. Poiché è la meglio equipaggiata tra tutte le classi personaggio a infliggere e assorbire danni, i Guerrieri finiscono spesso in prima linea, affrontando draghi, goblin e cultisti malvagi. Se siete il Guerriero del gruppo, il lavoro sporco spetta a voi.
 
 #### Tabella 5: Avanzamento del Guerriero
 

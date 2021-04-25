@@ -114,18 +114,18 @@ Nel gioco originale, tutte le armi infliggono 1d6 danni, indipendentemente dal t
 | Lancia               | 1d6       | 1                      | 20'         | 10       | 2              |
 | Pietre (20)          | 1d6       | -                      | -           | 1        | 1              |
 
-\* La cadenza di fuoco è il numero di proiettili che possono essere sparati per round di combattimento
+\* La cadenza di fuoco è il numero di proiettili che possono essere tirati per round di combattimento
 
 † C'è un bonus "per colpire" di +2 per le armi a distanza utilizzate a breve corto raggio (x1), un bonus di +1 "per colpire" a medio raggio (x2) e nessun bonus o penalità penalità per gli attacchi a lunga distanza (x3)
 
 #### Tabella 13: Armatura
 
-| Armatura           | **Effetto sulla CA \[CAA\]** | **Peso (lb.)\*** | **Costo** |
-| ------------------ | ---------------------------- | ---------------- | --------- |
-| Armatura a piastre | -6 \[+6 \]                   | 75               | 50        |
-| Cotta di maglia    | -4 \[+4 \]                   | 50               | 30        |
-| Pelle              | -2 \[+2]                     | 25               | 15        |
-| Scudo              | -1 \[+1]                     | 10               | 10        |
+| Armatura           | **Effetto sulla CA \[CAA\]** | **Peso (lb.)\*** | **Costo (po)** |
+| ------------------ | ---------------------------- | ---------------- | -------------- |
+| Armatura a piastre | -6 \[+6 \]                   | 75               | 50             |
+| Cotta di maglia    | -4 \[+4 \]                   | 50               | 30             |
+| Pelle              | -2 \[+2]                     | 25               | 15             |
+| Scudo              | -1 \[+1]                     | 10               | 10             |
 
 \* A discrezione dell'Arbitro, l'armatura magica pesa la metà del suo peso normale o non pesa affatto.
 

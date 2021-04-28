@@ -1,4 +1,4 @@
-# Capitolo 3: Razze Personaggio
+# Capitolo 3: Razze
 
 In un mondo fantasy, gli umani spesso non sono soli. Gli elfi possono popolare le grandi foreste, i nani possono scavare le loro sale e miniere nel cuore della terra, e gli halfling possono risiedere nelle comode case di collina delle loro bucoliche contee. Al contrario, alcuni mondi fantasy descrivono una razza umana isolata contrapposta ad antichi mali preter-umani e alla cupa e selvaggia natura di mondi all'alba (o al crepuscolo) della civiltà umana stessa. Altri mondi fantasy, come terzo esempio, accentuano il bizzarro, con un'ampia varietà di razze fantasy a disposizione dei giocatori - tali mondi sono pieni di conflitti e contraddizioni, sempre con una nuova meraviglia da scoprire dietro il prossimo angolo. L'Arbitro determina quali razze non umane, se presenti, potete scegliere per i vostri personaggi.
 

@@ -116,7 +116,7 @@ Nel gioco originale, tutte le armi infliggono 1d6 danni, indipendentemente dal t
 
 \* La cadenza di fuoco è il numero di proiettili che possono essere tirati per round di combattimento
 
-† C'è un bonus "per colpire" di +2 per le armi a distanza utilizzate a breve corto raggio (x1), un bonus di +1 "per colpire" a medio raggio (x2) e nessun bonus o penalità penalità per gli attacchi a lunga distanza (x3)
+† È previsto un bonus "per colpire" di +2 per le armi a distanza utilizzate a breve corto raggio (x1), un bonus di +1 "per colpire" a medio raggio (x2) e nessun bonus o penalità penalità per gli attacchi a lunga distanza (x3)
 
 #### Tabella 13: Armature
 

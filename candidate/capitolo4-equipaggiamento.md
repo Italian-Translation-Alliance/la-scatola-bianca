@@ -10,7 +10,7 @@ Si presume che un equipaggiamento vario di livello "normale" pesi 10 libbre. Se 
 
 Nel gioco originale, tutte le armi infliggono 1d6 danni, indipendentemente dal tipo. *La Scatola Bianca* fornisce alcune leggere varianti. Per giocare il gioco originale come è stato scritto, ignorate semplicemente tutte le varianti nei danni delle armi - in tal caso tutte infliggono 1d6 danni indipendentemente dal fatto che l'arma sia una spada a due mani o un pugnale.
 
-#### Tabella 9: Equipaggiamento per l'Avventura
+#### Tabella 9: Equipaggiamento Vario
 
 | Oggetto                         | **Costo (po)** |
 | ------------------------------- | -------------- |
@@ -118,7 +118,7 @@ Nel gioco originale, tutte le armi infliggono 1d6 danni, indipendentemente dal t
 
 † C'è un bonus "per colpire" di +2 per le armi a distanza utilizzate a breve corto raggio (x1), un bonus di +1 "per colpire" a medio raggio (x2) e nessun bonus o penalità penalità per gli attacchi a lunga distanza (x3)
 
-#### Tabella 13: Armatura
+#### Tabella 13: Armature
 
 | Armatura           | **Effetto sulla CA \[CAA\]** | **Peso (lb.)\*** | **Costo (po)** |
 | ------------------ | ---------------------------- | ---------------- | -------------- |
@@ -153,7 +153,7 @@ Per tradurre tra i sistemi di CA ascendente e discendente, i valori di classe d'
 
 Molti personaggi, soprattutto all'inizio della loro carriera avventurosa, hanno bisogno di aiutanti per trasportare il bottino o per combattere i mostri. I personaggi sono liberi di pubblicare annunci e informarsi nelle taverne locali per trovare mercenari disponibili. I prezzi sono in pezzi d'oro e sono per una settimana di servizio.
 
-#### Tabella 14: Ingaggiare Gregari
+#### Tabella 14: Gregari
 
 | Tipo Gregario                                      | **Costo (po)** |
 | -------------------------------------------------- | -------------- |

@@ -74,11 +74,11 @@ Di seguito sono presentati tutti i mostri in ordine alfabetico.
 
 ### Anima Dannata
 
-*Classe Armatura*: 5 [14]
-*Dadi Vita*: 3
-*Attacchi*: Artiglio (vedi sotto)
-*Speciale*: Vedi sotto
-*Movimento*: 9
+*Classe Armatura*: 5 [14]  
+*Dadi Vita*: 3  
+*Attacchi*: Artiglio (vedi sotto)  
+*Speciale*: Vedi sotto  
+*Movimento*: 9  
 *DVE/PE*: 5/240
 
 Le anime dannate vivono in tombe, cimiteri e tumuli. Sono non-morti e quindi non sono influenzati dagli incantesimi di sonno o di ammaliamento. Le anime dannate sono immuni a tutte le armi non magiche, ad eccezione delle armi d'argento. Qualsiasi umano ucciso o che venga privato di tutti i livelli (1 livello per colpo) da un'anima dannata diventa una di esse.

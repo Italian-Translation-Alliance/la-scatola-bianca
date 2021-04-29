@@ -1,6 +1,6 @@
 # Capitolo 6: Incantesimi e Magia
 
-Chierici e Maghi sono le uniche classi che possono lanciare incantesimi. Gli incantesimi hanno tre fasi. La prima è la memorizzazione (un personaggio può memorizzare solo un certo numero di incantesimi da portare con sé durante un'avventura -- vedi la descrizione della classe del personaggio per vedere quanti ed a quale livello). Secondo, la preparazione, che è il processo di pronunciare le parole magiche e compiere i gesti magici. La terza, l'incantesimo è lanciato, quindi ha effetto e la magia si compie. Nella normale sequenza di combattimento, l'incantatore o l'incantatrice inizia a prepare all'inizio del round e lancia l'incantesimo quando il suo gruppo avrà l'iniziativa. Nella sequenza di combattimento laternativa, preparare un incantesimo richiede un intero round, ma gli incantesimi sono lanciati all'inizio del round successivo; l'incantatore può effettuare nel frattempo altre azioni durante il round, incluso prepare un incantesimo per il round successivo
+Chierici e Maghi sono le uniche classi che possono lanciare incantesimi. Gli incantesimi hanno tre fasi. La prima è la memorizzazione (un personaggio può memorizzare solo un certo numero di incantesimi da portare con sé durante un'avventura -- vedi la descrizione della classe del personaggio per vedere quanti ed a quale livello). Secondo, la preparazione, che è il processo di pronunciare le parole magiche e compiere i gesti magici. Nella terza, l'incantesimo è lanciato, quindi ha effetto e la magia si compie. Nella normale sequenza di combattimento, l'incantatore o l'incantatrice comincia a preparare all'inizio del round e lancia l'incantesimo quando il suo gruppo avrà l'iniziativa. Nella sequenza di combattimento alternativa, preparare un incantesimo richiede un intero round, ma gli incantesimi sono lanciati all'inizio del round successivo; l'incantatore può effettuare nel frattempo altre azioni durante il round, incluso preparare un incantesimo per il round successivo
 
 ## Incantesimi da Chierico
 
@@ -32,7 +32,7 @@ Chierici e Maghi sono le uniche classi che possono lanciare incantesimi. Gli inc
 | Missione                      |                                   |
 | Resurrezione dei Morti        |                                   |
 
-Il nome dell'incantesimo fra parentesi indica la versione caotica dell'incantesimo -- le conseguenze per Chierici Legali che usano incantesimi caotici sono determinate dall'Arbitro di Gioco. 
+Il nome dell'incantesimo fra parentesi indica la versione caotica dell'incantesimo -- le conseguenze per i Chierici legali che impiegano incantesimi caotici sono determinate dall'Arbitro di Gioco. 
 
 ## Lista degli Incantesimi Mago
 
@@ -91,9 +91,9 @@ Qui sono contenuti tutti gli incantesimi per Chierici e Maghi, in ordine alfabet
 **Raggio d'azione:** 72 metri
 **Durata:** 30 minuti
 
-L'incantatore deve annunciare quale delle due opzioni sara lanciata. Entrambe le ozpioni hanno 18 metri di raggio ad area di efffetto:
-- Come incantesimo di accellerazione, fino a 24 creature possono muoversi ed attaccare al doppio della normale velocità. 
-- Come incantesimo di rallentamento, fino a 24 crearture che falliscono il tiro salvezza si muovono ed attaccano a metà della velocità.
+L'incantatore deve annunciare quale delle due opzioni sarà lanciata. Entrambe le opzioni hanno 18 metri di raggio ad area di effetto:
+- Come incantesimo di accelerazione, fino a 24 creature possono muoversi ed attaccare al doppio della normale velocità. 
+- Come incantesimo di rallentamento, fino a 24 creature che falliscono il tiro salvezza si muovono ed attaccano a metà della velocità.
 ### Ammaliare Mostri
 **Livello:** M4
 **Raggio d'azione:** 18 metri
@@ -119,7 +119,7 @@ Questo incantesimo anima scheletri o zombie da corpi morti. 1d6 non-morti sono a
 
 L'incantatore deve annunciare quale delle due opzioni deve essere lanciata. Chi riceve l'incantesimo non può essere in combattimento nel momento in cui viene lanciato. 
 - Come incantesimo di Benedire, al ricevente viene garantito un bonus di +1 a tutti i ti d'attacco e, se il bersaglio non è un personaggio giocante, migliora il morale. 
-- Come incantesimo di Maledire, il ricevente è maledetto con una penalita di -1 a tutti gli attacchi, e se il bersaglio non è un personaggio giocante, soffre una diminuzione del morale.
+- Come incantesimo di Maledire, il ricevente è maledetto con una penalità di -1 a tutti gli attacchi, e se il bersaglio non è un personaggio giocante, soffre una diminuzione del morale.
 ### Bloccare Mostri
 **Livello:** M5
 **Raggio d'azione:** 36 metri
@@ -137,19 +137,19 @@ L'incantatore può bersagliare 1d4 persone (il tiro salvezza si applica) o può 
 **Raggio d'azione:** A discrezione dell'Arbitro
 **Durata:** 2d6 turni
 
-Questo incantesimo chiude una porta o un cancello magicamente per la durata dell'incantesimo (o finchd non viene dissolto). Le creature con resistenza magica possono frantuamre l'incantesimo senza alcuno sforzo.
+Questo incantesimo chiude una porta o un cancello magicamente per la durata dell'incantesimo (o finché non viene dissolto). Le creature con resistenza magica possono frantumare l'incantesimo senza alcuno sforzo.
 ### Comunione
 **Livello:** C5
 **Raggio d'azione:** Incantatore
 **Durata:** 3 domande
 
-Poteri più alti garantiscono rispeto a tre quesiti che l'incnatatore pone. Agli alti poteri non piace essere interrogati constantemente da meri mortali, quindi l'incantesimi dovrebbe essere limitato ad un lancio a settimana. L'Arbitro di gioco potrebbe concedere all'incantatore di lanciare un incantesimo di Comunione raffforzato da sei domande una volta l'anno.
+Poteri più alti garantiscono rispetto a tre quesiti che l'incantatore pone. Agli alti poteri non piace essere interrogati costantemente da meri mortali, quindi l'incantesimo dovrebbe essere limitato ad un lancio a settimana. L'Arbitro di gioco potrebbe concedere all'incantatore di lanciare un incantesimo di Comunione rafforzato da sei domande una volta l'anno.
 ### Confusione
 **Livello:** M4
 **Raggio d'azione:** 18 metri
 **Durata:** 2 ore
 
-Quest'incantesimo confode le persone ed i mostri, facendoli agire casualmente. Gli effetti della confusione possono mutare ogni 10 minuti; si tirano i dadi per determinare qualunque cambiamento. Tira 2d6 per determinare il comportamento della creatura:
+Quest'incantesimo confonde le persone ed i mostri, facendoli agire casualmente. Gli effetti della confusione possono mutare ogni 10 minuti; si tirano i dadi per determinare qualunque cambiamento. Tira 2d6 per determinare il comportamento della creatura:
 #### Tabella 29: Reazione Confusione
 | Tiro |                  Reazione                  |
 |:----:|:------------------------------------------:|
@@ -162,7 +162,7 @@ L'incantesimo affligge 2d6 creature, più un numero addizionale di creature per 
 **Raggio d'azione:** 72 metri
 **Durata:** Vedi tabella
 
-L'incantatore crea un contatto mentale con i piani, le forze, i poteri e le geomtrie dell'aldilà, affinché riceva risposte positive e negative alle domande che lo interessano. L'effetto dell'incantesimo dipende da quanto profondamente l'incantatore desidera inoltrarsi nel piano di esistenza. Tirare 1d20 nella tabella sotto. 
+L'incantatore crea un contatto mentale con i piani, le forze, i poteri e le geometrie dell'aldilà, affinché riceva risposte positive e negative alle domande che lo interessano. L'effetto dell'incantesimo dipende da quanto profondamente l'incantatore desidera inoltrarsi nel piano di esistenza. Tirare 1d20 nella tabella sotto. 
 #### Tabella 30: Contattare altri Piani
 | Piano (1)| Follia (2) | Giusto | Sbagliato (3) |
 |:---------:|:----------:|:------:|:-------------:|
@@ -173,8 +173,8 @@ L'incantatore crea un contatto mentale con i piani, le forze, i poteri e le geom
 |     5     |    1-10    |  11-18 |     19-20     |
 |     6     |    1-12    |  13-19 |       20      |
 
-1. I Piani sono la "profondita' a cui l'incantatore decide di cercare la verità; numero di domande Sì/No a cui ci sarà risposta. 
-2. La Follia temporanea dura per un numero di settimane pari alla profondita del piano dove la sanità mentale dell'incantatore e ceduta.
+1. I Piani sono la "profondità' a cui l'incantatore decide di cercare la verità; numero di domande Sì/No a cui ci sarà risposta. 
+2. La Follia temporanea dura per un numero di settimane pari alla profondità del piano dove la sanità mentale dell'incantatore e ceduta.
 3. Questo rappresenta la possibilità di sbagliarsi o fraintendere la risposta. 
 ### Controllo Atmosferico
 **Livello:** M6
@@ -188,14 +188,14 @@ L'incantatore evoca o ferma la pioggia, i tornado, crea basse o alte temperature
 **Durata:** Istantaneo 
 
 - Come incantesimo di Curare Malattie, il ricevente è curato da qualunque malattia -- incluse quelle inflitte con la magia.
-- Come incantesimo di Causare Malattie, il ricente è afflitto da un a malattia che l'Arbitro di gioco deve determinare.
+- Come incantesimo di Causare Malattie, il ricevente è afflitto da un a malattia che l'Arbitro di gioco deve determinare.
 ### Curare (Causare) Ferite Leggere
 **Livello:** C1
 **Raggio d'azione:** Tocco
 **Durata:** Istantaneo
 
 - Come Cura Ferite Leggere, l'incantatore cura 1d6+1 PF.
-- COme Causare Ferite Leggere, l'incantatore causa 1d6+1 PF.
+- Come Causare Ferite Leggere, l'incantatore causa 1d6+1 PF.
 ### Curare (Causare) Ferite Gravi
 **Livello:** C4
 **Raggio d'azione:** Tocco
@@ -224,7 +224,7 @@ L'incantesimo può influenzare fino a 27 metri quadrati di terreno; il manto erb
 ### Dardo Elettrico
 **Livello:** M3
 **Raggio d'azione:** 27 metri
-**Durata:** Instantaneo
+**Durata:** Istantaneo
 
 Un dardo di quasi 3 metri di larghezza si estende per 18 metri dalle dita dell'incantatore. Chiunque nel suo cammino soffre di 1d6 punti di danno per livello dell'incantatore, anche se un successo su di un tiro salvezza dimezza il danno. Il dardo si estende sempre per 18 metri, anche se questo significa che può rimbalzare all'indietro su qualcosa che blocca il suo cammino.
 ### Disintegrare 
@@ -232,7 +232,7 @@ Un dardo di quasi 3 metri di larghezza si estende per 18 metri dalle dita dell'i
 **Raggio d'azione:** 18 metri
 **Durata:** Permanente
 
-L'incnatesimo definisce un bersaglio specifico come una porta, un popolano, o una statua e lo disintegra in polvere. I materiali magici non sono disintegrabili, e alle creature viventi (come i già menzionati popolani) è concesso un tiro salvezza. L'incantesimo Disintegrate non può essere dissolto.
+L'incantesimo definisce un bersaglio specifico come una porta, un popolano, o una statua e lo disintegra in polvere. I materiali magici non sono disintegrabili, e alle creature viventi (come i già menzionati popolani) è concesso un tiro salvezza. L'incantesimo Disintegrate non può essere dissolto.
 ### Dissolvere il Caos (la Legge)
 **Livello:** C5
 **Raggio d'azione:** 9 metri
@@ -249,19 +249,19 @@ Dissolvi Magie può essere usato per dissolvere completamente gran parte di inca
 
 Come esempio di come un arbitro possa gestire questo incantesimo, la probabilità di dissolvere la magia può essere una percentuale basata sul rapporto del livello dell'incantatore che prova a dissolvere e del livello (o DV del mostro) che ha scagliato l'incantesimo
 
-Così, un Mago di 6° livello che tentasse di dissolvere un ammaliamento di un Mago di 12° livello avrebbe il 50% di possibilita di riuscita (6/12=1/2). Se il Mago di 12° livello tentasse di dissolvere l'incantesimo del Mago di 6° livello, la probabilità dell'incantatore di dissolvere sarebbe il 200% (12/6=2).
+Così, un Mago di 6° livello che tentasse di dissolvere un ammaliamento di un Mago di 12° livello avrebbe il 50% di possibilità di riuscita (6/12=1/2). Se il Mago di 12° livello tentasse di dissolvere l'incantesimo del Mago di 6° livello, la probabilità dell'incantatore di dissolvere sarebbe il 200% (12/6=2).
 ### Evocare Elementale
 **Livello:** M5
 **Raggio d'azione:** 36	 metri
 **Durata:** Finché viene dissolto
 
-L'incantatore evoca un elmentale di 16 DV (di qualunque tipo) dal piano elementale di esistenza, e lo vincola ai suoi comandi. Ogni tipo di elementale può essere evocato solo una volta al giorno. L'elementale obbedisce all'incantatore finché l'incantatore si concentra su di esso; quando l'incantatore cessa di concentrarsi, anche per un solo istante, l'elementale si libera ed attacca.
+L'incantatore evoca un elementale di 16 DV (di qualunque tipo) dal piano elementale di esistenza, e lo vincola ai suoi comandi. Ogni tipo di elementale può essere evocato solo una volta al giorno. L'elementale obbedisce all'incantatore finché l'incantatore si concentra su di esso; quando l'incantatore cessa di concentrarsi, anche per un solo istante, l'elementale si libera ed attacca.
 ### Forza Fantasma
 **Livello:** M2
 **Raggio d'azione:** 72 metri
 **Durata:** Finché non viene negata o dissolta
 
-Questo incantesimo crea un'illusione realistica di fronte a chi lo osserva. L'illusione scompare quando viene toccata, ma se l'osservatore crede che l'illusione sia vera potra ricevere danno da essa.
+Questo incantesimo crea un'illusione realistica di fronte a chi lo osserva. L'illusione scompare quando viene toccata, ma se l'osservatore crede che l'illusione sia vera potrà ricevere danno da essa.
 ### Individuare Caos (Legge)
 **Livello:** C1, M2
 **Raggio d'azione:** 36 metri (C), 18 metri (M)
@@ -298,7 +298,7 @@ Identico all'incantesimo Invisibilità, il quale rende la creatura o l'oggetto b
 **Raggio d'azione:** 18 metri
 **Durata:** 2 ore
 
-L'incantatore può individuare i pensieri degli altri esseri. L'incantesimo non può penetrare più di 60 centimetri di piera ed è bloccato anche dal più sottile strato di piombo.
+L'incantatore può individuare i pensieri degli altri esseri. L'incantesimo non può penetrare più di 60 centimetri di pietra ed è bloccato anche dal più sottile strato di piombo.
 ### Leggere Linguaggi
 **Livello:** M1
 **Raggio d'azione:** Distanza per leggere
@@ -332,20 +332,20 @@ Questo incantesimo indica all'incantatore la direzione corretta (in linea d'aria
 **Durata:** 2 ore (C), 1 ora + 10 minuti per livello
 
 - Come incantesimo di Luce, l'incantatore bersaglia una persona od un oggetto il quale comincia a produrre luce brillante quanto una torcia con un raggio di 6 metri.
-- Come incantesimo di Oscurità, l'incantatore causa un'oscurita come la notte entro l'area di un raggio di 6 metri.
+- Come incantesimo di Oscurità, l'incantatore causa un'oscurità come la notte entro l'area di un raggio di 6 metri.
 ### Luce (Oscurità), Continuo
 **Livello:** C3, M2
 **Raggio d'azione:** 36 metri
 **Durata:** Permanente finché non viene dissolto
 
 - Come incantesimo di Luce, l'incantatore bersaglia una persona od un oggetto il quale comincia a produrre luce brillante quanto una torcia con un raggio di 6 metri.
-- Come incantesimo di Oscurità, l'incantatore causa un'oscurita come la notte entro l'area di un raggio di 6 metri.
+- Come incantesimo di Oscurità, l'incantatore causa un'oscurità come la notte entro l'area di un raggio di 6 metri.
 ### Missione
 **Livello:** C5, M6
 **Raggio d'azione:** 9 metri
 **Durata:** Finché completo
 
-Se la vittima fallisce il tiro salvezza, l'incantatore può affidargli un compito. Se il Mago lancia questo incantesimo la vittima morirà se ignorerà toltamente la missione. Se un Chierico lancia questo incantesimo il fallimento della creatura nell'obbedire risulterà in una maledizione che l'Arbitro di gioco dovrà determinare. 
+Se la vittima fallisce il tiro salvezza, l'incantatore può affidargli un compito. Se il Mago lancia questo incantesimo la vittima morirà se ignorerà totalmente la missione. Se un Chierico lancia questo incantesimo il fallimento della creatura nell'obbedire risulterà in una maledizione che l'Arbitro di gioco dovrà determinare. 
 ### Muovere Acqua
 **Livello:** M6
 **Raggio d'azione:** 72 metri
@@ -367,7 +367,7 @@ Questo incantesimo può essere usato solo al di sopra del terreno. Permette all'
 
 L'incantatore deve annunciare quale delle due opzioni viene lanciata:
 - Come incantesimo di Muro di Fuoco, l'incantatore evoca un muro di fuoco che si agita e brucia fintanto che l'incantatore si concentra. Le creature con 3 dadi vita o meno non possono oltrepassarla, e nessuna creatura può vedere cosa ci sia dall'altro lato. Passare attraverso le fiamme infligge 1d6 punti ferita di danno (nessun tiro salvezza) e le creature non-morte subiscono il doppio del danno.
--Come incantesimo di Muro di Ghiaccio, l'incantatore evoca un muro di ghiaccio spesso fino a 1,8 metri. L'incantatore può scegliere di creare un muro lungo 18 metri ed alto 6 metri, od un muro circolare di 4,5 metri di raggio alto anche 6 metri. Le creature con 3 dadi vita o meno non possono sfondare il muro, ma creature con 4 o più dadi vita possono buttarlo giù, prendendo 1d6 danni nel mentre. Le creature con un metabolismo bassato sul fuoco prendono 2d6 danni invece che un normale 1d6. Gli incatesimi di fuoco e gli effetti magici sono negati in prossimità del muro. 
+-Come incantesimo di Muro di Ghiaccio, l'incantatore evoca un muro di ghiaccio spesso fino a 1,8 metri. L'incantatore può scegliere di creare un muro lungo 18 metri ed alto 6 metri, od un muro circolare di 4,5 metri di raggio alto anche 6 metri. Le creature con 3 dadi vita o meno non possono sfondare il muro, ma creature con 4 o più dadi vita possono buttarlo giù, prendendo 1d6 danni nel mentre. Le creature con un metabolismo basato sul fuoco prendono 2d6 danni invece che un normale 1d6. Gli incantesimi di fuoco e gli effetti magici sono negati in prossimità del muro. 
 ### Muro di Pietra o Ferro
 **Livello:** M5
 **Raggio d'azione:** 18 metri
@@ -410,12 +410,12 @@ Un proiettile parte dalle dita dell'incantatore per esplodere presso il bersagli
 **Livello:** C2
 **Raggio d'azione:** 9 metri
 **Durata:** 1 ora
-L'incantatore può parlare con gli animali entro il raggio d'azione. C'e la possibilità che gli animali lo assistano, e che non attaccheranno né lui né i suoi alleato (a meno che non dica qualcosa di particolarmente offensivo). 
+L'incantatore può parlare con gli animali entro il raggio d'azione. C'è la possibilità che gli animali lo assistano, e che non attaccheranno né lui né i suoi alleato (a meno che non dica qualcosa di particolarmente offensivo). 
 ### Parlare con le Piante
 **Livello:** C4
 **Raggio d'azione:** 9 metri
 **Durata:** 1 ora
-L'incantatore può parlare alle piante e comprendere le loro risposte. Le piante obbediranno ai suoi comandi nei limit del possibile (per esempio, girarsi o piegarsi di lato per faciliatre il passaggio).
+L'incantatore può parlare alle piante e comprendere le loro risposte. Le piante obbediranno ai suoi comandi nei limiti del possibile (per esempio, girarsi o piegarsi di lato per facilitare il passaggio).
 ### Passapareti
 **Livello:** M5
 **Raggio d'azione:** 9 metri
@@ -427,7 +427,7 @@ Questo incantesimo crea un buco attraverso la roccia solida. Il foro o tunnel ra
 **Raggio d'azione:** 144 metri
 **Durata:** 1 giorno
 
-Questo incantesimo funziona solo negli spazi aprti all'esterno. Uno sciame di insetti si riunisce, e va laddove l'incantatore desidera. La nube è larga approssimativamente 120 metri quadrati (6x6 metri e alto lo stesso). Qualunque creatura con meno di 2 DV esposta alla nube di insetti fuggirà terrorizzata (niente tiro salvezza). 
+Questo incantesimo funziona solo negli spazi aperti all'esterno. Uno sciame di insetti si riunisce, e va laddove l'incantatore desidera. La nube è larga approssimativamente 120 metri quadrati (6x6 metri e alto lo stesso). Qualunque creatura con meno di 2 DV esposta alla nube di insetti fuggirà terrorizzata (niente tiro salvezza). 
 ### Polimorfismo
 **Livello:** M4
 **Raggio d'azione:** Vedi sotto
@@ -435,13 +435,13 @@ Questo incantesimo funziona solo negli spazi aprti all'esterno. Uno sciame di in
 
 L'incantatore deve annunciare quale delle due opzioni sarà lanciata:
 - L'incantatore assume la forma di un qualunque oggetto o creatura, ottenendo gli attributi della nuova forma (l'uso delle ali, per esempio), ma non i suoi punti ferita o abilità combattive. L'Arbitro di gioco potrebbe permettere come beneficio la Classe Armatura della nuova forma, se questa ha una pelle pesantemente corazzata. Buona parte degli effetti dell'incantesimo è lasciata a discrezione dell'Arbitro di gioco. Questa forma dell'incantesimo dura almeno un'ora più una addizionale per ogni livello dell'incantatore
-- Alternativamente, questo incantesimo permette all'incantore di trasformare un altro essere in un tipo differente di creatura (come un drago, una lumaca da giardino, e certamente, un rospo o una salamandra). La creatura trasformata guadagna tutte le abilita della forma, ma mantiene la sua coscienza ed i suoi punti ferita. Usato in tal modo, il raggio dell'incantesimo e di 18 metri. Questa versione dell'incantesimo dura finché non viene dissolta.
+- Alternativamente, questo incantesimo permette all'incantatore di trasformare un altro essere in un tipo differente di creatura (come un drago, una lumaca da giardino, e certamente, un rospo o una salamandra). La creatura trasformata guadagna tutte le abilita della forma, ma mantiene la sua coscienza ed i suoi punti ferita. Usato in tal modo, il raggio dell'incantesimo e di 18 metri. Questa versione dell'incantesimo dura finché non viene dissolta.
 ### Portale Dimensionale 
 **Livello:** M4
 **Raggio d'azione:** 3 metri lancio, 108 metri distanza massima.
 **Durata:** Istantanea
 
-Portale Dimensionale è una forma minore dell'incantesimo Teletrasporto che può essere gestita da maghi meno potenti. L'incantatore può teletraportare se stesso, un oggetto, o un'altra persona con precisione perfetto alla locazione prescelta, ammesso che sia nel raggio dell'incantesimo.
+Portale Dimensionale è una forma minore dell'incantesimo Teletrasporto che può essere gestita da maghi meno potenti. L'incantatore può teletrasportare se stesso, un oggetto, o un'altra persona con precisione perfetto alla locazione prescelta, ammesso che sia nel raggio dell'incantesimo.
 ### Proiettare Immagine
 **Livello:** M6
 **Raggio d'azione:** 72 metri
@@ -452,7 +452,7 @@ L'incantatore proietta l'immagine della sua persona fino ad un massimo di 72 met
 **Raggio d'azione:** Solo incantatore
 **Durata:** 2 ore (C), 1 ora (M)
 
-- Come incantesimo di Protezione dal Caos, l'incantatore crea un campo magico di protezione intorno a sé stesso per bloccare tutti i mostri caotici, i quali soffrono una penalità a colpire contro l'incantatore; l'incantore guadagna un +1 su tutti i tiri salvezza contro questi attacchi.
+- Come incantesimo di Protezione dal Caos, l'incantatore crea un campo magico di protezione intorno a sé stesso per bloccare tutti i mostri caotici, i quali soffrono una penalità a colpire contro l'incantatore; l'incantatore guadagna un +1 su tutti i tiri salvezza contro questi attacchi.
 - Come Incantesimo di Protezione dalla Legge, fa la stessa cosa eccezion fatta che le creture legali soffrono la penalità di -1. 
 ### Protezione dal Caos (dalla Legge), raggio 3 metri
 **Livello:** C4, M3
@@ -478,7 +478,7 @@ Il ricevente diventa invulnerabile a proiettili non-magici di piccole dimensioni
 **Livello:** M2
 **Raggio d'azione:** 9 metri
 **Durata:** 8 ore
-Ragnatele appicicose e fibrose riempiono un'area fino a 3 x 3 x 6 metri. è estremamente difficile attraversa la massa di fili -- necessita un turno se una torcia ed una spada (o una spada fiammeggiante) sono impiegate, e le creature più larghe di un cavallo possono sfondare attraverso in 2 turni. Gli umani impiegano più tempo per attraversalo -- probabilmente dai 3 ai 4 o più turni a discrezione dell'Arbitro di Gioco.
+Ragnatele appiccicose e fibrose riempiono un'area fino a 3 x 3 x 6 metri. è estremamente difficile attraversa la massa di fili -- necessita un turno se una torcia ed una spada (o una spada fiammeggiante) sono impiegate, e le creature più larghe di un cavallo possono sfondare attraverso in 2 turni. Gli umani impiegano più tempo per attraversalo -- probabilmente dai 3 ai 4 o più turni a discrezione dell'Arbitro di Gioco.
 ### Regressione Mentale
 **Livello:** M5
 **Raggio d'azione:** 72 metri
@@ -590,7 +590,7 @@ L'incantesimo trasporta l'incantatore od un'altra persona alla destinazione che 
 **Raggio d'azione:** 36 metri
 **Durata:** Permanente finché non viene invertito
 
-Questo incantesimo traforma la carne in pietra o pietra in carne, come desiderato dall'incantatore. Un tiro salvezza è concesso per evitare di essere tramutato in roccia, ma se l'incantesimo riesce la vittima viene trasformata in una statua. 
+Questo incantesimo trasforma la carne in pietra o pietra in carne, come desiderato dall'incantatore. Un tiro salvezza è concesso per evitare di essere tramutato in roccia, ma se l'incantesimo riesce la vittima viene trasformata in una statua. 
 ### Trasforma Roccia in Fango
 **Livello:** M5
 **Raggio d'azione:** 36 metri
@@ -602,7 +602,7 @@ L'incantesimo trasforma la roccia (e qualunque altra forma di terreno) in fango,
 **Raggio d'azione:** 9 metri
 **Durata:** 1 ora
 
-L'incantatore può tramutare fino a 2d8 bastoni ordinari in serpenti, ognuno ha la possibilita del 50% di essere velenoso. I serpenti seguono i suoi comandi, ma tornano ad essere bastoni alla fine dell'incantesimo o quando vengono uccisi. 
+L'incantatore può tramutare fino a 2d8 bastoni ordinari in serpenti, ognuno ha la possibilità del 50% di essere velenoso. I serpenti seguono i suoi comandi, ma tornano ad essere bastoni alla fine dell'incantesimo o quando vengono uccisi. 
 ### Trovare Trappole
 **Livello:** C2
 **Raggio d'azione:** 9 metri
@@ -616,7 +616,7 @@ Trovare Trappole permette all'incantatore di percepire trappole sia magiche sia 
 
 L'incantesimo sposta l'essenza vitale dell'incantatore, la sua intelligenza e la sua anima in un oggetto (virtualmente può essere di qualunque tipo). Il "vaso" deve essere entro 9 metri dal corpo dell'incantatore affinché l'incantesimo abbia successo.
 
-Una volta all'interno del vaso magico, l'incantatore può possedere i corpi di altre creature e persone, ammesso che siano entro 36 metri dall vaso e falliscano un tiro salvezza. L'incantatore può ritornare la sua anima al vaso magico in ogni momento, e se il corpo che controlla viene ucciso, la sua essenza vitale torna immediatamente al vaso. Se il corpo dell'incantatore viene ucciso mentre la sua anima e nel vaso magico, l'anima non ha più una casa al di là del vaso magico (anche se il mago senza corpo può ancora possedere corpi come prima). Se il vaso magico stesso viene dristrutto mentre l'anima del mago e all'interno, l'anima e persa. Il mago può tornare dal vaso magico al proprio corpo in qualunque momento, ponendo fine così all'incantesimo.
+Una volta all'interno del vaso magico, l'incantatore può possedere i corpi di altre creature e persone, ammesso che siano entro 36 metri dal vaso e falliscano un tiro salvezza. L'incantatore può ritornare la sua anima al vaso magico in ogni momento, e se il corpo che controlla viene ucciso, la sua essenza vitale torna immediatamente al vaso. Se il corpo dell'incantatore viene ucciso mentre la sua anima e nel vaso magico, l'anima non ha più una casa al di là del vaso magico (anche se il mago senza corpo può ancora possedere corpi come prima). Se il vaso magico stesso viene distrutto mentre l'anima del mago e all'interno, l'anima e persa. Il mago può tornare dal vaso magico al proprio corpo in qualunque momento, ponendo fine così all'incantesimo.
 ### Volare
 **Livello:** M3
 **Raggio d'azione:** Tocco

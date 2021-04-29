@@ -6,7 +6,7 @@ Riproduce le regole e le meccaniche del "Gioco di Ruolo Fantasy Originale" pubbl
 
 ### Cos'è un gioco di ruolo?
 
-Un gioco di ruolo, abbreviato spesso in GDR o RPG (dall'inglese role-playing game), è un gioco in cui i giocatori, assumendo il ruolo di uno o più personaggi e tramite la conversazione e lo scambio dialettico, creano uno spazio immaginato dove avvengono fatti ed eventi fittizi in un'ambientazione narrativa che può ispirarsi a un romanzo, a un film o a un'altra fonte creativa, storica, realistica o di pura invenzione. Le regole di un gioco di ruolo indicano come, quando e in che misura, ciascun giocatore può influenzare lo spazio immaginato.
+Un gioco di ruolo, abbreviato spesso in GDR o RPG (dall'inglese role-playing game), è un gioco in cui i giocatori, assumendo il ruolo di uno o più personaggi e tramite la conversazione e lo scambio dialettico, creano uno spazio immaginato dove avvengono fatti ed eventi fittizi in un'ambientazione narrativa che può ispirarsi a un romanzo, a un film o a un'altra fonte creativa, storica, realistica o inventata. Le regole di un gioco di ruolo indicano come, quando e in che misura, ciascun giocatore può influenzare lo spazio immaginato.
 
 Un giocatore detto Arbitro conduce la sessione di gioco, crea l'ambientazione e le situazioni in cui si trovano i loro personaggi, chiedendo loro cosa intendono fare. I giocatori dichiarano le azioni che compiono i loro personaggi, descrivendole o recitandole. L'Arbitro decide quindi il risultato di queste azioni, in coerenza con l'ambientazione e le regole del gioco. Le azioni intraprese nel gioco hanno successo o falliscono secondo un sistema di regole formali e di linee guida.
 

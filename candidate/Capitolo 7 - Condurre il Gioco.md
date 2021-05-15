@@ -120,6 +120,37 @@ Per la classe dei personaggi incontrati, tirare un d6 per il loro allineamento: 
 |  11  |           Stirge           |     Chierico, livello 2    |      Demone, Folletto     |
 |  12  | Scarabeo, di Fuoco Gigante |         Elfo, Scuro        |        Elfo, Scuro        |
 
+| Tiro |       Livello 4      |      Livello 5      |      Livello 6     |
+|:----:|:--------------------:|:-------------------:|:------------------:|
+|   1  |   Segugio Infernale  |  Segugio Infernale  |  Segugio Infernale |
+|   2  |  Millepiede, Gigante |         Idra        |    Drago, Bianco   |
+|   3  |     Doppelganger     |    Drago, Bianco    |     Drago, Nero    |
+|   4  |       Gargoyle       |      Coccatrice     |        Idra        |
+|   5  |    Cubo Gelatinoso   |     Muffa Gialla    |      Basilisco     |
+|   6  |         Worg         |        Mummia       | Cane Intermittente |
+|   7  |      Apparizione     |         Orco        |       Medusa       |
+|   8  |         Orco         |      Orco Mago      |       Spettro      |
+|   9  | Guerriero, livello 4 | Guerriero,livello 5 |        Troll       |
+|  10  |  Chierico,livello 4  | Chierico, livello 5 |   Mago, livello 5  |
+|  11  |    Mago, livello 3   |   Mago, livello 4   |  Ladro, livello 6  |
+|  12  |   Ladro, livello 4   |   Ladro, livello 5  |        Sidhe       |
+
+| Tiro |     Livello 7     |         Livello 8        |       Livello 9      |       Livello 10      |
+|:----:|:-----------------:|:------------------------:|:--------------------:|:---------------------:|
+|   1  |     Minotauro     | Licantropo, Orso Mannaro |         Idra         |          Idra         |
+|   2  | Segugio Infernale |           Idra           |      Drago, Blu      |          Lich         |
+|   3  |        Idra       |        Drago, Blu        |      Drago, Nero     |      Drago, Rosso     |
+|   4  |   Drago, Bianco   |        Drago, Nero       |     Drago, Verde     |       Drago, Oro      |
+|   5  |    Drago, Nero    |       Drago, Verde       |     Drago, Rosso     |   Sanguinaccio Nero   |
+|   6  |    Drago, Verde   |          Vampiro         |        Chimera       |    Elementale, Aria   |
+|   7  |      Banshee      |     Elementale, Aria     |     Demone, Balor    |   Elementale, Terra   |
+|   8  |      Vampiro      |     Elementale, Terra    |        Vampiro       |   Elementale, Fuoco   |
+|   9  |  Demone, Succube  |     Elementale, Fuoco    | Guerriero, livello 9 |   Elementale, Acqua   |
+|  10  |     Salamandra    |     Elementale, Acqua    |  Chierico, livello 9 | Cavaliere della Morte |
+|  11  |      Viverna      |          Gorgone         |    Mago, livello 8   |    Lumaca, Gigante    |
+|  12  |      Dijinni      |  Inseguitore Invisibile  |   Ladro, livello 9   |      Verme Viola      |
+
+### Tabelle degli Incontri nelle Terre Selvagge per Tipo di Terreno
 
 
 

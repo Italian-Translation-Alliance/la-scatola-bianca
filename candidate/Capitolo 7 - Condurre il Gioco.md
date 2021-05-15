@@ -58,9 +58,67 @@ Tirare 1d6 due volte per esagono per vedere se i personaggi si sono persi oppure
 
 ### Velocità di Movimento per Mezzo di Trasporto
 #### Tabella 35: Movimento su Terra
+|     Trasporto     | Velocità Movimento | Esagoni al Giorno |
+|:-----------------:|:------------------:|:-----------------:|
+|   Nano/Halfling   |          9         |        3/2        |
+|     Umano/Elfo    |         12         |         2         |
+|   Cavallo, Soma   |         12         |         2         |
+|   Cavallo, Monta  |         24         |         4         |
+| Cavallo da Guerra |         18         |         3         |
+|        Mulo       |         12         |         2         |
+|       Carro       |          6         |         1         |
 #### Tabella 36: Movimento in Acqua
+|       Trasporto       | Velocità Movimento | Esagoni al Giorno |
+|:---------------------:|:------------------:|:-----------------:|
+|         Barca         |          6         |         1         |
+|     Galea, Piccola    |         12         |         2         |
+|      Galea Grande     |         18         |         3         |
+| Nave a Vela (piccola) |         18         |         3         |
+|  Nave a Vela (grande) |         12         |         2         |
+|     Nave da guerra    |          6         |         1         |
 #### Tabella 37: Movimento in Aria
-* La velocità di movimento è a bassa altitudine. Altitudini più late raddoppiano la velocità. 
+|      Trasporto     | Velocità Movimento* | Esagoni al Giorno |
+|:------------------:|:-------------------:|:-----------------:|
+|  Dragone, Giovane  |          18         |         3         |
+|   Dragone, Adulto  |          24         |         4         |
+| Dragone, Fortunato |          96         |         12        |
+|   Tappeto Volante  |          24         |         4         |
+|       Grifone      |          30         |         5         |
+|      Ippogrifo     |          36         |         6         |
+|       Pegaso       |          42         |         7         |
+|         Roc        |          48         |         8         |
+*La velocità di movimento è a bassa altitudine. Altitudini più late raddoppiano la velocità. 
+### Tabella Incontri nei Sotterranei per Livello
+#### Tabella 38: Incontri Sotterranei
+| Livello Incontro (Tirare 1d6)<br>----<br>Livello Sotterraneo |  1  |  2  |  3  |  4  |  5  |  6  |  7  |  8  |  9  |  10 |
+|:------------------------------------------------------------:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|                               1                              | 1-3 | 4-5 |  6  |     |     |     |     |     |     |     |
+|                               2                              |  1  | 2-4 | 5-6 |     |     |     |     |     |     |     |
+|                               3                              |     |  1  | 2-4 | 5-6 |     |     |     |     |     |     |
+|                               4                              |     |     |  1  | 2-4 | 5-6 |     |     |     |     |     |
+|                               5                              |     |     |     |  1  | 2-4 | 5-6 |     |     |     |     |
+|                               6                              |     |     |     |     |  1  | 2-4 |  5  |  6  |     |     |
+|                               7                              |     |     |     |     |     |  1  | 2-4 |  5  |  6  |     |
+|                               8                              |     |     |     |     |     |     | 1-2 | 3-5 |  6  |     |
+|                               9                              |     |     |     |     |     |     |     | 1-2 | 3-5 |  6  |
+|                              10+                             |     |     |     |     |     |     |     |  1  | 2-3 | 4-6 |
+
+Per la classe dei personaggi incontrati, tirare un d6 per il loro allineamento: 1-3 = Caotico, 4-5 Neutrale, 6 = Legale. La classe del personaggio può essere una qualunque delle razze o delle opzioni aggiuntive; l'Arbitro di Gioco può scegliere un umanoide. Per esempio, invece di essere un Umano Guerriero di livello 5, potrebbe essere un Orco Guerriero di livello 5. 
+### Livello degli Incontri
+| Tiro |          Livello 1         |          Livello 2         |         Livello 3         |
+|:----:|:--------------------------:|:--------------------------:|:-------------------------:|
+|   1  |           Coboldi          | Scarabeo, di Fuoco Gigante |       Demone, Lemure      |
+|   2  |          Scheletro         |     Millepiedi, Gigante    |        Melma Grigia       |
+|   3  |       Ratto, Gigante       |            Ghoul           |           Arpia           |
+|   4  |           Goblin           |            Gnoll           | Licantropo, Ratto Mannaro |
+|   5  |            Gnomo           |       Uomo Lucertola       |  Licantropo, Lupo Mannaro |
+|   6  |          Orchetti          |       Ragno, Gigante       |       Anima Dannata       |
+|   7  |           Zombie           |          Hobgoblin         |          Bugbear          |
+|   8  |            Nano            |      Umano, Berserker      |           Ombra           |
+|   9  |            Elfo            |       Umano, Bandito       |    Guerriero, livello 3   |
+|  10  |          Hobgoblin         |    Guerriero, livello 2    |      Mago, livello 2      |
+|  11  |           Stirge           |     Chierico, livello 2    |      Demone, Folletto     |
+|  12  | Scarabeo, di Fuoco Gigante |         Elfo, Scuro        |        Elfo, Scuro        |
 
 
 

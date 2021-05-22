@@ -61,8 +61,8 @@ Per i Chierici allineati legalmente, se la tabella indica una "D" allora la crea
 #### Tabella 4: Scacciare i non-morti
 
 |     |             |Livello del Chierico|     |     |     |     |     |     |     |     |     |
-| DV  | Esempio     | 1                  | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  |
 | --- | ----------- | ------------------ | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| DV  | Esempio     | 1                  | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  |
 | <1  | Scheletro   | 10                 | 7   | 4   | D   | D   | D   | D   | D   | D   | D   |
 | 1   | Zombie      | 13                 | 10  | 7   | 4   | D   | D   | D   | D   | D   | D   |
 | 2   | Ghoul       | 15                 | 13  | 10  | 7   | 4   | D   | D   | D   | D   | D   |

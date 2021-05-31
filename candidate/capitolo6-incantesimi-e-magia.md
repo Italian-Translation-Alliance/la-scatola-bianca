@@ -101,7 +101,7 @@ L'incantatore deve annunciare quale delle due opzioni sarà lanciata. Entrambe l
 - Come incantesimo di rallentamento, fino a 24 creature che falliscono il tiro salvezza si muovono ed attaccano a metà della velocità.
 
 ### Ammaliare Mostri
-*Livello:* M4
+*Livello:* M4  
 *Raggio d'azione:* 60'  
 *Durata:* Finché non viene dissolto  
 

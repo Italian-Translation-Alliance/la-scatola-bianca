@@ -10,7 +10,7 @@ Si presume che un equipaggiamento vario di livello "normale" pesi 10 libbre. Se 
 
 Nel gioco originale, tutte le armi infliggono 1d6 danni, indipendentemente dal tipo. *La Scatola Bianca* fornisce alcune leggere varianti. Per giocare il gioco originale come è stato scritto, ignorate semplicemente tutte le varianti nei danni delle armi - in tal caso tutte infliggono 1d6 danni indipendentemente dal fatto che l'arma sia una spada a due mani o un pugnale.
 
-#### Tabella 9: Equipaggiamento per l'Avventura
+#### Tabella 9: Equipaggiamento Vario
 
 | Oggetto                         | **Costo (po)** |
 | ------------------------------- | -------------- |
@@ -114,18 +114,18 @@ Nel gioco originale, tutte le armi infliggono 1d6 danni, indipendentemente dal t
 | Lancia               | 1d6       | 1                      | 20'         | 10       | 2              |
 | Pietre (20)          | 1d6       | -                      | -           | 1        | 1              |
 
-\* La cadenza di fuoco è il numero di proiettili che possono essere sparati per round di combattimento
+\* La cadenza di fuoco è il numero di proiettili che possono essere tirati per round di combattimento
 
-† C'è un bonus "per colpire" di +2 per le armi a distanza utilizzate a breve corto raggio (x1), un bonus di +1 "per colpire" a medio raggio (x2) e nessun bonus o penalità penalità per gli attacchi a lunga distanza (x3)
+† È previsto un bonus "per colpire" di +2 per le armi a distanza utilizzate a breve corto raggio (x1), un bonus di +1 "per colpire" a medio raggio (x2) e nessun bonus o penalità penalità per gli attacchi a lunga distanza (x3)
 
-#### Tabella 13: Armatura
+#### Tabella 13: Armature
 
-| Armatura           | **Effetto sulla CA \[CAA\]** | **Peso (lb.)\*** | **Costo** |
-| ------------------ | ---------------------------- | ---------------- | --------- |
-| Armatura a piastre | -6 \[+6 \]                   | 75               | 50        |
-| Cotta di maglia    | -4 \[+4 \]                   | 50               | 30        |
-| Pelle              | -2 \[+2]                     | 25               | 15        |
-| Scudo              | -1 \[+1]                     | 10               | 10        |
+| Armatura           | **Effetto sulla CA \[CAA\]** | **Peso (lb.)\*** | **Costo (po)** |
+| ------------------ | ---------------------------- | ---------------- | -------------- |
+| Armatura a piastre | -6 \[+6 \]                   | 75               | 50             |
+| Cotta di maglia    | -4 \[+4 \]                   | 50               | 30             |
+| Pelle              | -2 \[+2]                     | 25               | 15             |
+| Scudo              | -1 \[+1]                     | 10               | 10             |
 
 \* A discrezione dell'Arbitro, l'armatura magica pesa la metà del suo peso normale o non pesa affatto.
 
@@ -153,7 +153,7 @@ Per tradurre tra i sistemi di CA ascendente e discendente, i valori di classe d'
 
 Molti personaggi, soprattutto all'inizio della loro carriera avventurosa, hanno bisogno di aiutanti per trasportare il bottino o per combattere i mostri. I personaggi sono liberi di pubblicare annunci e informarsi nelle taverne locali per trovare mercenari disponibili. I prezzi sono in pezzi d'oro e sono per una settimana di servizio.
 
-#### Tabella 14: Ingaggiare Gregari
+#### Tabella 14: Gregari
 
 | Tipo Gregario                                      | **Costo (po)** |
 | -------------------------------------------------- | -------------- |

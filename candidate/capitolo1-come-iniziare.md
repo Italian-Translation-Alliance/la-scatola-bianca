@@ -1,23 +1,23 @@
 # Capitolo 1: Come iniziare
 
-La Scatola Bianca richiede due tipi di partecipanti: (1) L'Arbitro e (2) il Giocatore. Per i Giocatori, il primo passo per giocare è quello di creare un Personaggio Giocante (PG). Dovete semplicemente di tirare alcuni dadi per determinare gli attributi del vostro personaggio, scegliendo una classe, una razza (se non umana) e comprando l'equipaggiamento di gioco. Se sei l'Arbitro, tuttavia, hai un po' più preparazione da fare - come è trattato nel Capitolo 7.
+*La Scatola Bianca* richiede due tipi di partecipanti: (1) L'Arbitro e (2) il Giocatore. Per i Giocatori, il primo passo per giocare è quello di creare un Personaggio Giocante (PG). Dovete semplicemente tirare alcuni dadi per determinare gli attributi del vostro personaggio, scegliendo una classe, una razza (se non umana) e acquistando l'equipaggiamento necessario. Chi di voi è l'Arbitro, tuttavia, ha un po' più preparazione da fare - come descritto nel Capitolo 7.
 
 ### Regola numero uno
 
-La regola più importante di La Scatola Bianca è che l'Arbitro ha sempre il diritto di modificare le regole. In effetti è incoraggiato a farlo! Questo è il vostro gioco, dopo tutto. Ci sono delle lacune nelle regole - buchi lasciati aperti di proposito - perché gran parte del divertimento dei giochi di ruolo è la possibilità di inventare regole a seconda delle necessità.
+La regola più importante di *La Scatola Bianca* è che l'Arbitro ha sempre il diritto di modificare le regole. In effetti è incoraggiato a farlo! Questo è il vostro gioco, dopo tutto. Ci sono delle lacune nelle regole - buchi lasciati aperti di proposito - perché gran parte del divertimento dei giochi di ruolo è la possibilità di inventare regole a seconda delle necessità.
 
 ### Dadi
 
-La Scatola Bianca usa diversi tipi di dadi e sono qui annotati secondo il numero di lati che hanno. Per esempio, un dado a quattro facce è annotato come "d4". Se si richiede che un giocatore tiri "3d4" significa che deve lanciare tre (3) dadi a quattro facce e sommare i risultati. Altri tipi di dadi (a sei facce, a otto facce, a dieci facce, a dodici facce e a venti facce) seguono lo stesso criterio.
+*La Scatola Bianca* usa diversi tipi di dadi e sono qui indicati a seconda del numero di lati che hanno. Per esempio, un dado a quattro facce è indicato come "d4". Se si richiede che un giocatore tiri "3d4" significa che dovrà lanciare tre (3) dadi a quattro facce e sommare i risultati. Altri tipi di dadi (a sei facce, a otto facce, a dieci facce, a dodici facce e a venti facce) seguono lo stesso criterio.
 
-Non esiste un dado a 100 facce. Quando viene chiesto di tirare d100, tira due (2) dadi a dieci facce, trattando il primo tiro come "decine" e il secondo come "unità". Quindi, se uno dovesse lanciare un "7" e poi un "3", il risultato sarebbe "73".
+Non esiste un dado a 100 facce. Quando viene chiesto di tirare un d100, verranno tirati due (2) dadi a dieci facce, considerando il primo tiro come le "decine" e il secondo come le "unità". Quindi, se con un lancio si ottenessero un "7" e poi un "3", il risultato sarebbe "73".
 
 Il tiro di due zeri equivale al risultato di "100", quindi non si può tirare uno "0" su un dado percentile. Il risultato più basso possibile è "1".
 
 ### Riguardo alle regole opzionali
 
-La Scatola Bianca è molto facile da imparare e giocare, le regole sono semplici e chiare.
-Mentre create il vostro personaggio e leggete le regole, vedrete che ci sono diverse "regole opzionali" descritte. Queste servono a personalizzare il gioco per adattarlo al modo in cui volete giocare, ma se sei l'Arbitro e questa è la prima volta che gestisci un gioco come questo, attieniti alle regole di base e personalizzale solo in seguito. Le regole opzionali, più qualsiasi nuova regola che voi e il vostro gruppo inventate, sono spesso chiamate "regole della casa", perché ogni gruppo di gioco userà un mix diverso di regole inventate alternative. Questa è bene, alla fine si suppone che personalizziate il vostro gioco per adattarlo a ciò che volete, non che seguiate le regole "ufficiali" per sempre.
+*La Scatola Bianca* è molto facile da imparare e giocare, le regole sono semplici e chiare.
+Mentre create il vostro personaggio e leggete le regole, vedrete che ci sono diverse "regole opzionali" descritte. Queste servono a personalizzare il gioco per adattarlo al modo in cui volete giocarlo, ma se sei l'Arbitro e questa è la prima volta che gestisci un gioco come questo, attieniti alle regole di base e personalizzale solo in seguito. Le regole opzionali, più qualsiasi ulteriore nuova regola che voi e il vostro gruppo inventerete, sono spesso chiamate "regole della casa", perché ogni gruppo di gioco userà un mix diverso di regole alternative inventate. Questo è bene, in quanto alla fine si suppone che personalizziate il vostro gioco per adattarlo a ciò che desiderate, non che seguiate le regole "ufficiali" per sempre.
 
 ### Schede Personaggio
 

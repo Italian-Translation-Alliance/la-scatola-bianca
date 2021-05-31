@@ -193,9 +193,9 @@ L'incantatore crea un contatto mentale con i piani, le forze, i poteri e le geom
 |     5     |    1-10    |  11-18 |     19-20     |
 |     6     |    1-12    |  13-19 |       20      |
 
-1. I Piani sono la "profondità' a cui l'incantatore decide di cercare la verità; numero di domande Sì/No a cui ci sarà risposta. 
-2. La Follia temporanea dura per un numero di settimane pari alla profondità del piano dove la sanità mentale dell'incantatore e ceduta.
-3. Questo rappresenta la possibilità di sbagliarsi o fraintendere la risposta. 
+* I Piani sono la "profondità' a cui l'incantatore decide di cercare la verità; numero di domande Sì/No a cui ci sarà risposta. 
+† La Follia temporanea dura per un numero di settimane pari alla profondità del piano dove la sanità mentale dell'incantatore e ceduta.
+‡ Questo rappresenta la possibilità di sbagliarsi o fraintendere la risposta. 
 
 ### Controllo Atmosferico
 *Livello:* M6  
@@ -246,7 +246,7 @@ L'incantesimo porta 1d6 creature di taglia normale a crescere immediatamente a t
 *Raggio d'azione:* 120'  
 *Durata:* Permanente finché non viene dissolto
 
-L'incantesimo può influenzare fino a 90 piedi quadrati di terreno; il manto erboso dell'area cresce improvvisamente in una foresta impassabile di spine e liane. L'incantatore può decidere la forma dell'area da incantare. Una versione alternativa (a discrezione dell'Arbitro di gioco) può permettere all'incantesimo di interessare un'area di 300 piedi per 300, per un totale di 90.000 piedi quadrati. 
+L'incantesimo può influenzare fino a 90 piedi quadrati di terreno; il manto erboso dell'area cresce improvvisamente in una foresta impenetrabile di spine e liane. L'incantatore può decidere la forma dell'area da incantare. Una versione alternativa (a discrezione dell'Arbitro di gioco) può permettere all'incantesimo di interessare un'area di 300 piedi per 300, per un totale di 90.000 piedi quadrati. 
 
 ### Dardo Elettrico
 *Livello:* M3  
@@ -314,6 +314,8 @@ Entro un raggio di 60', muoiono fino a 2d8 creature con meno di 7 DV.
 *Livello:* M2  
 *Raggio d'azione:* 10' per livello incantatore  
 *Durata:* 1 ora
+
+L'incantatore può percepire creature e oggetti invisibile.
 
 ### Inseguitore Invisibile
 *Livello:* M6  
@@ -384,7 +386,7 @@ Questo incantesimo indica all'incantatore la direzione corretta (in linea d'aria
 - Come incantesimo di Luce, l'incantatore bersaglia una persona od un oggetto il quale comincia a produrre luce brillante quanto una torcia con un raggio di 20'.
 - Come incantesimo di Oscurità, l'incantatore causa un'oscurità come la notte entro l'area di un raggio di 20'.
 
-### Luce (Oscurità), Continuo
+### Luce (Oscurità), Continua
 *Livello:* C3, M2  
 *Raggio d'azione:* 120'  
 *Durata:* Permanente finché non viene dissolto
@@ -522,7 +524,7 @@ L'incantatore proietta l'immagine della sua persona fino ad un massimo di 240'. 
 *Durata:* 2 ore (C), 1 ora (M)
 
 - Come incantesimo di Protezione dal Caos, l'incantatore crea un campo magico di protezione intorno a sé stesso per bloccare tutti i mostri caotici, i quali soffrono una penalità a colpire contro l'incantatore; l'incantatore guadagna un +1 su tutti i tiri salvezza contro questi attacchi.
-- Come Incantesimo di Protezione dalla Legge, fa la stessa cosa eccezion fatta che le creture legali soffrono la penalità di -1. 
+- Come Incantesimo di Protezione dalla Legge, fa la stessa cosa eccezion fatta che le creature legali soffrono la penalità di -1. 
 
 ### Protezione dal Caos (dalla Legge), raggio 10'
 *Livello:* C4, M3  
@@ -609,6 +611,8 @@ Un bolla invisibile di forza circonda l'incantatore, impenetrabile alla magia. I
 
 Il ricevente dell'incantesimo può vedere nell'oscurità più totale. Il ricevente dovrebbe tirare sulla tabella per determinare il raggio di visione.
 
+
+#### Tabella 31: Raggio della Scurovisione
 | Tirare 1d6 | Raggio di Visione (piedi) |
 |:----------:|:-------------------------:|
 |     1-2    |             12            |
@@ -617,7 +621,7 @@ Il ricevente dell'incantesimo può vedere nell'oscurità più totale. Il riceven
 
 ### Serratura del Mago
 *Livello:* M2  
-*Raggio d'azione:* Ravvicinata  
+*Raggio d'azione:* Ravvicinato  
 *Durata:* Permanente finché non viene dissolto
 
 Come l'incantesimo Blocca Porte, ma è permanente finché non viene dissolto. Le creature con resistenza magica possono frantumare l'incantesimo. Qualunque Mago di tre livelli o più rispetto all'incantatore può aprire la porta, come anche un incantesimo di Scassinare (anche se l'incantesimo non viene distrutto permanentemente in questi casi).  
@@ -632,7 +636,7 @@ L'incantatore deve annunciare quale delle due opzioni verrà lanciata. Uno strat
 - Come incantesimo di Chiaroveggenza, l'incantatore può vedere attraverso ostacoli soldi. 
 
 ### Sonno
-*Livello:* M1
+*Livello:* M1  
 *Raggio d'azione:* 240'  
 *Durata:* A discrezione dell'Arbitro  
 
@@ -640,12 +644,12 @@ Questo incantesimo getta le creature in un sonno profondo (nessun tiro salvezza 
 
 #### Tabella 32: Affetti da Sonno
 
-|    DV della Vittima   | Numero di Influenzati |
-|:---------------------:|:---------------------:|
-| Da meno di 1 DV a 1+1 |          3d6          |
-|        2 a 2+1        |          2d6          |
-|        3 a 3+1        |          1d6          |
-|        4 a 4+1        |           1           |
+|    DV della Vittima   | Numero di DV Influenzati |
+|:---------------------:|:------------------------:|
+| Da meno di 1 DV a 1+1 |          3d6             |
+|        2 a 2+1        |          2d6             |
+|        3 a 3+1        |          1d6             |
+|        4 a 4+1        |           1              |
 
 
 ### Terreno Illusorio

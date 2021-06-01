@@ -306,7 +306,7 @@ Tutti i draghi hanno come arma un soffio di qualche tipo, che può essere usato 
 
 L'arbitro non dovrebbe tirare per i punti ferita del drago, come si farebbe per altri mostri. Invece, determina la categoria di età del drago - questo darà sia i punti ferita del drago per dado colpito che quanti punti di danno dell'arma del respiro per dado colpito il drago infligge.
 
-Per esempio, un drago "Adulto" ha sia 4 punti ferita che 4 punti di danno dell'arma del respiro per dado colpito. Quindi un drago nero "Adulto" con 6 HD avrebbe 24 HP e infliggerebbe 24 punti di danno da acido quando usa la sua arma del respiro.
+Per esempio, un drago "Adulto" ha sia 4 punti ferita che 4 punti di danno dell'arma del respiro per dado colpito. Quindi un drago nero "Adulto" con 6 DV avrebbe 24 PF e infliggerebbe 24 punti di danno da acido quando usa la sua arma del respiro.
 
 #### Tabella 41: Categorie di Età dei Draghi
 

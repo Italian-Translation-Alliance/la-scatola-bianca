@@ -909,7 +909,7 @@ La melma verde non è tecnicamente un mostro, solo un rischio estremamente peric
 ### Millepiedi, Gigante (piccolo)
 
 *Classe Armatura*: 9 [10]  
-*Dadi Vita*: 1d2 HP  
+*Dadi Vita*: 1d2 DV  
 *Attacchi*: Morso  
 *Speciale*: Veleno (vedi sotto)  
 *Movimento*: 13  

@@ -28,15 +28,15 @@ Se tu scoprissi che un qualunque sistema che stai usando conduce i giocatori ver
 ### Scala di Avanzamento
 Ogni Arbitro ha il proprio stile di campagna, e sarebbe sciocco per un autore imporre restrizioni inutili a chiunque giochi il gioco. Ciononostante, è prezioso ricordare che questo regolamento è stato pensato con la nozione che dei personaggi al 4° livello siano "eroici" e quindi le tabelle siano limitate al livello 10. Un Arbitro che desideri estendere le tabelle a livelli superiori e incoraggiato a farlo per adattarle allo stile della propria campagna.
 
-### Avventure nei Sotterranei e nelle Terre Selvagge
-Molti Arbitri creeranno mappe dei sotterranei o delle terre selvagge prima di giocare. I personaggi giocanti esploreranno la mappa non sapendo cosa aspettarsi.
+### Avventure nel Mondo Sotterraneo e nelle Terre Selvagge
+Molti Arbitri creeranno mappe del Mondo Sotterraneo o delle terre selvagge prima di giocare. I personaggi giocanti esploreranno la mappa non sapendo cosa aspettarsi.
 
-Nei sotterranei la mappa è riempita da mostri, trappole, tesori e creature o posti misteriosi che la fantasia dell'Arbitro trasforma in realtà.
+Nel Mondo Sotterraneo la mappa è riempita da mostri, trappole, tesori e creature o posti misteriosi che la fantasia dell'Arbitro trasforma in realtà.
 
 La mappa delle terre selvagge è creata usando carta con griglia a esagoni, con ogni esagono che rappresenta 6 miglia, avendo un tipo di terreno specifico e possibilmente una caratteristica interessante. Una caratteristica potrebbe essere la torre di un mago, il forte di un guerriero, il tempio di un sacerdote malvagio o magari potrebbe essere una piccola creatura simile ad un elfo, la quale è seduta sul tronco di un albero mentre suona il flauto. Lascia che la tua immaginazione corra selvaggia quando crei tali caratteristiche.
 
 ### Mostri Erranti
-Nei sotterranei, controlla ogni ora (sei turni) per i mostri erranti, mentre nelle terre selvagge controlla a ogni esagono. Normalmente, c'è una probabilità di 1 su 6 di incontrare qualcosa nei sotterranei. Controlla la tabella Perdersi ed Incontri per la probabilità degli incontri nelle terre selvagge.
+Nel Mondo Sotterraneo, controlla ogni ora (sei turni) per i mostri erranti, mentre nelle terre selvagge controlla a ogni esagono. Normalmente, c'è una probabilità di 1 su 6 di incontrare qualcosa nel Mondo Sotterraneo. Controlla la tabella Perdersi ed Incontri per la probabilità degli incontri nelle terre selvagge.
 
 L'incontro specifico è tirato sulla tabella. La distanza iniziale dell'incontro dipende dalle circostanze.
 
@@ -110,22 +110,23 @@ Tirate 1d6 due volte per esagono per vedere se i personaggi si sono persi oppure
 
 *Il fattore di movimento è a bassa altitudine. Altitudini più elevate lo raddoppiano. 
 
-### Tabella degli Incontri nei Sotterranei per Livello
+### Tabella degli Incontri nei Dungeon per Livello
 
-#### Tabella 38: Incontri nei Sotterranei
+#### Tabella 38: Incontri nel Mondo Sotterraneo
 
-| Livello Incontro (Tirare 1d6)<br>----<br>Livello Sotterraneo |  1  |  2  |  3  |  4  |  5  |  6  |  7  |  8  |  9  |  10 |
-|:------------------------------------------------------------:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|                               1                              | 1-3 | 4-5 |  6  |     |     |     |     |     |     |     |
-|                               2                              |  1  | 2-4 | 5-6 |     |     |     |     |     |     |     |
-|                               3                              |     |  1  | 2-4 | 5-6 |     |     |     |     |     |     |
-|                               4                              |     |     |  1  | 2-4 | 5-6 |     |     |     |     |     |
-|                               5                              |     |     |     |  1  | 2-4 | 5-6 |     |     |     |     |
-|                               6                              |     |     |     |     |  1  | 2-4 |  5  |  6  |     |     |
-|                               7                              |     |     |     |     |     |  1  | 2-4 |  5  |  6  |     |
-|                               8                              |     |     |     |     |     |     | 1-2 | 3-5 |  6  |     |
-|                               9                              |     |     |     |     |     |     |     | 1-2 | 3-5 |  6  |
-|                              10+                             |     |     |     |     |     |     |     |  1  | 2-3 | 4-6 |
+| Livello del Dungeon                                          |  Livello Incontro (Tirare 1d6)  |  2  |  3  |  4  |  5  |  6  |  7  |  8  |  9  |  10 |
+|:------------------------------------------------------------:|:-------------------------------:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|                                                              |  1                              |  2  |  3  |  4  |  5  |  6  |  7  |  8  |  9  |  10 |
+|                               1                              | 1-3                             | 4-5 |  6  |     |     |     |     |     |     |     |
+|                               2                              |  1                              | 2-4 | 5-6 |     |     |     |     |     |     |     |
+|                               3                              |                                 |  1  | 2-4 | 5-6 |     |     |     |     |     |     |
+|                               4                              |                                 |     |  1  | 2-4 | 5-6 |     |     |     |     |     |
+|                               5                              |                                 |     |     |  1  | 2-4 | 5-6 |     |     |     |     |
+|                               6                              |                                 |     |     |     |  1  | 2-4 |  5  |  6  |     |     |
+|                               7                              |                                 |     |     |     |     |  1  | 2-4 |  5  |  6  |     |
+|                               8                              |                                 |     |     |     |     |     | 1-2 | 3-5 |  6  |     |
+|                               9                              |                                 |     |     |     |     |     |     | 1-2 | 3-5 |  6  |
+|                              10+                             |                                 |     |     |     |     |     |     |  1  | 2-3 | 4-6 |
 
 
 Per la classe dei personaggi incontrati, tirare un d6 per il loro allineamento: 1-3 = Caotico, 4-5 Neutrale, 6 = Legale. La classe del personaggio può essere una qualunque delle razze o delle opzioni aggiuntive; l'Arbitro può scegliere un umanoide. Per esempio, invece di essere un Umano Guerriero di livello 5, potrebbe essere un Orco Guerriero di livello 5. 
@@ -244,7 +245,7 @@ Per la classe dei personaggi incontrati, tirare un d6 per il loro allineamento: 
 
 #### Mostro
 
-| Tiro |    Open, Forest    |      Arido      | Colline, Montagne | Palude, Giungla |   Fiume, Costa  |
+| Tiro |    Aperto, Foresta |      Arido      | Colline, Montagne | Palude, Giungla |   Fiume, Costa  |
 |:----:|:------------------:|:---------------:|:-----------------:|:---------------:|:---------------:|
 |   1  |      Unicorni      |    Salamandra   |     Basilisco     |      Medusa     | Serpente Marino |
 |   2  |       Driade       |   Verme Viola   |      Chimera      |      Driade     |    Basilisco    |
@@ -252,12 +253,12 @@ Per la classe dei personaggi incontrati, tirare un d6 per il loro allineamento: 
 |   4  |      Basilisco     |     Gorgone     |      Grifoni      |    Coccatrice   |      Arpie      |
 |   5  |    Ratto Mannaro   |    Manticora    |       Arpie       |     Chimera     |      Medusa     |
 |   6  |     Coccatrice     |      Medusa     |    Lupo Mannaro   |      Arpie      |      Pegaso     |
-|   7  | Cane Intermittente |       Roc       |     Ippogrifo     |        —       |        —       |
-|   8  |    Lupo Mannaro    | Tirare di nuovo |     Manticora     |        —       |        —       |
-|   9  |       Chimera      |        —       |       Medusa      |        —       |        —       |
-|  10  |      Manticora     |        —       |       Pegaso      |        —       |        —       |
-|  11  |         —         |        —       |        Roc        |        —       |        —       |
-|  12  |         —         |        —       |   Ratto Mannaro   |        —       |        —       |
+|   7  | Cane Intermittente |       Roc       |     Ippogrifo     |        —        |        —        |
+|   8  |    Lupo Mannaro    | Tirare di nuovo |     Manticora     |        —        |        —        |
+|   9  |       Chimera      |        —        |       Medusa      |        —        |        —        |
+|  10  |      Manticora     |        —        |       Pegaso      |        —        |        —        |
+|  11  |         —          |        —        |        Roc        |        —        |        —        |
+|  12  |         —          |        —        |   Ratto Mannaro   |        —        |        —        |
 
 
 #### Altro

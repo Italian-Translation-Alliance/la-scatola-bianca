@@ -40,19 +40,19 @@ Il nome dell'incantesimo fra parentesi indica la versione caotica dell'incantesi
 
 ### Tabella 28: Incantesimi del Mago
 
-|      Livello 1      |         Livello 2        |
-|:-------------------:|:------------------------:|
-| Ammaliare Persone   | Forza Fantasma           |
-| Bloccare Porte      | Individuare Caos         |
-| Protezione dal Caos | Individuare Invisibilità |
-| Leggere Linguaggi   | Invisibilità             |
-| Leggere Magia       | Leggere il Pensiero      |
-| Sonno               | Levitare                 |
-|                     | Localizzare Oggetto      |
-|                     | Luce, Continua           |
-|                     | Ragnatela                |
-|                     | Scassinare               |
-|                     | Serratura del Mago       |
+|      Livello 1            |         Livello 2        |
+|:-------------------------:|:------------------------:|
+| Ammaliare Persone         | Forza Fantasma           |
+| Bloccare Porte            | Individuare Caos         |
+| Individuazione del Magico | Individuare Invisibilità |
+| Leggere Linguaggi         | Invisibilità             |
+| Leggere Magia             | Leggere il Pensiero      |
+| Luce                      | Levitare                 |
+| Sonno                     | Localizzare Oggetto      |
+| Protezione dal Caos       | Luce, Continua           |
+|                           | Ragnatela                |
+|                           | Scassinare               |
+|                           | Serratura del Mago       |
 
 
 |              Livello 3              |         Livello 4        |
@@ -295,6 +295,13 @@ L'incantatore evoca un elementale di 16 DV (di qualunque tipo) dal piano element
 
 Questo incantesimo crea un'illusione realistica di fronte a chi lo osserva. L'illusione scompare quando viene toccata, ma se l'osservatore crede che l'illusione sia vera potrà ricevere danno da essa.
 
+### Incantesimo di Morte
+*Livello:* M6  
+*Raggio d'azione:* 240'  
+*Durata:* Permanente
+
+Entro un raggio di 60', muoiono fino a 2d8 creature con meno di 7 DV.
+
 ### Individuare Caos (Legge)
 *Livello:* C1, M2  
 *Raggio d'azione:* 120' (C), 60' (M)  
@@ -302,13 +309,6 @@ Questo incantesimo crea un'illusione realistica di fronte a chi lo osserva. L'il
 
 - Come Individuare Caos, l'incantatore individua creature del Caos, o coloro che hanno incantamenti, pensieri, o auree caotici entro il raggio dell'incantesimo. Il Veleno non è intrinsecamente cattivo o caotico e non può essere individuato da questo incantesimo.
 - Come Individuare Legge, l'incantesimo funziona esattamente come Individuare Caos eccenzion fatta che individua la Legge.
-
-### Incantesimo di Morte
-*Livello:* M6  
-*Raggio d'azione:* 240'  
-*Durata:* Permanente
-
-Entro un raggio di 60', muoiono fino a 2d8 creature con meno di 7 DV.
 
 ### Individuare Invisibilità 
 *Livello:* M2  

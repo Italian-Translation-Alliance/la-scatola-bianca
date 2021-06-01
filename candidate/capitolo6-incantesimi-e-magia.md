@@ -317,6 +317,13 @@ Entro un raggio di 60', muoiono fino a 2d8 creature con meno di 7 DV.
 
 L'incantatore può percepire creature e oggetti invisibile.
 
+### Individuazione del Magico
+*Livello:* C1, M1  
+*Raggio d'azione:* 60'  
+*Durata:* 20 minuti
+
+L'incantatore può percepire in luoghi, persone o cose la presenza di un incantesimo magico o di un incantesimo. Magico oggetti magici o incantesimi posizionati segretamente essere scoperti con questo incantesimo.
+
 ### Inseguitore Invisibile
 *Livello:* M6  
 *Raggio d'azione:* Vicino all'incantatore  

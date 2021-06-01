@@ -2,7 +2,7 @@
 
 *La Scatola Bianca* è un Gioco di Ruolo retroclone. In questo libro troverete le regole del gioco e non vi servirà nient'altro che matite, carta, dadi e la vostra immaginazione.
 
- Questo manuale riproduce le regole e le meccaniche del "Gioco di Ruolo Fantasy Originale" pubblicato nel 1974, la prima versione del "gioco di ruolo più famoso  al mondo".
+ Questo manuale riproduce le regole e le meccaniche del "Gioco di Ruolo Fantasy Originale" pubblicato nel 1974, la prima versione del "più famoso gioco di ruolo del mondo".
 
 ### Cos'è un gioco di ruolo?
 
@@ -18,7 +18,7 @@ I retrocloni sono progettati per coprire due funzioni. La prima è permettere di
 
 ### Perché giocare La Scatola Bianca?
 
-Con l'ultima versione del "gioco di ruolo più famoso al mondo" reperibile in commercio, ci si potrebbe chiedere quale sia lo scopo di giocare un clone della sua prima versione.
+Con l'ultima versione del "più famoso gioco di ruolo del mondo" reperibile in commercio, ci si potrebbe chiedere quale sia lo scopo di giocare un clone della sua prima versione.
 
 Potreste essere semplicemente curiosi di provare il gioco per come è stato originariamente progettato: regole concise e chiare in contrasto con i voluminosi giochi di ruolo moderni.
 

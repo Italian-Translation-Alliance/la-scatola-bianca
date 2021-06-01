@@ -74,8 +74,8 @@ Nel gioco originale, tutte le armi infliggono 1d6 danni, indipendentemente dal t
 
 | Arma                              | **Danno** | **Peso** | **Costo (po)** |
 | --------------------------------- | --------- | -------- | -------------- |
+| Accetta‡                          | 1d6       | 5        | 3              |
 | Ascia, da battaglia ‡             | 1d6+1     | 15       | 7              |
-| Ascia, mano‡                      | 1d6       | 5        | 3              |
 | Asta (berdiche, alabarde, ecc.)\* | 1d6+1     | 15       | 7              |
 | Bastone *                         | 1d6       | 10       | 1              |
 | Clava                             | 1d6       | 10       | -              |
@@ -99,9 +99,9 @@ Nel gioco originale, tutte le armi infliggono 1d6 danni, indipendentemente dal t
 
 | Arma                 | **Danno** | **Cadenza di fuoco\*** | **Gittata** | **Peso** | **Costo (po)** |
 | -------------------- | --------- | ---------------------- | ----------- | -------- | -------------- |
+| Accetta              | 1d6       | 1                      | 10'         | 10       | 3              |
 | Arco, corto          | 1d6-1     | 2                      | 50'         | 5        | 25             |
 | Arco, lungo          | 1d6       | 2                      | 70'         | 5        | 40             |
-| Ascia, mano          | 1d6       | 1                      | 10'         | 10       | 3              |
 | Balestra, leggera    | 1d6-1     | 1                      | 60'         | 5        | 15             |
 | Balestra, pesante    | 1d6+1     | 1/2                    | 80'         | 5        | 25             |
 | Borsa (20 pietre)    | -         | -                      | -           | 1        | 1              |

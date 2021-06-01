@@ -28,15 +28,15 @@ Se tu scoprissi che un qualunque sistema che stai usando conduce i giocatori ver
 ### Scala di Avanzamento
 Ogni Arbitro ha il proprio stile di campagna, e sarebbe sciocco per un autore imporre restrizioni inutili a chiunque giochi il gioco. Ciononostante, è prezioso ricordare che questo regolamento è stato pensato con la nozione che dei personaggi al 4° livello siano "eroici" e quindi le tabelle siano limitate al livello 10. Un Arbitro che desideri estendere le tabelle a livelli superiori e incoraggiato a farlo per adattarle allo stile della propria campagna.
 
-### Avventure nel Mondo Sotterraneo e nelle Terre Selvagge
-Molti Arbitri creeranno mappe del Mondo Sotterraneo o delle terre selvagge prima di giocare. I personaggi giocanti esploreranno la mappa non sapendo cosa aspettarsi.
+### Sottomondo e Terre Selvagge
+Molti Arbitri creeranno mappe del Sottomondo o delle terre selvagge prima di giocare. I personaggi giocanti esploreranno la mappa non sapendo cosa aspettarsi.
 
-Nel Mondo Sotterraneo la mappa è riempita da mostri, trappole, tesori e creature o posti misteriosi che la fantasia dell'Arbitro trasforma in realtà.
+Nel Sottomondo la mappa è riempita da mostri, trappole, tesori e creature o posti misteriosi che la fantasia dell'Arbitro trasforma in realtà.
 
 La mappa delle terre selvagge è creata usando carta con griglia a esagoni, con ogni esagono che rappresenta 6 miglia, avendo un tipo di terreno specifico e possibilmente una caratteristica interessante. Una caratteristica potrebbe essere la torre di un mago, il forte di un guerriero, il tempio di un sacerdote malvagio o magari potrebbe essere una piccola creatura simile ad un elfo, la quale è seduta sul tronco di un albero mentre suona il flauto. Lascia che la tua immaginazione corra selvaggia quando crei tali caratteristiche.
 
 ### Mostri Erranti
-Nel Mondo Sotterraneo, controlla ogni ora (sei turni) per i mostri erranti, mentre nelle terre selvagge controlla a ogni esagono. Normalmente, c'è una probabilità di 1 su 6 di incontrare qualcosa nel Mondo Sotterraneo. Controlla la tabella Perdersi ed Incontri per la probabilità degli incontri nelle terre selvagge.
+Nel Sottomondo, controlla ogni ora (sei turni) per i mostri erranti, mentre nelle terre selvagge controlla a ogni esagono. Normalmente, c'è una probabilità di 1 su 6 di incontrare qualcosa nel Sottomondo. Controlla la tabella Perdersi ed Incontri per la probabilità degli incontri nelle terre selvagge.
 
 L'incontro specifico è tirato sulla tabella. La distanza iniziale dell'incontro dipende dalle circostanze.
 
@@ -112,7 +112,7 @@ Tirate 1d6 due volte per esagono per vedere se i personaggi si sono persi oppure
 
 ### Tabella degli Incontri nei Dungeon per Livello
 
-#### Tabella 38: Incontri nel Mondo Sotterraneo
+#### Tabella 38: Incontri nel Sottomondo
 
 | Livello del Dungeon                                          |  Livello Incontro (Tirare 1d6)  |  2  |  3  |  4  |  5  |  6  |  7  |  8  |  9  |  10 |
 |:------------------------------------------------------------:|:-------------------------------:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|

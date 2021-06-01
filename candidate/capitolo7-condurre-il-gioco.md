@@ -26,7 +26,7 @@ Qualche Arbitro calcola i Punti Esperienza in quanto totale guadagnato collettiv
 Se tu scoprissi che un qualunque sistema che stai usando conduce i giocatori verso cattive decisioni — come cercare combattimenti superflui o cercare di innescare trappole — dovresti aggiustare il tuo sistema. Questo vale anche per il sistema "ufficiale" per conferire punti esperienza. Ricorda, l'Arbitro è il giudice ultimo di ciò che funziona meglio per una partita e qualunque regola può essere cambiata per adattarsi al gruppo.
 
 ### Scala di Avanzamento
-Ogni Arbitro ha il proprio stile di campagna, e sarebbe sciocco per un autore imporre restrizioni inutili a chiunque giochi il gioco. Ciononostante, è prezioso ricordare che questo regolamento è stato pensato con la nozione che dei personaggi al 4° livello siano "eroici" e quindi le tabelle siano plafonate al livello 10. Un Arbitro che desideri estendere le tabelle a livelli superiori e incoraggiato a farlo per adattarle allo stile della propria campagna.
+Ogni Arbitro ha il proprio stile di campagna, e sarebbe sciocco per un autore imporre restrizioni inutili a chiunque giochi il gioco. Ciononostante, è prezioso ricordare che questo regolamento è stato pensato con la nozione che dei personaggi al 4° livello siano "eroici" e quindi le tabelle siano limitate al livello 10. Un Arbitro che desideri estendere le tabelle a livelli superiori e incoraggiato a farlo per adattarle allo stile della propria campagna.
 
 ### Avventure nei Sotterranei e nelle Terre Selvagge
 Molti Arbitri creeranno mappe dei sotterranei o delle terre selvagge prima di giocare. I personaggi giocanti esploreranno la mappa non sapendo cosa aspettarsi.

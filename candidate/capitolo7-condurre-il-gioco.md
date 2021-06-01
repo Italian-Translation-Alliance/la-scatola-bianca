@@ -68,51 +68,51 @@ Tirate 1d6 due volte per esagono per vedere se i personaggi si sono persi oppure
 |   Perso  |    1   |   1-2   |       1      |       1-3       |        1-2        |   1-3   |             |
 | Incontro |    1   |   1-2   |      1-2     |       1-3       |        1-3        |   1-2   |      1      |
 
-### Velocità di Movimento dei Mezzi di Trasporto
+### Fattore di Movimento dei Mezzi di Trasporto
 
 #### Tabella 35: Movimento su Terra
 
-|     Trasporto     | Velocità Movimento | Esagoni al Giorno |
-|:-----------------:|:------------------:|:-----------------:|
-|   Nano/Halfling   |          9         |        3/2        |
-|     Umano/Elfo    |         12         |         2         |
-|   Cavallo, Soma   |         12         |         2         |
-|   Cavallo, Monta  |         24         |         4         |
-| Cavallo da Guerra |         18         |         3         |
-|        Mulo       |         12         |         2         |
-|       Carro       |          6         |         1         |
+|     Trasporto     | Fattore di Movimento  | Esagoni al Giorno |
+|:-----------------:|:---------------------:|:-----------------:|
+|   Nano/Halfling   |          9            |        3/2        |
+|     Umano/Elfo    |         12            |         2         |
+|   Cavallo, Soma   |         12            |         2         |
+|   Cavallo, Monta  |         24            |         4         |
+| Cavallo da Guerra |         18            |         3         |
+|        Mulo       |         12            |         2         |
+|       Carro       |          6            |         1         |
 
 
 #### Tabella 36: Movimento in Acqua
 
-|       Trasporto       | Velocità Movimento | Esagoni al Giorno |
-|:---------------------:|:------------------:|:-----------------:|
-|         Barca         |          6         |         1         |
-|     Galea, Piccola    |         12         |         2         |
-|      Galea Grande     |         18         |         3         |
-| Nave a Vela (piccola) |         18         |         3         |
-|  Nave a Vela (grande) |         12         |         2         |
-|     Nave da guerra    |          6         |         1         |
+|       Trasporto       | Fattore di Movimento  | Esagoni al Giorno |
+|:---------------------:|:---------------------:|:-----------------:|
+|         Barca         |          6            |         1         |
+|     Galea, Piccola    |         12            |         2         |
+|      Galea Grande     |         18            |         3         |
+| Nave a Vela (piccola) |         18            |         3         |
+|  Nave a Vela (grande) |         12            |         2         |
+|     Nave da guerra    |          6            |         1         |
 
 
 #### Tabella 37: Movimento in Aria
 
-|      Trasporto     | Velocità Movimento* | Esagoni al Giorno |
-|:------------------:|:-------------------:|:-----------------:|
-|  Drago, Giovane  |          18         |         3         |
-|   Drago, Adulto  |          24         |         4         |
-| Drago, Fortunato |          96         |         12        |
-|   Tappeto Volante  |          24         |         4         |
-|       Grifone      |          30         |         5         |
-|      Ippogrifo     |          36         |         6         |
-|       Pegaso       |          42         |         7         |
-|         Roc        |          48         |         8         |
+|      Trasporto     | Fattore di Movimento* | Esagoni al Giorno |
+|:------------------:|:---------------------:|:-----------------:|
+|  Drago, Giovane  |          18             |         3         |
+|   Drago, Adulto  |          24             |         4         |
+| Drago, Fortunato |          96             |         12        |
+|   Tappeto Volante  |          24           |         4         |
+|       Grifone      |          30           |         5         |
+|      Ippogrifo     |          36           |         6         |
+|       Pegaso       |          42           |         7         |
+|         Roc        |          48           |         8         |
 
-*La velocità di movimento è a bassa altitudine. Altitudini più late raddoppiano la velocità. 
+*Il fattore di movimento è a bassa altitudine. Altitudini più elevate raddoppiano la velocità. 
 
-### Tabella Incontri nei Sotterranei per Livello
+### Tabella degli Incontri nei Sotterranei per Livello
 
-#### Tabella 38: Incontri Sotterranei
+#### Tabella 38: Incontri nei Sotterranei
 
 | Livello Incontro (Tirare 1d6)<br>----<br>Livello Sotterraneo |  1  |  2  |  3  |  4  |  5  |  6  |  7  |  8  |  9  |  10 |
 |:------------------------------------------------------------:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|

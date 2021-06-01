@@ -108,7 +108,7 @@ Tirate 1d6 due volte per esagono per vedere se i personaggi si sono persi oppure
 |       Pegaso       |          42           |         7         |
 |         Roc        |          48           |         8         |
 
-*Il fattore di movimento è a bassa altitudine. Altitudini più elevate raddoppiano la velocità. 
+*Il fattore di movimento è a bassa altitudine. Altitudini più elevate lo raddoppiano. 
 
 ### Tabella degli Incontri nei Sotterranei per Livello
 

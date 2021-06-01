@@ -99,9 +99,9 @@ Tirate 1d6 due volte per esagono per vedere se i personaggi si sono persi oppure
 
 |      Trasporto     | Velocità Movimento* | Esagoni al Giorno |
 |:------------------:|:-------------------:|:-----------------:|
-|  Dragone, Giovane  |          18         |         3         |
-|   Dragone, Adulto  |          24         |         4         |
-| Dragone, Fortunato |          96         |         12        |
+|  Drago, Giovane  |          18         |         3         |
+|   Drago, Adulto  |          24         |         4         |
+| Drago, Fortunato |          96         |         12        |
 |   Tappeto Volante  |          24         |         4         |
 |       Grifone      |          30         |         5         |
 |      Ippogrifo     |          36         |         6         |

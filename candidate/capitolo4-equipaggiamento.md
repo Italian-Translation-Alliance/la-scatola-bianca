@@ -139,11 +139,11 @@ Per calcolare la Classe Armatura di un personaggio, dovete decidere quale sistem
 
 ### Sistema AC Discendente
 
-In questo sistema, un umano non corazzato ha una CA di 9. Le armature che comprate abbassano la vostra CA e più bassa è la CA, più è difficile colpirvi. Per calcolare la vostra Classe Armatura, guardate la tabella delle armature qui sopra, nella colonna "Effetto sulla...". Per qualsiasi tipo di armatura voi abbiate comprato, sottraete il numero indicato dalla tua CA base di 9. Questa è la vostra nuova Classe Armatura.
+In questo sistema, un umano senza armatura ha una CA di 9. Le armature che comprate abbassano la vostra CA e più bassa è la CA, più è difficile colpirvi. Per calcolare la vostra Classe Armatura, guardate la tabella delle armature qui sopra, nella colonna "Effetto sulla...". Qualsiasi sia il tipo di armatura che voi abbiate comprato, sottraete il numero indicato dalla vostra CA base di 9. Questa è la vostra nuova Classe Armatura.
 
 ### Sistema di CA Ascendente
 
-Per il sistema ascendente, una persona non corazzata ha una CA di \[10]. CAA significa "Classe Armatura Ascendente" ed è usato tra parentesi per ricordare quale sistema è in uso. La vostra armatura si aggiunge alla vostra CAA, quindi più alta è la vostra CAA, più difficile è per i vostri nemici colpirvi. Per calcolare la vostra Classe Armatura Ascendente, guardate la tabella delle Armature, nella colonna "Effetto sulla...". Per qualsiasi tipo di armatura voi  abbiate comprato, aggiungete il numero indicato tra parentesi alla vostra CAA di base di 10\. Questa è la vostra nuova Classe Armatura.
+Per il sistema ascendente, una persona senza armatura ha una CA di \[10]. CAA significa "Classe Armatura Ascendente" ed è usato tra parentesi per ricordare quale sistema è in uso. La vostra armatura si aggiunge alla vostra CAA, quindi più alta è la vostra CAA, più difficile è per i vostri nemici colpirvi. Per calcolare la vostra Classe Armatura Ascendente, guardate la tabella delle Armature, nella colonna "Effetto sulla...". Qualsiasi sia il tipo di armatura che voi abbiate comprato, aggiungete il numero indicato tra parentesi alla vostra CAA di base di 10\. Questa è la vostra nuova Classe Armatura.
 
 ### Conversione tra sistemi di classi d'armatura
 

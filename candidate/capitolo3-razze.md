@@ -1,5 +1,6 @@
 # Capitolo 3: Razze
 
+
 In un mondo fantasy, gli umani spesso non sono soli. Gli elfi possono popolare le grandi foreste, i nani possono scavare le loro sale e miniere nel cuore della terra, e gli halfling possono risiedere nelle comode case di collina delle loro bucoliche contee. Al contrario, alcuni mondi fantasy descrivono una razza umana isolata contrapposta ad antichi mali preter-umani e alla cupa e selvaggia natura di mondi all'alba (o al crepuscolo) della civiltà umana stessa. Altri mondi fantasy, come terzo esempio, accentuano il bizzarro, con un'ampia varietà di razze fantasy a disposizione dei giocatori - tali mondi sono pieni di conflitti e contraddizioni, sempre con una nuova meraviglia da scoprire dietro il prossimo angolo. L'Arbitro determina quali razze non umane, se presenti, potete scegliere per i vostri personaggi.
 
 ## Il Nano
@@ -30,13 +31,13 @@ I nani non usano la magia e sono in qualche modo immuni ai suoi effetti; ricevon
 
 #### Linguaggi
 
-Per le campagne che danno ad ogni razza il proprio dialetto, i nani dovrebbero essere in grado di parlare con gnomi, goblin, orchi e coboldi.
+Per le campagne che danno a ogni razza il proprio dialetto, i nani dovrebbero essere in grado di parlare con gnomi, goblin, orchi e coboldi.
 
 ## L'Elfo
 
 L'Arbitro può interpretare gli Elfi in modi molti diversi. Sono i folletti della leggenda irlandese, i Vanir della mitologia norrena, o forse qualcosa di più simile agli Elfi dell'immaginario di Tolkien?
 
-Per iniziare, la maggior parte degli Elfi è associata alla magia, oltre ad essere abili con la spada e l'arco. L'avventuriero elfico può scegliere ogni giorno - magari quando sorge la luna - se usare le capacità del guerriero o del mago. Di conseguenza, l'elfo ha due percorsi di avanzamento alternativi (punti esperienza, dadi vita, tiri salvezza, bonus "per colpire", ecc.) a seconda che quel giorno abbia indossato l'acciaio o abbia evocato il potere della magia. Gli elfi devono usare un libro di incantesimi per preparare gli incantesimi, proprio come un mago. Gli incantesimi scompaiono dalla sua memoria una volta lanciati, finché non vengono preparati di nuovo. 
+Per iniziare, la maggior parte degli Elfi è associata alla magia, oltre a essere abili con la spada e l'arco. L'avventuriero elfico può scegliere ogni giorno - magari quando sorge la luna - se usare le capacità del guerriero o del mago. Di conseguenza, l'elfo ha due percorsi di avanzamento alternativi (punti esperienza, dadi vita, tiri salvezza, bonus "per colpire", ecc.) a seconda che quel giorno abbia indossato l'acciaio o abbia evocato il potere della magia. Gli elfi devono usare un libro di incantesimi per preparare gli incantesimi, proprio come un mago. Gli incantesimi scompaiono dalla sua memoria una volta lanciati, finché non vengono preparati di nuovo. 
 
 ### Abilità degli Elfi
 
@@ -58,7 +59,7 @@ Gli elfi sono bravi a individuare le porte nascoste e celate (1-4 su un d6 quand
 
 #### Linguaggi
 
-Per le campagne che danno ad ogni razza il proprio dialetto, gli elfi dovrebbero essere in grado di parlare con gnoll, goblin, orchi e hobgoblin.
+Per le campagne che danno a ogni razza il proprio dialetto, gli elfi dovrebbero essere in grado di parlare con gnoll, goblin, orchi e hobgoblin.
 
 ## L'Elfo (Variante)
 
@@ -114,4 +115,4 @@ Gli Halfling sono in qualche modo immuni alla magia e ricevono +4 ai tiri salvez
 
 #### Linguaggi
 
-Per le campagne che danno ad ogni razza un proprio dialetto, gli Halfling dovrebbero essere in grado di parlare con creature che si adattano allo stile della campagna dell'Arbitro.
+Per le campagne che danno a ogni razza un proprio dialetto, gli Halfling dovrebbero essere in grado di parlare con creature che si adattano allo stile della campagna dell'Arbitro.

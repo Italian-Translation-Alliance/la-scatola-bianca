@@ -81,7 +81,7 @@ Di seguito sono presentati tutti i mostri in ordine alfabetico.
 *Movimento*: 9  
 *DVE/PE*: 5/240
 
-Le anime dannate vivono in tombe, cimiteri e tumuli. Sono non-morti e quindi non sono influenzati dagli incantesimi di sonno o di ammaliamento. Le anime dannate sono immuni a tutte le armi non magiche, ad eccezione delle armi d'argento. Qualsiasi umano ucciso o che venga privato di tutti i livelli (1 livello per colpo) da un'anima dannata diventa una di esse.
+Le anime dannate vivono in tombe, cimiteri e tumuli. Sono non-morti e quindi non sono influenzati dagli incantesimi di sonno o di ammaliamento. Le anime dannate sono immuni a tutte le armi non magiche, a eccezione delle armi d'argento. Qualsiasi umano ucciso o che venga privato di tutti i livelli (1 livello per colpo) da un'anima dannata diventa una di esse.
 
 ### Apparizione
 
@@ -424,7 +424,7 @@ Gli Efreet sono un tipo di genio, associato al fuoco (a differenza dei djinn, ch
 
 ## Elementali
 
-Gli elementali sono manifestazioni viventi delle forme fondamentali della materia: terra, aria, fuoco e acqua. Di solito vengono evocati dai loro piani nativi di esistenza per eseguire gli ordini di un potente mago. Questi esseri possono anche essere "incatenati" all'interno di oggetti o strutture per dare ad essi proprietà magiche. Gli elementali sono a malapena intelligenti, ma sono potenti come le forze della natura (quali effettivamente sono).
+Gli elementali sono manifestazioni viventi delle forme fondamentali della materia: terra, aria, fuoco e acqua. Di solito vengono evocati dai loro piani nativi di esistenza per eseguire gli ordini di un potente mago. Questi esseri possono anche essere "incatenati" all'interno di oggetti o strutture per dare a essi proprietà magiche. Gli elementali sono a malapena intelligenti, ma sono potenti come le forze della natura (quali effettivamente sono).
 
 ### Elementale, Acqua
 
@@ -752,7 +752,7 @@ Gli hobgoblin sono semplicemente dei grandi goblin, probabilmente una razza sepa
 *Movimento*: 15 nuotare  
 *DVE/PE*: 15/2,900
 
-Questi enormi mostri marini assomigliano a calamari di dimensioni inimmaginabili con otto (o più) appendici contorte. Attaccano intere navi, facendole a pezzi e ingoiando l'intero equipaggio con la loro enorme bocca dentata. Quando un kraken attacca, afferra un bersaglio con uno dei suoi tentacoli nel primo round, tenta di morderlo nel secondo round e poi lo ingoia intero nel terzo round. Un bersaglio che è stato inghiottito intero viene ucciso. I Kraken hanno tipicamente otto tentacoli e possono effettuare un attacco con ognuno di essi ad ogni round di combattimento.
+Questi enormi mostri marini assomigliano a calamari di dimensioni inimmaginabili con otto (o più) appendici contorte. Attaccano intere navi, facendole a pezzi e ingoiando l'intero equipaggio con la loro enorme bocca dentata. Quando un kraken attacca, afferra un bersaglio con uno dei suoi tentacoli nel primo round, tenta di morderlo nel secondo round e poi lo ingoia intero nel terzo round. Un bersaglio che è stato inghiottito intero viene ucciso. I Kraken hanno tipicamente otto tentacoli e possono effettuare un attacco con ognuno di essi a ogni round di combattimento.
 
 ### Idra
 
@@ -915,7 +915,7 @@ La melma verde non è tecnicamente un mostro, solo un rischio estremamente peric
 *Movimento*: 13  
 *DVE/PE*: 2/30
 
-I millepiedi giganti di piccola taglia infliggono una quantità letale di veleno ad ogni morso, ma non infliggono danni se il tiro salvezza ha successo (modificatore +4 al tiro salvezza dell'avversario).
+I millepiedi giganti di piccola taglia infliggono una quantità letale di veleno a ogni morso, ma non infliggono danni se il tiro salvezza ha successo (modificatore +4 al tiro salvezza dell'avversario).
 
 ### Millepiedi, Gigante (medio)
 
@@ -1169,7 +1169,7 @@ Questi minuscoli uccelli hanno becchi simili ad aghi che usano per infilzare le 
 *DVE/PE*: 7/600; 8/800; 9/1,100;  
 10/1,400; 11/1,700; 12/2,000
 
-I treant sono protettori e "pastori" degli alberi della foresta. A seconda della loro taglia, hanno diversi dadi vita e danni; i treant da 7 a 8 dadi vita infliggono 2d6 punti di danno con ogni colpo delle loro mani simili a rami, i treant da 9-10 dadi vita infliggono 3d6 punti, e i treant da 11-12 dadi vita infliggono 4d6 punti. Tutti i treant possono "svegliare" gli alberi entro 60 piedi, permettendo loro di camminare ad una velocità di 3, ed eventualmente di attaccare (non più di due alberi alla volta possono essere svegliati per ordine di un singolo treant).
+I treant sono protettori e "pastori" degli alberi della foresta. A seconda della loro taglia, hanno diversi dadi vita e danni; i treant da 7 a 8 dadi vita infliggono 2d6 punti di danno con ogni colpo delle loro mani simili a rami, i treant da 9-10 dadi vita infliggono 3d6 punti, e i treant da 11-12 dadi vita infliggono 4d6 punti. Tutti i treant possono "svegliare" gli alberi entro 60 piedi, permettendo loro di camminare a una velocità di 3, ed eventualmente di attaccare (non più di due alberi alla volta possono essere svegliati per ordine di un singolo treant).
 
 ### Troll
 
@@ -1239,7 +1239,7 @@ I soldati umani servono come guardia cittadina, mercenari e uomini d'arme. Sono 
 *Movimento*: 24  
 *DVE/PE*: 5/240
 
-Gli unicorni sono creature generalmente timide e benevole, che permetteranno solo ad una casta fanciulla di avvicinarsi a loro. Possono teletrasportarsi una volta al giorno ad una distanza di 360 piedi, con un cavaliere. Quando caricano, il loro corno può infliggere danni doppi. Gli unicorni sono resistenti alla magia al 25%. Il corno dell'unicorno ha proprietà curative secondo la leggenda (i dettagli di questo, se esistono, sono lasciati all'Arbitro). C'è molto spazio per creare ogni variante di sorta: unicorni malvagi o volanti, ecc.
+Gli unicorni sono creature generalmente timide e benevole, che permetteranno solo a una casta fanciulla di avvicinarsi a loro. Possono teletrasportarsi una volta al giorno a una distanza di 360 piedi, con un cavaliere. Quando caricano, il loro corno può infliggere danni doppi. Gli unicorni sono resistenti alla magia al 25%. Il corno dell'unicorno ha proprietà curative secondo la leggenda (i dettagli di questo, se esistono, sono lasciati all'Arbitro). C'è molto spazio per creare ogni variante di sorta: unicorni malvagi o volanti, ecc.
 
 ### Uomo Lucertola
 
@@ -1322,7 +1322,7 @@ Non c'è davvero alcun limite a quanto possano essere potenti i mostri, e spesso
 Si può notare che mentre i livelli suggeriti per i personaggi sono limitati, i livelli dei mostri non lo sono. Le ragioni di questo sono semplici:
 
 - I giocatori sono un gruppo e i grandi mostri hanno bisogno di livelli per superare lo svantaggio numerico. 
-- I giocatori tendono ad essere creativi mentre molti arbitri permettono ai mostri di "giocare da stupidi".
+- I giocatori tendono a essere creativi mentre molti arbitri permettono ai mostri di "giocare da stupidi".
 
 L'Arbitro ha la possibilità di permettere ai personaggi di continuare ad avanzare, o di mettere un limite ai livelli dei mostri come meglio crede.
 

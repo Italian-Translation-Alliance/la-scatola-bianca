@@ -86,7 +86,7 @@ Il Carisma si riferisce al magnetismo personale e alla capacità di leadership d
 
 ### Punti Ferita
 
-I Punti Ferita (PF) rappresentano la quantità di "danni" che un personaggio può subire prima di morire: sono determinati dal numero di Dadi Vita (DV) che il personaggio ha ad ogni livello, che si trova nella descrizione di ogni Classe Personaggio più avanti. Se un giocatore inizia con un combattente di 1° livello (1+1 DV), tirerà quindi 1 DV (1d6) e aggiungerà "+1" al risultato finale per determinare i punti ferita iniziali del suo PG. Quando il personaggio accumula abbastanza PE per guadagnare un livello, di solito viene tirato un nuovo Dado Vita e aggiunto al totale (a volte un nuovo livello, però, fornisce solo un punto ferita aggiuntivo e non un dado intero).
+I Punti Ferita (PF) rappresentano la quantità di "danni" che un personaggio può subire prima di morire: sono determinati dal numero di Dadi Vita (DV) che il personaggio ha a ogni livello, che si trova nella descrizione di ogni Classe Personaggio più avanti. Se un giocatore inizia con un combattente di 1° livello (1+1 DV), tirerà quindi 1 DV (1d6) e aggiungerà "+1" al risultato finale per determinare i punti ferita iniziali del suo PG. Quando il personaggio accumula abbastanza PE per guadagnare un livello, di solito viene tirato un nuovo Dado Vita e aggiunto al totale (a volte un nuovo livello, però, fornisce solo un punto ferita aggiuntivo e non un dado intero).
 
 ### Allineamento
 

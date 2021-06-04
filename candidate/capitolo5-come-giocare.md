@@ -8,7 +8,7 @@ Fondamentalmente il giocatore e l'Arbitro lavorano insieme con l'Arbitro che ges
 
 I personaggi ottengono punti esperienza (PE) uccidendo mostri e accumulando tesori; quando si guadagnano abbastanza PE, il personaggio sale di livello. I mostri hanno valori di punti esperienza stabiliti nelle loro descrizioni e un pezzo d'oro acquisito equivale a 1 PE. L'esperienza viene assegnata accumulando tesori perché ogni pezzo d'oro guadagnato da un personaggio è un indice dell'abilità del suo giocatore. Assegnare esperienza solo per l'uccisione di mostri non premia un gruppo di avventurieri che riesce ad attirare un drago lontano dal suo tesoro, in modo da poterlo derubare senza combattere; non premia i personaggi che operano con intelligenza, furtività, inganno e depistaggio. 
 
-Ogni classe di personaggi ha un attributo principale elencato nella sua descrizione, e il processo di creazione del personaggio spiega come determinare il bonus PE totale del personaggio. Ci sono due modi diversi di farlo, ma ognuno si traduce in un bonus percentuale. Se il bonus di un personaggio è del 10%, per esempio, e l'arbitro assegna 1000 PE ad ogni personaggio, quel particolare personaggio riceverà 1100 PE (il 10% di 1000 è 100, quindi il personaggio riceve un bonus di 100 PE).
+Ogni classe di personaggi ha un attributo principale elencato nella sua descrizione, e il processo di creazione del personaggio spiega come determinare il bonus PE totale del personaggio. Ci sono due modi diversi di farlo, ma ognuno si traduce in un bonus percentuale. Se il bonus di un personaggio è del 10%, per esempio, e l'arbitro assegna 1000 PE a ogni personaggio, quel particolare personaggio riceverà 1100 PE (il 10% di 1000 è 100, quindi il personaggio riceve un bonus di 100 PE).
 
 ### Tempo
 
@@ -71,7 +71,7 @@ Idealmente, i giocatori saranno abbastanza descrittivi durante una ricerca da tr
 ## Combattimento
 
 Quando il gruppo di avventurieri entra in contatto con i nemici, l'ordine degli eventi nel round di combattimento è il seguente:  
-1\) L'arbitro determina se una parte o l'altra abbia diritto ad un attacco gratuito o ad una mossa come risultato della sorpresa - questo è una valutazione o un tiro di dado di qualche tipo, a seconda delle circostanze. Normalmente, chiunque è sorpreso se tira un 1 o un 2 su un d6.  
+1\) L'arbitro determina se una parte o l'altra abbia diritto a un attacco gratuito o a una mossa come risultato della sorpresa - questo è una valutazione o un tiro di dado di qualche tipo, a seconda delle circostanze. Normalmente, chiunque è sorpreso se tira un 1 o un 2 su un d6.  
 2\) Si determina l'iniziativa. Si effettua un tiro per ogni parte, non per ogni individuo in combattimento.  
 
 - La parte che ha l'iniziativa agisce per prima (lancio di dardi, incantesimi, movimento, attacchi in mischia, ecc.) e i risultati hanno effetto.

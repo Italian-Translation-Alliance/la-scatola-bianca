@@ -33,7 +33,7 @@ Molti Arbitri creeranno mappe del Sottomondo o delle terre selvagge prima di gio
 
 Nel Sottomondo la mappa è riempita da mostri, trappole, tesori e creature o posti misteriosi che la fantasia dell'Arbitro trasforma in realtà.
 
-La mappa delle terre selvagge è creata usando carta con griglia a esagoni, con ogni esagono che rappresenta 6 miglia, avendo un tipo di terreno specifico e possibilmente una caratteristica interessante. Una caratteristica potrebbe essere la torre di un mago, il forte di un guerriero, il tempio di un sacerdote malvagio o magari potrebbe essere una piccola creatura simile ad un elfo, la quale è seduta sul tronco di un albero mentre suona il flauto. Lascia che la tua immaginazione corra selvaggia quando crei tali caratteristiche.
+La mappa delle terre selvagge è creata usando carta con griglia a esagoni, con ogni esagono che rappresenta 6 miglia, avendo un tipo di terreno specifico e possibilmente una caratteristica interessante. Una caratteristica potrebbe essere la torre di un mago, il forte di un guerriero, il tempio di un sacerdote malvagio o magari potrebbe essere una piccola creatura simile a un elfo, la quale è seduta sul tronco di un albero mentre suona il flauto. Lascia che la tua immaginazione corra selvaggia quando crei tali caratteristiche.
 
 ### Mostri Erranti
 Nel Sottomondo, controlla ogni ora (sei turni) per i mostri erranti, mentre nelle terre selvagge controlla a ogni esagono. Normalmente, c'è una probabilità di 1 su 6 di incontrare qualcosa nel Sottomondo. Controlla la tabella Perdersi ed Incontri per la probabilità degli incontri nelle terre selvagge.

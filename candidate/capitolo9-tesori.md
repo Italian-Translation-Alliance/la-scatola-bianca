@@ -31,7 +31,7 @@ Oltre alle monete, i tesori possono contenere gemme, gioielli e oggetti magici. 
 - Per ogni 1.000 po di valore, c'è il 10% di possibilità di scambiare 1.000 po con un oggetto sulla tabella delle gemme/gioielli medi o della magia media.
 - Per ogni 100 po di valore, c'è il 10% di possibilità di scambiare 100 po con un oggetto sulla tabella delle gemme/gioielli minori o della magia minore.
 
-Calcolate la percentuale totale del tesoro che può essere scambiato e tirate un d100 per vedere se potete tirare per un oggetto su una delle seguenti tabelle. Si suggerisce che l'Arbitro inizi con i valori da 5.000 po e scenda fino ai valori da 100 po. "Gioielli" si riferisce ad un singolo oggetto di gioielleria.
+Calcolate la percentuale totale del tesoro che può essere scambiato e tirate un d100 per vedere se potete tirare per un oggetto su una delle seguenti tabelle. Si suggerisce che l'Arbitro inizi con i valori da 5.000 po e scenda fino ai valori da 100 po. "Gioielli" si riferisce a un singolo oggetto di gioielleria.
 
 Ricordate sempre che queste tabelle sono solo linee guida - se desiderate il posizionamento di un particolare oggetto o tipo di tesoro, fatelo pure! Se non volete includere gemme, gioielli o oggetti magici, allora lasciate che il tesoro sia di sole monete. Queste tabelle sono qui solo per aiutare.
 
@@ -432,9 +432,9 @@ Tira 1d20 e aggiungi +0, +20 o +40, a seconda che il tesoro sia minore, medio o 
 
 **Bacchetta d'individuazione (trappole e porte segrete)**: Rileva trappole e porte segrete con un raggio d'azione di 6 metri. Sempre attiva se tenuta in mano, non usa cariche.
 
-**Bacchetta del Freddo**: Lancia un cono di freddo di 60 piedi ad una base di 30 piedi di lato. Le creature nel cono subiscono 6d6 danni (tiro salvezza per metà danno). Contiene 25 cariche e non può essere ricaricata).
+**Bacchetta del Freddo**: Lancia un cono di freddo di 60 piedi a una base di 30 piedi di lato. Le creature nel cono subiscono 6d6 danni (tiro salvezza per metà danno). Contiene 25 cariche e non può essere ricaricata).
 
-**Bacchetta della Paralisi**: Lancia un cono di paralisi di 60 piedi ad una base di 30 piedi di diametro. Le creature nel cono sono paralizzate per 3d6 turni. Contiene 25 cariche e non può essere ricaricata).
+**Bacchetta della Paralisi**: Lancia un cono di paralisi di 60 piedi a una base di 30 piedi di diametro. Le creature nel cono sono paralizzate per 3d6 turni. Contiene 25 cariche e non può essere ricaricata).
 
 **Bacchetta della Paura**: Provoca la fuga delle creature in un percorso a forma di cono (tiro salvezza). C'è una probabilità del 60% che facciano cadere ciò che hanno in mano. Il cono si estende per 60 piedi fino a una base di 30 piedi. Contiene 25 cariche e non può essere ricaricato).
 
@@ -498,11 +498,11 @@ Tira 1d20 e aggiungi +0, +20 o +40, a seconda che il tesoro sia minore, medio o 
 
 **Stelle cadenti**: Una volta al giorno, questo anello può evocare 1d6 meteore infuocate dalle profondità dello spazio. Ogni meteora può colpire un nemico separato e infligge 3d6 danni. Se usate al chiuso o sottoterra, le meteore colpiranno qualsiasi cosa si trovi direttamente sopra il bersaglio.
 
-**Telecinesi**: Chi lo indossa può sollevare e spostare mentalmente fino a 200 libbre di peso ad una distanza di 120 piedi.
+**Telecinesi**: Chi lo indossa può sollevare e spostare mentalmente fino a 200 libbre di peso a una distanza di 120 piedi.
 
 **Tre desideri**: Concede a chi lo indossa 3 desideri; i desideri oltraggiosi si ritorcono contro.
 
-**Visione a raggi X**: Chi lo indossa ha una visione a raggi X ad una distanza di 40 piedi. La distanza massima attraverso la quale il personaggio può vedere attraverso la roccia solida è poco più di 3 metri, anche se i metalli solidi (diversi dal piombo) è di 1 piede, e attraverso il piombo è di 1 pollice.
+**Visione a raggi X**: Chi lo indossa ha una visione a raggi X a una distanza di 40 piedi. La distanza massima attraverso la quale il personaggio può vedere attraverso la roccia solida è poco più di 3 metri, anche se i metalli solidi (diversi dal piombo) è di 1 piede, e attraverso il piombo è di 1 pollice.
 
 ## Bastoni
 
@@ -535,7 +535,7 @@ Tira 1d20 e aggiungi +0, +20 o +40, a seconda che il tesoro sia minore, medio o 
 
 **Potenza del Signore**: Questi bastoni hanno solo 10 cariche, ma una carica può essere usata per lanciare Resuscitare.
 
-**Serpente**: +1 "per colpire" e +1 danno. Quando viene comandato (usando una carica) il bastone si avvolge intorno al bersaglio con un colpo riuscito e pizzica la vittima per 1d4 × 10 minuti. La vittima deve avere le dimensioni di un umano o più piccolo per usare questo potere. Il bastone tornerà poi strisciando al suo proprietario ad una velocità di 24. Solo i chierici possono utilizzare il Bastone del Serpente.
+**Serpente**: +1 "per colpire" e +1 danno. Quando viene comandato (usando una carica) il bastone si avvolge intorno al bersaglio con un colpo riuscito e pizzica la vittima per 1d4 × 10 minuti. La vittima deve avere le dimensioni di un umano o più piccolo per usare questo potere. Il bastone tornerà poi strisciando al suo proprietario a una velocità di 24. Solo i chierici possono utilizzare il Bastone del Serpente.
 
 **Colpire**: Infligge 2d6 punti di danno con un colpo riuscito (non usa cariche). 
 
@@ -658,7 +658,7 @@ Tira 1d20 e aggiungi +0, +20 o +40, a seconda che il tesoro sia minore, medio o 
 
 **Corda dell'Impigliamento**: Questa corda, a comando, si attorciglia intorno a 2d4+1 nemici di taglia umana. La corda non può essere colpita se non con un tiro naturale di 20 (è magica), e può sostenere 20 punti ferita di danno prima di sfilacciarsi e diventare inutile. Utilizzabile da: tutte le classi.
 
-**Corno di Abbattimento**: Questo corno, quando viene soffiato, ha lo stesso effetto sulle strutture di una catapulta, e causa 2d6 punti di danno alle creature, assordandole anche per 10 minuti. Il cono di suono è lungo 100 piedi, e si allarga ad una base di 20 piedi (la "punta" del cono, alla bocca del corno, è larga 10 piedi). Utilizzabile da: tutte le classi.
+**Corno di Abbattimento**: Questo corno, quando viene soffiato, ha lo stesso effetto sulle strutture di una catapulta, e causa 2d6 punti di danno alle creature, assordandole anche per 10 minuti. Il cono di suono è lungo 100 piedi, e si allarga a una base di 20 piedi (la "punta" del cono, alla bocca del corno, è larga 10 piedi). Utilizzabile da: tutte le classi.
 
 **Corno del Valhalla, Argento**: Evoca 2d4 guerrieri berserk (2 DV) per assistere colui che ha caricato il corno. Utilizzabile da: tutte le classi.
 
@@ -676,7 +676,7 @@ Tira 1d20 e aggiungi +0, +20 o +40, a seconda che il tesoro sia minore, medio o 
 
 **Figurina del Cane d'Onice:** Questa figura di pietra si trasforma in un segugio di pietra vivente quando viene pronunciata la sua parola di comando. Cercherà qualsiasi cosa il padrone gli dica di trovare, senza fermarsi finché non ci riesce o viene ucciso. Ha una probabilità del 75% di rilevare oggetti invisibili o nascosti (e naturalmente il suo olfatto rileva creature invisibili e nascoste con successo quasi perfetto). Ai fini della difesa e dell'attacco, il cane di pietra viene trattato come un lupo. Può essere usato dodici volte prima che la statuetta diventi non magica. Utilizzabile da: tutte le classi.
 
-**Figurina dei Leoni Dorati**: Una piccola statuetta di pietra che si trasforma in un leone quando viene pronunciata la parola di comando, combattendo agli ordini del proprietario. Se viene uccisa, torna ad essere una statuetta, ma può essere usata di nuovo. La statuetta può essere usata una volta alla settimana e non di più. Utilizzabile da: tutte le classi.
+**Figurina dei Leoni Dorati**: Una piccola statuetta di pietra che si trasforma in un leone quando viene pronunciata la parola di comando, combattendo agli ordini del proprietario. Se viene uccisa, torna a essere una statuetta, ma può essere usata di nuovo. La statuetta può essere usata una volta alla settimana e non di più. Utilizzabile da: tutte le classi.
 
 **Freccia di Direzione**: Punta la direzione di qualsiasi cosa il proprietario richieda. Non può essere usata più di 7 volte in una sola settimana. Utilizzabile da: tutte le classi.
 
@@ -708,9 +708,9 @@ Tira 1d20 e aggiungi +0, +20 o +40, a seconda che il tesoro sia minore, medio o 
 
 **Manuale dell'Intelligenza**: La lettura di questo tomo aumenta l'Intelligenza del lettore di 1 punto (fino a un massimo di 18). Utilizzabile da: tutte le classi.
 
-**Manuale della Rapidità**: La lettura di questo tomo aumenta la Destrezza del lettore di 1 punto (fino ad un massimo di 18). Utilizzabile da: tutte le classi.
+**Manuale della Rapidità**: La lettura di questo tomo aumenta la Destrezza del lettore di 1 punto (fino a un massimo di 18). Utilizzabile da: tutte le classi.
 
-**Manuale della Saggezza**: La lettura di questo tomo aumenta la Saggezza del lettore di 1 punto (fino ad un massimo di 18). Utilizzabile da: tutte le classi.
+**Manuale della Saggezza**: La lettura di questo tomo aumenta la Saggezza del lettore di 1 punto (fino a un massimo di 18). Utilizzabile da: tutte le classi.
 
 **Mazzo delle Molte Cose**: Un apparentemente ordinario mazzo di carte dipinte a mano, questo oggetto porta incantesimi tremendi e vari, uno per ogni carta del mazzo. Il mazzo contiene tutti gli assi e le carte di faccia, più un Joker (il Matto). Un personaggio può pescare tutte le carte che vuole (con il mazzo rimescolato ogni volta), ma una volta che smette di pescare carte, il mazzo scompare in un suono di deboli risate malevole. I risultati sono i seguenti:
 
@@ -770,7 +770,7 @@ Tira 1d20 e aggiungi +0, +20 o +40, a seconda che il tesoro sia minore, medio o 
 
 **Simbolo-Scarabeo della Follia**: Questo è una scultura di uno scarabeo, o forse i resti pietrificati di uno vero. Quando lo scarabeo viene mostrato, tutte le creature con 9 o meno dadi per colpire, entro un raggio di 30 piedi, cadono in una temporanea follia che dura 2 ore. Le creature con 10 o più dadi per colpire non ricevono comunque un tiro salvezza, ma hanno una possibilità su 4 di superare l'insidiosa influenza dello scarabeo. Lo scarabeo può essere usato 12 volte, dopodiché si sgretola in polvere. A discrezione dell'Arbitro, può essere ricaricato, ma con una probabilità del 5% per ogni carica che l'oggetto venga distrutto. Utilizzabile da: tutte le classi.
 
-**Specchio di Scrittura Mentale**: Questo specchio a mano (potrebbe anche essere trovato come uno specchio più piccolo su una collana) permette all'utente di lanciare Chiaroudienza, Chiaroveggenza e Leggere il Pensiero (ESP), con la portata normale, ma per un tempo illimitato. Lo specchio risponderà anche ad una domanda su ciò che ritrae (la risposta sarà probabilmente piuttosto criptica), ma è possibile solo una domanda a settimana. Utilizzabile da: tutte le classi.
+**Specchio di Scrittura Mentale**: Questo specchio a mano (potrebbe anche essere trovato come uno specchio più piccolo su una collana) permette all'utente di lanciare Chiaroudienza, Chiaroveggenza e Leggere il Pensiero (ESP), con la portata normale, ma per un tempo illimitato. Lo specchio risponderà anche a una domanda su ciò che ritrae (la risposta sarà probabilmente piuttosto criptica), ma è possibile solo una domanda a settimana. Utilizzabile da: tutte le classi.
 
 **Stivali degli Elfi**: Chi li indossa si muove in completo silenzio. Utilizzabile da: tutte le classi.
 
@@ -778,7 +778,7 @@ Tira 1d20 e aggiungi +0, +20 o +40, a seconda che il tesoro sia minore, medio o 
 
 **Stivali della Velocità o Stivali del Balzo (50%)**: Gli Stivali della Velocità raddoppiano la velocità di movimento di chi li indossa, ma richiedono un riposo completo per un periodo di tempo equivalente a quello in cui sono stati usati. Gli Stivali del balzo permettono a chi li indossa di fare salti prodigiosi di 10 piedi in altezza e fino a 30 piedi in orizzontale. Questi stivali raddoppiano anche la velocità di movimento, ma solo all'aperto. Non richiedono che chi li indossa si riposi dopo averli usati. Utilizzabili da: tutte le classi.
 
-**Tappeto Volante**: Il tappeto può trasportare fino a tre persone, e viaggia ad una velocità di 18 quando ha più di un passeggero. Con un solo cavaliere, il tappeto si muove ad una velocità di 30. Utilizzabile da: tutte le classi.
+**Tappeto Volante**: Il tappeto può trasportare fino a tre persone, e viaggia a una velocità di 18 quando ha più di un passeggero. Con un solo cavaliere, il tappeto si muove a una velocità di 30. Utilizzabile da: tutte le classi.
 
 **Tubi delle Fogne**: Questi tubi evocano 10d6 ratti giganti. Il pifferaio non ha bisogno di concentrarsi una volta che i ratti arrivano (che richiede 1d4 × 10 minuti), ma è saggio farlo. Quando i ratti arrivano, c'è un 5% di possibilità che non gli obbediscano, e se smette di concentrarsi sulla sua melodia c'è un 10% di possibilità che perda il controllo su di loro. Ogni turno successivo in cui non riesce a concentrarsi c'è un'altra possibilità di perdere il controllo, e la possibilità aumenta del 10% ogni volta che viene fatta (primo turno, 10%, secondo turno 20%, ecc.). Utilizzabile da: tutte le classi.
 

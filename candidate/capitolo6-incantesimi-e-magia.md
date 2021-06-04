@@ -1,6 +1,6 @@
 # Capitolo 6: Incantesimi e Magia
 
-Chierici e Maghi sono le uniche classi che possono lanciare incantesimi. Gli incantesimi hanno tre fasi. La prima è la memorizzazione (un personaggio può memorizzare solo un certo numero di incantesimi da portare con sé durante un'avventura -- vedi la descrizione della classe del personaggio per vedere quanti ed a quale livello). Secondo, la preparazione, che è il processo di pronunciare le parole magiche e compiere i gesti magici. Nella terza, l'incantesimo è lanciato, quindi ha effetto e la magia si compie. Nella normale sequenza di combattimento, l'incantatore o l'incantatrice comincia a preparare all'inizio del round e lancia l'incantesimo quando il suo gruppo avrà l'iniziativa. Nella sequenza di combattimento alternativa, preparare un incantesimo richiede un intero round, ma gli incantesimi sono lanciati all'inizio del round successivo; l'incantatore può effettuare nel frattempo altre azioni durante il round, incluso preparare un incantesimo per il round successivo
+Chierici e Maghi sono le uniche classi che possono lanciare incantesimi. Gli incantesimi hanno tre fasi. La prima è la memorizzazione (un personaggio può memorizzare solo un certo numero di incantesimi da portare con sé durante un'avventura — vedi la descrizione della classe del personaggio per vedere quanti e a quale livello). Secondo, la preparazione, che è il processo di pronunciare le parole magiche e compiere i gesti magici. Nella terza, l'incantesimo è lanciato, quindi ha effetto e la magia si compie. Nella normale sequenza di combattimento, l'incantatore o l'incantatrice comincia a preparare all'inizio del round e lancia l'incantesimo quando il suo gruppo avrà l'iniziativa. Nella sequenza di combattimento alternativa, preparare un incantesimo richiede un intero round, ma gli incantesimi sono lanciati all'inizio del round successivo; l'incantatore può effettuare nel frattempo altre azioni durante il round, incluso preparare un incantesimo per il round successivo
 
 ## Lista degli Incantesimi del Chierico
 
@@ -34,7 +34,7 @@ Chierici e Maghi sono le uniche classi che possono lanciare incantesimi. Gli inc
 | Missione                      |                                   |
 | Resurrezione dei Morti        |                                   |
 
-Il nome dell'incantesimo fra parentesi indica la versione caotica dell'incantesimo -- le conseguenze per i Chierici legali che impiegano incantesimi caotici sono determinate dall'Arbitro di Gioco. 
+Il nome dell'incantesimo fra parentesi indica la versione caotica dell'incantesimo — le conseguenze per i Chierici legali che impiegano incantesimi caotici sono determinate dall'Arbitro di Gioco. 
 
 ## Lista degli Incantesimi del Mago
 
@@ -97,8 +97,8 @@ Di seguito sono contenuti tutti gli incantesimi per Chierici e Maghi, in ordine 
 *Durata:* 30 minuti
 
 L'incantatore deve annunciare quale delle due opzioni sarà lanciata. Entrambe le opzioni hanno 60' di raggio ad area di effetto:
-- Come incantesimo di accelerazione, fino a 24 creature possono muoversi ed attaccare al doppio della normale velocità. 
-- Come incantesimo di rallentamento, fino a 24 creature che falliscono il tiro salvezza si muovono ed attaccano a metà della velocità.
+- Come incantesimo di accelerazione, fino a 24 creature possono muoversi e attaccare al doppio della normale velocità. 
+- Come incantesimo di rallentamento, fino a 24 creature che falliscono il tiro salvezza si muovono e attaccano a metà della velocità.
 
 ### Ammaliare Mostri
 *Livello:* M4  
@@ -126,7 +126,7 @@ Questo incantesimo anima scheletri o zombie da corpi morti. 1d6 non-morti sono a
 *Raggio d'azione:* Pg o PNG bersaglio (fuori dal combattimento)  
 *Durata:* 1 ora
 
-L'incantatore deve annunciare quale delle due opzioni deve essere lanciata. Chi riceve l'incantesimo non può essere in combattimento nel momento in cui viene lanciato. 
+L'incantatore deve annunciare quale delle due opzioni deve essere lanciata. Chi subisce l'incantesimo non può essere in combattimento nel momento in cui viene lanciato. 
 - Come incantesimo di Benedire, al ricevente viene garantito un bonus di +1 a tutti i ti d'attacco e, se il bersaglio non è un personaggio giocante, migliora il morale. 
 - Come incantesimo di Maledire, il ricevente è maledetto con una penalità di -1 a tutti gli attacchi, e se il bersaglio non è un personaggio giocante, soffre una diminuzione del morale.
 
@@ -156,24 +156,24 @@ Questo incantesimo chiude una porta o un cancello magicamente per la durata dell
 *Raggio d'azione:* Incantatore  
 *Durata:* 3 domande
 
-Poteri più alti garantiscono rispetto a tre quesiti che l'incantatore pone. Agli alti poteri non piace essere interrogati costantemente da meri mortali, quindi l'incantesimo dovrebbe essere limitato ad un lancio a settimana. L'Arbitro potrebbe concedere all'incantatore di lanciare un incantesimo di Comunione rafforzato da sei domande una volta l'anno.
+Poteri più alti garantiscono rispetto a tre quesiti che l'incantatore pone. Agli alti poteri non piace essere interrogati costantemente da meri mortali, quindi l'incantesimo dovrebbe essere limitato a un lancio a settimana. L'Arbitro potrebbe concedere all'incantatore di lanciare un incantesimo di Comunione rafforzato da sei domande una volta l'anno.
 
 ### Confusione
 *Livello:* M4  
 *Raggio d'azione:* 60'  
 *Durata:* 2 ore
 
-Quest'incantesimo confonde le persone ed i mostri, facendoli agire casualmente. Gli effetti della confusione possono mutare ogni 10 minuti; si tirano i dadi per determinare qualunque cambiamento. Tira 2d6 per determinare il comportamento della creatura:
+Quest'incantesimo confonde le persone e i mostri, facendoli agire casualmente. Gli effetti della confusione possono mutare ogni 10 minuti; si tirano i dadi per determinare qualunque cambiamento. Tira 2d6 per determinare il comportamento della creatura:
 
 #### Tabella 29: Reazione Confusione
 
 | Tiro |                  Reazione                  |
 |:----:|:------------------------------------------:|
-| 2-5  | Attaccano l'incantatore ed i suoi alleati. |
+| 2-5  | Attaccano l'incantatore e i suoi alleati. |
 | 6-8  | Rimangono fermi e sconcertati              |
 | 9-12 | Si attaccano l'uno con l'altro             |
 
-L'incantesimo affligge 2d6 creature, più un numero addizionale di creature per ogni livello dell'incantatore sopra all'8°. Le creature con 3 DV o meno sono automaticamente colpite dall'incantesimo, ed ha effetto immediatamente. Le creature con 4 DV o più resistono all'effetto della confusione finché non raggiunge il suo massimo potenziale, cioè un numero di minuti pari a 1d4. Queste creature devono fare un tiro salvezza quando l'effetto raggiunge il massimo potenziale e ad ogni 10 minuti successivi oppure diventano confusi per il resto della durata dell'incantesimo. 
+L'incantesimo affligge 2d6 creature, più un numero addizionale di creature per ogni livello dell'incantatore sopra all'8°. Le creature con 3 DV o meno sono automaticamente colpite dall'incantesimo, e ha effetto immediatamente. Le creature con 4 DV o più resistono all'effetto della confusione finché non raggiunge il suo massimo potenziale, cioè un numero di minuti pari a 1d4. Queste creature devono fare un tiro salvezza quando l'effetto raggiunge il massimo potenziale e a ogni 10 minuti successivi oppure diventano confusi per il resto della durata dell'incantesimo. 
 
 ### Contattare altri Piani
 *Livello:* M5  
@@ -209,7 +209,7 @@ L'incantatore evoca o ferma la pioggia, i tornado, crea basse o alte temperature
 *Raggio d'azione:* Tocco  
 *Durata:* Istantaneo 
 
-- Come incantesimo di Curare Malattie, il ricevente è curato da qualunque malattia -- incluse quelle inflitte con la magia.
+- Come incantesimo di Curare Malattie, il ricevente è curato da qualunque malattia — incluse quelle inflitte con la magia.
 - Come incantesimo di Causare Malattie, il ricevente è afflitto da un a malattia che l'Arbitro di gioco deve determinare.
 
 ### Curare (Causare) Ferite Leggere
@@ -275,7 +275,7 @@ L'incantesimo definisce un bersaglio specifico come una porta, un popolano, o un
 *Raggio d'azione:* 120'  
 *Durata:* 10 minuti
 
-Dissolvi Magie può essere usato per dissolvere completamente gran parte di incantesimi ed incantamenti.
+Dissolvi Magie può essere usato per dissolvere completamente gran parte di incantesimi e incanti.
 
 Come esempio di come un Arbitro possa gestire questo incantesimo, la probabilità di dissolvere la magia può essere una percentuale basata sul rapporto del livello dell'incantatore che prova a dissolvere e del livello (o DV del mostro) che ha scagliato l'incantesimo
 
@@ -286,7 +286,7 @@ Così, un Mago di 6° livello che tentasse di dissolvere un ammaliamento di un M
 *Raggio d'azione:* 120'  
 *Durata:* Finché viene dissolto
 
-L'incantatore evoca un elementale di 16 DV (di qualunque tipo) dal piano elementale di esistenza, e lo vincola ai suoi comandi. Ogni tipo di elementale può essere evocato solo una volta al giorno. L'elementale obbedisce all'incantatore finché l'incantatore si concentra su di esso; quando l'incantatore cessa di concentrarsi, anche per un solo istante, l'elementale si libera ed attacca.
+L'incantatore evoca un elementale di 16 DV (di qualunque tipo) dal piano elementale di esistenza, e lo vincola ai suoi comandi. Ogni tipo di elementale può essere evocato solo una volta al giorno. L'elementale obbedisce all'incantatore finché l'incantatore si concentra su di esso; quando l'incantatore cessa di concentrarsi, anche per un solo istante, l'elementale si libera e attacca.
 
 ### Forza Fantasma
 *Livello:* M2  
@@ -307,7 +307,7 @@ Entro un raggio di 60', muoiono fino a 2d8 creature con meno di 7 DV.
 *Raggio d'azione:* 120' (C), 60' (M)  
 *Durata:* 1 ora (C), 20 minuti (M)
 
-- Come Individuare Caos, l'incantatore individua creature del Caos, o coloro che hanno incantamenti, pensieri, o auree caotici entro il raggio dell'incantesimo. Il Veleno non è intrinsecamente cattivo o caotico e non può essere individuato da questo incantesimo.
+- Come Individuare Caos, l'incantatore individua creature del Caos, o coloro che hanno incanti, pensieri, o auree caotici entro il raggio dell'incantesimo. Il Veleno non è intrinsecamente cattivo o caotico e non può essere individuato da questo incantesimo.
 - Come Individuare Legge, l'incantesimo funziona esattamente come Individuare Caos eccenzion fatta che individua la Legge.
 
 ### Individuare Invisibilità 
@@ -315,30 +315,30 @@ Entro un raggio di 60', muoiono fino a 2d8 creature con meno di 7 DV.
 *Raggio d'azione:* 10' per livello incantatore  
 *Durata:* 1 ora
 
-L'incantatore può percepire creature e oggetti invisibile.
+L'incantatore può percepire creature e oggetti invisibili.
 
 ### Individuazione del Magico
 *Livello:* C1, M1  
 *Raggio d'azione:* 60'  
 *Durata:* 20 minuti
 
-L'incantatore può percepire in luoghi, persone o cose la presenza di un incantesimo magico o di un incantesimo. Magico oggetti magici o incantesimi posizionati segretamente essere scoperti con questo incantesimo.
+L'incantatore può percepire in luoghi, persone o cose la presenza di un incantesimo magico o di un incanto. Oggetti magici o incanti nascosti possono essere scoperti con questo incantesimo.
 
 ### Inseguitore Invisibile
 *Livello:* M6  
 *Raggio d'azione:* Vicino all'incantatore  
 *Durata:* Finché la missione non viene completata.
 
-Questo incantesimo evoca uno Inseguitore Invisibile con 8 DV. L'inseguitore compirà un solo compito come comandato dall'incantatore, indipendentemente da quanto sia lungo il compito o quanto debba viaggiare. L'inseguitore non può essere bandito in ogni circostanza da Dissolvi Magie; deve essere ucciso per fermare la sua missione.
+Questo incantesimo evoca uno Inseguitore Invisibile con 8 DV. L'inseguitore compirà un solo compito come comandato dall'incantatore, indipendentemente da quanto sia lungo il compito o quanto debba viaggiare. L'inseguitore non può essere bandito per alcun motivo da Dissolvi Magie; deve essere ucciso per fermare la sua missione.
 
-L'incantatore può percepire creature ed oggetti invisibili.
+L'incantatore può percepire creature e oggetti invisibili.
 
 ### Invisibilità 
 *Livello:* M2  
 *Raggio d'azione:* 240'  
 *Durata:* Finché non viene dissolta o avviene un attacco.
 
-Il bersaglio dell'incantesimo, che sia un oggetto od una persona, diventa invisibile sia per la visione normale che per la scurovisione. Se l'Arbitro sta usando le regole dell'invisibilità non modificate, la creatura non può essere attaccata a meno che la posizione approssimativa non sia conosciuta, tutti gli attacchi subiscono -4 al tiro.
+Il bersaglio dell'incantesimo, che sia un oggetto o una persona, diventa invisibile sia per la visione normale che per la scurovisione. Se l'Arbitro sta usando le regole dell'invisibilità non modificate, la creatura non può essere attaccata a meno che la posizione approssimativa non sia conosciuta, tutti gli attacchi subiscono -4 al tiro.
 
 ### Invisibilità, raggio 10'.
 *Livello:* M3  
@@ -374,7 +374,7 @@ Questo incantesimo permette all'incantatore di leggere le scritte magiche su ogg
 *Raggio d'azione:* 20'  
 *Durata:* 10 minuti per livello
 
-Questo incantesimo schiude ed apre tutte le porte, cancelli e portali entro il suo raggio, includendo anche quelli bloccati o tenuti chiusi dalla normale magia.
+Questo incantesimo schiude e apre tutte le porte, cancelli e portali entro il suo raggio, includendo anche quelli bloccati o tenuti chiusi dalla normale magia.
 
 Levitazione permette un movimento verso l'alto o verso il basso alla velocità di 6' per minuto (60' a turno) e l'incantatore non può levitare più di 20' per livello dal livello di partenza dove l'incantesimo è stato lanciato (tale raggio viene applicato sia al movimento in aria sia al movimento di discesa verso un baratro o una fossa).
 
@@ -390,7 +390,7 @@ Questo incantesimo indica all'incantatore la direzione corretta (in linea d'aria
 *Raggio d'azione:* 120'  
 *Durata:* 2 ore (C), 1 ora + 10 minuti per livello
 
-- Come incantesimo di Luce, l'incantatore bersaglia una persona od un oggetto il quale comincia a produrre luce brillante quanto una torcia con un raggio di 20'.
+- Come incantesimo di Luce, l'incantatore bersaglia una persona o un oggetto il quale comincia a produrre luce brillante quanto una torcia con un raggio di 20'.
 - Come incantesimo di Oscurità, l'incantatore causa un'oscurità come la notte entro l'area di un raggio di 20'.
 
 ### Luce (Oscurità), Continua
@@ -398,7 +398,7 @@ Questo incantesimo indica all'incantatore la direzione corretta (in linea d'aria
 *Raggio d'azione:* 120'  
 *Durata:* Permanente finché non viene dissolto
 
-- Come incantesimo di Luce, l'incantatore bersaglia una persona od un oggetto il quale comincia a produrre luce brillante quanto una torcia con un raggio di 20'.
+- Come incantesimo di Luce, l'incantatore bersaglia una persona o un oggetto il quale comincia a produrre luce brillante quanto una torcia con un raggio di 20'.
 - Come incantesimo di Oscurità, l'incantatore causa un'oscurità come la notte entro l'area di un raggio di 20'.
 
 ### Missione
@@ -414,15 +414,15 @@ Se la vittima fallisce il tiro salvezza, l'incantatore può affidargli un compit
 *Durata:* Vedere sotto 
 
 L'incantatore può annunciare quale delle due opzioni lancerà:
-- L'incantesimo abbassa la profondità e il livello d'acqua di laghi, fiumi, pozzi ed altri corpi d'acqua di metà (1/2) del loro normale livello. Usato in tal modo, l'incantesimo dura per 10 turni.
-- Alternativamente, questo incantesimo crea un passaggio attraverso l'acqua, ma solo ad una profondità di 10'. Usato in tal modo, l'incantesimo dura per 6 turni.
+- L'incantesimo abbassa la profondità e il livello d'acqua di laghi, fiumi, pozzi e altri corpi d'acqua di metà (1/2) del loro normale livello. Usato in tal modo, l'incantesimo dura per 10 turni.
+- Alternativamente, questo incantesimo crea un passaggio attraverso l'acqua, ma solo a una profondità di 10'. Usato in tal modo, l'incantesimo dura per 6 turni.
 
 ### Muovere Terra
 *Livello:* M6  
 *Raggio d'azione:* 240'  
 *Durata:* Permanente
 
-Questo incantesimo può essere usato solo al di sopra del terreno. Permette all'incantatore di muovere le colline ed alzare la terra o la pietra alla velocità di 6' al minuto per un'ora.
+Questo incantesimo può essere usato solo al di sopra del terreno. Permette all'incantatore di muovere le colline e alzare la terra o la pietra alla velocità di 6' al minuto per un'ora.
 
 ### Muro di Fuoco o Ghiaccio
 *Livello:* M4  
@@ -431,7 +431,7 @@ Questo incantesimo può essere usato solo al di sopra del terreno. Permette all'
 
 L'incantatore deve annunciare quale delle due opzioni viene lanciata:
 - Come incantesimo di Muro di Fuoco, l'incantatore evoca un muro di fuoco che si agita e brucia fintanto che l'incantatore si concentra. Le creature con 3 dadi vita o meno non possono oltrepassarla, e nessuna creatura può vedere cosa ci sia dall'altro lato. Passare attraverso le fiamme infligge 1d6 punti ferita di danno (nessun tiro salvezza) e le creature non-morte subiscono il doppio del danno.
--Come incantesimo di Muro di Ghiaccio, l'incantatore evoca un muro di ghiaccio spesso fino a 6'. L'incantatore può scegliere di creare un muro lungo 60' ed alto 20', od un muro circolare di 15' di raggio alto anche 20'. Le creature con 3 dadi vita o meno non possono sfondare il muro, ma creature con 4 o più dadi vita possono buttarlo giù, prendendo 1d6 danni nel mentre. Le creature con un metabolismo basato sul fuoco prendono 2d6 danni invece che un normale 1d6. Gli incantesimi di fuoco e gli effetti magici sono negati in prossimità del muro. 
+-Come incantesimo di Muro di Ghiaccio, l'incantatore evoca un muro di ghiaccio spesso fino a 6'. L'incantatore può scegliere di creare un muro lungo 60' e alto 20', o un muro circolare di 15' di raggio alto anche 20'. Le creature con 3 dadi vita o meno non possono sfondare il muro, ma creature con 4 o più dadi vita possono buttarlo giù, prendendo 1d6 danni nel mentre. Le creature con un metabolismo basato sul fuoco prendono 2d6 danni invece che un normale 1d6. Gli incantesimi di fuoco e gli effetti magici sono negati in prossimità del muro. 
 
 ### Muro di Pietra o Ferro
 *Livello:* M5  
@@ -475,7 +475,7 @@ L'incantatore evoca un "occhio" magico invisibile che si può muovere fino a 240
 *Raggio d'azione:* 240'  
 *Durata:* Istantaneo
 
-Un proiettile parte dalle dita dell'incantatore per esplodere presso il bersaglio in un lampo di fuoco simile ad una fornace. Ha un raggio di 20' e il danno e 1d6 per livello dell'incantatore. L'esplosione prenderà occuperà tutto il volume disponibile. Un successo sul tiro salvezza significa che il bersaglio riceverà solo metà dei danni.
+Un proiettile parte dalle dita dell'incantatore per esplodere presso il bersaglio in un lampo di fuoco simile a una fornace. Ha un raggio di 20' e il danno e 1d6 per livello dell'incantatore. L'esplosione prenderà occuperà tutto il volume disponibile. Un successo sul tiro salvezza significa che il bersaglio riceverà solo metà dei danni.
 
 ### Parlare con gli Animali
 *Livello:* C2  
@@ -510,12 +510,12 @@ Questo incantesimo funziona solo negli spazi aperti all'esterno. Uno sciame di i
 
 L'incantatore deve annunciare quale delle due opzioni sarà lanciata:
 - L'incantatore assume la forma di un qualunque oggetto o creatura, ottenendo gli attributi della nuova forma (l'uso delle ali, per esempio), ma non i suoi punti ferita o abilità combattive. L'Arbitro potrebbe permettere come beneficio la Classe Armatura della nuova forma, se questa ha una pelle pesantemente corazzata. Buona parte degli effetti dell'incantesimo è lasciata a discrezione dell'Arbitro. Questa forma dell'incantesimo dura almeno un'ora più una addizionale per ogni livello dell'incantatore
-- Alternativamente, questo incantesimo permette all'incantatore di trasformare un altro essere in un tipo differente di creatura (come un drago, una lumaca da giardino, e certamente, un rospo o una salamandra). La creatura trasformata guadagna tutte le abilita della forma, ma mantiene la sua coscienza ed i suoi punti ferita. Usato in tal modo, il raggio dell'incantesimo e di 60'. Questa versione dell'incantesimo dura finché non viene dissolta.
+- Alternativamente, questo incantesimo permette all'incantatore di trasformare un altro essere in un tipo differente di creatura (come un drago, una lumaca da giardino, e certamente, un rospo o una salamandra). La creatura trasformata guadagna tutte le abilita della forma, ma mantiene la sua coscienza e i suoi punti ferita. Usato in tal modo, il raggio dell'incantesimo e di 60'. Questa versione dell'incantesimo dura finché non viene dissolta.
 
 ### Portale Dimensionale 
 *Livello:* M4  
 *Raggio d'azione:* 10' lancio, 360' distanza massima  
-*Durata:* Istantanea
+*Durata:* Istantaneo
 
 Portale Dimensionale è una forma minore dell'incantesimo Teletrasporto che può essere gestita da maghi meno potenti. L'incantatore può teletrasportare se stesso, un oggetto, o un'altra persona con precisione perfetto alla locazione prescelta, ammesso che sia nel raggio dell'incantesimo.
 
@@ -523,7 +523,7 @@ Portale Dimensionale è una forma minore dell'incantesimo Teletrasporto che può
 *Livello:* M6  
 *Raggio d'azione:* 240'  
 *Durata:* 1 ora
-L'incantatore proietta l'immagine della sua persona fino ad un massimo di 240'. Non solo l'immagine proiettata mima i rumori dell'incantatore ed i gesti, ma ogni incantesimo lanciato sembrerà provenire dall'immagine. 
+L'incantatore proietta l'immagine della sua persona fino a un massimo di 240'. Non solo l'immagine proiettata mima i rumori dell'incantatore e i gesti, ma ogni incantesimo lanciato sembrerà provenire dall'immagine. 
 
 ### Protezione dal Caos (dalla Legge)
 *Livello:* C1 , M1  
@@ -538,8 +538,8 @@ L'incantatore proietta l'immagine della sua persona fino ad un massimo di 240'. 
 *Raggio d'azione:* 10' di raggio intorno all'incantatore  
 *Durata:* 2 ore
 
-- Come incantesimo di Protezione dal Caos, 10' di raggio, ha lo stesso effetto di Protezione dal Caos -- eccezion fatta che il suo effetto copre un'area piuttosto che un individuo.
-- Come incantesimo di Protezione dalla Legge, 10' di raggio, ha lo stesso effetto di Protezione dalla Legge -- eccezion fatta che il suo effetto copre un'area piuttosto che un individuo.
+- Come incantesimo di Protezione dal Caos, 10' di raggio, ha lo stesso effetto di Protezione dal Caos — eccezion fatta che il suo effetto copre un'area piuttosto che un individuo.
+- Come incantesimo di Protezione dalla Legge, 10' di raggio, ha lo stesso effetto di Protezione dalla Legge — eccezion fatta che il suo effetto copre un'area piuttosto che un individuo.
 
 ### Protezione dai Proiettili Normali 
 *Livello:* M3  
@@ -553,14 +553,14 @@ Il ricevente diventa invulnerabile a proiettili non-magici di piccole dimensioni
 *Raggio d'azione:* Contatto/Tocco  
 *Durata:* Istantaneo
 
-- Come incantesimo di Purificare Cibo e Bevande, l'incantatore purifica da putrefazione e veleno cibo ed acqua sufficienti per una dozzina di persone rendendolo puro.
-- Come incantesimo di Putrefare Cibo e Bevande, l'incantatore rende putrido e velenoso cibo ed acqua sufficienti per una dozzina di persone.
+- Come incantesimo di Purificare Cibo e Bevande, l'incantatore purifica da putrefazione e veleno cibo e acqua sufficienti per una dozzina di persone rendendolo puro.
+- Come incantesimo di Putrefare Cibo e Bevande, l'incantatore rende putrido e velenoso cibo e acqua sufficienti per una dozzina di persone.
 
 ### Ragnatela
 *Livello:* M2  
 *Raggio d'azione:* 30'  
 *Durata:* 8 ore
-Ragnatele appiccicose e fibrose riempiono un'area fino a 3 x 3 x 20'. è estremamente difficile attraversa la massa di fili -- necessita un turno se una torcia ed una spada (o una spada fiammeggiante) sono impiegate, e le creature più larghe di un cavallo possono sfondare attraverso in 2 turni. Gli umani impiegano più tempo per attraversalo -- probabilmente dai 3 ai 4 o più turni a discrezione dell'Arbitro.
+Ragnatele appiccicose e fibrose riempiono un'area fino a 3 x 3 x 20'. è estremamente difficile attraversa la massa di fili — necessita un turno se una torcia e una spada (o una spada fiammeggiante) sono impiegate, e le creature più larghe di un cavallo possono sfondare attraverso in 2 turni. Gli umani impiegano più tempo per attraversalo — probabilmente dai 3 ai 4 o più turni a discrezione dell'Arbitro.
 
 ### Regressione Mentale
 *Livello:* M5  
@@ -595,21 +595,21 @@ Resurrezione dei Morti permette al Chierico di far risorgere un corpo dalla mort
 *Raggio d'azione:* Ravvicinato/Tocco  
 *Durata:* Istantaneo
 
-Questo incantesimo rimuove una maledizione da una persona od un oggetto.
+Questo incantesimo rimuove una maledizione da una persona o un oggetto.
 
 ### Scassinare
 *Livello:* M2  
 *Raggio d'azione:* 60'  
 *Durata:* Istantaneo
 
-Questo incantesimo schiude ed apre tutte le porte, cancelli e portali entro il suo raggio, includendo anche quelli bloccati o tenuti chiusi dalla normale magia.
+Questo incantesimo schiude e apre tutte le porte, cancelli e portali entro il suo raggio, includendo anche quelli bloccati o tenuti chiusi dalla normale magia.
 
 ### Scudo Anti-Magico
 *Livello:* M6  
 *Raggio d'azione:* Incantatore  
 *Durata:* 2 ore
 
-Un bolla invisibile di forza circonda l'incantatore, impenetrabile alla magia. Incantesimi od altri effetti magici non possono passare dentro o fuori dallo scudo.
+Un bolla invisibile di forza circonda l'incantatore, impenetrabile alla magia. Incantesimi o altri effetti magici non possono passare dentro o fuori dallo scudo.
 
 ### Scurovisione
 *Livello:* M3  
@@ -678,8 +678,8 @@ L'incantatore può muovere oggetti usando solamente il potere della mente. La qu
 *Raggio d'azione:* Tocco  
 *Durata:* Istantaneo
 
-L'incantesimo trasporta l'incantatore od un'altra persona alla destinazione che l'incantatore conosce (o perlomeno che conosce tramite un dipinto od una mappa). Il successo dipende da quanto bene l'incantatore conosce la locazione bersaglio:
-- Se l'incantatore ha solo esperienza indiretta della locazione (conosciuta attraverso un'immagine o una mappa) c'è il 25% di probabilità di successo -- ed il fallimento rappresenta la morte.
+L'incantesimo trasporta l'incantatore o un'altra persona alla destinazione che l'incantatore conosce (o perlomeno che conosce tramite un dipinto o una mappa). Il successo dipende da quanto bene l'incantatore conosce la locazione bersaglio:
+- Se l'incantatore ha solo esperienza indiretta della locazione (conosciuta attraverso un'immagine o una mappa) c'è il 25% di probabilità di successo — e il fallimento rappresenta la morte.
 - Se l'incantatore ha visto ma non studiato la destinazione c'è il 20% di possibilità di fallimento. Metà dei fallimenti porterà il viaggiatore 1d10x10' sotto la locazione voluta, possibilmente risultando nella morte arrivando dentro una sostanza solida.L'altra metà dei fallimenti porterà il viaggiatore 1d10x10' sopra la locazione voluta, la quale risulterà possibilmente in una caduta mortale. 
 - Se l'incantatore e familiare con la locazione o l'ha studiata attentamente, c'è un 5% di possibilità, con 1 su 6 fallimenti che arrivano sotto e 1 su 6 fallimenti che arrivano sopra la locazione bersaglio. In entrambi i casi, l'arrivo e 1d4x10' troppo alto o troppo basso. 
 
@@ -702,7 +702,7 @@ L'incantesimo trasforma la roccia (e qualunque altra forma di terreno) in fango,
 *Raggio d'azione:* 30'  
 *Durata:* 1 ora
 
-L'incantatore può tramutare fino a 2d8 bastoni ordinari in serpenti, ognuno ha la possibilità del 50% di essere velenoso. I serpenti seguono i suoi comandi, ma tornano ad essere bastoni alla fine dell'incantesimo o quando vengono uccisi. 
+L'incantatore può tramutare fino a 2d8 bastoni ordinari in serpenti, ognuno ha la possibilità del 50% di essere velenoso. I serpenti seguono i suoi comandi, ma tornano a essere bastoni alla fine dell'incantesimo o quando vengono uccisi. 
 
 ### Trovare Trappole
 *Livello:* C2  

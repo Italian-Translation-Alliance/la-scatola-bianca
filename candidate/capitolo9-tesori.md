@@ -25,7 +25,7 @@ Una volta che i mostri sono stati uccisi e le ferite sono state fasciate, è il 
 
 ### Oggetti del Tesoro
 
-Oltre alle monete, i tesori possono contenere gemme, gioielli e oggetti magici. I tesori dovrebbero essere interessanti - una serie infinita di "un altro tesoro che vale 100 po in totale" è una ricetta sicura per annoiare i tuoi giocatori.
+Oltre alle monete, i tesori possono contenere gemme, gioielli e oggetti magici. I tesori dovrebbero essere interessanti - una serie infinita di "un altro tesoro che vale 100 po in totale" è una ricetta sicura per annoiare i vostri giocatori.
 
 - Per ogni 5.000 po di valore, c'è il 10% di possibilità di scambiare 5.000 po con un oggetto sulla tabella delle gemme/gioielli maggiori o della magia maggiore.
 - Per ogni 1.000 po di valore, c'è il 10% di possibilità di scambiare 1.000 po con un oggetto sulla tabella delle gemme/gioielli medi o della magia media.
@@ -33,7 +33,7 @@ Oltre alle monete, i tesori possono contenere gemme, gioielli e oggetti magici. 
 
 Calcolate la percentuale totale del tesoro che può essere scambiato e tirate un d100 per vedere se potete tirare per un oggetto su una delle seguenti tabelle. Si suggerisce che l'Arbitro inizi con i valori da 5.000 po e scenda fino ai valori da 100 po. "Gioielli" si riferisce a un singolo oggetto di gioielleria.
 
-Ricordate sempre che queste tabelle sono solo linee guida - se desiderate il posizionamento di un particolare oggetto o tipo di tesoro, fatelo pure! Se non volete includere gemme, gioielli o oggetti magici, allora lasciate che il tesoro sia di sole monete. Queste tabelle sono qui solo per aiutare.
+Ricordate sempre che queste tabelle sono solo linee guida - se desiderate collocare un particolare oggetto o tipo di tesoro, fatelo pure! Se non volete includere gemme, gioielli o oggetti magici, allora lasciate che il tesoro sia di sole monete. Queste tabelle sono qui solo per aiutare.
 
 ### Cambio Tesori (Esempio \#1)
 
@@ -188,7 +188,7 @@ Un tiro di 1-19 su un d20 significa un tiro sulla tabella delle Gemme/Gioielli M
 
 ## Pergamene
 
-Tira 1d8 e aggiungi +0, +6 o +12, a seconda che il tesoro sia minore, medio o maggiore.
+Tirate 1d8 e aggiungi +0, +6 o +12, a seconda che il tesoro sia minore, medio o maggiore.
 
 #### Tabella 52: Pergamene
 
@@ -213,7 +213,7 @@ Tira 1d8 e aggiungi +0, +6 o +12, a seconda che il tesoro sia minore, medio o ma
 | 19    | Pergamena Maledetta                                      |                     |
 | 20    | Pergamena di Protezione (durata tripla e doppio effetto) |                     |
 
-\* Tira 1d6 per il tipo di incantatore (1-3 pergamene sono per i maghi, 4-6 per i chierici). Ricorda che non ci sono incantesimi di 6° livello per i Chierici, quindi tira di nuovo per il livello dell'incantesimo con un risultato di 6
+\* Tirate 1d6 per il tipo di incantatore (1-3 pergamene sono per i maghi, 4-6 per i chierici). Ricorda che non ci sono incantesimi di 6° livello per i Chierici, quindi tirate di nuovo per il livello dell'incantesimo con un risultato di 6
 
 #### Tabella 53: Pergamene di Protezione
 
@@ -248,7 +248,7 @@ Tira 1d8 e aggiungi +0, +6 o +12, a seconda che il tesoro sia minore, medio o ma
 
 ## Armi e Armature Magiche
 
-Tira 1d8 e aggiungi +0, +6 o +12, a seconda che il tesoro sia minore, medio o maggiore.
+Tirate 1d8 e aggiungi +0, +6 o +12, a seconda che il tesoro sia minore, medio o maggiore.
 
 #### Tabella 54: Armi e Armature Magiche
 
@@ -281,7 +281,7 @@ Tira 1d8 e aggiungi +0, +6 o +12, a seconda che il tesoro sia minore, medio o ma
 | 5    | -3 Arma o Armatura     |
 | 6    | Attira Proiettili \*\* |
 
-\* Non può essere steso senza l'aiuto dell'incantesimo Rimuovere Maledizione
+\* Non può essere posate senza l'aiuto dell'incantesimo Rimuovere Maledizione
 
 \*\*Attira Proiettili: Questo oggetto attira il fuoco dei proiettili (anche quelli sparati contro altri nelle vicinanze) e garantisce un bonus di +1 "per colpire" agli attacchi su tali proiettili.
 
@@ -343,9 +343,9 @@ Tira 1d8 e aggiungi +0, +6 o +12, a seconda che il tesoro sia minore, medio o ma
 
 **Arma Danzante**: Combatte in aria dopo 3 round, come un'arma +1d3.
 
-**Arma Fiammeggiante**: 1d6 danni da fuoco aggiuntivi: tira 1d4-1 per il bonus "per colpire".
+**Arma Fiammeggiante**: 1d6 danni da fuoco aggiuntivi: tirate 1d4-1 per il bonus "per colpire".
 
-**Arma Intelligente**: Tira 1d3 per il bonus "per colpire". C'è il 10% di possibilità che un'arma del genere abbia la capacità di lanciare un incantesimo una volta al giorno. Tali spade generalmente possono comunicare con i loro portatori, e spesso (25% di probabilità) possono parlare in modo udibile.
+**Arma Intelligente**: Tirate 1d3 per il bonus "per colpire". C'è il 10% di possibilità che un'arma del genere abbia la capacità di lanciare un incantesimo una volta al giorno. Tali spade generalmente possono comunicare con i loro portatori, e spesso (25% di probabilità) possono parlare in modo udibile.
 
 **Arma lanciata ritorna alla mano**: Queste armi sono l'ascia, la lancia e il martello da guerra.
 
@@ -372,7 +372,7 @@ Tira 1d8 e aggiungi +0, +6 o +12, a seconda che il tesoro sia minore, medio o ma
 
 ## Oggetti magici vari
 
-Tira 1d20 e aggiungi +0, +20 o +40, a seconda che il tesoro sia minore, medio o maggiore.
+Tirate 1d20 e aggiungi +0, +20 o +40, a seconda che il tesoro sia minore, medio o maggiore.
 
 #### Tabella 61: Oggetti Vari
 
@@ -490,11 +490,11 @@ Tira 1d20 e aggiungi +0, +20 o +40, a seconda che il tesoro sia minore, medio o 
 
 **Rigenerazione**: Chi lo indossa rigenera 1 PF/round e quindi non può morire a meno che l'anello non venga rimosso o il corpo bruciato.
 
-**Memorizza Incantesimi (Mago)**: L'anello contiene 1d6 incantesimi per Maghi. Tira 1d6 per ogni incantesimo per determinarne il livello. Chi lo indossa (se è un Mago) può lanciare questi incantesimi come se fossero i propri incantesimi memorizzati e preparati. Una volta che l'incantesimo è stato lanciato, non può essere lanciato una seconda volta finché l'incantatore non riposa per 8 ore.
+**Memorizza Incantesimi (Mago)**: L'anello contiene 1d6 incantesimi per Maghi. Tirate 1d6 per ogni incantesimo per determinarne il livello. Chi lo indossa (se è un Mago) può lanciare questi incantesimi come se fossero i propri incantesimi memorizzati e preparati. Una volta che l'incantesimo è stato lanciato, non può essere lanciato una seconda volta finché l'incantatore non riposa per 8 ore.
 
-**Memorizza Incantesimi (Chierico)**: L'anello contiene 1d6 incantesimi per Chierici. Tira 1d6 per ogni incantesimo per determinarne il livello (rilancia un 6). Chi lo indossa (se è un Chierico) può lanciare questi incantesimi come se fossero i propri incantesimi memorizzati e preparati. Una volta che l'incantesimo è stato lanciato, non può essere lanciato una seconda volta finché l'incantatore non riposa per 8 ore.
+**Memorizza Incantesimi (Chierico)**: L'anello contiene 1d6 incantesimi per Chierici. Tirate 1d6 per ogni incantesimo per determinarne il livello (rilancia un 6). Chi lo indossa (se è un Chierico) può lanciare questi incantesimi come se fossero i propri incantesimi memorizzati e preparati. Una volta che l'incantesimo è stato lanciato, non può essere lanciato una seconda volta finché l'incantatore non riposa per 8 ore.
 
-**Rifletti Incantesimi**: Qualsiasi incantesimo (che non provenga da una bacchetta, ecc.) rivolto direttamente a chi indossa questo anello viene parzialmente riflesso all'incantatore. Tira un d100 per determinare quanta parte del potere dell'incantesimo rimbalza indietro; la determinazione esatta di ciò che accade spetta all'Arbitro.
+**Rifletti Incantesimi**: Qualsiasi incantesimo (che non provenga da una bacchetta, ecc.) rivolto direttamente a chi indossa questo anello viene parzialmente riflesso all'incantatore. Tirate un d100 per determinare quanta parte del potere dell'incantesimo rimbalza indietro; la determinazione esatta di ciò che accade spetta all'Arbitro.
 
 **Stelle cadenti**: Una volta al giorno, questo anello può evocare 1d6 meteore infuocate dalle profondità dello spazio. Ogni meteora può colpire un nemico separato e infligge 3d6 danni. Se usate al chiuso o sottoterra, le meteore colpiranno qualsiasi cosa si trovi direttamente sopra il bersaglio.
 
@@ -535,7 +535,7 @@ Tira 1d20 e aggiungi +0, +20 o +40, a seconda che il tesoro sia minore, medio o 
 
 **Potenza del Signore**: Questi bastoni hanno solo 10 cariche, ma una carica può essere usata per lanciare Resuscitare.
 
-**Serpente**: +1 "per colpire" e +1 danno. Quando viene comandato (usando una carica) il bastone si avvolge intorno al bersaglio con un colpo riuscito e pizzica la vittima per 1d4 × 10 minuti. La vittima deve avere le dimensioni di un umano o più piccolo per usare questo potere. Il bastone tornerà poi strisciando al suo proprietario a una velocità di 24. Solo i chierici possono utilizzare il Bastone del Serpente.
+**Serpente**: +1 "per colpire" e +1 danno. Quando viene comandato (usando una carica) il bastone si avvolge intorno al bersaglio con un colpo riuscito e morde la vittima per 1d4 × 10 minuti. La vittima deve avere le dimensioni di un umano o più piccolo per usare questo potere. Il bastone tornerà poi strisciando al suo proprietario a una velocità di 24. Solo i chierici possono utilizzare il Bastone del Serpente.
 
 **Colpire**: Infligge 2d6 punti di danno con un colpo riuscito (non usa cariche). 
 
@@ -712,7 +712,7 @@ Tira 1d20 e aggiungi +0, +20 o +40, a seconda che il tesoro sia minore, medio o 
 
 **Manuale della Saggezza**: La lettura di questo tomo aumenta la Saggezza del lettore di 1 punto (fino a un massimo di 18). Utilizzabile da: tutte le classi.
 
-**Mazzo delle Molte Cose**: Un apparentemente ordinario mazzo di carte dipinte a mano, questo oggetto porta incantesimi tremendi e vari, uno per ogni carta del mazzo. Il mazzo contiene tutti gli assi e le carte di faccia, più un Joker (il Matto). Un personaggio può pescare tutte le carte che vuole (con il mazzo rimescolato ogni volta), ma una volta che smette di pescare carte, il mazzo scompare in un suono di deboli risate malevole. I risultati sono i seguenti:
+**Mazzo delle Molte Cose**: Un apparentemente ordinario mazzo di carte dipinte a mano, questo oggetto porta incantesimi tremendi e vari, uno per ogni carta del mazzo. Il mazzo contiene tutti gli assi e le figure, più un Joker (il Matto). Un personaggio può pescare tutte le carte che vuole (con il mazzo rimescolato ogni volta), ma una volta che smette di pescare carte, il mazzo scompare in un suono di deboli risate malevole. I risultati sono i seguenti:
 
 - **Cuori** (♥)
   
@@ -726,7 +726,7 @@ Tira 1d20 e aggiungi +0, +20 o +40, a seconda che il tesoro sia minore, medio o 
 
 - **Fiori** (♣)
   
-  - *Asso*: L'allineamento del personaggio viene cambiato. Se il gioco non usa allineamento, il personaggio riceve una Cerca pericolosa (secondo l'incantesimo).
+  - *Asso*: L'allineamento del personaggio viene cambiato. Se il gioco non usa allineamento, il personaggio riceve una Missione pericolosa (secondo l'incantesimo).
   
   - *Re*: L'oggetto magico più potente del personaggio viene risucchiato nel vuoto e scompare.
   

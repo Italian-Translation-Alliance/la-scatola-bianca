@@ -4,7 +4,7 @@ Condurre una partita della *Scatola Bianca* è molto più semplice che gestire l
 
 Per esempio: i giocatori stanno combattendo con un gruppo di orchi e il guerriero vuole farne inciampare uno. Sta all'Arbitro decidere cosa debba fare il guerriero o quanto debba tirare per avere successo. Se il Giocatore decide che il suo personaggio sta per saltare attraverso un muro di fiamme, con svariate fiasche di olio infiammabile nel suo zaino, sta all'Arbitro determinare se esploderanno o meno.
 
-Questo significa inventarsi un sacco di cose sul momento. Se non sei un bravo narratore o non sei abituato a pensare creativamente al volo, sarebbe meglio se tu provassi prima qualche altro gioco — uno che fornisca più regole ed indicazioni per ogni situazione che potrebbe emergere. Ma se sei un buon narratore, creativo ed equo, il piccolo e spartano insieme di regole della *Scatola Bianca* libererà la tua creatività per concretizzare un'esperienza di gioco di ruolo fantasy, completamente differente dal tipo di giochi che si basano su molte più regole. 
+Questo significa inventarsi un sacco di cose sul momento. Se non sei un bravo narratore o non sei abituato a pensare creativamente al volo, sarebbe meglio se tu provassi prima qualche altro gioco — uno che fornisca più regole e indicazioni per ogni situazione che potrebbe emergere. Ma se sei un buon narratore, creativo ed equo, il piccolo e spartano insieme di regole della *Scatola Bianca* libererà la tua creatività per concretizzare un'esperienza di gioco di ruolo fantasy, completamente differente dal tipo di giochi che si basano su molte più regole. 
 
 *La Scatola Bianca* libererà la tua creatività anche in termini di personalizzazione del gioco. A differenza di regolamenti più complessi, puoi aggiungere regole della casa laddove tu voglia senza sbilanciare accidentalmente qualcosa sepolto da qualche altra parte nelle regole. Se vuoi usare i colpi o i fallimenti critici, aggiungili. Non romperai nulla — perché non c'è molto da rompere!
 
@@ -12,14 +12,14 @@ Questo significa inventarsi un sacco di cose sul momento. Se non sei un bravo na
 L'"avventura" e solo l'ambientazione per il gioco — solitamente una mappa e delle note riguardo certe località sulla mappa. Mano a mano che i giocatori ti diranno dove andranno i loro personaggi e che cosa faranno, farai riferimento alla mappa e alle tue note per descrivere cosa succederà come conseguenza. Non provare a pianificare tutte le circostanze — è garantito che i giocatori faranno qualcosa di inaspettato durante l'avventura e dovrai improvvisare, pensando su due piedi e inventando nuove cose al volo. Come tu sfidi i giocatori con l'avventura, essi ti sfidano a stare al passo con la loro creatività collettiva.
 
 ### Creare una Campagna
-Una campagna è il mondo al di là dell'avventura — le città, le foreste, le coste ed i regni di tale mondo fantastico. I giocatori quasi sicuramente vorranno che i loro personaggi esplorino le terre selvagge, visitino le città e poter fare ogni cosa in questo mondo fantastico. All'inizio del gioco, vorrai forse definire una mappa di un singolo villaggio (come punto di partenza) e qualche area circostante.(La località della prima avventura — una foresta, magari.) Quando i giocatori muoveranno i loro personaggi da un'avventura all'altra, puoi espandere passo dopo passo la mappa in un intero mondo fantastico con continenti, regni e maestosi imperi a tua disposizione.
+Una campagna è il mondo al di là dell'avventura — le città, le foreste, le coste e i regni di tale mondo fantastico. I giocatori quasi sicuramente vorranno che i loro personaggi esplorino le terre selvagge, visitino le città e poter fare ogni cosa in questo mondo fantastico. All'inizio del gioco, vorrai forse definire una mappa di un singolo villaggio (come punto di partenza) e qualche area circostante.(La località della prima avventura — una foresta, magari.) Quando i giocatori muoveranno i loro personaggi da un'avventura all'altra, puoi espandere passo dopo passo la mappa in un intero mondo fantastico con continenti, regni e maestosi imperi a tua disposizione.
 
 Se vuoi prendere una scorciatoia, puoi ambientare la tua intera campagna in un mondo fittizio creato da uno degli autori delle tue storie fantastiche. Molti di questi hanno mappe e l'autore ha già creato i dettagli e l'atmosfera del mondo per te. Per esempio: i mondi di Conan di Hyboria (Robert E. Howard), di Elric e del Campione Eterno (Michael Moorcock) e quello della Terra Morente (Jack Vance) sono ambientazioni fittizie pronte per essere giocate. Infatti, alcuni editori hanno già creato campagne per-confezionate per tutti e tre questi esempi. 
 
 ### Punti Esperienza
 I Punti Esperienza sono conferiti ai giocatori per avere ottenuto tesoro o ucciso mostri, come descritto nella sezione "Guadagnare Esperienza" nel Capitolo 5. Potrebbe sembrare contro intuitivo che il tesoro in qualche modo renda i personaggi più esperti, ma dare esperienza per il tesoro non riguarda solo le monete d'oro. Le monete d'oro sono una misura al termine dell'avventura per valutare quanto i personaggi (i giocatori) sono stati astuti nel recuperarle. Le monete d'oro non sono l'unica fonte di esperienza — sono il prodotto misurabile di essa.
 
-Detto ciò, ci sono molte modi alternativi per l'Arbitro per conferire Punti Esperienza. Per esempio, partecipazione attiva nella campagna potrebbe garantire esperienza per ogni ora di gioco reale, come anche risolvere enigmi ed aiutare gli alleati. Una soluzione intelligente o una vittoria epica potrebbero conferire il doppio del normale ammontare di Punti Esperienza, mentre un fallimento clamoroso solo la metà.
+Detto ciò, ci sono molte modi alternativi per l'Arbitro per conferire Punti Esperienza. Per esempio, partecipazione attiva nella campagna potrebbe garantire esperienza per ogni ora di gioco reale, come anche risolvere enigmi e aiutare gli alleati. Una soluzione intelligente o una vittoria epica potrebbero conferire il doppio del normale ammontare di Punti Esperienza, mentre un fallimento clamoroso solo la metà.
 
 Qualche Arbitro calcola i Punti Esperienza in quanto totale guadagnato collettivamente diviso equamente, dato che non tutti i personaggi hanno le stesse opportunità in una data avventura. Altri preferiscono un gioco più competitivo, dove ogni giocatore guadagna Punti Esperienza secondo i successi individuali. 
 
@@ -36,7 +36,7 @@ Nel Sottomondo la mappa è riempita da mostri, trappole, tesori e creature o pos
 La mappa delle terre selvagge è creata usando carta con griglia a esagoni, con ogni esagono che rappresenta 6 miglia, avendo un tipo di terreno specifico e possibilmente una caratteristica interessante. Una caratteristica potrebbe essere la torre di un mago, il forte di un guerriero, il tempio di un sacerdote malvagio o magari potrebbe essere una piccola creatura simile a un elfo, la quale è seduta sul tronco di un albero mentre suona il flauto. Lascia che la tua immaginazione corra selvaggia quando crei tali caratteristiche.
 
 ### Mostri Erranti
-Nel Sottomondo, controlla ogni ora (sei turni) per i mostri erranti, mentre nelle terre selvagge controlla a ogni esagono. Normalmente, c'è una probabilità di 1 su 6 di incontrare qualcosa nel Sottomondo. Controlla la tabella Perdersi ed Incontri per la probabilità degli incontri nelle terre selvagge.
+Nel Sottomondo, controlla ogni ora (sei turni) per i mostri erranti, mentre nelle terre selvagge controlla a ogni esagono. Normalmente, c'è una probabilità di 1 su 6 di incontrare qualcosa nel Sottomondo. Controlla la tabella Perdersi e Incontri per la probabilità degli incontri nelle terre selvagge.
 
 L'incontro specifico è tirato sulla tabella. La distanza iniziale dell'incontro dipende dalle circostanze.
 
@@ -54,14 +54,14 @@ La reazione dei mostri ai personaggi giocanti dovrebbe essere determinata dall'A
 |     12     | Entusiasta |
 
 
-### Perdersi ed Incontri
+### Perdersi e Incontri
 Nelle terre selvagge, se i personaggi stanno seguendo una strada o un sentiero, non c'è la possibilità di perdersi. Se tuttavia, stanno esplorando territori ignori, c'è la possibilità di perdere la via in base al terreno che caratterizza l'esagono.
 
 Se su strade segnalate o in mezzo all'ignoto, c'è sempre la possibilità di un incontro. 
 
 Tirate 1d6 due volte per esagono per vedere se i personaggi si sono persi oppure avviene un incontro.
 
-#### Tabella 34: Perdersi ed Incontri
+#### Tabella 34: Perdersi e Incontri
 
 |  Terreno | Aperto | Foresta | Fiume, Costa | Giungla, Palude | Colline, Montagne | Deserto | Civilizzato |
 |:--------:|:------:|:-------:|:------------:|:---------------:|:-----------------:|:-------:|:-----------:|

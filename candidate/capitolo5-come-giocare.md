@@ -12,7 +12,7 @@ Ogni classe di personaggi ha un attributo principale elencato nella sua descrizi
 
 ### Tempo
 
-L'Arbitro dovrà stabilire delle regole generali sul passaggio del tempo nel corso di una campagna (ad esempio: "Qualche ora dopo...") e dovrebbe essere guidato dal buon senso. Ci sono, comunque, due importanti misure di tempo che meritano una breve definizione: il "turno" e il "round di combattimento". Un turno (della durata di dieci minuti) è usato per tracciare e misurare azioni, movimenti e risorse quando gli intrepidi avventurieri sono in luoghi pericolosi. Il turno di combattimento (della durata di un minuto) rappresenta la concitazione della battaglia.
+L'Arbitro dovrà stabilire delle regole generali sul passaggio del tempo nel corso di una campagna (per esempio: "Qualche ora dopo...") e dovrebbe essere guidato dal buon senso. Ci sono, comunque, due importanti misure di tempo che meritano una breve definizione: il "turno" e il "round di combattimento". Un turno (della durata di dieci minuti) è usato per tracciare e misurare azioni, movimenti e risorse quando gli intrepidi avventurieri sono in luoghi pericolosi. Il turno di combattimento (della durata di un minuto) rappresenta la concitazione della battaglia.
 
 ### Movimento
 
@@ -163,7 +163,7 @@ Quando un personaggio (o una creatura) viene colpito, la quantità di danni subi
 
 Gli Arbitri hanno idee diverse su quanto dovrebbe essere letale una partita. Per questo motivo molti permettono ai personaggi di cadere "incoscienti" a 0 PF, con la morte rimandata finché il personaggio non raggiunge un numero negativo predeterminato.
 
-Ad esempio, molti Arbitri impiegano una regola della casa che permette ai PF di un personaggio di scendere sotto lo 0 di un numero di punti pari al livello, prima che il personaggio muoia; un personaggio di 4° livello potrebbe morire solo se scende sotto -4 PF. Generalmente, però, un personaggio con meno di 0 PF si considera in corso di dissanguamento a 1 PF per round finché le ferite non vengono fasciate.
+Per esempio, molti Arbitri impiegano una regola della casa che permette ai PF di un personaggio di scendere sotto lo 0 di un numero di punti pari al livello, prima che il personaggio muoia; un personaggio di 4° livello potrebbe morire solo se scende sotto -4 PF. Generalmente, però, un personaggio con meno di 0 PF si considera in corso di dissanguamento a 1 PF per round finché le ferite non vengono fasciate.
 
 ### Guarigione
 
@@ -183,7 +183,7 @@ Un avversario invisibile può essere attaccato solo se la sua posizione è nota 
 
 ### Olio
 
-L'olio lanciato che viene successivamente incendiato da una torcia lanciata o qualcosa di simile brucerà per due round, facendo 1d6 danni per round su un colpo a segno di CA 8 \[11\]. L'Arbitro dovrebbe regolare la probabilità di colpire in base alla dimensione della creatura bersaglio, ovviamente creature grandi come orchi e giganti saranno più facili da colpire rispetto, ad esempio, a ragni giganti.
+L'olio lanciato che viene successivamente incendiato da una torcia lanciata o qualcosa di simile brucerà per due round, facendo 1d6 danni per round su un colpo a segno di CA 8 \[11\]. L'Arbitro dovrebbe regolare la probabilità di colpire in base alla dimensione della creatura bersaglio, ovviamente creature grandi come orchi e giganti saranno più facili da colpire rispetto, per esempio, a ragni giganti.
 
 ### Attacco in mischia
 

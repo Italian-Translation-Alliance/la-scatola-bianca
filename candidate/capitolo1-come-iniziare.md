@@ -54,11 +54,11 @@ La Forza rappresenta la potenza fisica del personaggio. È l'Attributo Primario 
 
 ### Intelligenza
 
-L'Intelligenza rappresenta la conoscenza, il ragionamento e la capacità di risolvere enigmi o comprendere concetti difficili; un punteggio elevato di Intelligenza conferisce a un personaggio una lingua aggiuntiva per ogni punto superiore a 10. L'Intelligenza è l'Attributo Primario per i Maghi, che otterranno un bonus del 5% ai PE se l'intelligenza del personaggio è superiore a 15. I Maghi possono usare il loro Bonus di Intelligenza per migliorare l'efficacia degli incantesimi (ad esempio, il bersaglio subisce una perdita nel tiro salvezza).
+L'Intelligenza rappresenta la conoscenza, il ragionamento e la capacità di risolvere enigmi o comprendere concetti difficili; un punteggio elevato di Intelligenza conferisce a un personaggio una lingua aggiuntiva per ogni punto superiore a 10. L'Intelligenza è l'Attributo Primario per i Maghi, che otterranno un bonus del 5% ai PE se l'intelligenza del personaggio è superiore a 15. I Maghi possono usare il loro Bonus di Intelligenza per migliorare l'efficacia degli incantesimi (per esempio, il bersaglio subisce una perdita nel tiro salvezza).
 
 ### Saggezza
 
-La Saggezza determina l'intuito, la percezione e il buon senso di un personaggio. La Saggezza è l'Attributo Primario dei Chierici. Qualsiasi personaggio con un punteggio di Saggezza pari a 15+ ottiene un bonus del 5% ai PE, e un personaggio Chierico con Saggezza pari a 15+ ottiene un altro 5% (totale del 10%) perché è l'Attributo Primario della classe Chierico; i Chierici possono usare il loro bonus di Saggezza per migliorare l'efficacia degli incantesimi (ad esempio, il bersaglio subisce una perdita sul tiro salvezza).
+La Saggezza determina l'intuito, la percezione e il buon senso di un personaggio. La Saggezza è l'Attributo Primario dei Chierici. Qualsiasi personaggio con un punteggio di Saggezza pari a 15+ ottiene un bonus del 5% ai PE, e un personaggio Chierico con Saggezza pari a 15+ ottiene un altro 5% (totale del 10%) perché è l'Attributo Primario della classe Chierico; i Chierici possono usare il loro bonus di Saggezza per migliorare l'efficacia degli incantesimi (per esempio, il bersaglio subisce una perdita sul tiro salvezza).
 
 ### Costituzione
 

@@ -1315,7 +1315,7 @@ Gli zombie sono creature senza cervello, morti che camminano. Sono semplicemente
 
 ### Mostri più tenaci
 
-Non c'è davvero alcun limite a quanto possano essere potenti i mostri, e spesso è divertente ingannare i giocatori lanciando contro di loro dei super-mostri. L'arbitro dovrebbe sentirsi libero di regolare la CA, i DV o altri fattori per rendere i mostri più impegnativi. Inoltre, sentitevi liberi di provare nuove opzioni come una super stirpe di orchi, goblin cavalcatori di ragni o mummie resistenti al fuoco solo per tenere i giocatori sulle spine.
+Non c'è davvero alcun limite a quanto possano essere potenti i mostri, e spesso è divertente ingannare i giocatori lanciando contro di loro dei super-mostri. L'Arbitro dovrebbe sentirsi libero di regolare la CA, i DV o altri fattori per rendere i mostri più impegnativi. Inoltre, sentitevi liberi di provare nuove opzioni come una super stirpe di orchi, goblin cavalcatori di ragni o mummie resistenti al fuoco solo per tenere i giocatori sulle spine.
 
 ### Livelli dei mostri
 

@@ -1,6 +1,6 @@
 # Capitolo 7 - Condurre il Gioco
 
-Condurre una partita della *Scatola Bianca* è molto più semplice che gestire la maggior parte degli altri giochi di ruolo. Il motivo è che non contiene così tante regole e il vostro giudizio le scavalcherà in ogni caso. La maggior parte delle situazioni sono gestite prendendo decisioni di buon senso riguardo a ciò che può accadere.
+Condurre una partita di *La Scatola Bianca* è molto più semplice che gestire la maggior parte degli altri giochi di ruolo. Il motivo è che non contiene così tante regole e il vostro giudizio le scavalcherà in ogni caso. La maggior parte delle situazioni sono gestite prendendo decisioni di buon senso riguardo a ciò che può accadere.
 
 Per esempio: i giocatori stanno combattendo con un gruppo di orchi e il guerriero vuole farne inciampare uno. Sta all'Arbitro decidere cosa debba fare il guerriero o quanto debba tirare per avere successo. Se il Giocatore decide che il suo personaggio sta per saltare attraverso un muro di fiamme, con svariate fiasche di olio infiammabile nel suo zaino, sta all'Arbitro determinare se esploderanno o meno.
 
@@ -17,26 +17,26 @@ Una campagna è il mondo al di là dell'avventura — le città, le foreste, le 
 Se vuoi prendere una scorciatoia, puoi ambientare la tua intera campagna in un mondo fittizio creato da uno degli autori delle tue storie fantastiche. Molti di questi hanno mappe e l'autore ha già creato i dettagli e l'atmosfera del mondo per te. Per esempio: i mondi di Conan di Hyboria (Robert E. Howard), di Elric e del Campione Eterno (Michael Moorcock) e quello della Terra Morente (Jack Vance) sono ambientazioni fittizie pronte per essere giocate. Infatti, alcuni editori hanno già creato campagne per-confezionate per tutti e tre questi esempi. 
 
 ### Punti Esperienza
-I Punti Esperienza sono conferiti ai giocatori per avere ottenuto tesoro o ucciso mostri, come descritto nella sezione "Guadagnare Esperienza" nel Capitolo 5. Potrebbe sembrare contro intuitivo che il tesoro in qualche modo renda i personaggi più esperti, ma dare esperienza per il tesoro non riguarda solo le monete d'oro. Le monete d'oro sono una misura al termine dell'avventura per valutare quanto i personaggi (i giocatori) sono stati astuti nel recuperarle. Le monete d'oro non sono l'unica fonte di esperienza — sono il prodotto misurabile di essa.
+I Punti Esperienza sono conferiti ai giocatori per avere ottenuto tesoro o ucciso mostri, come descritto nella sezione "Guadagnare Esperienza" nel Capitolo 5. Potrebbe sembrare contro intuitivo che il tesoro in qualche modo renda i personaggi più esperti, ma dare esperienza per il tesoro non ha a che fare solo con le monete d'oro. Le monete d'oro sono una misura al termine dell'avventura per valutare quanto i personaggi (i giocatori) sono stati astuti nel recuperarle. Le monete d'oro non sono l'unica fonte di esperienza — sono il prodotto misurabile di essa.
 
-Detto ciò, ci sono molte modi alternativi per l'Arbitro per conferire Punti Esperienza. Per esempio, partecipazione attiva nella campagna potrebbe garantire esperienza per ogni ora di gioco reale, come anche risolvere enigmi e aiutare gli alleati. Una soluzione intelligente o una vittoria epica potrebbero conferire il doppio del normale ammontare di Punti Esperienza, mentre un fallimento clamoroso solo la metà.
+Detto ciò, ci sono molti modi alternativi per l'Arbitro per conferire Punti Esperienza. Per esempio, partecipazione attiva nella campagna potrebbe garantire esperienza per ogni ora di gioco reale, come anche risolvere enigmi e aiutare gli alleati. Una soluzione intelligente o una vittoria epica potrebbero conferire il doppio del normale ammontare di Punti Esperienza, mentre un fallimento clamoroso solo la metà.
 
 Qualche Arbitro calcola i Punti Esperienza in quanto totale guadagnato collettivamente diviso equamente, dato che non tutti i personaggi hanno le stesse opportunità in una data avventura. Altri preferiscono un gioco più competitivo, dove ogni giocatore guadagna Punti Esperienza secondo i successi individuali. 
 
 Se tu scoprissi che un qualunque sistema che stai usando conduce i giocatori verso cattive decisioni — come cercare combattimenti superflui o cercare di innescare trappole — dovresti aggiustare il tuo sistema. Questo vale anche per il sistema "ufficiale" per conferire punti esperienza. Ricorda, l'Arbitro è il giudice ultimo di ciò che funziona meglio per una partita e qualunque regola può essere cambiata per adattarsi al gruppo.
 
 ### Scala di Avanzamento
-Ogni Arbitro ha il proprio stile di campagna, e sarebbe sciocco per un autore imporre restrizioni inutili a chiunque giochi il gioco. Ciononostante, è prezioso ricordare che questo regolamento è stato pensato con la nozione che dei personaggi al 4° livello siano "eroici" e quindi le tabelle siano limitate al livello 10. Un Arbitro che desideri estendere le tabelle a livelli superiori e incoraggiato a farlo per adattarle allo stile della propria campagna.
+Ogni Arbitro ha il proprio stile di campagna e sarebbe sciocco per un autore imporre restrizioni inutili a chiunque giochi. Ciononostante, è prezioso ricordare che questo regolamento è stato pensato con la nozione che dei personaggi al 4° livello siano "eroici" e quindi le tabelle siano limitate al livello 10. Un Arbitro che desideri estendere le tabelle a livelli superiori e incoraggiato a farlo per adattarle allo stile della propria campagna.
 
 ### Sottomondo e Terre Selvagge
 Molti Arbitri creeranno mappe del Sottomondo o delle terre selvagge prima di giocare. I personaggi giocanti esploreranno la mappa non sapendo cosa aspettarsi.
 
-Nel Sottomondo la mappa è riempita da mostri, trappole, tesori e creature o posti misteriosi che la fantasia dell'Arbitro trasforma in realtà.
+Nel Sottomondo la mappa è piena di mostri, trappole, tesori e creature o posti misteriosi che la fantasia dell'Arbitro trasforma in realtà.
 
-La mappa delle terre selvagge è creata usando carta con griglia a esagoni, con ogni esagono che rappresenta 6 miglia, avendo un tipo di terreno specifico e possibilmente una caratteristica interessante. Una caratteristica potrebbe essere la torre di un mago, il forte di un guerriero, il tempio di un sacerdote malvagio o magari potrebbe essere una piccola creatura simile a un elfo, la quale è seduta sul tronco di un albero mentre suona il flauto. Lascia che la tua immaginazione corra selvaggia quando crei tali caratteristiche.
+La mappa delle terre selvagge è creata usando carta con griglia a esagoni, con ogni esagono che rappresenta 6 miglia, avendo un tipo di terreno specifico e possibilmente una caratteristica interessante. Una caratteristica potrebbe essere la torre di un mago, il forte di un guerriero, il tempio di un sacerdote malvagio o magari potrebbe essere una piccola creatura simile a un elfo, la quale è seduta sul tronco di un albero mentre suona il flauto. Lasciate che la vostra immaginazione corra selvaggia quando create tali caratteristiche.
 
 ### Mostri Erranti
-Nel Sottomondo, controlla ogni ora (sei turni) per i mostri erranti, mentre nelle terre selvagge controlla a ogni esagono. Normalmente, c'è una probabilità di 1 su 6 di incontrare qualcosa nel Sottomondo. Controlla la tabella Perdersi e Incontri per la probabilità degli incontri nelle terre selvagge.
+Nel Sottomondo, controllate ogni ora (sei turni) per i mostri erranti, mentre nelle terre selvagge controllate a ogni esagono. Normalmente, c'è una probabilità di 1 su 6 di incontrare qualcosa nel Sottomondo. Controllate la tabella Perdersi e Incontri per la probabilità degli incontri nelle terre selvagge.
 
 L'incontro specifico è tirato sulla tabella. La distanza iniziale dell'incontro dipende dalle circostanze.
 
@@ -55,9 +55,9 @@ La reazione dei mostri ai personaggi giocanti dovrebbe essere determinata dall'A
 
 
 ### Perdersi e Incontri
-Nelle terre selvagge, se i personaggi stanno seguendo una strada o un sentiero, non c'è la possibilità di perdersi. Se tuttavia, stanno esplorando territori ignori, c'è la possibilità di perdere la via in base al terreno che caratterizza l'esagono.
+Nelle terre selvagge, se i personaggi stanno seguendo una strada o un sentiero, non c'è la possibilità di perdersi. Se tuttavia, stanno esplorando territori ignoti, c'è la possibilità di perdere la via in base al terreno che caratterizza l'esagono.
 
-Se su strade segnalate o in mezzo all'ignoto, c'è sempre la possibilità di un incontro. 
+Se su strade segnate o in mezzo all'ignoto, c'è sempre la possibilità di un incontro. 
 
 Tirate 1d6 due volte per esagono per vedere se i personaggi si sono persi oppure avviene un incontro.
 

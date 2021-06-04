@@ -1,8 +1,8 @@
 # Capitolo 5: Come Giocare
 
-Una volta che i personaggi sono stati creati, l'Arbitro descrive dove si trovano i personaggi e cosa possono vedere. Il gioco potrebbe iniziare in un villaggio rurale abitato da contadini, in una enorme e brulicante città costellata di torri e minareti, in un castello, in una taverna o alle porte di un'antica tomba. Da quel punto in poi, i giocatori descrivono ciò che i loro personaggi fanno. Scendere delle scale, attaccare un drago, parlare con altri Personaggi Giocanti (PG) o Personaggi Non Giocanti (PNG) controllati dall'Arbitro - tutti questi tipi di azioni sono decise dai giocatori; l'Arbitro poi descrive cosa succede come risultato: le scale portano giù in un'enorme tomba, il drago attacca i personaggi, ecc. Le regole che seguono sono linee guida per gestire eventi come il combattimento, guadagnare esperienza, il movimento, la guarigione, la morte e altre importanti parti del gioco. 
+Una volta che i personaggi sono stati creati, l'Arbitro descrive dove essi si trovano e cosa possono vedere. Il gioco potrebbe iniziare in un villaggio rurale abitato da contadini, in una enorme e brulicante città costellata di torri e minareti, in un castello, in una taverna o alle porte di un'antica tomba. Da quel punto in poi, i giocatori descrivono ciò che i propri personaggi fanno. Scendere delle scale, attaccare un drago, parlare con altri Personaggi Giocanti (PG) o Personaggi Non Giocanti (PNG) controllati dall'Arbitro - tutti questi tipi di azioni sono decise dai giocatori; l'Arbitro poi descrive cosa succede di conseguenza: le scale conducono in un'enorme tomba, il drago attacca i personaggi, ecc. Le regole che seguono sono linee guida per gestire eventi come il combattimento, guadagnare esperienza, il movimento, la guarigione, la morte e altre importanti parti del gioco. 
 
-Fondamentalmente, il giocatore e l'Arbitro lavorano insieme, con l'Arbitro che gestisce i dettagli di un pericoloso mondo fantasy, e il giocatore che gestisce ciò che il suo personaggio fa in esso. È il giocatore a creare la storia epica dell'ascesa di un personaggio alla grandezza (o della sua morte nel tentativo) nel mondo dell'Arbitro.
+Fondamentalmente il giocatore e l'Arbitro lavorano insieme con l'Arbitro che gestisce i dettagli di un pericoloso mondo fantasy e il giocatore che gestisce ciò che il suo personaggio fa in esso. È il giocatore a creare la storia epica dell'ascesa di un personaggio alla grandezza (o della sua morte nel tentativo) nel mondo dell'Arbitro.
 
 ### Guadagnare Esperienza
 
@@ -12,7 +12,7 @@ Ogni classe di personaggi ha un attributo principale elencato nella sua descrizi
 
 ### Tempo
 
-L'Arbitro dovrà stabilire delle regole generali sul passaggio del tempo nel corso di una campagna (per esempio: "Qualche ora dopo...") e dovrebbe essere guidato dal buon senso. Ci sono, comunque, due importanti misure di tempo che meritano una breve definizione: il "turno" e il "round di combattimento". Un turno (della durata di dieci minuti) è usato per tracciare e misurare azioni, movimenti e risorse quando gli intrepidi avventurieri sono in luoghi pericolosi. Il turno di combattimento (della durata di un minuto) rappresenta la concitazione della battaglia.
+L'Arbitro dovrà stabilire delle regole generali sul passaggio del tempo nel corso di una campagna (per esempio: "Qualche ora dopo...") e dovrebbe essere guidato dal buon senso. Ci sono, comunque, due importanti misure di tempo che meritano una breve definizione: il "turno" e il "round di combattimento". Un turno (della durata di dieci minuti) è usato per tracciare e misurare azioni, movimenti e risorse quando gli intrepidi avventurieri sono in luoghi pericolosi. Il round di combattimento (della durata di un minuto) rappresenta la concitazione della battaglia.
 
 ### Movimento
 
@@ -71,7 +71,7 @@ Idealmente, i giocatori saranno abbastanza descrittivi durante una ricerca da tr
 ## Combattimento
 
 Quando il gruppo di avventurieri entra in contatto con i nemici, l'ordine degli eventi nel round di combattimento è il seguente:  
-1\) L'arbitro determina se una parte o l'altra ha diritto ad un attacco gratuito o ad una mossa come risultato della sorpresa - questo è o una valutazione o un tiro di dado di qualche tipo, a seconda delle circostanze. Normalmente, chiunque è sorpreso se tira un 1 o un 2 su un d6.  
+1\) L'arbitro determina se una parte o l'altra abbia diritto ad un attacco gratuito o ad una mossa come risultato della sorpresa - questo è una valutazione o un tiro di dado di qualche tipo, a seconda delle circostanze. Normalmente, chiunque è sorpreso se tira un 1 o un 2 su un d6.  
 2\) Si determina l'iniziativa. Si effettua un tiro per ogni parte, non per ogni individuo in combattimento.  
 
 - La parte che ha l'iniziativa agisce per prima (lancio di dardi, incantesimi, movimento, attacchi in mischia, ecc.) e i risultati hanno effetto.
@@ -80,7 +80,7 @@ Quando il gruppo di avventurieri entra in contatto con i nemici, l'ordine degli 
 
 ### Intento (opzionale)
 
-Alcuni Arbitri preferiscono che tutte le parti facciano una "dichiarazione d'intenti" prima di tirare l'iniziativa, in modo da costringere i giocatori a decidere cosa stanno facendo prima di sapere chi va per primo.
+Alcuni Arbitri preferiscono che tutte le parti facciano una "dichiarazione d'intenti" prima di tirare l'iniziativa, in modo da costringere i giocatori a decidere cosa stanno facendo prima di sapere chi vada per primo.
 
 ### Come funziona l'iniziativa
 

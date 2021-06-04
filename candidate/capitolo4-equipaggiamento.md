@@ -151,7 +151,7 @@ Per tradurre tra i sistemi di CA ascendente e discendente, i valori di classe d'
 
 ### Assumere Gregari
 
-Molti personaggi, soprattutto all'inizio della loro carriera avventurosa, hanno bisogno di aiutanti per trasportare il bottino o per combattere i mostri. I personaggi sono liberi di pubblicare annunci e informarsi nelle taverne locali per trovare mercenari disponibili. I prezzi sono in pezzi d'oro e sono per una settimana di servizio.
+Molti personaggi, soprattutto all'inizio della loro carriera avventurosa, hanno bisogno di gregari come aiuto per trasportare il bottino o per combattere i mostri. I personaggi sono liberi di pubblicare annunci e informarsi nelle taverne locali per trovare gregari disponibili. I prezzi sono in pezzi d'oro e sono per una settimana di servizio.
 
 #### Tabella 14: Gregari
 

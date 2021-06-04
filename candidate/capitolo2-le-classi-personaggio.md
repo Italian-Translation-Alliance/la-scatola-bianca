@@ -36,7 +36,7 @@ I Chierici lanciano incantesimi divini da una specifica lista di incantesimi, co
 
 #### Tiro Salvezza
 
-I Chierici ricevono un bonus di +2 ai tiri salvezza contro veleno e paralisi (a meno che non venga utilizzata l'alternativa "Matrice dei Tiri Salvezza").
+I Chierici ricevono un bonus di +2 ai tiri salvezza contro veleno e paralisi (a meno che non venga utilizzata la "Matrice dei Tiri Salvezza" alternativa).
 
 #### Scacciare i non-morti
 
@@ -114,7 +114,7 @@ Contro i nemici con un dado vita (DV) o meno, i Guerrieri ottengono un attacco p
 
 #### Tiro salvezza
 
-I Guerrieri ricevono un bonus di +2 ai Tiri Salvezza contro Morte e Veleno (a meno che non venga utilizzata l'alternativa "Matrice dei Tiri Salvezza").
+I Guerrieri ricevono un bonus di +2 ai Tiri Salvezza contro Morte e Veleno (a meno che non venga utilizzata la "Matrice dei Tiri Salvezza" alternativa).
 
 #### Costruire un Castello
 

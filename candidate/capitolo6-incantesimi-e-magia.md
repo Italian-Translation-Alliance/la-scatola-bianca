@@ -475,13 +475,13 @@ L'incantatore evoca un "occhio" magico invisibile che si può muovere fino a 240
 *Raggio d'azione:* 240'  
 *Durata:* Istantaneo
 
-Un proiettile parte dalle dita dell'incantatore per esplodere presso il bersaglio in un lampo di fuoco simile a una fornace. Ha un raggio di 20' e il danno e 1d6 per livello dell'incantatore. L'esplosione prenderà occuperà tutto il volume disponibile. Un successo sul tiro salvezza significa che il bersaglio riceverà solo metà dei danni.
+Un proiettile parte dalle dita dell'incantatore per esplodere presso il bersaglio in un lampo di fuoco simile a una fornace. Ha un raggio di 20' e il danno e 1d6 per livello dell'incantatore. L'esplosione occuperà tutto il volume disponibile. Un successo sul tiro salvezza significa che il bersaglio riceverà solo metà dei danni.
 
 ### Parlare con gli Animali
 *Livello:* C2  
 *Raggio d'azione:* 30'  
 *Durata:* 1 ora
-L'incantatore può parlare con gli animali entro il raggio d'azione. C'è la possibilità che gli animali lo assistano, e che non attaccheranno né lui né i suoi alleato (a meno che non dica qualcosa di particolarmente offensivo). 
+L'incantatore può parlare con gli animali entro il raggio d'azione. C'è la possibilità che gli animali lo assistano e che non attacchino né lui né i suoi alleati (a meno che non dica qualcosa di particolarmente offensivo). 
 
 ### Parlare con le Piante
 *Livello:* C4  
@@ -501,7 +501,7 @@ Questo incantesimo crea un buco attraverso la roccia solida. Il foro o tunnel ra
 *Raggio d'azione:* 480'  
 *Durata:* 1 giorno
 
-Questo incantesimo funziona solo negli spazi aperti all'esterno. Uno sciame di insetti si riunisce, e va laddove l'incantatore desidera. La nube è larga approssimativamente 400 piedi quadrati (20x20 piedi e alto lo stesso). Qualunque creatura con meno di 2 DV esposta alla nube di insetti fuggirà terrorizzata (niente tiro salvezza). 
+Questo incantesimo funziona solo negli spazi aperti all'esterno. Uno sciame di insetti si riunisce e va laddove l'incantatore desidera. La nube è larga approssimativamente 400 piedi quadrati (20x20 piedi e alto lo stesso). Qualunque creatura con meno di 2 DV esposta alla nube di insetti fuggirà terrorizzata (niente tiro salvezza). 
 
 ### Polimorfismo
 *Livello:* M4  
@@ -510,14 +510,14 @@ Questo incantesimo funziona solo negli spazi aperti all'esterno. Uno sciame di i
 
 L'incantatore deve annunciare quale delle due opzioni sarà lanciata:
 - L'incantatore assume la forma di un qualunque oggetto o creatura, ottenendo gli attributi della nuova forma (l'uso delle ali, per esempio), ma non i suoi punti ferita o abilità combattive. L'Arbitro potrebbe permettere come beneficio la Classe Armatura della nuova forma, se questa ha una pelle pesantemente corazzata. Buona parte degli effetti dell'incantesimo è lasciata a discrezione dell'Arbitro. Questa forma dell'incantesimo dura almeno un'ora più una addizionale per ogni livello dell'incantatore
-- Alternativamente, questo incantesimo permette all'incantatore di trasformare un altro essere in un tipo differente di creatura (come un drago, una lumaca da giardino, e certamente, un rospo o una salamandra). La creatura trasformata guadagna tutte le abilita della forma, ma mantiene la sua coscienza e i suoi punti ferita. Usato in tal modo, il raggio dell'incantesimo e di 60'. Questa versione dell'incantesimo dura finché non viene dissolta.
+- Alternativamente, questo incantesimo permette all'incantatore di trasformare un altro essere in un tipo differente di creatura (come un drago, una lumaca da giardino, e certamente, un rospo o una salamandra). La creatura trasformata guadagna tutte le abilita della forma, ma mantiene la sua coscienza e i suoi punti ferita. Usato in tal modo, il raggio dell'incantesimo è di 60'. Questa versione dell'incantesimo dura finché non viene dissolta.
 
 ### Portale Dimensionale 
 *Livello:* M4  
 *Raggio d'azione:* 10' lancio, 360' distanza massima  
 *Durata:* Istantaneo
 
-Portale Dimensionale è una forma minore dell'incantesimo Teletrasporto che può essere gestita da maghi meno potenti. L'incantatore può teletrasportare se stesso, un oggetto, o un'altra persona con precisione perfetto alla locazione prescelta, ammesso che sia nel raggio dell'incantesimo.
+Portale Dimensionale è una forma minore dell'incantesimo Teletrasporto che può essere gestita da maghi meno potenti. L'incantatore può teletrasportare se stesso, un oggetto o un'altra persona con precisione perfetto alla posizione prescelta, ammesso che sia nel raggio dell'incantesimo.
 
 ### Proiettare Immagine
 *Livello:* M6  
@@ -588,7 +588,7 @@ Questo incantesimo conferisce l'abilità di respirare sott'acqua finché la dura
 *Raggio d'azione:* Linea di tiro  
 *Durata:* Vedi sotto
 
-Resurrezione dei Morti permette al Chierico di far risorgere un corpo dalla morte, ammesso che non sia morto da molto. Il tempo massimo e 4 giorni, ma per ogni livello dell'incantatore superiore all'8°, il limite viene esteso di 4 giorni. I personaggi con una Costituzione bassa potrebbero non sopravvivere al rito; anche per coloro di costituzione robusta, un periodo di due settimane è richiesto prima che possa riprendersi. Questo incantesimo può funzionare solo su specie che possono essere usate dai personaggi giocanti (cioè "umanoidi"). 
+Resurrezione dei Morti permette al Chierico di far risorgere un corpo dalla morte, ammesso che non sia morto da molto tempo. Il tempo massimo e 4 giorni, ma per ogni livello dell'incantatore superiore all'8°, il limite viene esteso di 4 giorni. I personaggi con una Costituzione bassa potrebbero non sopravvivere al rito; anche per coloro di costituzione robusta, un periodo di due settimane è richiesto prima che possa riprendersi. Questo incantesimo può funzionare solo su specie che possono essere usate dai personaggi giocanti (cioè "umanoidi"). 
 
 ### Rimuovere Maledizione
 *Livello:* C3, M4  
@@ -678,10 +678,10 @@ L'incantatore può muovere oggetti usando solamente il potere della mente. La qu
 *Raggio d'azione:* Tocco  
 *Durata:* Istantaneo
 
-L'incantesimo trasporta l'incantatore o un'altra persona alla destinazione che l'incantatore conosce (o perlomeno che conosce tramite un dipinto o una mappa). Il successo dipende da quanto bene l'incantatore conosce la locazione bersaglio:
-- Se l'incantatore ha solo esperienza indiretta della locazione (conosciuta attraverso un'immagine o una mappa) c'è il 25% di probabilità di successo — e il fallimento rappresenta la morte.
-- Se l'incantatore ha visto ma non studiato la destinazione c'è il 20% di possibilità di fallimento. Metà dei fallimenti porterà il viaggiatore 1d10x10' sotto la locazione voluta, possibilmente risultando nella morte arrivando dentro una sostanza solida.L'altra metà dei fallimenti porterà il viaggiatore 1d10x10' sopra la locazione voluta, la quale risulterà possibilmente in una caduta mortale. 
-- Se l'incantatore e familiare con la locazione o l'ha studiata attentamente, c'è un 5% di possibilità, con 1 su 6 fallimenti che arrivano sotto e 1 su 6 fallimenti che arrivano sopra la locazione bersaglio. In entrambi i casi, l'arrivo e 1d4x10' troppo alto o troppo basso. 
+L'incantesimo trasporta l'incantatore o un'altra persona alla destinazione che l'incantatore conosce (o perlomeno che conosce tramite un dipinto o una mappa). Il successo dipende da quanto bene l'incantatore conosce la posizione bersaglio:
+- Se l'incantatore ha solo esperienza indiretta della posizione (conosciuta attraverso un'immagine o una mappa) c'è il 25% di probabilità di successo — e il fallimento rappresenta la morte.
+- Se l'incantatore ha visto ma non studiato la destinazione c'è il 20% di possibilità di fallimento. Metà dei fallimenti porterà il viaggiatore 1d10x10' sotto la posizione voluta, possibilmente risultando nella morte arrivando dentro una sostanza solida.L'altra metà dei fallimenti porterà il viaggiatore 1d10x10' sopra la posizione voluta, la quale risulterà possibilmente in una caduta mortale. 
+- Se l'incantatore e familiare con la posizione o l'ha studiata attentamente, c'è un 5% di possibilità, con 1 su 6 fallimenti che arrivano sotto e 1 su 6 fallimenti che arrivano sopra la posizione bersaglio. In entrambi i casi, l'arrivo e 1d4x10' troppo alto o troppo basso. 
 
 ### Trasformare Pietra in Carne
 *Livello:* M6  

@@ -4,7 +4,7 @@ Il gioco prevede quattro possibili Classi Personaggio: il Chierico, il Guerriero
 
 ## Il Chierico
 
-I Chierici sono sacerdoti corazzati che servono un particolare allineamento, religione o divinità patrona. I giocatori possono inventare i dettagli se l'Arbitro non usa una particolare mitologia per la campagna. Se l'Arbitro è agli inizi, la mitologia e gli altri dettagli del mondo per la campagna spesso si svilupperanno in un secondo momento.
+I Chierici sono sacerdoti in armatura che servono un particolare allineamento, religione o divinità patrona. I giocatori possono inventare i dettagli se l'Arbitro non usa una particolare mitologia per la campagna. Se l'Arbitro è agli inizi, la mitologia e gli altri dettagli del mondo per la campagna spesso si svilupperanno in un secondo momento.
 
 Il Chierico è un campione della sua fede e del suo allineamento morale. Il personaggio potrebbe essere un sinistro cacciatore di streghe, un esorcista di demoni, uno splendente cavaliere della fede, o un agente segreto della gerarchia del tempio. Poiché molte delle abilità del Chierico sono orientate alla guarigione e alla protezione, tendono a svolgere un ruolo di supporto durante il combattimento. Tuttavia, sono in grado di stare spalla a spalla con i guerrieri del gruppo, se necessario, almeno per un po'. I Chierici devono essere o Legali (buoni) o Caotici (malvagi); non esistono Chierici Neutrali, a meno che l'Arbitro non decida altrimenti.
 

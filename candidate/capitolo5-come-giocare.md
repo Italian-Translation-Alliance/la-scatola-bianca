@@ -84,33 +84,33 @@ Alcuni Arbitri preferiscono che tutte le parti facciano una "dichiarazione d'int
 
 ### Come funziona l'iniziativa
 
-All'inizio del primo round di combattimento, ogni parte tira l'iniziativa su un d6 - il tiro più alto vince. La parte vincente agisce per prima, lanciando incantesimi, muovendosi e attaccando. L'altra parte subisce danni e perdite, e poi ha il suo turno.
+All'inizio del primo round di combattimento, ogni parte tira l'iniziativa su un d6 - il tiro più alto vince. La parte vincente agisce per prima, lanciando incantesimi, muovendosi e attaccando. L'altra parte subisce danni e perdite e poi effettua il suo turno.
 
-I tiri di iniziativa possono risultare in un pareggio. Quando questo accade, si considera che entrambe le parti agiscono simultaneamente. L'Arbitro può gestire questa situazione nel modo che preferisce, con un'avvertenza. I danni inflitti dai combattenti durante qualsiasi iniziativa simultanea sono inflitti anche se uno dei combattenti muore durante il round. È possibile che due combattenti si uccidano a vicenda in questa situazione. Se vuoi giocare le cose in modo più semplice, semplicemente rilancia l'iniziativa se c'è un pareggio fino a quando una parte o l'altra vince l'iniziativa.  
+I tiri di iniziativa possono risultare in un pareggio. Quando questo accade, si considera che entrambe le parti agiscono simultaneamente. L'Arbitro può gestire questa situazione nel modo che preferisce, con un'avvertenza. I danni inflitti dai combattenti durante qualsiasi iniziativa simultanea sono inflitti anche se uno dei combattenti muore durante il round. È possibile che due combattenti si uccidano a vicenda in questa situazione. Se volete giocare in modo più semplice, se c'è un pareggio tirate nuovamente l'iniziativa semplicemente fino a quando una parte o l'altra vince l'iniziativa.  
 
 ### Sequenza di combattimento alternativa (opzionale)
 
 La sequenza di combattimento è una delle parti del gioco più comunemente governate dal caso. Ecco una possibilità, anch'essa basata sul Gioco Originale:
 
-- Tira per la sorpresa. Chi non viene sorpreso ottiene un turno di combattimento gratuito nell'ordine normale (vedi sotto). Se nessuna delle due parti, o entrambe, sono sorprese, passate alla fase successiva.
+- Tirate per la sorpresa. Chi non viene sorpreso ottiene un turno di combattimento gratuito nell'ordine normale (vedi sotto). Se nessuna delle due parti, o entrambe, sono sorprese, passate alla fase successiva.
 
-- Tira per l'iniziativa (un tiro per ogni lato) e segui la sequenza descritta:
+- Tirate per l'iniziativa (un tiro per ogni lato) e segui la sequenza descritta:
 
-Per prima cosa, si lanciano gli incantesimi "preparati". Ci vuole un intero round di combattimento per preparare un incantesimo, ma uno può essere preparato in anticipo. Gli incantatori che hanno vinto l'iniziativa lanciano i loro incantesimi per primi. Possono poi iniziare a preparare un incantesimo per il turno successivo, se lo desiderano.
+Per prima cosa, si lanciano gli incantesimi "preparati". È necessario un intero round di combattimento per preparare un incantesimo, ma uno può essere preparato in anticipo. Gli incantatori che hanno vinto l'iniziativa lanciano i propri incantesimi per primi. Possono poi iniziare a preparare un incantesimo per il turno successivo, se lo desiderano.
 
 Successivamente, vengono usate le armi a distanza (se l'arco era già nelle mani del personaggio e pronto a tirare). Anche questo avviene in ordine di iniziativa.
 
-Poi ha luogo il combattimento in mischia, in ordine di iniziativa. Infine, il movimento ha luogo, in ordine di iniziativa.
+Poi ha luogo il combattimento in mischia, in ordine di iniziativa. Infine, ha luogo il movimento, in ordine di iniziativa.
 
-Se è importante sapere quale personaggio del gruppo va prima di un altro, basta confrontare i loro punteggi di Destrezza e vedere quale è più alto.
+Se è importante sapere quale personaggio del gruppo va prima di un altro, basta confrontare i loro punteggi di Destrezza e vedere qual è il più alto.
 
 ### Il Tiro d'Attacco
 
 Per attaccare con un'arma, il giocatore tira un d20 e aggiunge qualsiasi bonus al risultato. Questi bonus "per colpire" possono includere un bonus alla forza (per gli attacchi con armi a mano), un bonus alla destrezza (per gli attacchi con armi a distanza) e qualsiasi bonus per le armi magiche. Il giocatore sottrae poi qualsiasi penalità "per colpire" che potrebbe avere dal suo tiro.
 
-Il Tiro d'Attacco viene poi confrontato con una tabella per vedere se l'attacco va a segno. Se il tiro di attacco è uguale o superiore al numero sulla tabella, l'attacco va a segno. Se stai usando il sistema di CA ascendente, piuttosto che fare riferimento a queste tabelle, c'è un metodo veloce presentato qui sotto che puoi usare. L'arbitro decide quale sarà usato.
+Il Tiro d'Attacco viene poi confrontato con una tabella per vedere se l'attacco va a segno. Se il tiro di attacco è uguale o superiore al numero sulla tabella, l'attacco va a segno. Se state usando il sistema di CA ascendente, piuttosto che fare riferimento a queste tabelle, c'è un metodo veloce presentato qui sotto che potete usare. L'Arbitro decide quale sarà usato.
 
-Se un attacco va a segno, infligge un danno (determinato dal dado del danno dell'arma). Il danno viene sottratto dal totale dei punti ferita del difensore (vedi "Danno e Morte").
+Se un attacco va a segno, infligge un danno (determinato dal dado del danno dell'arma). Il danno viene sottratto dal totale dei punti ferita del difensore (si veda "Danno e Morte").
 
 #### Tabella 17: Tiri d'Attacco del Chierico/Ladro
 
@@ -179,11 +179,11 @@ Alcuni Arbitri considerano i Punti Ferita come una misura astratta della resiste
 
 ### Avversari invisibili
 
-Un avversario invisibile può essere attaccato solo se la sua posizione è nota a grandi linee, e l'attacco subisce una penalità di -4 "per colpire". Nota che i mostri più potenti (quelli con olfatto e udito sensibili, o quelli con più di 6 DV) saranno spesso in grado di individuare gli avversari invisibili; l'Arbitro dovrebbe determinare la possibilità di ciò in base alla creatura e alla situazione.
+Un avversario invisibile può essere attaccato solo se la sua posizione è nota a grandi linee e l'attacco subisce una penalità di -4 "per colpire". Nota che i mostri più potenti (quelli con olfatto e udito sensibili o quelli con più di 6 DV) saranno spesso in grado di individuare gli avversari invisibili; l'Arbitro dovrebbe determinare la possibilità di ciò in base alla creatura e alla situazione.
 
 ### Olio
 
-L'olio lanciato che viene successivamente incendiato da una torcia lanciata o qualcosa di simile brucerà per due round, facendo 1d6 danni per round su un colpo a segno di CA 8 \[11\]. L'Arbitro dovrebbe regolare la probabilità di colpire in base alla dimensione della creatura bersaglio, ovviamente creature grandi come orchi e giganti saranno più facili da colpire rispetto, per esempio, a ragni giganti.
+L'olio lanciato che viene successivamente incendiato da una torcia gettata o qualcosa di simile brucerà per due round, facendo 1d6 danni per round su un colpo a segno di CA 8 \[11\]. L'Arbitro dovrebbe regolare la probabilità di colpire in base alla dimensione della creatura bersaglio, ovviamente creature grandi come orchi e giganti saranno più facili da colpire rispetto, per esempio, a ragni giganti.
 
 ### Attacco in mischia
 
@@ -195,7 +195,7 @@ Gli attacchi a distanza sono effettuati con armi come balestre, fionde o asce la
 
 ### Morale
 
-Alcuni mostri, come le creature senza intelletto o non-morte, non hanno paura e combatteranno sempre fino alla morte. La maggior parte, tuttavia, non continuerà a combattere una battaglia senza speranza e cercherà di ritirarsi, arrendersi o fuggire. L'Arbitro deciderà quando i mostri abbandonano la battaglia e si ritirano, basandosi sulla situazione e sull'intelligenza del mostro. Gli arbitri dovrebbero anche usare il morale per determinare le azioni e la lealtà degli assoldati o di altri PNG compagni.
+Alcuni mostri, come le creature senza intelletto o non-morte, non hanno paura e combatteranno sempre fino alla morte. La maggior parte, tuttavia, non continuerà a combattere una battaglia senza speranza e cercherà di ritirarsi, arrendersi o fuggire. L'Arbitro deciderà quando i mostri abbandonano la battaglia e si ritirano, basandosi sulla situazione e sull'intelligenza del mostro. Gli arbitri dovrebbero anche usare il morale per determinare le azioni e la lealtà dei gregari o di altri PNG compagni.
 
 Se c'è incertezza sul morale dei PNG o dei mostri, la seguente tabella può essere utilizzata a discrezione dell'Arbitro.
 
@@ -219,7 +219,7 @@ Una giostra è una gara in cui due combattenti si affrontano brandendo delle lan
 
 La giostra, come sport, consisteva in tre tornei. In *La Scatola Bianca*, questo equivale a tre round di combattimento. Ogni round consiste in un attacco con una lancia. Se le lance sono smussate, infliggono 1d6-1 punti di danno, ma non possono uccidere il giostratore. A 0 punti ferita, il giostratore è stordito e cade dal suo destriero (nessun danno aggiuntivo). Se le lance non sono smussate, infliggono danni normali e potrebbero uccidere.
 
-Ogni giostratore che subisce danni deve superare un tiro salvezza o essere sbalzato dal suo destriero e subire 1d6 danni dalla caduta.
+Ogni giostratore che subisce danni deve superare un tiro salvezza o essere sbalzato dal suo destriero e subire 1d6 danni per la caduta.
 
 #### Tabella 21: Punti Giostra
 
@@ -333,4 +333,4 @@ Queste tabelle non si integrano direttamente in *La Scatola Bianca*: se si voles
 
 ### Ricordate
 
-*La Scatola Bianca* è un gioco di ruolo in forma libera, il che significa che non ci sono molte regole. L'Arbitro ha la responsabilità di gestire le situazioni che non sono coperte dalle regole, facendo valutazioni corrette su ciò che i personaggi fanno e decidendo cosa succede come risultato. Questo non è un gioco in cui i giocatori sono "contro" l'Arbitro, anche se l'Arbitro è responsabile della creazione di trappole insidiose, situazioni pericolose e della gestione dei mostri e degli altri nemici che i PG incontreranno durante il gioco. In realtà, i giocatori e l'Arbitro collaborano tra loro per creare un'epopea fantasy, con l'Arbitro che crea l'ambientazione e i giocatori che sviluppano la storia degli eroi. Se non sono abili e intelligenti, l'epopea potrebbe essere molto breve. Ma non è compito dell'Arbitro sconfiggere i giocatori: è suo compito fornire sfide interessanti (e pericolose) e poi guidare la storia in modo equo.
+*La Scatola Bianca* è un gioco di ruolo in forma libera, il che significa che non ci sono molte regole. L'Arbitro ha la responsabilità di gestire le situazioni che non sono coperte dalle regole, facendo valutazioni corrette su ciò che i personaggi fanno e decidendo cosa succede come risultato. Questo non è un gioco in cui i giocatori sono "contro" l'Arbitro, anche se l'Arbitro è responsabile della creazione di trappole insidiose, situazioni pericolose e della gestione dei mostri e degli altri nemici che i PG incontreranno durante il gioco. In realtà, i giocatori e l'Arbitro collaborano tra loro per creare un'epopea fantasy, con l'Arbitro che crea l'ambientazione e i giocatori che sviluppano la storia degli eroi. Se essi non sono abili e intelligenti, l'epopea potrebbe essere molto breve. Ma non è compito dell'Arbitro sconfiggere i giocatori: è suo compito fornire sfide interessanti (e pericolose) e poi guidare la storia in modo equo.

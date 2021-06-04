@@ -16,7 +16,7 @@ La "Classe Armatura" è spiegata in precedenza nelle regole di combattimento. Se
 
 ### Punti Esperienza
 
-I "Punti Esperienza" sono presentati dopo il punteggio di Dado Vita Equivalente (DVE) di un mostro, ed elencano il numero di PE che il gruppo di avventurieri guadagna come risultato dell'uccisione della creatura. In alcuni casi, tuttavia, l'arbitro può scegliere di assegnare punti esperienza per aver sconfitto una creatura senza ucciderla (aggirandola con mezzi creativi, catturandola per portarla a casa, ecc). Alcuni mostri hanno più punti esperienza indicati, questo perché alcuni mostri hanno una scala di Dadi Vita. L'ordine è sempre dal DV più basso al più alto.
+I "Punti Esperienza" sono presentati dopo il punteggio di Dado Vita Equivalente (DVE) di un mostro, ed elencano il numero di PE che il gruppo di avventurieri guadagna come risultato dell'uccisione della creatura. In alcuni casi, tuttavia, l'Arbitro può scegliere di assegnare punti esperienza per aver sconfitto una creatura senza ucciderla (aggirandola con mezzi creativi, catturandola per portarla a casa, ecc). Alcuni mostri hanno più punti esperienza indicati, questo perché alcuni mostri hanno una scala di Dadi Vita. L'ordine è sempre dal DV più basso al più alto.
 
 ### Dadi Vita
 
@@ -24,7 +24,7 @@ I "Punti Esperienza" sono presentati dopo il punteggio di Dado Vita Equivalente 
 
 ### Dadi Vita Equivalenti
 
-Il "Dado Vita Equivalente" è usato per separare i mostri in "livelli di difficoltà" in modo che quando si crea un'avventura l'arbitro abbia delle linee guida riguardo a ciò che i personaggi possono o non possono gestire. Alcuni mostri hanno più DVE elencati - questo perché alcuni mostri hanno una gamma di dadi vita. L'ordine è sempre dal DV più basso a quello più alto.
+Il "Dado Vita Equivalente" è usato per separare i mostri in "livelli di difficoltà" in modo che quando si crea un'avventura l'Arbitro abbia delle linee guida riguardo a ciò che i personaggi possono o non possono gestire. Alcuni mostri hanno più DVE elencati - questo perché alcuni mostri hanno una gamma di dadi vita. L'ordine è sempre dal DV più basso a quello più alto.
 
 ### Resistenza alla Magia
 
@@ -287,7 +287,7 @@ Un destriero notturno è un cavallo nero con occhi rosso fuoco e una criniera di
 *Movimento*: 9/24 (quando vola)  
 *DVE/PE*: 9/1,100
 
-I Djinn sono uno dei geni del folklore, creature dell'aria (e forse dei piani elementali). Possono trasportare 700 libbre di peso e hanno una serie di poteri magici. Un djinni può creare cibo e acqua di alta qualità, così come oggetti di legno e stoffa; può anche creare oggetti di metallo (comprese le monete), ma tutti i metalli creati magicamente scompaiono nel tempo. I Djinn possono evocare delle illusioni, e anche se queste sono a loro modo eccellenti, scompaiono quando vengono toccate. I djinn possono trasformarsi in forma gassosa (non possono attaccare o essere attaccati, possono entrare in qualsiasi area che non sia ermetica), e possono diventare invisibili a volontà. Infine, un djinni può trasformarsi in un turbine molto simile a un elementale dell'aria, spazzando via qualsiasi creatura con uno o meno dadi vita (il diametro del turbine è di 10').Tipi più potenti di djinn potrebbero essere in grado di concedere desideri limitati o addirittura desideri veri.
+I Djinn sono uno dei geni del folklore, creature dell'aria (e forse dei piani elementali). Possono trasportare 700 libbre di peso e hanno una serie di poteri magici. Un djinni può creare cibo e acqua di alta qualità, così come oggetti di legno e stoffa; può anche creare oggetti di metallo (comprese le monete), ma tutti i metalli creati magicamente scompaiono nel tempo. I Djinn possono evocare delle illusioni, e anche se queste sono a loro modo eccellenti, scompaiono quando vengono toccate. I djinn possono trasformarsi in forma gassosa (non possono attaccare o essere attaccati, possono entrare in qualsiasi area che non sia ermetica), e possono diventare invisibili a volontà. Infine, un djinni può trasformarsi in un turbine molto simile a un elementale dell'aria, spazzando via qualsiasi creatura con uno o meno dadi vita (il diametro del turbine è di 10'). Tipi più potenti di djinn potrebbero essere in grado di concedere desideri limitati o addirittura desideri veri.
 
 ### Doppelganger
 
@@ -304,9 +304,9 @@ Un doppelganger può cambiare forma per assomigliare all'aspetto fisico (compres
 
 Tutti i draghi hanno come arma un soffio di qualche tipo, che può essere usato fino a tre volte in un giorno. L'arbitro sceglie quando un drago userà un soffio come arma o può tirare per esso (50% di possibilità) in qualsiasi turno.
 
-L'arbitro non dovrebbe tirare per i punti ferita del drago, come si farebbe per altri mostri. Invece, determina la categoria di età del drago - questo darà sia i punti ferita del drago per dado colpito che quanti punti di danno dell'arma del respiro per dado colpito il drago infligge.
+L'Arbitro non dovrebbe tirare per i punti ferita del drago, come si farebbe per altri mostri. Invece, determina la categoria di età del drago - questo darà sia i punti ferita del drago per dado vita che quanti punti di danno dell'arma del respiro per dado vita il drago infligge.
 
-Per esempio, un drago "Adulto" ha sia 4 punti ferita che 4 punti di danno dell'arma del respiro per dado colpito. Quindi un drago nero "Adulto" con 6 DV avrebbe 24 PF e infliggerebbe 24 punti di danno da acido quando usa la sua arma del respiro.
+Per esempio, un drago "Adulto" ha sia 4 punti ferita che 4 punti di danno dell'arma del respiro per dado vita. Quindi un drago nero "Adulto" con 6 DV avrebbe 24 PF e infliggerebbe 24 punti di danno da acido quando usa il suo respiro come arma.
 
 #### Tabella 41: Categorie di Età dei Draghi
 
@@ -342,7 +342,7 @@ Notate che i draghi, pur essendo avversari pericolosi, non sono affatto invincib
 *Movimento*: 12/24 (quando vola)  
 *DVE/PE*: 7/600; 8/800; 9/1,100
 
-I draghi bianchi si trovano solitamente nelle regioni fredde, dove possono utilizzare il loro mimetismo naturale nel ghiaccio e nella neve per tendere imboscate alle loro prede. Soffia aria d'un freddo intenso e congelano in una forma a cono lunga 70 piedi e larga circa 30 piedi alla base.
+I draghi bianchi si trovano solitamente nelle regioni fredde, dove possono utilizzare il loro mimetismo naturale nel ghiaccio e nella neve per tendere imboscate alle loro prede. Soffiano aria d'un freddo intenso e congelano con un cono d’azione lungo 70 piedi e largo circa 30 piedi alla base.
 
 ### Drago, Blu
 
@@ -386,7 +386,7 @@ I draghi neri sputano un acido mortale e corrosivo. L'acido copre tutto in una l
 *Movimento*: 12/24 (quando vola)  
 *DVE/PE*: 11/1,700; 12/2,000; 13/2,300
 
-I draghi rossi sono gli spiriti di fuoco della leggenda. Sputano fuoco in una forma a cono lunga 90 piedi e larga circa 30 piedi alla base.
+I draghi rossi sono gli spiriti di fuoco della leggenda. Sputano fuoco con un cono d’azione lungo 90 piedi e largo circa 30 piedi alla base.
 
 ### Drago, Verde
 
@@ -397,7 +397,7 @@ I draghi rossi sono gli spiriti di fuoco della leggenda. Sputano fuoco in una fo
 *Movimento*: 12/24 (quando vola)  
 *DVE/PE*: 9/1,100; 10/1,400; 11/1,700
 
-I draghi verdi respirano una nuvola di gas velenoso che ha un diametro di 15 metri.
+I draghi verdi soffiano una nuvola di gas velenoso che ha un diametro di 15 metri.
 Un tiro salvezza riuscito dimezza il danno.
 
 ### Driade
@@ -409,7 +409,7 @@ Un tiro salvezza riuscito dimezza il danno.
 *Movimento*: 12  
 *DVE/PE*: 3/60
 
-Le driadi sono bellissimi spiriti arborei femminili e non si avventurano lontano dai loro alberi. Possono lanciare (come potere magico nativo) un forte incantesimo che funziona come un incantesimo Ammaliare Persone con un tiro salvezza di -2. Coloro che vengono incantati raramente ritornano o potrebbero essere trattenuti per cento anni e un giorno.
+Le driadi sono bellissimi spiriti arborei femminili e non si avventurano lontano dai loro alberi. Possono lanciare (come potere magico innato) un forte incantesimo che funziona come un incantesimo Ammaliare Persone con un tiro salvezza di -2. Coloro che vengono incantati raramente ritornano o potrebbero essere trattenuti per cento anni e un giorno.
 
 ### Efreeti
 
@@ -730,7 +730,7 @@ I gorgoni sono creature simili a tori con scaglie simili a draghi. Il loro soffi
 *Movimento*: 12/30 (quando vola)  
 *DVE/PE*: 8/800
 
-I grifoni hanno il corpo di un leone, con le ali, la testa e le zampe anteriori di un'aquila. Queste creature possono essere addomesticate e cavalcate come cavalcature. Di solito nidificano nei nidi di alta montagna, dove depongono le uova e cacciano le loro prede. Poiché i piccoli possono essere addomesticati, i giovani grifoni e le uova di grifone hanno un prezzo molto alto nei mercati delle grandi città o per i baroni e gli stregoni.
+I grifoni hanno il corpo di un leone, con le ali, la testa e le zampe anteriori di un'aquila. Queste creature possono essere addomesticate e cavalcate. Di solito nidificano nei nidi di alta montagna, dove depongono le uova e cacciano le loro prede. Poiché i piccoli possono essere addomesticati, i giovani grifoni e le uova di grifone hanno un prezzo molto alto nei mercati delle grandi città o per i baroni e gli stregoni.
 
 ### Hobgoblin
 
@@ -833,7 +833,7 @@ I ratti mannari si trovano per lo più nelle città, appostati in vicoli ombrosi
 *Movimento*: 6  
 *DVE/PE*: 15/2,900; 16/3,200; 17/3,500; 18/3,800; 19/4,100; 20/4,400; 21/4,700
 
-I lich sono i resti non-morti degli stregoni, resi tali dalle loro azioni deliberate durante la vita o come risultato di altre forze magiche (possibilmente incluse le loro stesse magie andate male). Un lich ha gli stessi poteri di incantatore del mago originale (e lo stesso livello dei suoi DV). Il tocco di un lich provoca paralisi senza tiro salvezza e la sola vista di una di queste terribili creature provoca la paralisi in qualsiasi essere di 4 DV o inferiore. I lich sono altamente maligni e intelligenti.
+I lich sono i resti non-morti degli stregoni, resi tali dalle loro azioni deliberate durante la vita o come risultato di altre forze magiche (possibilmente incluse le loro stesse magie andate male). Un lich ha gli stessi poteri di incantatore del mago originale (e lo stesso livello dei suoi DV). Il tocco di un lich provoca paralisi senza tiro salvezza e la sola vista di una di queste terribili creature provoca la paralisi in qualsiasi essere di 4 DV o inferiore. I lich sono molto maligni e intelligenti.
 
 ### Lumaca, Gigante
 

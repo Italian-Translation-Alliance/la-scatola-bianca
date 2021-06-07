@@ -409,7 +409,7 @@ Un tiro salvezza riuscito dimezza il danno.
 *Movimento*: 12  
 *DVE/PE*: 3/60
 
-Le driadi sono bellissimi spiriti arborei femminili e non si avventurano lontano dai loro alberi. Possono lanciare (come potere magico innato) un forte incantesimo che funziona come un incantesimo Ammaliare Persone con un tiro salvezza di -2. Coloro che vengono incantati raramente ritornano o potrebbero essere trattenuti per cento anni e un giorno.
+Le driadi sono bellissimi spiriti arborei femminili e non si avventurano lontano dai loro alberi. Possono lanciare (come potere magico innato) un potente incantesimo di tipo Ammaliare Persone con un tiro salvezza di -2. Coloro che vengono incantati raramente ritornano o potrebbero essere trattenuti per cento anni e un giorno.
 
 ### Efreeti
 

@@ -94,7 +94,7 @@ La sequenza di combattimento è una delle parti del gioco più comunemente gover
 
 - Tirate per la sorpresa. Chi non viene sorpreso ottiene un turno di combattimento gratuito nell'ordine normale (vedi sotto). Se nessuna delle due parti, o entrambe, sono sorprese, passate alla fase successiva.
 
-- Tirate per l'iniziativa (un tiro per ogni lato) e segui la sequenza descritta:
+- Tirate per l'iniziativa (un tiro per ogni parte) e seguite la sequenza descritta:
 
 Per prima cosa, si lanciano gli incantesimi "preparati". È necessario un intero round di combattimento per preparare un incantesimo, ma uno può essere preparato in anticipo. Gli incantatori che hanno vinto l'iniziativa lanciano i propri incantesimi per primi. Possono poi iniziare a preparare un incantesimo per il turno successivo, se lo desiderano.
 

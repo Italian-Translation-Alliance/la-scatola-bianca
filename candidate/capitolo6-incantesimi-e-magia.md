@@ -376,7 +376,7 @@ Questo incantesimo permette all'incantatore di leggere le scritte magiche su ogg
 
 Questo incantesimo schiude e apre tutte le porte, cancelli e portali entro il suo raggio, includendo anche quelli bloccati o tenuti chiusi dalla normale magia.
 
-Levitazione permette un movimento verso l'alto o verso il basso alla velocità di 6' per minuto (60' a turno) e l'incantatore non può levitare più di 20' per livello dal livello di partenza dove l'incantesimo è stato lanciato (tale raggio viene applicato sia al movimento in aria sia al movimento di discesa verso un baratro o una fossa).
+Levitare permette un movimento verso l'alto o verso il basso alla velocità di 6' per minuto (60' a turno) e l'incantatore non può levitare più di 20' per livello dal livello di partenza dove l'incantesimo è stato lanciato (tale raggio viene applicato sia al movimento in aria sia al movimento di discesa verso un baratro o una fossa).
 
 ### Localizzare Oggetto
 *Livello:* C3, M2  

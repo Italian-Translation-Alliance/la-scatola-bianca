@@ -21,7 +21,7 @@ Ricordate che le monete trovate non sono sempre pezzi d'oro: nel tesoro potrebbe
 
 ### Dividere il bottino
 
-Una volta che i mostri sono stati uccisi e le ferite sono state fasciate, è il momento di dividere il tesoro. Si suggerisce che il valore totale in po del bottino sia totalizzato e diviso tra i partecipanti con ognuno che ottiene una "quota" uguale. Molti Arbitri stabiliscono che il tesoro deve essere condiviso con i PNG che ottengono una quota intera o metà, a seconda del loro livello. È anche consuetudine che i compagni caduti (morti) ricevano comunque una parte del bottino da dare al loro parente più prossimo.
+Una volta che i mostri sono stati uccisi e le ferite sono state fasciate, è il momento di dividere il tesoro. Si suggerisce che il valore totale in po del bottino sia totalizzato e diviso tra i partecipanti in  modo che ognuno ottenga una "quota" uguale. Molti Arbitri stabiliscono che il tesoro deve essere condiviso con i PNG che ottengono una quota intera o metà, a seconda del loro livello. È anche consuetudine che i compagni caduti (morti) ricevano comunque una parte del bottino da dare al loro parente più prossimo.
 
 ### Oggetti del Tesoro
 
@@ -37,11 +37,11 @@ Ricordate sempre che queste tabelle sono solo linee guida - se desiderate colloc
 
 ### Cambio Tesori (Esempio \#1)
 
-Se popoli un'area con 5 scheletri, il loro valore PE totale sarebbe 75. Se voi tiraste sulla tabella dei valori del tesoro e otteneste un 4, il valore totale del tesoro per quell'incontro è 225 po e la ripartizione sarebbe (arrotondata per difetto): 112 po, 900 pa e 2.250 pr. C'è il 10% di possibilità di scambiare 100 po di quel tesoro con un oggetto minore. Se, con un d100, tirate meno del 10%, allora il valore del tesoro di quell'incontro sarebbe di 12 po, 900 pa, 2.250 pr e un oggetto minore (tirato sulla tabella Gemme/Gioielli minori o Magia minore).
+Se popolate un'area con 5 scheletri, il loro valore PE totale sarebbe 75. Se voi tiraste sulla tabella dei valori del tesoro e otteneste un 4, il valore totale del tesoro per quell'incontro è 225 po e la ripartizione sarebbe (arrotondata per difetto): 112 po, 900 pa e 2.250 pr. C'è il 10% di possibilità di scambiare 100 po di quel tesoro con un oggetto minore. Se, con un d100, tirate meno del 10%, allora il valore del tesoro di quell'incontro sarebbe di 12 po, 900 pa, 2.250 pr e un oggetto minore (tirato sulla tabella Gemme/Gioielli minori o Magia minore).
 
 ### Cambio Tesori (Esempio \#2)
 
-Piazzate un temibile minotauro in una stanza chiusa del dungeon per un totale di 400 PE. Tirando contro la tabella dei valori del tesoro, se voi tiraste un 6, il valore totale del tesoro per questo incontro è di 1.600 po e la ripartizione sarebbe: 1.200 po e 4.000 pa. C'è il 10% di possibilità di scambiare 1.000 po di quel tesoro con un oggetto medio. Se, su un d100, tirate meno del 10%, allora il valore del tesoro in quell'incontro sarebbe di 200 po, 4.000 pa e un oggetto medio (tirato sulla tabella Gemme/Gioielli medi o Magia media). Con il restante valore totale in oro, ci potrebbe essere una possibilità del 60% di scambiare 600 po per un oggetto minore, sei possibilità del 10% di scambiare 600 po per un totale di sei oggetti minori o qualche altra variante come una possibilità del 10% di scambiare 100 po per un oggetto minore (mantenendo i restanti 500 po).
+Piazzate un temibile minotauro in una stanza chiusa del dungeon per un totale di 400 PE. Tirando sulla tabella dei valori del tesoro, se voi tiraste un 6, il valore totale del tesoro per questo incontro è di 1.600 po e la ripartizione sarebbe: 1.200 po e 4.000 pa. C'è il 10% di possibilità di scambiare 1.000 po di quel tesoro con un oggetto medio. Se, su un d100, tirate meno del 10%, allora il valore del tesoro in quell'incontro sarebbe di 200 po, 4.000 pa e un oggetto medio (tirato sulla tabella Gemme/Gioielli medi o Magia media). Con il restante valore totale in oro, ci potrebbe essere una possibilità del 60% di scambiare 600 po per un oggetto minore, sei possibilità del 10% di scambiare 600 po per un totale di sei oggetti minori o qualche altra variante come una possibilità del 10% di scambiare 100 po per un oggetto minore (mantenendo i restanti 500 po).
 
 ### Cambio per 5.000 po
 

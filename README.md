@@ -43,6 +43,6 @@ Quando la pull-request sarà "ok", verrà unita al repository principale.
 
 Ci sono due alternative:
 1. Apri una issue caricando il file corretto
-2. Contattatami via [facebook messenger](m.me/Zeruhur), [telegram(]https://t.me/zeruhur) o [e-mail](mailto:robertobisceglie@gmail.com) e mandami il file aggiornato. Cercherò di aggiungerlo al progetto e potrei chiederti di aiutarmi eventualmente ad integrarlo nel miglior modo possibile.
+2. Contattatami via [facebook messenger](m.me/Zeruhur), [telegram](https://t.me/zeruhur) o [e-mail](mailto:robertobisceglie@gmail.com) e mandami il file aggiornato. Cercherò di aggiungerlo al progetto e potrei chiederti di aiutarmi eventualmente ad integrarlo nel miglior modo possibile.
 
 Congratulazioni, hai contribuito a questo progetto!

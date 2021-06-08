@@ -2,7 +2,7 @@
 
 ## Gioco fantasy medievale d'avventura
 
-Benvenuti nel repository del testo sorgente di ***La Scatola Bianca**.
+Benvenuti nel repository del testo sorgente di ***La Scatola Bianca***.
 
 *La Scatola Bianca* è un Gioco di Ruolo retroclone.
 

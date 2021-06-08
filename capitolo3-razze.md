@@ -81,7 +81,7 @@ Alcuni arbitri potrebbero voler permettere all'elfo di avanzare come una fusione
 
 #### Restrizioni su Armi e Armature
 
-Gli elfi avrebbero il vantaggio della magia e dell'armatura allo stesso tempo, quindi l'arbitro può limitare l'elfo alla cotta di maglia. Gli elfi non possono usare armi a due mani (spada a due mani, aste, ecc.) o scudi mentre lanciano incantesimi.
+Gli elfi avrebbero il vantaggio della magia e dell'armatura allo stesso tempo, quindi l'Arbitro può limitare l'elfo alla cotta di maglia. Gli elfi non possono usare armi a due mani (spada a due mani, aste, ecc.) o scudi mentre lanciano incantesimi.
 
 ## L'Halfling
 

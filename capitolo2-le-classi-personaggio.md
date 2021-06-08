@@ -207,11 +207,11 @@ I Ladri ricevono un bonus di +2 a qualsiasi tiro salvezza effettuato per ridurre
 
 #### Furto
 
-I ladri sono furtivi e dai piedi leggeri e l'abilità di furto può essere utilizzata per qualsiasi azione clandestina o basata sulla furtività: borseggiare o scassinare serrature, scoprire e disarmare trappole, rimanere silenziosi e nascosti mentre ci si muove o persino scalare muri a mani nude. Se il risultato del tiro è uguale o inferiore al suo punteggio nell'abilità di Ladro, il Ladro ha successo nel suo tentativo. I ladri non sono spesso consapevoli di quando i loro tentativi di rimanere furtivi falliscono, e il ladro crede sempre di aver avuto successo.
+I ladri sono furtivi e dai piedi leggeri e l'abilità di furto può essere utilizzata per qualsiasi azione clandestina o basata sulla furtività: borseggiare o scassinare serrature, scoprire e disarmare trappole, rimanere silenziosi e nascosti mentre ci si muove o persino scalare muri a mani nude. Se il risultato del tiro è uguale o inferiore al suo punteggio nell'abilità di Ladro, il Ladro ha successo nel suo tentativo. I ladri non sono spesso consapevoli di quando i loro tentativi di rimanere furtivi falliscono, il ladro crede sempre di aver avuto successo.
 
 #### Fondare una Gilda
 
-Un ladro di nono livello o superiore può scegliere di stabilire un nascondiglio segreto, spesso in un luogo urbano. Egli attirerà l'attenzione e il servizio di altri ladri di livello inferiore che sperano di imparare da un maestro. È conosciuto come un Maestro di Gilda, e quelli che arrivano sono membri della sua Gilda dei Ladri. In cambio di una parte dei loro guadagni, il Ladro fornirà a questi apprendisti protezione dalle forze dell'ordine locali, per quanto possibile.
+Un ladro di nono livello o superiore può scegliere di stabilire un nascondiglio segreto, spesso in una località urbana. Egli attirerà l'attenzione e il servizio di altri ladri di livello inferiore che sperano di imparare da un maestro. È conosciuto come un Maestro di Gilda e quelli che arrivano sono membri della sua Gilda dei Ladri. In cambio di una parte dei loro guadagni, il Ladro fornirà a questi apprendisti protezione dalle forze dell'ordine locali, per quanto possibile.
 
 #### Bonus di esperienza per la Destrezza
 

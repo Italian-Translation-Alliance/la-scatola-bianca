@@ -4,3 +4,5 @@ remote_theme: pmarsceill/just-the-docs
 aux_links:
   "La Scatola Bianca su GitHub":
     - "//github.com/Italian-Translation-Alliance/la-scatola-bianca"
+  "Versione PDF":
+    - "//ita-translation-alliance.itch.io/la-scatola-bianca"

@@ -11,7 +11,7 @@ Roberto Bisceglie
 
 Alessio Persichetti
 
-La Scatola Bianca è un progetto dell'[**Italian Translation Alliance**](italian-translation-alliance.github.io)
+La Scatola Bianca è un progetto dell'[**Italian Translation Alliance**](https://italian-translation-alliance.github.io)
 
 ### Ringraziamenti
 Matt Finch,Marv Breig, John M. Stater, Simon J. Bull, James M. Spahn, Doug ‘Merias’Maxwell,Travis Casey, James V.West e Arthur Braune 

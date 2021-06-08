@@ -32,25 +32,25 @@ The following text is the property of Wizards of the Coast, Inc. and is Copyrigh
 14. Reformation: If any provision of this License is held to be unenforceable, such provision shall be reformed only to the extent necessary to make it enforceable.
 15. COPYRIGHT NOTICE
 
-Open Game License v 1.0 Copyright 2000, Wizards of the Coast, Inc.
-
-System Reference Document Copyright 2000-2003, Wizards of the Coast, Inc.; Authors Jonathan Tweet, Monte Cook, Skip Williams, Rich Baker, Andy Collins, David Noonan, Rich Redman, Bruce R. Cordell, John D. Rateliff, Thomas Reid, James Wyatt, based on original material by E. Gary Gygax and Dave Arneson.
-
-Swords & Wizardry Core Rules, Copyright 2008, Matthew J. Finch
-
-Swords & Wizardry WhiteBox Rules by Marv Breig, copyright 2008-2011 Matthew J. Finch
-
-Delving Deeper Reference Rules Compendium v4, copyright 2014, Simon J. Bull
-
-The Hero’s Journey Fantasy Roleplaying, copyright 2016 Barrel Rider Games: Author James M. Spahn
-Bloody Basic: Sinew & Steel Edition, copyright 2015. John M. Stater
-
-SnW Whitebox Essential Adventuring Rules v1, Copyright 2014 Douglas Maxwell.
-
-White Box: Fantastic Medieval Adventure Game, Copyright 2016, Charles Mason
-
-White Box: Fantastic Medieval Adventure Game Reference Sheets © 2018, Douglas Maxwell
-
-La scatola bianca: Gioco fantasy medievale d'avventura © 2021, Roberto Bisceglie & Alessio Persichetti
+    Open Game License v 1.0 Copyright 2000, Wizards of the Coast, Inc.
+    
+    System Reference Document Copyright 2000-2003, Wizards of the Coast, Inc.; Authors Jonathan Tweet, Monte Cook, Skip Williams, Rich Baker, Andy Collins, David Noonan, Rich Redman, Bruce R. Cordell, John D. Rateliff, Thomas Reid, James Wyatt, based on original material by E. Gary Gygax and Dave Arneson.
+    
+    Swords & Wizardry Core Rules, Copyright 2008, Matthew J. Finch
+    
+    Swords & Wizardry WhiteBox Rules by Marv Breig, copyright 2008-2011 Matthew J. Finch
+    
+    Delving Deeper Reference Rules Compendium v4, copyright 2014, Simon J. Bull
+    
+    The Hero’s Journey Fantasy Roleplaying, copyright 2016 Barrel Rider Games: Author James M. Spahn
+    Bloody Basic: Sinew & Steel Edition, copyright 2015. John M. Stater
+    
+    SnW Whitebox Essential Adventuring Rules v1, Copyright 2014 Douglas Maxwell.
+    
+    White Box: Fantastic Medieval Adventure Game, Copyright 2016, Charles Mason
+    
+    White Box: Fantastic Medieval Adventure Game Reference Sheets © 2018, Douglas Maxwell
+    
+    La scatola bianca: Gioco fantasy medievale d'avventura © 2021, Roberto Bisceglie & Alessio Persichetti
 
 **END OF LICENSE**

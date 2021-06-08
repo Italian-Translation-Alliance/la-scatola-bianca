@@ -1,3 +1,7 @@
+---
+nav_order: 1
+---
+
 # Introduzione
 
 *La Scatola Bianca* è un Gioco di Ruolo retroclone. In questo libro troverete le regole del gioco e non vi servirà nient'altro che matite, carta, dadi e la vostra immaginazione.

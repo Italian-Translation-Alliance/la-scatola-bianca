@@ -12,31 +12,31 @@ Questo significa inventarsi un sacco di cose sul momento. Se non siete dei bravi
 L'"avventura" e solo l'ambientazione per il gioco — solitamente una mappa e delle note riguardo certe località sulla mappa. Mano a mano che i giocatori vi diranno dove andranno i loro personaggi e che cosa faranno, farete riferimento alla mappa e alle vostre note per descrivere cosa succederà come conseguenza. Non provate a pianificare tutte le circostanze — è garantito che i giocatori faranno qualcosa di inaspettato durante l'avventura e dovrete improvvisare, pensando su due piedi e inventando nuove cose al volo. Come voi sfidate i giocatori con l'avventura, essi sfidano voi a stare al passo con la loro creatività collettiva.
 
 ### Creare una Campagna
-Una campagna è il mondo al di là dell'avventura — le città, le foreste, le coste e i regni di tale mondo fantastico. I giocatori quasi sicuramente vorranno che i loro personaggi esplorino le terre selvagge, visitino le città e poter fare ogni cosa in questo mondo fantastico. All'inizio del gioco, vorrete forse definire una mappa di un singolo villaggio (come punto di partenza) e qualche area circostante (la località della prima avventura — forse una foresta). Quando i giocatori muoveranno i loro personaggi da un'avventura all'altra, potrete espandere passo dopo passo la mappa in un intero mondo fantastico con continenti, regni e maestosi imperi a vostra disposizione.
+Una campagna è il mondo al di là dell'avventura — le città, le foreste, le coste e i regni di tale mondo fantastico. I giocatori quasi sicuramente vorranno che i loro personaggi esplorino le Terre Selvagge, visitino le città e poter fare ogni cosa in questo mondo fantastico. All'inizio del gioco, vorrete forse definire una mappa di un singolo villaggio (come punto di partenza) e qualche area circostante (la località della prima avventura — forse una foresta). Quando i giocatori muoveranno i loro personaggi da un'avventura all'altra, potrete espandere passo dopo passo la mappa in un intero mondo fantastico con continenti, regni e maestosi imperi a vostra disposizione.
 
-Se vuoi prendere una scorciatoia, puoi ambientare la tua intera campagna in un mondo fittizio creato da uno degli autori delle tue storie fantastiche. Molti di questi hanno mappe e l'autore ha già creato i dettagli e l'atmosfera del mondo per te. Per esempio: i mondi di Conan di Hyboria (Robert E. Howard), di Elric e del Campione Eterno (Michael Moorcock) e quello della Terra Morente (Jack Vance) sono ambientazioni fittizie pronte per essere giocate. Infatti, alcuni editori hanno già creato campagne per-confezionate per tutti e tre questi esempi. 
+Se volete prendere una scorciatoia, potete ambientare la vostra intera campagna in un mondo fittizio creato da uno degli autori delle vostre storie preferite. Molti di questi hanno mappe e l'autore ha già creato i dettagli e l'atmosfera del mondo per voi. Per esempio: i mondi di Conan di Hyboria (Robert E. Howard), di Elric e del Campione Eterno (Michael Moorcock) e quello della Terra Morente (Jack Vance) sono ambientazioni fittizie pronte per essere giocate. Infatti, alcuni editori hanno già creato campagne per-confezionate per tutti questi esempi. 
 
 ### Punti Esperienza
 I Punti Esperienza sono conferiti ai giocatori per avere ottenuto tesoro o ucciso mostri, come descritto nella sezione "Guadagnare Esperienza" nel Capitolo 5. Potrebbe sembrare contro intuitivo che il tesoro in qualche modo renda i personaggi più esperti, ma dare esperienza per il tesoro non ha a che fare solo con le monete d'oro. Le monete d'oro sono una misura al termine dell'avventura per valutare quanto i personaggi (i giocatori) sono stati astuti nel recuperarle. Le monete d'oro non sono l'unica fonte di esperienza — sono il prodotto misurabile di essa.
 
 Detto ciò, ci sono molti modi alternativi per l'Arbitro per conferire Punti Esperienza. Per esempio, partecipazione attiva nella campagna potrebbe garantire esperienza per ogni ora di gioco reale, come anche risolvere enigmi e aiutare gli alleati. Una soluzione intelligente o una vittoria epica potrebbero conferire il doppio del normale ammontare di Punti Esperienza, mentre un fallimento clamoroso solo la metà.
 
-Qualche Arbitro calcola i Punti Esperienza in quanto totale guadagnato collettivamente diviso equamente, dato che non tutti i personaggi hanno le stesse opportunità in una data avventura. Altri preferiscono un gioco più competitivo, dove ogni giocatore guadagna Punti Esperienza secondo i successi individuali. 
+Qualche Arbitro calcola i Punti Esperienza in quanto totale guadagnato collettivamente diviso equamente, dato che non tutti i personaggi hanno le stesse opportunità in una determinata avventura. Altri preferiscono un gioco più competitivo, dove ogni giocatore guadagna Punti Esperienza secondo i successi individuali. 
 
-Se tu scoprissi che un qualunque sistema che stai usando conduce i giocatori verso cattive decisioni — come cercare combattimenti superflui o cercare di innescare trappole — dovresti aggiustare il tuo sistema. Questo vale anche per il sistema "ufficiale" per conferire punti esperienza. Ricorda, l'Arbitro è il giudice ultimo di ciò che funziona meglio per una partita e qualunque regola può essere cambiata per adattarsi al gruppo.
+Se scopriste che un qualunque sistema che state usando conduce i giocatori verso decisioni affrettate — come cercare combattimenti superflui o cercare di innescare trappole — dovreste calibrare il vostro sistema. Questo vale anche per il sistema "ufficiale" per conferire punti esperienza. Ricordate, l'Arbitro è il giudice ultimo di ciò che funziona meglio per una partita e qualunque regola può essere cambiata per adattarsi al gruppo.
 
 ### Scala di Avanzamento
 Ogni Arbitro ha il proprio stile di campagna e sarebbe sciocco per un autore imporre restrizioni inutili a chiunque giochi. Ciononostante, è prezioso ricordare che questo regolamento è stato pensato con la nozione che dei personaggi al 4° livello siano "eroici" e quindi le tabelle siano limitate al livello 10. Un Arbitro che desideri estendere le tabelle a livelli superiori e incoraggiato a farlo per adattarle allo stile della propria campagna.
 
 ### Sottomondo e Terre Selvagge
-Molti Arbitri creeranno mappe del Sottomondo o delle terre selvagge prima di giocare. I personaggi giocanti esploreranno la mappa non sapendo cosa aspettarsi.
+Molti Arbitri creeranno mappe del Sottomondo o delle Terre Selvagge prima di giocare. I personaggi giocanti esploreranno la mappa non sapendo cosa aspettarsi.
 
-Nel Sottomondo la mappa è piena di mostri, trappole, tesori e creature o posti misteriosi che la fantasia dell'Arbitro trasforma in realtà.
+Nel Sottomondo la mappa è ricolma di mostri, trappole, tesori e creature o posti misteriosi che la fantasia dell'Arbitro trasforma in realtà.
 
-La mappa delle terre selvagge è creata usando carta con griglia a esagoni, con ogni esagono che rappresenta 6 miglia, avendo un tipo di terreno specifico e possibilmente una caratteristica interessante. Una caratteristica potrebbe essere la torre di un mago, il forte di un guerriero, il tempio di un sacerdote malvagio o magari potrebbe essere una piccola creatura simile a un elfo, la quale è seduta sul tronco di un albero mentre suona il flauto. Lasciate che la vostra immaginazione corra selvaggia quando create tali caratteristiche.
+La mappa delle Terre Selvagge è creata usando carta con griglia a esagoni, con ogni esagono che rappresenta 6 miglia, avendo un tipo di terreno specifico e possibilmente una caratteristica interessante. Una caratteristica potrebbe essere la torre di un mago, il forte di un guerriero, il tempio di un sacerdote malvagio o magari potrebbe essere una piccola creatura simile a un elfo, la quale è seduta sul tronco di un albero mentre suona il flauto. Lasciate che la vostra immaginazione corra selvaggia quando create tali caratteristiche.
 
 ### Mostri Erranti
-Nel Sottomondo, controllate ogni ora (sei turni) per i mostri erranti, mentre nelle terre selvagge controllate a ogni esagono. Normalmente, c'è una probabilità di 1 su 6 di incontrare qualcosa nel Sottomondo. Controllate la tabella Perdersi e Incontri per la probabilità degli incontri nelle terre selvagge.
+Nel Sottomondo, controllate ogni ora (sei turni) per i mostri erranti, mentre nelle Terre Selvagge controllate a ogni esagono. Normalmente, c'è una probabilità di 1 su 6 di incontrare qualcosa nel Sottomondo. Controllate la tabella Perdersi e Incontri per la probabilità degli incontri nelle Terre Selvagge.
 
 L'incontro specifico è tirato sulla tabella. La distanza iniziale dell'incontro dipende dalle circostanze.
 
@@ -55,7 +55,7 @@ La reazione dei mostri ai personaggi giocanti dovrebbe essere determinata dall'A
 
 
 ### Perdersi e Incontri
-Nelle terre selvagge, se i personaggi stanno seguendo una strada o un sentiero, non c'è la possibilità di perdersi. Se tuttavia, stanno esplorando territori ignoti, c'è la possibilità di perdere la via in base al terreno che caratterizza l'esagono.
+Nelle Terre Selvagge, se i personaggi stanno seguendo una strada o un sentiero, non c'è la possibilità di perdersi. Se tuttavia, stanno esplorando territori ignoti, c'è la possibilità di perdere la via in base al terreno che caratterizza l'esagono.
 
 Se su strade segnate o in mezzo all'ignoto, c'è sempre la possibilità di un incontro. 
 

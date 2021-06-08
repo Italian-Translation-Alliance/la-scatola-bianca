@@ -1,6 +1,6 @@
 # Capitolo 4: Equipaggiamento
 
-Ogni personaggio inizia il gioco con 3d6x10 pezzi d'oro, che vengono usati per comprare l'equipaggiamento. Un pezzo d'oro (po) vale 10 pezzi d'argento (pa) o 100 pezzi di rame (pr). I prezzi dell'equipaggiamento sono elencati nelle tabelle sottostanti nella quantità di pezzi d'oro. L'arbitro è incoraggiato a includere oggetti ed equipaggiamenti aggiuntivi.
+Ogni personaggio inizia il gioco con 3d6x10 pezzi d'oro, che vengono usati per comprare l'equipaggiamento. Un pezzo d'oro (po) vale 10 pezzi d'argento (pa) o 100 pezzi di rame (pr). I prezzi dell'equipaggiamento sono elencati nelle tabelle sottostanti nella quantità di pezzi d'oro. L'Arbitro è incoraggiato a includere oggetti ed equipaggiamenti aggiuntivi.
 
 ## Peso dell'equipaggiamento
 
@@ -8,7 +8,7 @@ Si presume che un equipaggiamento vario di livello "normale" pesi 10 libbre. Se 
 
 ## Danno dell'arma (opzionale)
 
-Nel gioco originale, tutte le armi infliggono 1d6 danni, indipendentemente dal tipo. *La Scatola Bianca* fornisce alcune leggere varianti. Per giocare il gioco originale come è stato scritto, ignorate semplicemente tutte le varianti nei danni delle armi - in tal caso tutte infliggono 1d6 danni indipendentemente dal fatto che l'arma sia una spada a due mani o un pugnale.
+Nel gioco originale, tutte le armi infliggono 1d6 danni, indipendentemente dal tipo. *La Scatola Bianca* fornisce alcune piccole varianti. Per giocare il gioco originale come è stato scritto, ignorate semplicemente tutte le varianti nei danni delle armi - in tal caso tutte infliggono 1d6 danni indipendentemente dal fatto che l'arma sia una spada a due mani o un pugnale.
 
 #### Tabella 9: Equipaggiamento Vario
 

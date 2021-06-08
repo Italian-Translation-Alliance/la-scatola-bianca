@@ -2,7 +2,7 @@
 
 La quantità di tesori che un mostro possiede o custodisce è di solito correlata ai DVE del mostro. Questo non è necessariamente realistico, ma tenete a mente che il tesoro è uno dei modi in cui il gioco misura ciò che un personaggio ha fatto: è usato per assegnare i punti esperienza. Tesori troppo grandi e i personaggi diventeranno potenti senza aver fatto abbastanza; troppi mostri con tesori piccoli e i personaggi non guadagneranno livelli che misurino i loro successi.
 
-Come linea guida generale, il valore monetario di un tesoro dovrebbe essere circa 2-3 volte il valore del mostro in punti esperienza, e tenete presente che i mostri che cacciano e pattugliano probabilmente non si porteranno dietro il loro tesoro. Se i personaggi non riescono a trovare la tana del mostro, potrebbero non ottenere alcun tesoro. Inoltre, ovviamente non ha senso che ogni cinghiale o lupo abbia un tesoro nascosto da qualche parte. Fare una media del tesoro su diversi mostri in un'avventura è un buon modo per assicurarsi che i personaggi ottengano la giusta quantità di punti esperienza dal tesoro. Forse il tesoro dei goblin contiene qualche "extra" per tenere conto dei lupi nella zona. Se i personaggi evitano i lupi e uccidono i goblin, tanto meglio. Se devono combattere i lupi e non trovano mai i goblin, allora il tesoro è lì per loro da trovare la prossima volta.
+Come linea guida generale, il valore monetario di un tesoro dovrebbe essere circa 2-3 volte il valore del mostro in punti esperienza e tenete presente che i mostri che cacciano e pattugliano probabilmente non si porteranno dietro il loro tesoro. Se i personaggi non riescono a trovare la tana del mostro, potrebbero non ottenere alcun tesoro. Inoltre, ovviamente non ha senso che ogni cinghiale o lupo abbia un tesoro nascosto da qualche parte. Fare una media del tesoro su diversi mostri in un'avventura è un buon modo per assicurarsi che i personaggi ottengano la giusta quantità di punti esperienza dal tesoro. Forse il tesoro dei goblin contiene qualche "extra" per tenere conto dei lupi nella zona. Se i personaggi evitano i lupi e uccidono i goblin, tanto meglio. Se devono combattere i lupi e non trovano mai i goblin, allora il tesoro è lì per loro da trovare la prossima volta.
 
 Ecco una tabella che un Arbitro può usare come linea guida per aiutare a creare un tesoro:
 
@@ -21,7 +21,7 @@ Ricordate che le monete trovate non sono sempre pezzi d'oro: nel tesoro potrebbe
 
 ### Dividere il bottino
 
-Una volta che i mostri sono stati uccisi e le ferite sono state fasciate, è il momento di dividere il tesoro. Si suggerisce che il valore totale in po del bottino sia totalizzato e diviso tra i partecipanti in  modo che ognuno ottenga una "quota" uguale. Molti Arbitri stabiliscono che il tesoro deve essere condiviso con i PNG che ottengono una quota intera o metà, a seconda del loro livello. È anche consuetudine che i compagni caduti (morti) ricevano comunque una parte del bottino da dare al loro parente più prossimo.
+Una volta che i mostri sono stati uccisi e le ferite sono state fasciate, è il momento di dividere il tesoro. Si suggerisce che il valore totale in po del bottino sia totalizzato e diviso tra i partecipanti in  modo che ognuno ottenga una "quota" uguale. Molti Arbitri stabiliscono che il tesoro debba essere condiviso con i PNG che ottengono una quota intera o metà, a seconda del loro livello. È anche consuetudine che i compagni caduti (morti) ricevano comunque una parte del bottino da dare al loro parente più prossimo.
 
 ### Oggetti del Tesoro
 
@@ -31,7 +31,7 @@ Oltre alle monete, i tesori possono contenere gemme, gioielli e oggetti magici. 
 - Per ogni 1.000 po di valore, c'è il 10% di possibilità di scambiare 1.000 po con un oggetto sulla tabella delle gemme/gioielli medi o della magia media.
 - Per ogni 100 po di valore, c'è il 10% di possibilità di scambiare 100 po con un oggetto sulla tabella delle gemme/gioielli minori o della magia minore.
 
-Calcolate la percentuale totale del tesoro che può essere scambiato e tirate un d100 per vedere se potete tirare per un oggetto su una delle seguenti tabelle. Si suggerisce che l'Arbitro inizi con i valori da 5.000 po e scenda fino ai valori da 100 po. "Gioielli" si riferisce a un singolo oggetto di gioielleria.
+Calcolate la percentuale totale del tesoro che può essere scambiato e tirate un d100 per vedere se potete tirare per un oggetto su una delle seguenti tabelle. Si suggerisce che l'Arbitro inizi con i valori da 5.000 po e scenda fino ai valori da 100 po. "Gioiello" si riferisce a un singolo oggetto di gioielleria.
 
 Ricordate sempre che queste tabelle sono solo linee guida - se desiderate collocare un particolare oggetto o tipo di tesoro, fatelo pure! Se non volete includere gemme, gioielli o oggetti magici, allora lasciate che il tesoro sia di sole monete. Queste tabelle sono qui solo per aiutare.
 
@@ -142,19 +142,19 @@ Un tiro di 1-19 su un d20 significa un tiro sulla tabella delle Gemme/Gioielli M
 
 ### Descrizioni delle pozioni magiche
 
-**Avvelenamento**: Salva o muori.
+**Avvelenamento**: Tiro salvezza riuscito o si muore.
 
-**Controllo degli animali**: Risultati come per l'incantesimo Ammaliare Mostri.
+**Controllo degli animali**: Risultati come per l'incantesimo Ammaliare i Mostri.
 
-**Controllo del drago**: 1d3 draghi di un tipo specifico (determinato a caso dall'Arbitro) sono influenzati come da incantesimo Ammaliare Mostri.
+**Controllo del drago**: 1d3 draghi di un tipo specifico (determinato a caso dall'Arbitro) sono influenzati come da incantesimo Ammaliare i Mostri.
 
-**Controllo dei non morti**: 2d4 non-morti con meno di 4 DV e 1d4 non-morti con 4+ dadi vita cadono sotto il controllo di chi beve come da incantesimo Ammaliare Mostri.
+**Controllo dei non morti**: 2d4 non-morti con meno di 4 DV e 1d4 non-morti con 4+ dadi vita cadono sotto il controllo di chi beve come da incantesimo Ammaliare i Mostri.
 
-**Controllo delle piante**: Risultati come da incantesimo Ammaliare Mostri.
+**Controllo delle piante**: Risultati come da incantesimo Ammaliare i Mostri.
 
 **Chiaroudienza**: come da Incantesimo.
 
-**Chiaroveggenza**: come per l'Incantesimo.
+**Chiaroveggenza**: come da Incantesimo.
 
 **Crescita**: Il personaggio cresce e diventa alto 30 piedi.
 
@@ -213,7 +213,7 @@ Tirate 1d8 e aggiungi +0, +6 o +12, a seconda che il tesoro sia minore, medio o 
 | 19    | Pergamena Maledetta                                      |                     |
 | 20    | Pergamena di Protezione (durata tripla e doppio effetto) |                     |
 
-\* Tirate 1d6 per il tipo di incantatore (1-3 pergamene sono per i maghi, 4-6 per i chierici). Ricorda che non ci sono incantesimi di 6° livello per i Chierici, quindi tirate di nuovo per il livello dell'incantesimo con un risultato di 6
+\* Tirate 1d6 per il tipo di incantatore (1-3 pergamene sono per i maghi, 4-6 per i chierici). Ricordate che non ci sono incantesimi di 6° livello per i Chierici, quindi tirate di nuovo per il livello dell'incantesimo con un risultato di 6
 
 #### Tabella 53: Pergamene di Protezione
 
@@ -424,7 +424,7 @@ Tirate 1d20 e aggiungi +0, +20 o +40, a seconda che il tesoro sia minore, medio 
 
 ### Descrizioni delle Bacchette Maggiori
 
-**Bacchetta d'individuazione (magia)**: Funziona come un incantesimo Individuazione del Magico con una portata di 6 metri. L'utilizzatore della bacchetta ottiene una vaga percezione del tipo di magia che viene individuata. Sempre attiva quando viene tenuta in mano, non usa cariche.
+**Bacchetta d'individuazione (magia)**: Funziona come un incantesimo Individuare la Magia con una portata di 6 metri. L'utilizzatore della bacchetta ottiene una vaga percezione del tipo di magia che viene individuata. Sempre attiva quando viene tenuta in mano, non usa cariche.
 
 **Bacchetta d'individuazione (metallo)**: Rileva grandi quantità di metallo, con un raggio d'azione di 20 piedi. L'utilizzatore della bacchetta ottiene anche una vaga percezione del tipo di metallo. Sempre attiva quando viene tenuta in mano, non usa cariche.
 
@@ -484,7 +484,7 @@ Tirate 1d20 e aggiungi +0, +20 o +40, a seconda che il tesoro sia minore, medio 
 
 ### Descrizioni degli Anelli Maggiori
 
-**Controllo umano**: Permette a chi lo indossa di lanciare Ammaliare Persone una volta al giorno e mantenere l'incanto su un massimo di 3 individui alla volta.
+**Controllo umano**: Permette a chi lo indossa di lanciare Ammaliare le Persone una volta al giorno e mantenere l'incanto su un massimo di 3 individui alla volta.
 
 **Evocazione degli Djinn**: Chi indossa questo anello può evocare un djinni.
 
@@ -525,23 +525,23 @@ Tirate 1d20 e aggiungi +0, +20 o +40, a seconda che il tesoro sia minore, medio 
 
 **Assorbimento**: Assorbe gli incantesimi lanciati direttamente a chi lo impugna e permette a chi lo impugna di lanciare un incantesimo dalla propria memoria usando quel potere (e quindi non perdendo l'incantesimo dalla memoria). Una volta che il bastone ha assorbito 50 livelli di incantesimi (che il potere sia stato rilanciato o meno), non assorbe più gli incantesimi.
 
-**Ammaliatore**: Lancia Ammaliare Persone in un raggio di 20 piedi da chi lo impugna (usa una carica). La durata dell'incanto è di 1 ora.
+**Ammaliatore**: Lancia Ammaliare le Persone in un raggio di 20 piedi da chi lo impugna (usa una carica). La durata dell'incanto è di 1 ora.
+
+**Avvizzire**: Aggiunge dieci anni di invecchiamento fisico con un successo.
 
 **Comando**: Una carica può essere usata per controllare umani (come per Ammaliare Persone), piante o animali.
+
+**Colpire**: Infligge 2d6 punti di danno con un colpo riuscito (non usa cariche). 
 
 **Guarigione**: Cura 1d6+1 punti ferita di danni per carica.
 
 **Potere**: Lancia Luce (nessuna carica utilizzata), lancia Palla di Fuoco (4d6 danni), Freddo come una Bacchetta del Freddo, Fulmine (4d6 danni), agisce come un anello di Telecinesi (costa una carica) e colpisce per 2d6 danni (nessuna carica utilizzata).
 
-**Potenza del Signore**: Questi bastoni hanno solo 10 cariche, ma una carica può essere usata per lanciare Resuscitare.
+**Potenza del Signore**: Questi bastoni hanno solo 10 cariche, ma una carica può essere usata per lanciare Resuscitare i Morti.
 
 **Serpente**: +1 "per colpire" e +1 danno. Quando viene comandato (usando una carica) il bastone si avvolge intorno al bersaglio con un colpo riuscito e morde la vittima per 1d4 × 10 minuti. La vittima deve avere le dimensioni di un umano o più piccolo per usare questo potere. Il bastone tornerà poi strisciando al suo proprietario a una velocità di 24. Solo i chierici possono utilizzare il Bastone del Serpente.
 
-**Colpire**: Infligge 2d6 punti di danno con un colpo riuscito (non usa cariche). 
-
-**Avvizzire**: Aggiunge dieci anni di invecchiamento fisico con un successo.
-
-**Stregoneria**: Il più potente dei bastoni. È un bastone del potere con abilità aggiuntive. Al costo di una carica, permette Invisibilità, Evocare Elementale (chiamando 1d4 alla volta), Bloccare Persone, Muro di Fuoco, Passapareti, un incantesimo Ragnatela o Volare.
+**Stregoneria**: Il più potente dei bastoni. È un bastone del potere con abilità aggiuntive. Al costo di una carica, permette Invisibilità, Evocare un Elementale (chiamando 1d4 alla volta), Bloccare le Persone, Muro di Fuoco, Passapareti, un incantesimo Ragnatela o Volare.
 
 **Cariche del bastone** - La maggior parte dei bastoni porta 200 cariche
 
@@ -632,7 +632,7 @@ Tirate 1d20 e aggiungi +0, +20 o +40, a seconda che il tesoro sia minore, medio 
 
 **Amuleto Contro la Scrittura**: Protegge chi lo indossa da tutte le attività di lettura, come Leggere il Pensiero o essere visti attraverso una sfera di cristallo. Utilizzabile da: tutte le classi. 
 
-**Amuleto del Controllo dei Demoni**: Funziona come un incantesimo di Protezione dal Caos e permette a chi lo indossa di tentare di lanciare Ammaliare Mostri su un demone. In caso di successo, il demone viene schiavizzato per 1d6 settimane, dopodiché diventa libero. Utilizzabile da: maghi e chierici.
+**Amuleto del Controllo dei Demoni**: Funziona come un incantesimo di Protezione dal Caos e permette a chi lo indossa di tentare di lanciare Ammaliare i Mostri su un demone. In caso di successo, il demone viene schiavizzato per 1d6 settimane, dopodiché diventa libero. Utilizzabile da: maghi e chierici.
 
 **Bicchiere delle Pozioni**: Questa piccola brocca si riempie con la pozione richiesta, tra le 1d4+1 pozioni che è in grado di produrre. La brocca può essere usata tante volte alla settimana quante sono le pozioni che può creare. Utilizzabile da: Tutte le Classi.
 
@@ -784,7 +784,7 @@ Tirate 1d20 e aggiungi +0, +20 o +40, a seconda che il tesoro sia minore, medio 
 
 **Vanga da Scavo**: Questa vanga dall'aspetto ordinario scava da sola quando viene comandata, spalando fuori 1 metro cubo (3 x 3 x 3) ogni dieci minuti. Utilizzabile da: guerrieri.
 
-**Veste della Magia**: Questa veste garantisce a chi la indossa la capacità di lanciare Ammaliare, Polimorfismo e Bloccare Persone con il 95% di probabilità di successo. Le tuniche possono essere legate a specifici allineamenti. Utilizzabile da: solo maghi.
+**Veste della Magia**: Questa veste garantisce a chi la indossa la capacità di lanciare Ammaliare, Polimorfismo e Bloccare le Persone con il 95% di probabilità di successo. Le tuniche possono essere legate a specifici allineamenti. Utilizzabile da: solo maghi.
 
 **Veste di Mimetizzazione**: Queste vesti fanno apparire chi le indossa come una parte dell'ambiente circostante, compresa la capacità di apparire come un altro di un gruppo di creature vicine. Apparirà come un piccolo albero nei dintorni della foresta, una formazione di sabbia nel deserto, ecc. Le creature con 10+ dadi per colpire (o livelli di esperienza) hanno una probabilità del 10% per ogni livello (o HD) superiore al 9° di percepire chi lo indossa come una figura vestita piuttosto che una parte dell'ambiente circostante. Utilizzabile da: tutte le classi.
 
@@ -792,7 +792,7 @@ Tirate 1d20 e aggiungi +0, +20 o +40, a seconda che il tesoro sia minore, medio 
 
 ## Oggetti Maledetti
 
-Gli oggetti maledetti si presentano in molte forme: molto probabilmente si tratta di antichi oggetti magici la cui magia si è deteriorata o è cambiata con l'età, anche se alcuni di essi sono stati chiaramente creati per servire come trappole per gli incauti (o per i nemici del creatore, forse). Nota che gli oggetti maledetti di solito non possono essere lasciati cadere o rimossi senza l'assistenza di un incantesimo Rimuovere Maledizione. Anche se l'arbitro è incoraggiato a creare i propri oggetti maledetti, gli esempi nella pagina seguente dovrebbero essere una guida utile:
+Gli oggetti maledetti si presentano in molte forme: molto probabilmente si tratta di antichi oggetti magici la cui magia si è deteriorata o è cambiata con l'età, anche se alcuni di essi sono stati chiaramente creati per servire come trappole per gli incauti (o per i nemici del creatore, forse). Nota che gli oggetti maledetti di solito non possono essere lasciati cadere o rimossi senza l'assistenza di un incantesimo Rimuovere Maledizione. Anche se l'Arbitro è incoraggiato a creare i propri oggetti maledetti, gli esempi nella pagina seguente dovrebbero essere una guida utile:
 
 #### Tabella 70: Oggetti Maledetti
 

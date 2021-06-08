@@ -16,13 +16,13 @@ Il tiro di due zeri equivale al risultato di "100", quindi non si può tirare un
 
 ### Riguardo alle regole opzionali
 
-*La Scatola Bianca* è molto facile da imparare e giocare, le regole sono semplici e chiare.
+*La Scatola Bianca* è molto facile da imparare a giocare, le regole sono semplici e chiare.
 Mentre create il vostro personaggio e leggete le regole, vedrete che ci sono diverse "regole opzionali" descritte. Queste servono a personalizzare il gioco per adattarlo al modo in cui volete giocarlo, ma se siete l'Arbitro e questa è la prima volta che gestite un gioco come questo, attenetevi alle regole di base e personalizzatele solo in seguito. Le regole opzionali, più qualsiasi ulteriore nuova regola che voi e il vostro gruppo inventerete, sono spesso chiamate "regole della casa", perché ogni gruppo di gioco userà un mix diverso di regole alternative inventate. Questo è bene, in quanto alla fine si suppone che personalizziate il vostro gioco per adattarlo a ciò che desiderate, non che seguiate le regole "ufficiali" per sempre.
 
 ### Schede Personaggio
 
 Una scheda Personaggio è un foglio di carta pensato per organizzare e contenere quasi tutte le informazioni necessarie del PG, a beneficio sia dell'Arbitro che del Giocatore.
-Per La Scatola Bianca, il foglio del personaggio può essere una cosa molto semplice, come un cartoncino formato A7, con equipaggiamento e incantesimi scritti sul retro.
+Per *La Scatola Bianca*, il foglio del personaggio può essere una cosa molto semplice, come un cartoncino formato A7, con equipaggiamento e incantesimi scritti sul retro.
 
 ## Attributi
 

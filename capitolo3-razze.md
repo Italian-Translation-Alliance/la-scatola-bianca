@@ -29,7 +29,7 @@ I nani sono bravi a individuare trappole, passaggi inclinati e costruzioni mentr
 
 I nani non usano la magia e sono in qualche modo immuni ai suoi effetti; ricevono un bonus di +4 ai tiri salvezza contro la magia (che si utilizzi o meno la "Matrice dei Tiri Salvezza" alternativa). 
 
-#### Linguaggi
+#### Lingue
 
 Per le campagne che danno a ogni razza il proprio dialetto, i nani dovrebbero essere in grado di parlare con gnomi, goblin, orchi e coboldi.
 
@@ -57,7 +57,7 @@ Gli elfi guadagnano un +1 extra ("per colpire" o ai danni) quando combattono con
 
 Gli elfi sono bravi a individuare le porte nascoste e celate (1-4 su un d6 quando cercano, 1-2 su un d6 se passano solo di lì).
 
-#### Linguaggi
+#### Lingue
 
 Per le campagne che danno a ogni razza il proprio dialetto, gli elfi dovrebbero essere in grado di parlare con gnoll, goblin, orchi e hobgoblin.
 
@@ -81,7 +81,7 @@ Alcuni arbitri potrebbero voler permettere all'elfo di avanzare come una fusione
 
 #### Restrizioni su Armi e Armature
 
-Gli elfi avrebbero il vantaggio della magia e dell'armatura allo stesso tempo, quindi l'arbitro può limitare l'elfo alla cotta di maglia. Gli elfi non possono usare armi a due mani (spada a due mani, aste, ecc.) o scudi mentre lanciano incantesimi.
+Gli elfi avrebbero il vantaggio della magia e dell'armatura allo stesso tempo, quindi l'Arbitro può limitare l'elfo alla cotta di maglia. Gli elfi non possono usare armi a due mani (spada a due mani, aste, ecc.) o scudi mentre lanciano incantesimi.
 
 ## L'Halfling
 
@@ -113,6 +113,6 @@ Quando non sono impegnati in combattimento, gli Halfling possono essere piuttost
 
 Gli Halfling sono in qualche modo immuni alla magia e ricevono +4 ai tiri salvezza contro la magia (anche se viene utilizzata la "Matrice dei tiri salvezza").
 
-#### Linguaggi
+#### Lingue
 
 Per le campagne che danno a ogni razza un proprio dialetto, gli Halfling dovrebbero essere in grado di parlare con creature che si adattano allo stile della campagna dell'Arbitro.

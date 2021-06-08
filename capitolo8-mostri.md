@@ -8,7 +8,7 @@ Quella che segue è una rapida guida di riferimento su come leggere le descrizio
 
 ### Classe Armatura
 
-La "Classe Armatura" è spiegata in precedenza nelle regole di combattimento. Se stai usando il sistema di CA Discendente (dove una CA più bassa è migliore), ignora i numeri tra parentesi. Se stai usando il sistema di CA Ascendente (dove una CA più alta è migliore), usa i numeri tra parentesi.
+La "Classe Armatura" è spiegata in precedenza nelle regole di combattimento. Se state usando il sistema di CA Discendente (dove una CA più bassa è migliore), ignorate i numeri tra parentesi. Se state usando il sistema di CA Ascendente (dove una CA più alta è migliore), usate i numeri tra parentesi.
 
 ### Attacchi
 
@@ -16,11 +16,11 @@ La "Classe Armatura" è spiegata in precedenza nelle regole di combattimento. Se
 
 ### Punti Esperienza
 
-I "Punti Esperienza" sono presentati dopo il punteggio di Dado Vita Equivalente (DVE) di un mostro, ed elencano il numero di PE che il gruppo di avventurieri guadagna come risultato dell'uccisione della creatura. In alcuni casi, tuttavia, l'Arbitro può scegliere di assegnare punti esperienza per aver sconfitto una creatura senza ucciderla (aggirandola con mezzi creativi, catturandola per portarla a casa, ecc). Alcuni mostri hanno più punti esperienza indicati, questo perché alcuni mostri hanno una scala di Dadi Vita. L'ordine è sempre dal DV più basso al più alto.
+I "Punti Esperienza" sono presentati dopo il punteggio di Dado Vita Equivalente (DVE) di un mostro ed elencano il numero di PE che il gruppo di avventurieri guadagna come risultato dell'uccisione della creatura. In alcuni casi, tuttavia, l'Arbitro può scegliere di assegnare punti esperienza per aver sconfitto una creatura senza ucciderla (aggirandola con mezzi creativi, catturandola per portarla a casa, ecc). Alcuni mostri hanno più punti esperienza indicati, questo perché alcuni mostri hanno una scala di Dadi Vita. L'ordine è sempre dal DV più basso al più alto.
 
 ### Dadi Vita
 
-"Dadi Vita" è il numero di dadi (d6) lanciati per determinare i Punti Ferita (PF) di una singola creatura. Se c'è un più o un meno dopo il numero, aggiungi o sottrai quel numero una volta dal totale tirato.
+"Dadi Vita" è il numero di dadi (d6) tirati per determinare i Punti Ferita (PF) di una singola creatura. Se c'è un più o un meno dopo il numero, aggiungete o sottraete quel numero dal totale tirato.
 
 ### Dadi Vita Equivalenti
 
@@ -28,7 +28,7 @@ Il "Dado Vita Equivalente" è usato per separare i mostri in "livelli di diffico
 
 ### Resistenza alla Magia
 
-La "Resistenza alla Magia" non è una delle voci, ma alcune creature possono avere "resistenza alla magia". La percentuale di probabilità data è la probabilità che qualsiasi magia usata contro la creatura (diversa dai bonus delle armi) non abbia effetto. Per determinare se la magia usata avrà o meno un effetto, tirate un d100. La magia fallisce se il risultato è inferiore alla percentuale indicata.
+La "Resistenza alla Magia" non è una delle voci, ma alcune creature possono avere "resistenza alla magia". La percentuale fornita è la probabilità che qualsiasi magia usata contro la creatura (diversa dai bonus delle armi) non abbia effetto. Per determinare se la magia usata avrà o meno un effetto, tirate un d100. La magia fallisce se il risultato è inferiore alla percentuale indicata.
 
 ### Movimento
 
@@ -36,7 +36,7 @@ Il "Movimento" è la velocità del mostro e viene gestita come per i PG.
 
 ### Tiro Salvezza
 
-Il "Tiro Salvezza" non è una delle voci, ma tutte le creature hanno un tiro salvezza. È il numero sul d20 che il mostro deve raggiungere o superare per evitare una minaccia o diminuirne l'effetto. Si calcola sottraendo il DV del mostro da 19. Per esempio, un mostro con 4 DV ha un tiro salvezza di 15. In alternativa, un mostro può essere trattato semplicemente come un Guerriero o qualsiasi altra Classe Personaggio che abbia senso per quel mostro, con i Dadi Vita del mostro usati per il suo livello.
+Il "Tiro Salvezza" non è una delle voci, ma tutte le creature hanno un tiro salvezza. È il numero sul d20 che il mostro deve raggiungere o superare per evitare una minaccia o diminuirne l'effetto. Si calcola sottraendo il DV del mostro da 19. Per esempio, un mostro con 4 DV ha un tiro salvezza di 15. In alternativa, un mostro può essere trattato semplicemente come un Guerriero o qualsiasi altra Classe Personaggio che abbia senso per quel mostro, con i Dadi Vita del mostro usati per determinare il suo livello.
 
 ### Speciale
 
@@ -92,7 +92,7 @@ Le anime dannate vivono in tombe, cimiteri e tumuli. Sono non-morti e quindi non
 *Movimento*: 24  
 *DVE/PE*: 6/400
 
-Le apparizioni sono delle potenti anime dannate, immuni a tutte le armi non magiche tranne quelle d'argento (che infliggono solo metà del danno). Le frecce sono particolarmente inefficaci contro di loro, e perfino le frecce magiche e d'argento infliggono solo un punto di danno per colpo. Le apparizioni possono essere trovate su cavalli da battaglia ben addestrati o su cavalcature più insolite che tollerano la loro presenza.
+Le apparizioni sono delle potenti anime dannate, immuni a tutte le armi non magiche tranne quelle d'argento (che infliggono solo metà del danno). Le frecce sono particolarmente inefficaci contro di loro e perfino le frecce magiche e d'argento infliggono solo un punto di danno per colpo. Le apparizioni possono montare cavalli da battaglia ben addestrati o cavalcature più insolite che tollerano la loro presenza.
 
 ### Arpia
 
@@ -103,7 +103,7 @@ Le apparizioni sono delle potenti anime dannate, immuni a tutte le armi non magi
 *Movimento*: 6/18 (quando vola)  
 *DVE/PE*: 4/120
 
-Le arpie hanno la parte superiore del corpo di una femmina umana e la parte inferiore del corpo e le ali di un avvoltoio. Il loro canto è un incantesimo che attira le vittime verso l'arpia (si applica il tiro salvezza) e il tocco dell'arpia lancia l'equivalente di un incantesimo Ammaliare Persone (di nuovo, si applica il tiro salvezza).
+Le arpie hanno la parte superiore del corpo di una femmina umana e la parte inferiore del corpo e le ali di un avvoltoio. Il loro canto è un incantesimo che attira le vittime verso l'arpia (si applica il tiro salvezza) e il tocco dell'arpia lancia l'equivalente di un incantesimo Ammaliare le Persone (di nuovo, si applica il tiro salvezza).
 
 ### Banshee
 
@@ -114,7 +114,7 @@ Le arpie hanno la parte superiore del corpo di una femmina umana e la parte infe
 *Movimento*: 12  
 *DVE/PE*: 11/1,700
 
-Le banshee sono orribili creature Fey (o non-morte) che vivono nelle paludi e altri luoghi desolati. Possono essere danneggiate solo da armi magiche o d'argento. Le Banshee hanno una resistenza del 49% alla magia e sono immuni agli incantesimi. Il loro urlo (una volta al giorno) richiede un tiro salvezza contro la morte o l'ascoltatore morirà in 2d6 round. Possono viaggiare sull'acqua e altri terreni come se fossero terra, ma attraversare l'acqua corrente fa perdere loro la resistenza alla magia per 3d6 ore. Hanno l'aspetto di esseri umani smilzi con lunghi capelli filiformi e occhi gialli. Spesso indossano mantelli. A discrezione dell'Arbitro, queste creature potrebbero essere non-morti invece che fate/folletti e aventi 9 DV per essere scacciate.
+Le banshee sono orribili creature Fey (o non-morte) che vivono nelle paludi e altri luoghi desolati. Possono essere danneggiate solo da armi magiche o d'argento. Le Banshee hanno una resistenza del 49% alla magia e sono immuni agli incantesimi. Il loro urlo (una volta al giorno) richiede un tiro salvezza contro la morte o l'ascoltatore morirà in 2d6 round. Possono viaggiare sull'acqua e altri terreni come se fossero terreno, ma attraversare l'acqua corrente fa perdere loro la resistenza alla magia per 3d6 ore. Hanno l'aspetto di esseri umani smilzi con lunghi capelli filiformi e occhi gialli. Spesso indossano mantelli. A discrezione dell'Arbitro, queste creature potrebbero essere non-morti invece che fate/folletti con l'equivalente di 9 DV per essere scacciate.
 
 ### Basilisco
 
@@ -125,7 +125,7 @@ Le banshee sono orribili creature Fey (o non-morte) che vivono nelle paludi e al
 *Movimento*: 6  
 *DVE/PE*: 8/800
 
-I basilischi sono grandi lucertole il cui sguardo trasforma in pietra chiunque incontri il suo sguardo (combattere senza guardare comporta una penalità di -4 "per colpire"). Se lo sguardo del basilisco si riflette su sé stesso, insiste una probabilità del 10% di costringere il basilisco a un tiro salvezza per evitare di essere trasformato in pietra esso stesso.
+I basilischi sono grandi lucertole il cui sguardo trasforma in pietra chiunque lo incroci (combattere senza guardare comporta una penalità di -4 "per colpire"). Se lo sguardo del basilisco si riflette su sé stesso, insiste una probabilità del 10% di costringere il basilisco a un tiro salvezza per evitare di essere trasformato in pietra esso stesso.
 
 ### Bugbear
 
@@ -136,7 +136,7 @@ I basilischi sono grandi lucertole il cui sguardo trasforma in pietra chiunque i
 *Movimento*: 9  
 *DVE/PE*: 3/60
 
-Questi grandi e pelosi umanoidi simili a goblin sono più furtivi di quanto la loro dimensione possa suggerire, avendo quasi sempre la possibilità di sorprendere anche gli avversari più attenti con un tiro di 1-3 su un d6 (50% delle volte).
+Questi grandi umanoidi pelosi simili a goblin sono più furtivi di quanto la loro dimensione possa suggerire, avendo quasi sempre la possibilità di sorprendere anche gli avversari più attenti con un tiro di 1-3 su un d6 (50% delle volte).
 
 ### Centauro
 
@@ -147,7 +147,7 @@ Questi grandi e pelosi umanoidi simili a goblin sono più furtivi di quanto la l
 *Movimento*: 18  
 *DVE/PE*: 5/240
 
-Metà uomo e metà cavallo, i centauri sono feroci guerrieri e creature ben note della mitologia. L'Arbitro può scegliere qualsiasi "versione" del centauro dal folklore per la sua campagna: alcuni sono caotici, altri disinteressati e alcuni sono indovini.
+Metà uomo e metà cavallo, i centauri sono feroci guerrieri e creature mitologiche ben note. L'Arbitro può scegliere qualsiasi "versione" del centauro dal folklore per la sua campagna: alcuni sono caotici, altri disinteressati e alcuni sono divinatori.
 
 ### Cane Intermittente
 
@@ -169,7 +169,7 @@ I cani intermittenti sono cacciatori in branchi, intelligenti e solitamente amic
 *Movimento*: 12  
 *DVE/PE*: 12/2000
 
-Questi terribili cavalieri non-morti sono rivestiti di un'armatura nera e brandiscono terribili spade a due mani con grande forza. Oltre all'aumento dei danni, ogni volta che un cavaliere della morte colpisce con successo un nemico con la sua spada, il bersaglio perde un livello. I cavalieri della morte sono anche immuni a tutti gli incantesimi di 5° livello o inferiori. Possono lanciare una palla di fuoco una volta al giorno che infligge 7d6 punti di danno. Sono immuni ai danni delle armi mondane e non possono essere banditi da un Chierico.
+Questi terribili cavalieri non-morti sono rivestiti di un'armatura nera e brandiscono terribili spade a due mani con grande forza. Oltre all'aumento dei danni, ogni volta che un Cavaliere della Morte colpisce con successo un nemico con la sua spada, il bersaglio perde un livello. I Cavalieri della Morte sono anche immuni a tutti gli incantesimi di 5° livello o inferiori. Possono lanciare una palla di fuoco una volta al giorno che infligge 7d6 punti di danno. Sono immuni ai danni delle armi mondane e non possono essere scacciati da un Chierico.
 
 ### Cavallo
 
@@ -232,7 +232,7 @@ I demoni sono creature dei piani inferiori dell'esistenza, ma si incontrano occa
 *Movimento*: 6/15 (quando vola)  
 *DVE/PE*: 10/1,400
 
-Questi potenti demoni assomigliano un po' a grandi minotauri con grandi ali di pipistrello; bruciano con le fiamme dell'inferno e ne sono avvolti. Gli incantesimi degli incantatori di livello inferiore al 6° non hanno effetto su di loro, e contro gli incantatori di livello superiore sono ancora immuni al 75% a tutti gli incantesimi. In combattimento, un Balor usa la frusta e la spada; la frusta può essere usata per raggiungere grandi distanze - con un colpo riuscito la vittima viene tirata vicino al Balor e bruciata dalle fiamme del corpo del demone (3d6 danni). I Balor sono talvolta indicati nei testi antichi come Baalroch, che potrebbe essere il nome di un singolo demone invece che un termine che li indica tutti. Un Balor potrebbe essere costretto o ingannato al servizio di un potente mago, ma il rischio sarebbe immenso.
+Questi potenti demoni assomigliano un po' a grandi minotauri con grandi ali di pipistrello; bruciano di fiamme infernali e ne sono avvolti. Gli incantesimi degli incantatori di livello inferiore al 6° non hanno effetto su di loro e contro gli incantatori di livello superiore sono ancora immuni al 75% a tutti gli incantesimi. In combattimento, un Balor usa la frusta e la spada; la frusta può essere usata per raggiungere grandi distanze - con un colpo riuscito la vittima viene tirata vicino al Balor e bruciata dalle fiamme del corpo del demone (3d6 danni). I Balor sono talvolta indicati nei testi antichi come Baalroch, che potrebbe essere il nome di un singolo demone anziché un termine che li indica tutti. Un Balor potrebbe essere costretto o ingannato al servizio di un potente mago, ma il rischio sarebbe immenso.
 
 ### Demone, Folletto
 
@@ -243,7 +243,7 @@ Questi potenti demoni assomigliano un po' a grandi minotauri con grandi ali di p
 *Movimento*: 6 (12 quando vola)  
 *DVE/PE*: 3/60
 
-Queste piccole creature diaboliche hanno la pelle di colore rosso o nero con occhi da gatto, lunghe code appuntite e ali di pipistrello. Sono demoni inferiori e spesso servono come schiavi di demoni superiori o servitori di potenti chierici malvagi e maghi. I folletti sono immuni alle armi non magiche e al fuoco e possono lanciare Individuazione del Magico a volontà e Invisibilità una volta al giorno - entrambi come un mago. La loro coda ha un veleno moderatamente potente che può uccidere se un tiro salvezza non ha successo, sebbene la vittima riceve un bonus di +4 al suo tiro.
+Queste piccole creature diaboliche hanno la pelle di colore rosso o nero con occhi da gatto, lunghe code appuntite e ali di pipistrello. Sono demoni inferiori e spesso servono come schiavi di demoni superiori o servitori di potenti chierici malvagi e maghi. I folletti sono immuni alle armi non magiche e al fuoco e possono lanciare Individuare la Magia a volontà e Invisibilità una volta al giorno - entrambi come un mago. La loro coda ha un veleno moderatamente potente che può uccidere se un tiro salvezza non ha successo, sebbene la vittima riceve un bonus di +4 al suo tiro.
 
 ### Demone, Lemure
 
@@ -254,7 +254,7 @@ Queste piccole creature diaboliche hanno la pelle di colore rosso o nero con occ
 *Movimento*: 3  
 *DVE/PE*: 4/120
 
-I lemuri sono vagamente umanoidi: la loro carne è simile al fango, mutevole e morbida sui loro orribili corpi. Come i Mani e i Miserabili, i lemuri sono forme inferiori di demoni, le manifestazioni carnali delle anime dannate. Questi demoni possono essere distrutti in modo permanente solo cospargendo i loro corpi disgustosi con acqua santa.
+I lemuri sono vagamente umanoidi: la loro carne è simile al fango, mutevole e morbida sui loro orribili corpi. Come i Mani e i Miserabili, i lemuri sono forme inferiori di demoni, le manifestazioni carnali delle anime dannate. Questi demoni possono essere distrutti in modo permanente solo cospargendo i loro corpi repellenti con acqua santa.
 
 ### Demone, Succube
 
@@ -265,7 +265,7 @@ I lemuri sono vagamente umanoidi: la loro carne è simile al fango, mutevole e m
 *Movimento*: 12 (15 quando vola)  
 *DVE/PE*: 6/400
 
-Una succube è un demone della lussuria che appare come una donna umana voluttuosa e poco vestita, con un grande paio di ali di pipistrello che le spuntano dalle scapole. Sebbene non sia efficace nel combattimento diretto, può Ammaliare con una parola o un bacio e spesso si circonda di un'orda di schiavi piegati al suo volere. Questa capacità permette alla Succube di lanciare Ammaliare Persone a volontà. Se uccisa, il suo corpo fisico ritorna ai piani infernali di cui è originaria.
+Una succube è un demone della lussuria che appare come una donna umana voluttuosa e poco vestita, con un grande paio di ali di pipistrello che le spuntano dalle scapole. Sebbene non sia efficace nel combattimento diretto, può Ammaliare con una parola o un bacio e spesso si circonda di un'orda di schiavi piegati al suo volere. Questa capacità permette alla Succube di lanciare Ammaliare le Persone a volontà. Se uccisa, il suo corpo fisico ritorna ai piani infernali di cui è originaria.
 
 ### Destriero Notturno
 
@@ -287,7 +287,7 @@ Un destriero notturno è un cavallo nero con occhi rosso fuoco e una criniera di
 *Movimento*: 9/24 (quando vola)  
 *DVE/PE*: 9/1,100
 
-I Djinn sono uno dei geni del folklore, creature dell'aria (e forse dei piani elementali). Possono trasportare 700 libbre di peso e hanno una serie di poteri magici. Un djinni può creare cibo e acqua di alta qualità, così come oggetti di legno e stoffa; può anche creare oggetti di metallo (comprese le monete), ma tutti i metalli creati magicamente scompaiono nel tempo. I Djinn possono evocare delle illusioni, e anche se queste sono a loro modo eccellenti, scompaiono quando vengono toccate. I djinn possono trasformarsi in forma gassosa (non possono attaccare o essere attaccati, possono entrare in qualsiasi area che non sia ermetica), e possono diventare invisibili a volontà. Infine, un djinni può trasformarsi in un turbine molto simile a un elementale dell'aria, spazzando via qualsiasi creatura con uno o meno dadi vita (il diametro del turbine è di 10'). Tipi più potenti di djinn potrebbero essere in grado di concedere desideri limitati o addirittura desideri veri.
+I Djinn sono uno dei geni del folklore, creature dell'aria (e forse dei piani elementali). Possono trasportare 700 libbre di peso e hanno una serie di poteri magici. Un djinni può creare cibo e acqua di alta qualità, così come oggetti di legno e stoffa; può anche creare oggetti di metallo (comprese le monete), ma tutti i metalli creati magicamente scompaiono nel tempo. I Djinn possono evocare delle illusioni che, sebbene siano a loro modo eccellenti, scompaiono quando vengono toccate. I djinn possono trasformarsi in forma gassosa (non possono attaccare o essere attaccati, possono entrare in qualsiasi area che non sia ermeticamente chiusa) e possono diventare invisibili a volontà. Infine, un djinni può trasformarsi in un turbine molto simile a un elementale dell'aria, spazzando via qualsiasi creatura con uno o meno dadi vita (il diametro del turbine è di 10'). Tipi più potenti di djinn potrebbero essere in grado di concedere desideri limitati o addirittura veri desideri.
 
 ### Doppelganger
 
@@ -302,7 +302,7 @@ Un doppelganger può cambiare forma per assomigliare all'aspetto fisico (compres
 
 ## Draghi
 
-Tutti i draghi hanno come arma un soffio di qualche tipo, che può essere usato fino a tre volte in un giorno. L'arbitro sceglie quando un drago userà un soffio come arma o può tirare per esso (50% di possibilità) in qualsiasi turno.
+Tutti i draghi hanno come arma un soffio di qualche tipo, che può essere usato fino a tre volte in un giorno. L'Arbitro sceglie quando un drago userà un soffio come arma o può tirare per esso (50% di possibilità) in qualsiasi turno.
 
 L'Arbitro non dovrebbe tirare per i punti ferita del drago, come si farebbe per altri mostri. Invece, determina la categoria di età del drago - questo darà sia i punti ferita del drago per dado vita che quanti punti di danno dell'arma del respiro per dado vita il drago infligge.
 
@@ -435,7 +435,7 @@ Gli elementali sono manifestazioni viventi delle forme fondamentali della materi
 *Movimento*: 6/18 (quando nuota)  
 *DVE/PE*: 9/1,100; 13/2,300; 17/3,500
 
-Gli elementali d'acqua non possono muoversi a più di 60 piedi da un grande corpo d'acqua, e il loro danno è ridotto di 1d6 se l'avversario non è in piedi (o dentro) un corpo d'acqua. Questi potenti esseri possono rovesciare piccole imbarcazioni, e possono persino rovesciare una nave se gli si danno 1d4+4 minuti per farlo. Sull'acqua, possono attaccare le navi, facendole a pezzi in un'ora se non vengono impediti o distratti.
+Gli elementali d'acqua non possono muoversi a più di 60 piedi da un grande corpo d'acqua e il loro danno è ridotto di 1d6 se l'avversario non sopra (o dentro) un corpo d'acqua. Questi potenti esseri possono rovesciare piccole imbarcazioni e possono persino rovesciare una nave se gli si danno 1d4+4 minuti per farlo. Sull'acqua, possono attaccare le navi, facendole a pezzi in un'ora se non vengono impediti o distratti.
 
 ### Elementale, Aria
 
@@ -730,7 +730,7 @@ I gorgoni sono creature simili a tori con scaglie simili a draghi. Il loro soffi
 *Movimento*: 12/30 (quando vola)  
 *DVE/PE*: 8/800
 
-I grifoni hanno il corpo di un leone, con le ali, la testa e le zampe anteriori di un'aquila. Queste creature possono essere addomesticate e cavalcate. Di solito nidificano nei nidi di alta montagna, dove depongono le uova e cacciano le loro prede. Poiché i piccoli possono essere addomesticati, i giovani grifoni e le uova di grifone hanno un prezzo molto alto nei mercati delle grandi città o per i baroni e gli stregoni.
+I grifoni hanno il corpo di un leone, con le ali, la testa e le zampe anteriori di un'aquila. Queste creature possono essere addomesticate e cavalcate. Di solito nidificano in alta montagna, dove depongono le uova e cacciano le loro prede. Poiché i piccoli possono essere addomesticati, i giovani grifoni e le uova di grifone hanno un prezzo molto alto nei mercati delle grandi città o per i baroni e gli stregoni.
 
 ### Hobgoblin
 
@@ -752,7 +752,7 @@ Gli hobgoblin sono semplicemente dei grandi goblin, probabilmente una razza sepa
 *Movimento*: 15 nuotare  
 *DVE/PE*: 15/2,900
 
-Questi enormi mostri marini assomigliano a calamari di dimensioni inimmaginabili con otto (o più) appendici contorte. Attaccano intere navi, facendole a pezzi e ingoiando l'intero equipaggio con la loro enorme bocca dentata. Quando un kraken attacca, afferra un bersaglio con uno dei suoi tentacoli nel primo round, tenta di morderlo nel secondo round e poi lo ingoia intero nel terzo round. Un bersaglio che è stato inghiottito intero viene ucciso. I Kraken hanno tipicamente otto tentacoli e possono effettuare un attacco con ognuno di essi a ogni round di combattimento.
+Questi enormi mostri marini assomigliano a calamari di dimensioni inimmaginabili con otto (o più) appendici contorte. Attaccano intere navi, facendole a pezzi e ingoiandone l'intero equipaggio con la loro enorme bocca dentata. Quando un kraken attacca, afferra un bersaglio con uno dei suoi tentacoli nel primo round, tenta di morderlo nel secondo round e poi lo ingoia per intero nel terzo round. Un bersaglio che è stato inghiottito intero viene ucciso. I Kraken hanno tipicamente otto tentacoli e possono effettuare un attacco con ognuno di essi a ogni round di combattimento.
 
 ### Idra
 
@@ -785,7 +785,8 @@ Gli inseguitori invisibili si trovano generalmente solo come risultato dell'inca
 *Movimento*: 12/36 (quando vola)  
 *DVE/PE*: 3/60
 
-L'ippogrifo è simile a un grifone, avendo la testa, gli artigli anteriori e le ali di un'aquila, ma invece del corpo di un leone, ha il corpo di un cavallo. Il poema Orlando Furioso (scritto nel 1516) suggerisce che l'ippogrifo è la progenie di un grifone e di un cavallo, ma sono apparentemente una razza indipendente, perché la tradizione folcloristica sostiene che i grifoni attaccano spesso gli ippogrifi. Gli ippogrifi non sono così difficili da addestrare come i grifoni - di nuovo, dall'Orlando Furioso: "Quivi per forza lo tirò d’incanto; e poi che l’ebbe, ad altro non attese, e con studio e fatica operò tanto, ch’a sella e briglia il cavalcò in un mese: cosí ch’in terra e in aria e in ogni canto lo facea volteggiar senza contese."
+L'ippogrifo è simile a un grifone, avendo la testa, gli artigli anteriori e le ali di un'aquila, ma invece del corpo di un leone, ha il corpo di un cavallo. Il poema Orlando Furioso (scritto nel 1516) suggerisce che l'ippogrifo è la progenie di un grifone e di un cavallo, ma sono apparentemente una razza indipendente, perché la tradizione folcloristica sostiene che i grifoni attaccano spesso gli ippogrifi. Gli ippogrifi non sono così difficili da addestrare come i grifoni - di nuovo, dall'Orlando Furioso: 
+> "Quivi per forza lo tirò d’incanto; e poi che l’ebbe, ad altro non attese, e con studio e fatica operò tanto, ch’a sella e briglia il cavalcò in un mese: cosí ch’in terra e in aria e in ogni canto lo facea volteggiar senza contese."
 
 ## Licantropi.
 
@@ -904,7 +905,7 @@ La melma grigia è quasi identica alla roccia bagnata, ma è una sostanza viscid
 
 ### Melma verde
 
-La melma verde non è tecnicamente un mostro, solo un rischio estremamente pericoloso nelle tombe sotterranee e altri luoghi simili. Qualsiasi sostanza metallica o organica che tocca inizia a trasformarsi in melma verde (tiro salvezza). Può essere uccisa con il fuoco o con il freddo estremo, e il processo di trasformazione può essere arrestato con l'uso dell'incantesimo Curare Malattie.
+La melma verde non è tecnicamente un mostro, solo un rischio estremamente pericoloso nelle tombe sotterranee e altri luoghi simili. Qualsiasi sostanza metallica o organica che tocca inizia a trasformarsi in melma verde (tiro salvezza). Può essere uccisa con il fuoco o con il freddo estremo, e il processo di trasformazione può essere arrestato con l'uso dell'incantesimo Curare le Malattie.
 
 ### Millepiedi, Gigante (piccolo)
 
@@ -981,7 +982,7 @@ Le ninfe sono dei Fey che appaiono come donne nude o vestite di foglie di una be
 *Movimento*: 12  
 *DVE/PE*: 4/120
 
-Le ombre possono essere o meno creature non-morte: sono immuni a Sonno e ad Ammaliare, ma l'Arbitro può decidere se sono creature non-morte soggette a trasformarsi o se sono qualche orribile cosa "altra", una manifestazione forse, o una creatura di un'altra dimensione. Le creature ombre sono oscure e assomigliano a normali ombre, anche se possono essere più scure. Non sono corporee e possono essere danneggiate solo con armi magiche o con incantesimi. Il loro tocco gelido prosciuga un punto di forza con un colpo riuscito, e se una vittima viene portata ad una forza pari a 0, diventa un'ombra. I punti forza ritornano dopo 90 minuti.
+Le ombre possono essere o meno creature non-morte: sono immuni a Sonno e ad Ammaliare, ma l'Arbitro può decidere se sono creature non-morte soggette allo scacciare o se sono qualche orribile cosa "altra", una manifestazione forse, o una creatura di un'altra dimensione. Le creature ombre sono oscure e assomigliano a normali ombre, anche se possono essere più scure. Non sono corporee e possono essere danneggiate solo con armi magiche o con incantesimi. Il loro tocco gelido prosciuga un punto di forza con un colpo riuscito, e se una vittima viene portata ad una forza pari a 0, diventa un'ombra. I punti forza ritornano dopo 90 minuti.
 
 ### Orchetto
 
@@ -1135,7 +1136,7 @@ La dimensione e la natura dei serpenti marini è una questione che spetta all'Ar
 *Movimento*: 12  
 *DVE/PE*: 7/600
 
-Gli Sidhe (pron. /ʃiː/) sono nobili Fey che raramente viaggiano nel regno mortale. Appaiono come esseri elfici alti e di una bellezza sorprendente e sono vestiti con cotte e vesti gloriose. Tutti coloro che li guardano rimangono abbagliati dalla loro bellezza a meno che non venga effettuato con successo un tiro salvezza. Gli Sidhe attaccano con le loro lame magiche fey che infliggono 2d6 punti di danno e possono lanciare Alterare il Tempo, Invisibilità e Forza Fantasmatica una volta al giorno. Sono inoltre molto resistenti alla magia dei mortali e hanno un bonus di +5 a tutti i tiri salvezza effettuati per resistere alla magia.
+Gli Sidhe (pron. /ʃiː/) sono nobili Fey che raramente viaggiano nel regno mortale. Appaiono come esseri elfici alti e di una bellezza sorprendente e sono vestiti con cotte e vesti gloriose. Tutti coloro che li guardano rimangono abbagliati dalla loro bellezza a meno che non venga effettuato con successo un tiro salvezza. Gli Sidhe attaccano con le loro lame magiche fey che infliggono 2d6 punti di danno e possono lanciare Alterare il Tempo, Invisibilità e Forza Fantasma una volta al giorno. Sono inoltre molto resistenti alla magia dei mortali e hanno un bonus di +5 a tutti i tiri salvezza effettuati per resistere alla magia.
 
 ### Spettro
 
@@ -1146,7 +1147,7 @@ Gli Sidhe (pron. /ʃiː/) sono nobili Fey che raramente viaggiano nel regno mort
 *Movimento*: 15/30 (quando vola)  
 *DVE/PE*: 9/1,100
 
-Gli spettri sono creature non-morte incorporee. Quando uno spettro colpisce un avversario, sia con la mano che con un'arma, il tocco drena due livelli alla vittima. Solo le armi magiche possono danneggiare uno spettro. In alcuni casi, queste creature terrificanti possono essere montate su bestie viventi, se le bestie sono state addestrate a tollerare la vicinanza dei non-morti. Qualsiasi essere ucciso (o prosciugato al di sotto del livello 0) da uno spettro diventa egli stesso uno spettro, un pietoso schiavo del suo creatore.
+Gli spettri sono creature non-morte incorporee. Quando uno spettro colpisce un avversario, sia con la mano che con un'arma, il tocco drena due livelli alla vittima. Solo le armi magiche possono danneggiare uno spettro. In alcuni casi, queste creature terrificanti possono montare bestie viventi, se queste sono state addestrate a tollerare la vicinanza dei non-morti. Qualsiasi essere ucciso (o prosciugato al di sotto del livello 0) da uno spettro diventa egli stesso uno spettro, un pietoso schiavo del suo creatore.
 
 ### Stirge
 
@@ -1250,7 +1251,7 @@ Gli unicorni sono creature generalmente timide e benevole, che permetteranno sol
 *Movimento*: 6/12 (quando nuota)  
 *DVE/PE*: 2/30
 
-Gli uomini lucertola sono umanoidi rettiliani, che di solito vivono in villaggi tribali nelle profondità delle paludi fetide. Alcuni possono trattenere il respiro per lungo tempo (un'ora o più), mentre altri possono effettivamente respirare sott'acqua. Alcuni uomini lucertola brandiscono una spada malvagia fatta di ossa affilate.
+Gli uomini lucertola sono rettili umanoidi  che di solito vivono in villaggi tribali nelle profondità delle paludi fetide. Alcuni possono trattenere il respiro per lungo tempo (un'ora o più), mentre altri possono effettivamente respirare sott'acqua. Alcuni uomini lucertola brandiscono una spada malvagia fatta di ossa affilate.
 
 ### Vampiro
 
@@ -1261,11 +1262,11 @@ Gli uomini lucertola sono umanoidi rettiliani, che di solito vivono in villaggi 
 *Movimento*: 12/18 (quando vola)  
 *DVE/PE*: 9/1,100; 10/1,400; 11/1,700
 
-I vampiri sono tra le creature non-morte più potenti. Possono essere colpiti solo con armi magiche e quando vengono "uccisi" in questo modo si trasformano in una forma gassosa, tornando nelle loro bare. Si rigenerano al ritmo di 3 punti ferita per round, possono trasformarsi in forma gassosa o in un pipistrello gigante a volontà, e possono evocare un'orda di pipistrelli o 3d6 lupi dalla notte. Guardare negli occhi di un vampiro richiede un tiro salvezza a -2, o il personaggio viene incantato (come per l'incantesimo Incanta Persona). Più terrificante, il morso di un vampiro drena due livelli alla vittima.
+I vampiri sono tra le creature non-morte più potenti. Possono essere colpiti solo con armi magiche e quando vengono "uccisi" in questo modo si trasformano in una forma gassosa, tornando nelle loro bare. Si rigenerano al ritmo di 3 punti ferita per round, possono trasformarsi in forma gassosa o in un pipistrello gigante a volontà e possono evocare un'orda di pipistrelli o 3d6 lupi dalla notte. Guardare negli occhi di un vampiro richiede un tiro salvezza a -2 o il personaggio viene incantato (come per l'incantesimo Ammalliare le Persone). Ancor più terrificante, il morso di un vampiro drena due livelli alla vittima.
 
-Fortunatamente, i vampiri hanno alcune debolezze. Possono essere uccisi (questi sono gli unici metodi conosciuti) immergendoli in acqua corrente, esponendoli alla luce del sole, o conficcando un paletto di legno nel cuore. Sono repulsi dall'odore di aglio, dalla vista di uno specchio, o dalla vista di simboli sacri "buoni". Ogni essere umano ucciso da un vampiro diventa un vampiro sotto il controllo del suo creatore. Questa descrizione si riconosce facilmente come il tipo di vampiro "Dracula".
+Fortunatamente, i vampiri hanno alcune debolezze. Possono essere uccisi (questi sono gli unici metodi conosciuti) immergendoli in acqua corrente, esponendoli alla luce del sole o conficcando un paletto di legno nel cuore. Sono repulsi dall'odore di aglio, dalla vista di uno specchio o dalla vista di simboli sacri "buoni". Ogni essere umano ucciso da un vampiro diventa un vampiro sotto il controllo del suo creatore. Questa descrizione si riconosce facilmente come il tipo di vampiro "Dracula".
 
-Molte altre possibilità di vampiri esistono nel folklore: Vampiri cinesi, per esempio, e bevitori di sangue più feroci che intelligenti. Inoltre, si potrebbero creare altri modelli culturali con attributi diversi - che ne dite di un antico vampiro egiziano mummificato, o di un vampiro azteco?
+Molte altre possibilità di vampiri esistono nel folklore: Vampiri cinesi, per esempio e bevitori di sangue più feroci che intelligenti. Inoltre, si potrebbero creare altri modelli culturali con attributi diversi - che ne dite di un antico vampiro egiziano mummificato o di un vampiro azteco?
 
 ### Verme Viola
 
@@ -1276,9 +1277,9 @@ Molte altre possibilità di vampiri esistono nel folklore: Vampiri cinesi, per e
 *Movimento*: 9  
 *DVE/PE*: 17/3,500
 
-I vermi viola sono massicci anellidi che crescono di oltre 40 piedi di lunghezza e a volte superano i 10 piedi di larghezza. Sono sotterranei, e scavano gallerie nella roccia (o attraverso la sabbia, nei deserti, dove sono di colore marrone). Queste bestie ingoiano la loro preda intera con un tiro di 4 superiore al numero necessario, o se il verme tira il doppio del numero richiesto "per colpire". Possono inghiottire qualsiasi cosa delle dimensioni di un cavallo o più piccola.
+I vermi viola sono massicci anellidi che crescono di oltre 40 piedi di lunghezza e a volte superano i 10 piedi di larghezza. Sono sotterranei e scavano gallerie nella roccia (o attraverso la sabbia, nei deserti, dove sono di colore marrone). Queste bestie ingoiano la loro preda intera con un tiro di 4 superiore al numero necessario o se il verme tira il doppio del numero richiesto "per colpire". Possono inghiottire qualsiasi cosa delle dimensioni di un cavallo o più piccola.
 
-Oltre al temuto morso, il verme possiede un pungiglione velenoso sulla coda, lungo quanto una spada e altrettanto letale anche per il colpo perforante che infligge. Il veleno iniettato dal pungiglione è letale se la vittima fallisce un tiro salvezza. Quali prede i vermi viola cacciavano un tempo (o forse lo fanno ancora, nei luoghi profondi) con tali armi naturali devono essere state davvero terrificanti. Potrebbero esistere anche versioni acquatiche del verme viola.
+Oltre al temuto morso, il verme possiede un aculeo velenoso sulla coda, lungo quanto una spada e altrettanto letale anche per il colpo perforante che infligge. Il veleno iniettato dall'aculeo è letale se la vittima fallisce un tiro salvezza. Quali tipi di prede i vermi viola cacciavano un tempo (o forse lo fanno ancora, nei luoghi profondi) con tali armi naturali devono essere state davvero terrificanti. Potrebbero esistere anche versioni acquatiche del verme viola.
 
 ### Viverna
 
@@ -1289,7 +1290,7 @@ Oltre al temuto morso, il verme possiede un pungiglione velenoso sulla coda, lun
 *Movimento*: 6/24 (quando vola)  
 *DVE/PE*: 9/1,100
 
-Una viverna ha la forma di drago a due zampe, e queste creature sono più piccole e meno intelligenti dei veri draghi a quattro zampe, per non parlare del fatto che non hanno il soffio come arma. Le viverne hanno un pungiglione velenoso alla fine della coda, ma non sono abbastanza coordinate da attaccare sia con il morso che con il pungiglione in un solo round. A ogni round, la viverna ha il 60% di probabilità di usare la sua coda, che può sferzare la creatura di fronte anche più lontano di quanto la sua testa possa raggiungere.
+Una viverna ha la forma di drago a due zampe e queste creature sono più piccole e meno intelligenti dei veri draghi a quattro zampe, per non parlare del fatto che non hanno il soffio come arma. Le viverne hanno un aculeo velenoso alla fine della coda, ma non sono abbastanza coordinate da attaccare sia con il morso che con l'aculeo in un solo round. A ogni round, la viverna ha il 60% di probabilità di usare la sua coda, che può sferzare la creatura di fronte anche più lontano di quanto la sua testa possa raggiungere.
 
 ### Worg
 
@@ -1311,24 +1312,24 @@ I worg sono grandi lupi del caos, intelligenti e malvagi. A volte sono cavalcati
 *Movimento*: 6  
 *DVE/PE*: 2/30
 
-Gli zombie sono creature senza cervello, morti che camminano. Sono semplicemente cadaveri animati, non portatori di alcun tipo di contagio non-morto come i ghoul. Se il loro essere non-morti è contagioso, dovrebbero valere qualche punto esperienza in più di quanto descritto qui, e se un singolo colpo di uno zombie causa il contagio o qualsiasi altro tipo di malattia, dovrebbero valere molto più esperienza. Tuttavia, lo zombie standard è semplicemente un cadavere animato per eseguire gli ordini del suo creatore.
+Gli zombie sono creature senza cervello, morti che camminano. Sono semplicemente cadaveri animati, non portatori di alcun tipo di contagio non-morto come i ghoul. Se il loro essere non-morti è contagioso, dovrebbero valere qualche punto esperienza in più di quanto descritto qui e, se un singolo colpo di uno zombie causa il contagio o qualsiasi altro tipo di malattia, dovrebbero valere molto più esperienza. Tuttavia, lo zombie standard è semplicemente un cadavere animato per eseguire gli ordini del suo creatore.
 
 ### Mostri più tenaci
 
-Non c'è davvero alcun limite a quanto possano essere potenti i mostri, e spesso è divertente ingannare i giocatori lanciando contro di loro dei super-mostri. L'Arbitro dovrebbe sentirsi libero di regolare la CA, i DV o altri fattori per rendere i mostri più impegnativi. Inoltre, sentitevi liberi di provare nuove opzioni come una super stirpe di orchi, goblin cavalcatori di ragni o mummie resistenti al fuoco solo per tenere i giocatori sulle spine.
+Non c'è davvero alcun limite a quanto possano essere potenti i mostri e spesso è divertente ingannare i giocatori lanciando contro di loro dei super-mostri. L'Arbitro dovrebbe sentirsi libero di regolare la CA, i DV o altri fattori per rendere i mostri più impegnativi. Inoltre, sentitevi liberi di provare nuove opzioni come una super stirpe di orchi, goblin cavalcatori di ragni o mummie resistenti al fuoco solo per tenere i giocatori sulle spine.
 
 ### Livelli dei mostri
 
 Si può notare che mentre i livelli suggeriti per i personaggi sono limitati, i livelli dei mostri non lo sono. Le ragioni di questo sono semplici:
 
 - I giocatori sono un gruppo e i grandi mostri hanno bisogno di livelli per superare lo svantaggio numerico. 
-- I giocatori tendono a essere creativi mentre molti arbitri permettono ai mostri di "giocare da stupidi".
+- I giocatori tendono a essere creativi mentre molti Arbitri permettono ai mostri di "giocare da stupidi".
 
-L'Arbitro ha la possibilità di permettere ai personaggi di continuare ad avanzare, o di mettere un limite ai livelli dei mostri come meglio crede.
+L'Arbitro ha la possibilità di permettere ai personaggi di continuare ad avanzare o di mettere un limite ai livelli dei mostri come meglio crede.
 
 ### Creare Mostri
 
-I mostri non sono Personaggi Giocanti, e le loro abilità non sono affatto determinate dalle regole per i PG - nemmeno dalle statistiche per le razze che possono avere personaggi giocanti, come i Nani. Le abilità di un mostro sono determinate dall'Arbitro e non da qualche regola! Sentitevi liberi di aggiungere ali, soffio letale, dadi vita extra, versioni danneggiate, o qualsiasi cosa si adatti alla vostra avventura e alla vostra campagna. Modificate e aggiustate, immaginate e inventate! Siete voi i responsabili della qualità delle spade e della stregoneria nel vostro gioco, non le regole. Quindi non cercate di creare mostri secondo una qualche formula. Create mostri in base a come suonano e a come funzionano al tavolo da gioco. Create sfide per i giocatori, ma non fatevi venire il mal di testa. Il vostro compito è quello di immaginare e creare, non di farsi sottomettere dai libri di regole per scoprire cosa vi è "permesso" di fare.
+I mostri sono Personaggi Non Giocanti e le loro abilità non sono affatto determinate dalle regole per i PG - nemmeno dalle statistiche per le razze che possono avere personaggi giocanti come i Nani. Le abilità di un mostro sono determinate dall'Arbitro e non da qualche regola! Sentitevi liberi di aggiungere ali, soffio letale, dadi vita extra, versioni danneggiate o qualsiasi cosa si adatti alla vostra avventura e alla vostra campagna. Modificate e aggiustate, immaginate e inventate! Siete voi i responsabili della qualità delle spade e della stregoneria nel vostro gioco, non le regole. Quindi non cercate di creare mostri secondo una qualche formula. Create mostri in base a come li sentite e a come funzionano al tavolo da gioco. Create sfide per i giocatori, ma non fatevi venire il mal di testa. Il vostro compito è quello di immaginare e creare, non di farvi sottomettere dai libri di regole per scoprire cosa vi è "permesso" di fare.
 
 ### Tabella 43: Creazione di Mostri
 

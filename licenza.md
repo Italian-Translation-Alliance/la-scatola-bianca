@@ -1,6 +1,7 @@
 # Licenza 
 
 **Designation of Product Identity:**
+
 Cover by David Demaret released under Creative Commons Attribution-Share Alike 3.0 Unported license.
 
 The paragraph "Cos'è un gioco di ruolo?" in the introduction is taken and adapted from the Wikipedia entry Role-playing Game, released under Creative Commons Attribution-Share Alike 3.0 Unported license.

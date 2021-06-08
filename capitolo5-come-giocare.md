@@ -2,13 +2,13 @@
 
 Una volta che i personaggi sono stati creati, l'Arbitro descrive dove essi si trovano e cosa possono vedere. Il gioco potrebbe iniziare in un villaggio rurale abitato da contadini, in una enorme e brulicante città costellata di torri e minareti, in un castello, in una taverna o alle porte di un'antica tomba. Da quel punto in poi, i giocatori descrivono ciò che i propri personaggi fanno. Scendere delle scale, attaccare un drago, parlare con altri Personaggi Giocanti (PG) o Personaggi Non Giocanti (PNG) controllati dall'Arbitro - tutti questi tipi di azioni sono decise dai giocatori; l'Arbitro poi descrive cosa succede di conseguenza: le scale conducono in un'enorme tomba, il drago attacca i personaggi, ecc. Le regole che seguono sono linee guida per gestire eventi come il combattimento, guadagnare esperienza, il movimento, la guarigione, la morte e altre importanti parti del gioco. 
 
-Fondamentalmente il giocatore e l'Arbitro lavorano insieme con l'Arbitro che gestisce i dettagli di un pericoloso mondo fantasy e il giocatore che gestisce ciò che il suo personaggio fa in esso. È il giocatore a creare la storia epica dell'ascesa di un personaggio alla grandezza (o della sua morte nel tentativo) nel mondo dell'Arbitro.
+Fondamentalmente i giocatori e l'Arbitro lavorano insieme, con l'Arbitro che gestisce i dettagli di un pericoloso mondo fantasy e il giocatore che gestisce ciò che il suo personaggio fa in esso. È il giocatore a creare la storia epica dell'ascesa di un personaggio alla grandezza (o della sua morte nel tentativo) nel mondo dell'Arbitro.
 
 ### Guadagnare Esperienza
 
 I personaggi ottengono punti esperienza (PE) uccidendo mostri e accumulando tesori; quando si guadagnano abbastanza PE, il personaggio sale di livello. I mostri hanno valori di punti esperienza stabiliti nelle loro descrizioni e un pezzo d'oro acquisito equivale a 1 PE. L'esperienza viene assegnata accumulando tesori perché ogni pezzo d'oro guadagnato da un personaggio è un indice dell'abilità del suo giocatore. Assegnare esperienza solo per l'uccisione di mostri non premia un gruppo di avventurieri che riesce ad attirare un drago lontano dal suo tesoro, in modo da poterlo derubare senza combattere; non premia i personaggi che operano con intelligenza, furtività, inganno e depistaggio. 
 
-Ogni classe di personaggi ha un attributo principale elencato nella sua descrizione, e il processo di creazione del personaggio spiega come determinare il bonus PE totale del personaggio. Ci sono due modi diversi di farlo, ma ognuno si traduce in un bonus percentuale. Se il bonus di un personaggio è del 10%, per esempio, e l'arbitro assegna 1000 PE a ogni personaggio, quel particolare personaggio riceverà 1100 PE (il 10% di 1000 è 100, quindi il personaggio riceve un bonus di 100 PE).
+Ogni Classe Personaggio ha un Attributo Primario indicato nella sua descrizione e il processo di creazione del personaggio spiega come determinare il bonus PE totale del personaggio. Ci sono due modi diversi di farlo, ma ognuno si traduce in un bonus percentuale. Se il bonus di un personaggio è del 10%, per esempio e l'Arbitro assegna 1000 PE a ogni personaggio, quel particolare personaggio riceverà 1100 PE (il 10% di 1000 è 100, quindi il personaggio riceverà un bonus di 100 PE).
 
 ### Tempo
 
@@ -27,7 +27,7 @@ La velocità di movimento base per tutte le razze è calcolata sulla tabella sot
 | 101-150            | 6              | 3                 |
 | 151-300            | 3              | 3                 |
 
-Il movimento cauto è usato per esplorare, controllare le trappole e ciò che è nascosto. Il movimento di corsa si usa quando si sta cercando di arrivare da qualche parte velocemente o di scappare da qualcosa di ostile. Il movimento normale è praticamente tutto il resto. 
+Il movimento cauto è usato per esplorare, controllare le trappole e ciò che è nascosto. Il movimento di corsa si usa quando si sta cercando di arrivare da qualche parte velocemente o di scappare da qualcosa di ostile. Il movimento normale copre praticamente tutto il resto. 
 
 Il movimento di combattimento si usa quando i personaggi sono impegnati in combattimento e il tempo è passato dai Turni ai Round.
 
@@ -66,7 +66,7 @@ La maggior parte delle trappole e delle fosse si attivano con un tiro di 1-2 su 
 
 ### Nota sulla ricerca di porte segrete e trappole
 
-Idealmente, i giocatori saranno abbastanza descrittivi durante una ricerca da trovare automaticamente una trappola o una porta segreta. Per esempio, se spostando un porta torcia si apre una porta segreta, e il giocatore dice "Esamino i porta torce sulla parete nord per trovare qualcosa di insolito", un arbitro potrebbe automaticamente permettergli di capire come si apre la porta segreta. Se, invece, si limita a dire "cerco sul muro nord se ci sono porte segrete", l'Arbitro può richiedere un tiro di dado. Alcune caratteristiche potrebbero essere così ben nascoste da meritare sempre un tiro di dado o almeno un tiro con qualche tipo di adeguamento.
+Idealmente, i giocatori saranno abbastanza descrittivi durante una ricerca da trovare automaticamente una trappola o una porta segreta. Per esempio, se spostando un portatorcia si apre una porta segreta e il giocatore dice "Esamino i portatorce sulla parete nord per trovare qualcosa di insolito", un Arbitro potrebbe automaticamente permettergli di capire come si apre la porta segreta. Se, invece, si limita a dire "cerco sul muro nord se ci sono porte segrete", l'Arbitro può richiedere un tiro di dado. Alcune caratteristiche potrebbero essere così ben nascoste da meritare sempre un tiro di dado o almeno un tiro con qualche tipo di adeguamento.
 
 ## Combattimento
 
@@ -151,9 +151,9 @@ Se un attacco va a segno, infligge un danno (determinato dal dado del danno dell
 
 Se state usando il sistema di CA ascendente, potrebbe essere più facile calcolare i vostri tiri per colpire secondo una semplice formula. I numeri sono gli stessi delle tabelle della CA Discendente - questo è solo un modo diverso di calcolare i risultati. Ecco come si fa:
 
-Per attaccare con un'arma, il giocatore tira un d20 e aggiunge qualsiasi bonus al risultato. Questi bonus "per colpire" ora includono il bonus base "per colpire" del personaggio, come indicato nella tabella delle classi personaggio, e possono includere un bonus alla forza (per gli attacchi con armi a mano), un bonus alla destrezza (per gli attacchi con armi a distanza), e qualsiasi bonus per le armi magiche. Il giocatore, poi, sottrae al tiro qualsiasi penalità "per colpire" che potrebbe avere. Se il risultato è uguale o superiore alla CA ascendente dell'avversario, l'attacco va a segno.
+Per attaccare con un'arma, il giocatore tira un d20 e aggiunge qualsiasi bonus al risultato. Questi bonus "per colpire" ora includono il bonus base "per colpire" del personaggio, come indicato nella tabella delle classi personaggio, e possono includere un bonus alla forza (per gli attacchi con armi a mano), un bonus alla destrezza (per gli attacchi con armi a distanza) e qualsiasi bonus per le armi magiche. Il giocatore, poi, sottrae al tiro qualsiasi penalità "per colpire" che potrebbe avere. Se il risultato è uguale o superiore alla CA ascendente dell'avversario, l'attacco va a segno.
 
-Nota: Questo sistema rapido funziona solo per il sistema di CA Ascendente. Per usare questo sistema, dovrete scrivere il vostro Bonus di base "per colpire", e aggiustarlo man mano che guadagnate livelli, ma dopo averlo fatto, non dovrete controllare la tabella per vedere se ottenete un successo. Tutto quello che dovete sapere è se il risultato totale è stato uguale o superiore alla Classe Armatura del bersaglio.
+Nota: Questo sistema rapido funziona solo per il sistema di CA Ascendente. Per usare questo sistema, dovrete scrivere il vostro Bonus di base "per colpire" e aggiustarlo man mano che guadagnate livelli, ma dopo averlo fatto non dovrete controllare la tabella per vedere se ottenete un successo. Tutto quello che dovete sapere è se il risultato totale è stato uguale o superiore alla Classe Armatura del bersaglio.
 
 ### Danno e Morte
 
@@ -201,13 +201,13 @@ Se c'è incertezza sul morale dei PNG o dei mostri, la seguente tabella può ess
 
 #### Tabella 20: Prova di Morale
 
-| Tiro     | **Morale**                           |
-|:--------:|:------------------------------------:|
-| 2 o meno | Resa                                 |
-| 3-5      | Fuga                                 |
-| 6-8      | Posizione mantenuta                  |
-| 9-11     | Combattimento per ottenere vantaggio |
-| 12       | Attacco!                             |
+| **Tiro**     | **Morale**                           |
+|:------------:|:------------------------------------:|
+| 2 o meno     | Resa                                 |
+| 3-5          | Fuga                                 |
+| 6-8          | Posizione mantenuta                  |
+| 9-11         | Combattimento per ottenere vantaggio |
+| 12           | Attacco!                             |
 
 ### Negoziazione e diplomazia
 
@@ -233,13 +233,13 @@ I cavalli da guerra medi concedono un bonus di +1 all'attacco. I cavalli da guer
 
 Il giostratore con più punti dopo tre round vince la giostra. Se un avversario viene messo al tappeto o ucciso, perde automaticamente la giostra.
 
-In un duello, il perdente deve rinunciare alla sua cavalcatura e alla sua armatura, e concedere un riscatto pari a quanto i suoi compagni o la sua famiglia possono pagare, di solito commisurato alla classe sociale del combattente.
+In un duello il perdente deve rinunciare alla sua cavalcatura e alla sua armatura e concedere un riscatto pari a quanto i suoi compagni o la sua famiglia possono pagare, di solito commisurato alla classe sociale del combattente.
 
 ### Incantesimi
 
-Il lancio degli incantesimi inizia all'inizio del round di combattimento. È possibile preparare un incantesimo mentre ci si trova nel raggio d'azione di mischia di un avversario (10'), ma se l'incantatore subisce danni mentre prepara un incantesimo, l'incantesimo viene perso. A meno che non sia indicato diversamente, l'incantesimo viene lanciato (ha effetto) nella fase di iniziativa dell'incantatore.
+Il lancio degli incantesimi parte all'inizio del round di combattimento. È possibile preparare un incantesimo mentre ci si trova nel raggio d'azione di mischia di un avversario (10'), ma se l'incantatore subisce danni mentre prepara un incantesimo, l'incantesimo viene perso. A meno che non sia indicato diversamente, l'incantesimo viene lanciato (ha effetto) nella fase di iniziativa dell'incantatore.
 
-Notate che nella Sequenza Alternativa di Combattimento il lancio degli incantesimi funziona diversamente. In quel sistema, è necessario un intero round per preparare un incantesimo, l'incantesimo viene lanciato all'inizio del round prima che succeda qualsiasi altra cosa, e l'incantatore può passare il resto del round a preparare un nuovo incantesimo (o a fare qualcos'altro, come muoversi o anche combattere).
+Notate che nella Sequenza Alternativa di Combattimento il lancio degli incantesimi funziona diversamente. In quel sistema, è necessario un intero round per preparare un incantesimo, l'incantesimo viene lanciato all'inizio del round prima che succeda qualsiasi altra cosa e l'incantatore può passare il resto del round a preparare un nuovo incantesimo (o a fare qualcos'altro, come muoversi o anche combattere).
 
 ### Lealtà
 
@@ -263,7 +263,7 @@ Se un PNG si trova in una situazione in cui una prova di morale può essere appr
 
 ### Tiri Salvezza
 
-Di tanto in tanto, un incantesimo o qualche altro tipo di pericolo richiede di effettuare un "tiro salvezza". Un tiro salvezza riuscito significa che il personaggio evita la minaccia o ne riduce l'effetto. Ogni classe personaggio ha un numero obiettivo del tiro salvezza che diventa più basso man mano che il personaggio aumenta di livello. Per effettuare un tiro salvezza, tira un d20. Se il risultato è uguale o superiore al numero obiettivo del tiro salvezza del personaggio, il tiro salvezza ha successo.
+Di tanto in tanto, un incantesimo o qualche altro tipo di pericolo richiede di effettuare un "tiro salvezza". Un tiro salvezza riuscito significa che il personaggio evita la minaccia o ne riduce l'effetto. Ogni classe personaggio ha un numero obiettivo del tiro salvezza che diventa più basso man mano che il personaggio aumenta di livello. Per effettuare un tiro salvezza, tirate un d20. Se il risultato è uguale o superiore al numero obiettivo del tiro salvezza del personaggio, il tiro salvezza ha successo.
 
 ### Regola alternativa: La Matrice dei Tiri Salvezza
 

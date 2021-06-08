@@ -8,21 +8,21 @@ I Chierici e i Maghi sono le uniche classi che possono lanciare incantesimi. Gli
 
 |               Livello 1               |        Livello 2        |
 |:-------------------------------------:|:-----------------------:|
-| Curare (Causare) Ferite Leggere       | Benedire (Maledire)     |
-| Individuare Caos (Legge)              | Bloccare Persone        |
-| Individuazione del Magico             | Trovare Trappole        |
+| Curare (Causare) le Ferite Leggere    | Benedire (Maledire)     |
+| Individuare Caos (Legge)              | Bloccare le Persone     |
+| Individuare la Magia                  | Trovare le Trappole     |
 | Luce (Oscurità)                       | Parlare con gli Animali |
 | Protezione dal Caos (dalla Legge)     |                         |
 | Purificare (Putrefare) Cibo e Bevande |                         |
 
 
-|         Livello 3         |                  Livello 4                    |
-|:-------------------------:|:---------------------------------------------:|
-| Curare (Causare) Malattie | Curare (Causare) Ferite Gravi                 |
-| Localizzare Oggetto       | Neutralizzare Veleno                          |
-| Luce (Oscurità), Continua | Protezione dal Caos (dalla Legge), raggio 10' |
-| Rimuovere Maledizione     | Parlare con le Piante                         |
-|                           | Trasformare Bastoni in Serpenti               |
+|         Livello 3             |                  Livello 4                    |
+|:-----------------------------:|:---------------------------------------------:|
+| Curare (Causare) le Malattie  | Curare (Causare) le Ferite Gravi              |
+| Localizzare un Oggetto        | Neutralizzare Veleno                          |
+| Luce (Oscurità), Continua     | Protezione dal Caos (dalla Legge), raggio 10' |
+| Rimuovere una Maledizione     | Parlare con le Piante                         |
+|                               | Trasformare i Bastoni in Serpenti             |
 
 
 |           Livello 5           |             Livello 6             |
@@ -40,52 +40,52 @@ Il nome dell'incantesimo fra parentesi indica la versione caotica dell'incantesi
 
 ### Tabella 28: Incantesimi del Mago
 
-|      Livello 1            |         Livello 2        |
-|:-------------------------:|:------------------------:|
-| Ammaliare Persone         | Forza Fantasma           |
-| Bloccare Porte            | Individuare Caos         |
-| Individuazione del Magico | Individuare Invisibilità |
-| Leggere Linguaggi         | Invisibilità             |
-| Leggere Magia             | Leggere il Pensiero      |
-| Luce                      | Levitare                 |
-| Sonno                     | Localizzare Oggetto      |
-| Protezione dal Caos       | Luce, Continua           |
-|                           | Ragnatela                |
-|                           | Scassinare               |
-|                           | Serratura del Mago       |
+|      Livello 1               |         Livello 2          |
+|:----------------------------:|:--------------------------:|
+| Ammaliare le Persone         | Forza Fantasma             |
+| Bloccare le Porte            | Individuare il Caos        |
+| Individuare la Magia         | Individuare l'Invisibilità |
+| Leggere le Lingue            | Invisibilità               |
+| Leggere la Magia             | Leggere il Pensiero        |
+| Luce                         | Levitare                   |
+| Sonno                        | Localizzare un Oggetto     |
+| Protezione dal Caos          | Luce, Continua             |
+|                              | Ragnatela                  |
+|                              | Scassinare                 |
+|                              | Serratura del Mago         |
 
 
-|              Livello 3              |         Livello 4        |
-|:-----------------------------------:|:------------------------:|
-| Alterare il Tempo                   | Ammaliare Mostro         |
-| Bloccare Persone                    | Confusione               |
-| Dardo Elettrico                     | Crescita Vegetale        |
-| Dissolvi Magie                      | Mutaforma di Massa       |
-| Invisibilità, raggio 10'            | Muro di Fuoco o Ghiaccio |
-| Palla di Fuoco                      | Occhio del Mago          |
-| Protezione dal Caos, raggio 10'     | Polimorfismo             |
-| Protezione dai Proiettili Normali   | Portale Dimensionale     |
-| Respirare Sott'Acqua                | Rimuovere Maledizione    |
-| Scurovisione                        | Terreno Illusorio        |
-| Sfera di Cristallo                  |                          |
-| Volare                              |                          |
+|              Livello 3              |         Livello 4         |
+|:-----------------------------------:|:-------------------------:|
+| Alterare il Tempo                   | Ammaliare i Mostri        |
+| Bloccare le Persone                 | Confusione                |
+| Dardo Elettrico                     | Crescita Vegetale         |
+| Dissolvere le Magie                 | Mutaforma di Massa        |
+| Invisibilità, raggio 10'            | Muro di Fuoco o Ghiaccio  |
+| Palla di Fuoco                      | Occhio del Mago           |
+| Protezione dal Caos, raggio 10'     | Polimorfismo              |
+| Protezione dai Proiettili Normali   | Portale Dimensionale      |
+| Respirare Sott'Acqua                | Rimuovere una Maledizione |
+| Scurovisione                        | Terreno Illusorio         |
+| Sfera di Cristallo                  |                           |
+| Volare                              |                           |
 
 
-|        Livello 5          |         Livello 6           |
-|:-------------------------:|:---------------------------:|
-| Animare Cadavere          | Controllo Atmosferico       |
-| Bloccare Mostro           | Disintegrare                |
-| Contattare altri Piani    | Incantesimo della Morte     |
-| Crescita Animale          | Inseguitore Invisibile      |
-| Evocare Elementale        | Missione                    |
-| Muro di Pietra o Ferro    | Muovere Acqua               |
-| Nube Mortale              | Muovere Terra               |
-| Passapareti               | Proiettare Immagine         |
-| Regressione Mentale       | Reincarnazione              |
-| Telecinesi                | Scudo Anti-Magico           |
-| Teletrasporto             | Trasformare Pietra in Carne |
-| Trasforma Roccia in Fango |                             |
-| Vaso Magico               |                             |
+|        Livello 5          |         Livello 6              |
+|:-------------------------:|:------------------------------:|
+| Animare i Cadaveri        | Controllo Atmosferico          |
+| Bloccare i Mostri         | Disintegrare                   |
+| Contattare altri Piani    | Incantesimo della Morte        |
+| Crescita Animale          | Inseguitore Invisibile         |
+| Evocare un Elementale     | Missione                       |
+| Muro di Pietra o Ferro    | Muovere l'Acqua                |
+| Nube Mortale              | Muovere la Terra               |
+| Passapareti               | Proiettare un'Immagine         |
+| Regressione Mentale       | Reincarnazione                 |
+| Telecinesi                | Scudo Anti-Magico              |
+| Teletrasporto             | Trasformare la Pietra in Carne |
+| Trasforma Roccia in Fango |                                |
+| Vaso Magico               |                                |
 
 
 ## Descrizione degli Incantesimi
@@ -100,21 +100,21 @@ L'incantatore deve annunciare quale delle due opzioni sarà lanciata. Entrambe l
 - Come incantesimo di accelerazione, fino a 24 creature possono muoversi e attaccare al doppio della normale velocità. 
 - Come incantesimo di rallentamento, fino a 24 creature che falliscono il tiro salvezza si muovono e attaccano a metà della velocità.
 
-### Ammaliare Mostri
+### Ammaliare i Mostri
 *Livello:* M4  
 *Raggio d'azione:* 60'  
 *Durata:* Finché non viene dissolto  
 
 Questo incantesimo opera nello stello modo di Ammaliare Persone, ma ha effetto su mostri molto più potenti. Fino a 3d6 mostri con meno di 3 DV sono affetti.
 
-### Ammaliare Persone
+### Ammaliare le Persone
 *Livello:* M1  
 *Raggio d'azione:* 60'  
 *Durata:* Finché non viene dissolto
 
 Questo incantesimo affligge le creature viventi bipedi di taglia umana o più piccola, come goblin o driadi. Se l'incantesimo ha successo (tiro salvezza consentito), la sfortunata creatura cadrà sotto l'influenza dell'incantatore.
 
-### Animare Cadavere
+### Animare i Cadaveri
 *Livello:* M5  
 *Raggio d'azione:* A discrezione dell'Arbitro  
 *Durata:* Permanente
@@ -130,21 +130,21 @@ L'incantatore deve annunciare quale delle due opzioni deve essere lanciata. Chi 
 - Come incantesimo di Benedire, al ricevente viene garantito un bonus di +1 a tutti i ti d'attacco e, se il bersaglio non è un personaggio giocante, migliora il morale. 
 - Come incantesimo di Maledire, il ricevente è maledetto con una penalità di -1 a tutti gli attacchi, e se il bersaglio non è un personaggio giocante, soffre una diminuzione del morale.
 
-### Bloccare Mostri
+### Bloccare i Mostri
 *Livello:* M5  
 *Raggio d'azione:* 120'  
 *Durata:* 1 ora + 10 minuti per livello
 
 L'incantatore può bersagliare 1d4 creature (il tiro salvezza si applica) o può concentrarsi su una singola creatura che dovrà fare il tiro salvezza con una penalità di -2.
 
-### Bloccare Persone
+### Bloccare le Persone
 *Livello:* C2, M3  
 *Raggio d'azione:* 180' (C)/120' (M)  
 *Durata:* 90 minuti (C), 1 ora + 10 minuti per livello (M)
 
 L'incantatore può bersagliare 1d4 persone (il tiro salvezza si applica) o può concentrarsi su una singola creatura che dovrà fare il tiro salvezza con una penalità di -2.
 
-### Bloccare Porte
+### Bloccare le Porte
 *Livello:* M1  
 *Raggio d'azione:* A discrezione dell'Arbitro  
 *Durata:* 2d6 turni
@@ -225,7 +225,7 @@ L'incantesimo fa crescere 1d6 creature di taglia normale fino a una taglia gigan
 
 L'incantesimo può influenzare fino a 90 piedi quadrati di terreno; il manto erboso dell'area cresce improvvisamente in una foresta impenetrabile di spine e liane. L'incantatore può decidere la forma dell'area da incantare. Una versione alternativa (a discrezione dell'Arbitro) può permettere all'incantesimo di interessare un'area di 300 piedi per 300, per un totale di 90.000 piedi quadrati. 
 
-### Curare (Causare) Malattie
+### Curare (Causare) le Malattie
 *Livello:* C3  
 *Raggio d'azione:* Tocco  
 *Durata:* Istantaneo 
@@ -233,7 +233,7 @@ L'incantesimo può influenzare fino a 90 piedi quadrati di terreno; il manto erb
 - Come incantesimo di Curare Malattie, il ricevente è curato da qualunque malattia — incluse quelle inflitte con la magia.
 - Come incantesimo di Causare Malattie, il ricevente è afflitto da un a malattia che l'Arbitro di gioco deve determinare.
 
-### Curare (Causare) Ferite Leggere
+### Curare (Causare) le Ferite Leggere
 *Livello:* C1  
 *Raggio d'azione:* Tocco  
 *Durata:* Istantaneo
@@ -241,7 +241,7 @@ L'incantesimo può influenzare fino a 90 piedi quadrati di terreno; il manto erb
 - Come Cura Ferite Leggere, l'incantatore cura 1d6+1 PF.
 - Come Causare Ferite Leggere, l'incantatore causa 1d6+1 PF.
 
-### Curare (Causare) Ferite Gravi
+### Curare (Causare) le Ferite Gravi
 *Livello:* C4  
 *Raggio d'azione:* Tocco  
 *Durata:* 2 ore
@@ -271,18 +271,18 @@ L'incantesimo definisce un bersaglio specifico come una porta, un popolano, o un
 - Come incantesimo di Dissolvere il Caos, l'incantesimo è simile all'incantesimo arcano Dissolvi Magie, ma funziona contro oggetti, incantesimi, o agenti del Caos. Ciononostante, a differenza di Dissolvi Magie, questo incantesimo funziona anche contro inviati caotici, possibilmente includendo sogni o bestie cacciatrici sovrannaturali.
 - Come incantesimo di Dissolvere la Legge, esso funziona esattamente come Dissolvere il Caos, eccezion fatta che dissolve Legge.
 
-### Dissolvi Magie
+### Dissolvere le Magie
 *Livello:* M3  
 *Raggio d'azione:* 120'  
 *Durata:* 10 minuti
 
-Dissolvi Magie può essere usato per dissolvere completamente gran parte di incantesimi e incanti.
+Dissolvere le Magie può essere usato per dissolvere completamente gran parte di incantesimi e incanti.
 
 Come esempio di come un Arbitro possa gestire questo incantesimo, la probabilità di dissolvere la magia può essere una percentuale basata sul rapporto del livello dell'incantatore che prova a dissolvere e del livello (o DV del mostro) che ha scagliato l'incantesimo
 
 Così, un Mago di 6° livello che tentasse di dissolvere un ammaliamento di un Mago di 12° livello avrebbe il 50% di possibilità di riuscita (6/12=1/2). Se il Mago di 12° livello tentasse di dissolvere l'incantesimo del Mago di 6° livello, la probabilità dell'incantatore di dissolvere sarebbe il 200% (12/6=2).
 
-### Evocare Elementale
+### Evocare un Elementale
 *Livello:* M5  
 *Raggio d'azione:* 120'  
 *Durata:* Finché viene dissolto
@@ -303,7 +303,7 @@ Questo incantesimo crea un'illusione realistica di fronte a chi lo osserva. L'il
 
 Entro un raggio di 60', muoiono fino a 2d8 creature con meno di 7 DV.
 
-### Individuare Caos (Legge)
+### Individuare il Caos (la Legge)
 *Livello:* C1, M2  
 *Raggio d'azione:* 120' (C), 60' (M)  
 *Durata:* 1 ora (C), 20 minuti (M)
@@ -311,14 +311,14 @@ Entro un raggio di 60', muoiono fino a 2d8 creature con meno di 7 DV.
 - Come Individuare Caos, l'incantatore individua creature del Caos, o coloro che hanno incanti, pensieri, o auree caotici entro il raggio dell'incantesimo. Il Veleno non è intrinsecamente malvagio o caotico e non può essere individuato da questo incantesimo.
 - Come Individuare Legge, l'incantesimo funziona esattamente come Individuare Caos eccenzion fatta che individua la Legge.
 
-### Individuare Invisibilità 
+### Individuare l'Invisibilità 
 *Livello:* M2  
 *Raggio d'azione:* 10' per livello incantatore  
 *Durata:* 1 ora
 
 L'incantatore può percepire creature e oggetti invisibili.
 
-### Individuazione del Magico
+### Individuare la Magia
 *Livello:* C1, M1  
 *Raggio d'azione:* 60'  
 *Durata:* 20 minuti
@@ -355,7 +355,7 @@ Identico all'incantesimo Invisibilità, il quale rende la creatura o l'oggetto b
 
 L'incantatore può individuare i pensieri degli altri esseri. L'incantesimo non può penetrare più di 2' di pietra ed è bloccato anche dal più sottile strato di piombo.
 
-### Leggere Linguaggi
+### Leggere le Lingue
 *Livello:* M1  
 *Raggio d'azione:* Distanza per leggere  
 *Durata:* 1 o 2 letture
@@ -363,7 +363,7 @@ L'incantatore può individuare i pensieri degli altri esseri. L'incantesimo non 
 Questo incantesimo permette all'incantatore di leggere indicazioni, istruzioni e notazioni simili che sono scritte in lingue non familiari o anche sconosciute. È utile specialmente per le mappe del tesoro.
 
 
-### Leggere Magia
+### Leggere la Magia
 *Livello:* M1  
 *Raggio d'azione:* Solo Incantatore  
 *Durata:* 2 pergamene o altri scritti
@@ -380,7 +380,7 @@ Sarà necessario spostarsi a mano su un muro, una scogliera o un soffitto.
 
 Levitare permette un movimento verso l'alto o verso il basso alla velocità di 6' per minuto (60' a turno) e l'incantatore non può levitare più di 20' per livello dal suolo dove l'incantesimo è stato lanciato (tale raggio viene applicato sia al movimento in aria sia al movimento di discesa verso un baratro o una fossa).
 
-### Localizzare Oggetto
+### Localizzare un Oggetto
 *Livello:* C3, M2  
 *Raggio d'azione:* 90' (C), 60' + 10' per livello  
 *Durata:* Istantaneo
@@ -410,7 +410,7 @@ Questo incantesimo indica all'incantatore la direzione corretta (in linea d'aria
 
 Se la vittima fallisce il tiro salvezza, l'incantatore può affidargli un compito. Se il Mago lancia questo incantesimo la vittima morirà se ignorerà totalmente la missione. Se un Chierico lancia questo incantesimo il fallimento della creatura nell'obbedire risulterà in una maledizione che l'Arbitro dovrà determinare. 
 
-### Muovere Acqua
+### Muovere l'Acqua
 *Livello:* M6  
 *Raggio d'azione:* 240'  
 *Durata:* Vedere sotto 
@@ -419,7 +419,7 @@ L'incantatore può annunciare quale delle due opzioni lancerà:
 - L'incantesimo abbassa la profondità e il livello d'acqua di laghi, fiumi, pozzi e altri corpi d'acqua di metà (1/2) del loro normale livello. Usato in tal modo, l'incantesimo dura per 10 turni.
 - Alternativamente, questo incantesimo crea un passaggio attraverso l'acqua, ma solo a una profondità di 10'. Usato in tal modo, l'incantesimo dura per 6 turni.
 
-### Muovere Terra
+### Muovere la Terra
 *Livello:* M6  
 *Raggio d'azione:* 240'  
 *Durata:* Permanente
@@ -451,7 +451,7 @@ L'incantatore deve annunciare quale delle due opzioni verrà lanciata:
 
 Un centinaio o meno di creature delle dimensioni di un essere umano mutano per apparire come alberi innocenti. L'illusione è così perfetta che le creature che si muovono attraverso la "foresta" non percepiranno l'inganno.
 
-### Neutralizzare Veleno
+### Neutralizzare il Veleno
 *Livello:* C4  
 *Raggio d'azione:* A discrezione dell'Arbitro  
 *Durata:* 10 minuti
@@ -521,7 +521,7 @@ L'incantatore deve annunciare quale delle due opzioni sarà lanciata:
 
 Portale Dimensionale è una forma minore dell'incantesimo Teletrasporto che può essere gestita da maghi meno potenti. L'incantatore può teletrasportare se stesso, un oggetto o un'altra persona con precisione perfetto alla posizione prescelta, ammesso che sia nel raggio dell'incantesimo.
 
-### Proiettare Immagine
+### Proiettare un'Immagine
 *Livello:* M6  
 *Raggio d'azione:* 240'  
 *Durata:* 1 ora
@@ -594,7 +594,7 @@ Questo incantesimo conferisce l'abilità di respirare sott'acqua finché la dura
 
 Resurrezione dei Morti permette al Chierico di far risorgere un corpo dalla morte, ammesso che non sia morto da molto tempo. Il tempo massimo e 4 giorni, ma per ogni livello dell'incantatore superiore all'8°, il limite viene esteso di 4 giorni. I personaggi con una Costituzione bassa potrebbero non sopravvivere al rito; anche per coloro di costituzione robusta, un periodo di due settimane è richiesto prima che possa riprendersi. Questo incantesimo può funzionare solo su specie che possono essere usate dai personaggi giocanti (cioè "umanoidi"). 
 
-### Rimuovere Maledizione
+### Rimuovere una Maledizione
 *Livello:* C3, M4  
 *Raggio d'azione:* Ravvicinato/Tocco  
 *Durata:* Istantaneo
@@ -708,7 +708,7 @@ L'incantesimo trasforma la roccia (e qualunque altra forma di terreno) in fango 
 
 L'incantatore può tramutare fino a 2d8 bastoni ordinari in serpenti, ognuno ha la possibilità del 50% di essere velenoso. I serpenti seguono i suoi comandi, ma tornano a essere bastoni alla fine dell'incantesimo o quando vengono uccisi. 
 
-### Trovare Trappole
+### Trovare le Trappole
 *Livello:* C2  
 *Raggio d'azione:* 30'  
 *Durata:* 20 minuti

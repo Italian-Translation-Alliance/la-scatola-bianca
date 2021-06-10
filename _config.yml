@@ -4,8 +4,9 @@ remote_theme: pmarsceill/just-the-docs
 aux_links:
   "La Scatola Bianca su GitHub":
     - "//github.com/Italian-Translation-Alliance/la-scatola-bianca"
-  "Versione PDF":
+  "PDF":
     - "//ita-translation-alliance.itch.io/la-scatola-bianca"
-  "lulu":
+  "Lulu":
     - "//www.lulu.com/en/en/shop/alessio-persichetti-and-roberto-bisceglie/la-scatola-bianca/paperback/product-qqj8rn.html?page=1&pageSize=4"
-  "amazon":  
+  "Amazon":  
+    "//www.amazon.it/dp/B096TL8PN3"

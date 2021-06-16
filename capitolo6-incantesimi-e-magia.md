@@ -651,16 +651,16 @@ L'incantatore deve annunciare quale delle due opzioni verrà lanciata. Uno strat
 *Raggio d'azione:* 240'  
 *Durata:* A discrezione dell'Arbitro  
 
-Questo incantesimo getta le creature in un sonno profondo (nessun tiro salvezza è concesso). Può influenzare un numero di creature in base dal loro dado vita.
+Questo incantesimo getta le creature in un sonno profondo (nessun tiro salvezza è concesso). Può influenzare un numero di creature in base al loro dado vita.
 
 #### Tabella 32: Affetti da Sonno
 
-|    DV della Vittima   | Numero di DV Influenzati |
-|:---------------------:|:------------------------:|
-| Da meno di 1 DV a 1+1 |          3d6             |
-|        2 a 2+1        |          2d6             |
-|        3 a 3+1        |          1d6             |
-|        4 a 4+1        |           1              |
+|    DV della Vittima   | Numero di Influenzati |
+|:---------------------:|:---------------------:|
+| Da meno di 1 DV a 1+1 |          3d6          |
+|        2 a 2+1        |          2d6          |
+|        3 a 3+1        |          1d6          |
+|        4 a 4+1        |           1           |
 
 
 ### Terreno Illusorio

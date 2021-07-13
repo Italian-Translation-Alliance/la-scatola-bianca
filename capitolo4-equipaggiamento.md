@@ -124,7 +124,7 @@ Nel gioco originale, tutte le armi infliggono 1d6 danni, indipendentemente dal t
 | ------------------ | ---------------------------- | ---------------- | -------------- |
 | Armatura a piastre | -6 \[+6 \]                   | 75               | 50             |
 | Cotta di maglia    | -4 \[+4 \]                   | 50               | 30             |
-| Pelle              | -2 \[+2]                     | 25               | 15             |
+| Cuoio              | -2 \[+2]                     | 25               | 15             |
 | Scudo              | -1 \[+1]                     | 10               | 10             |
 
 \* A discrezione dell'Arbitro, l'armatura magica pesa la metà del suo peso normale o non pesa affatto.

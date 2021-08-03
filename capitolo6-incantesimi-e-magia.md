@@ -624,6 +624,7 @@ Il beneficiario dell'incantesimo può vedere nell'oscurità più totale. Il bene
 
 
 #### Tabella 31: Raggio della Scurovisione
+
 | Tirare 1d6 | Raggio di Visione (piedi) |
 |:----------:|:-------------------------:|
 |     1-2    |             12            |

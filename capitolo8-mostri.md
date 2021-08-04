@@ -943,7 +943,7 @@ Un orrore lungo sei metri di chitina, molteplici zampe e pinze schioccanti e che
 ### Muffa Gialla
 
 *Classe Armatura*: N/A  
-Dadi di Colpo: N/A  
+*Dadi Vita*: N/A  
 *Attacchi*: Vedi sotto  
 *Speciale*: Spore velenose  
 *Movimento*: 0  

@@ -105,7 +105,7 @@ L'incantatore deve annunciare quale delle due opzioni sarà lanciata. Entrambe l
 *Raggio d'azione:* 60'  
 *Durata:* Finché non viene dissolto  
 
-Questo incantesimo opera nello stello modo di Ammaliare Persone, ma ha effetto su mostri molto più potenti. Fino a 3d6 mostri con meno di 3 DV sono affetti.
+Questo incantesimo opera nello stesso modo di Ammaliare Persone, ma ha effetto su mostri molto più potenti. Fino a 3d6 mostri con meno di 3 DV sono affetti.
 
 ### Ammaliare le Persone
 *Livello:* M1  

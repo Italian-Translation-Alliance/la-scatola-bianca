@@ -9,7 +9,7 @@ Questo significa inventarsi un sacco di cose sul momento. Se non siete dei bravi
 *La Scatola Bianca* libererà la vostra creatività anche in termini di personalizzazione del gioco. A differenza di regolamenti più complessi, potete aggiungere regole della casa ovunque vogliate senza sbilanciare accidentalmente qualcosa sepolto da qualche altra parte nelle regole. Se volete usare i colpi o i fallimenti critici, aggiungeteli. Non romperete nulla — perché non c'è molto da rompere!
 
 ### Preparare Un'Avventura
-L'"avventura" e solo l'ambientazione per il gioco — solitamente una mappa e delle note riguardo certe località sulla mappa. Mano a mano che i giocatori vi diranno dove andranno i loro personaggi e che cosa faranno, farete riferimento alla mappa e alle vostre note per descrivere cosa succederà come conseguenza. Non provate a pianificare tutte le circostanze — è garantito che i giocatori faranno qualcosa di inaspettato durante l'avventura e dovrete improvvisare, pensando su due piedi e inventando nuove cose al volo. Come voi sfidate i giocatori con l'avventura, essi sfidano voi a stare al passo con la loro creatività collettiva.
+L'"avventura" è solo l'ambientazione per il gioco — solitamente una mappa e delle note riguardo certe località sulla mappa. Mano a mano che i giocatori vi diranno dove andranno i loro personaggi e che cosa faranno, farete riferimento alla mappa e alle vostre note per descrivere cosa succederà come conseguenza. Non provate a pianificare tutte le circostanze — è garantito che i giocatori faranno qualcosa di inaspettato durante l'avventura e dovrete improvvisare, pensando su due piedi e inventando nuove cose al volo. Come voi sfidate i giocatori con l'avventura, essi sfidano voi a stare al passo con la loro creatività collettiva.
 
 ### Creare una Campagna
 Una campagna è il mondo al di là dell'avventura — le città, le foreste, le coste e i regni di tale mondo fantastico. I giocatori quasi sicuramente vorranno che i loro personaggi esplorino le Terre Selvagge, visitino le città e poter fare ogni cosa in questo mondo fantastico. All'inizio del gioco, vorrete forse definire una mappa di un singolo villaggio (come punto di partenza) e qualche area circostante (la località della prima avventura — forse una foresta). Quando i giocatori muoveranno i loro personaggi da un'avventura all'altra, potrete espandere passo dopo passo la mappa in un intero mondo fantastico con continenti, regni e maestosi imperi a vostra disposizione.
@@ -129,7 +129,7 @@ Tirate 1d6 due volte per esagono per vedere se i personaggi si sono persi oppure
 |                              10+                             |                                 |     |     |     |     |     |     |  1  | 2-3 | 4-6 |
 
 
-Per la classe dei personaggi incontrati, tirare un d6 per il loro allineamento: 1-3 = Caotico, 4-5 Neutrale, 6 = Legale. La classe del personaggio può essere una qualunque delle razze o delle opzioni aggiuntive; l'Arbitro può scegliere un umanoide. Per esempio, invece di essere un Umano Guerriero di livello 5, potrebbe essere un Orco Guerriero di livello 5. 
+Per gli incontri con classi di personaggio, tirare un d6 per il loro allineamento: 1-3 = Caotico, 4-5 Neutrale, 6 = Legale. La classe del personaggio può essere una qualunque delle razze o come opzione aggiuntiva l'Arbitro può scegliere un umanoide. Per esempio, invece di essere un Umano Guerriero di livello 5, potrebbe essere un Orco Guerriero di livello 5. 
 
 ### Livello degli Incontri
 

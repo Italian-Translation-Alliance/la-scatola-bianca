@@ -152,7 +152,7 @@ Il Mago è una figura misteriosa, uno studente di poteri arcani e di magia nera.
 
 #### Restrizioni su Armi e Armature
 
-I Maghi tendono a trascorrere le loro ore di veglia nello studio di tomi e pergamene arcane, per cui hanno poco tempo per allenarsi con le armi o per imparare a ingaggiare correttamente un combattimento fisico.
+I Maghi tendono a trascorrere le loro ore di veglia nello studio di tomi e pergamene arcane, per cui hanno poco tempo per allenarsi con le armi o per imparare a ingaggiare correttamente un combattimento fisico. I Maghi possono solo brandire pugnali o bastoni e non possono usare armature.
 
 #### Incantesimo
 

@@ -186,7 +186,7 @@ L'incantatore crea un contatto mentale con i piani, le forze, i poteri e le geom
 
 | Piano (1)| Follia (2) | Giusto | Sbagliato (3)  |
 |:---------:|:----------:|:------:|:-------------:|
-|     1     |     1-2    |  3-11  |     12-120    |
+|     1     |     1-2    |  3-11  |     12-20     |
 |     2     |     1-4    |  4-13  |     14-20     |
 |     3     |     1-6    |  7-16  |     16-20     |
 |     4     |     1-8    |  9-17  |     18-20     |

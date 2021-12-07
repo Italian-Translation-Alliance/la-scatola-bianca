@@ -231,7 +231,7 @@ L'incantesimo può influenzare fino a 90 piedi quadrati di terreno; il manto erb
 *Durata:* Istantaneo 
 
 - Come incantesimo di Curare Malattie, il ricevente è curato da qualunque malattia — incluse quelle inflitte con la magia.
-- Come incantesimo di Causare Malattie, il ricevente è afflitto da un a malattia che l'Arbitro di gioco deve determinare.
+- Come incantesimo di Causare Malattie, il ricevente è afflitto da una malattia che l'Arbitro di gioco deve determinare.
 
 ### Curare (Causare) le Ferite Leggere
 *Livello:* C1  

@@ -754,7 +754,7 @@ Tirate 1d20 e aggiungi +0, +20 o +40, a seconda che il tesoro sia minore, medio 
   
   - *Jack*: Aggiunge un punto a un singolo attributo a scelta del giocatore
 
-- **Il Joker**: Guadagnate 25.000 XP.
+- **Il Joker**: Guadagnate 25.000 PE.
 
 **Medaglione di Rilevamento dei Pensieri (ESP)**: Funziona come un incantesimo Leggere il Pensiero (ESP) entro 30 piedi (75%) o 90 piedi (25%). Utilizzabile da: tutte le classi.
 

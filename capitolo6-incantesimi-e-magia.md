@@ -186,7 +186,7 @@ L'incantatore crea un contatto mentale con i piani, le forze, i poteri e le geom
 
 | Piano (1)| Follia (2) | Giusto | Sbagliato (3)  |
 |:---------:|:----------:|:------:|:-------------:|
-|     1     |     1-2    |  3-11  |     12-120    |
+|     1     |     1-2    |  3-11  |     12-20     |
 |     2     |     1-4    |  4-13  |     14-20     |
 |     3     |     1-6    |  7-16  |     16-20     |
 |     4     |     1-8    |  9-17  |     18-20     |
@@ -231,7 +231,7 @@ L'incantesimo può influenzare fino a 90 piedi quadrati di terreno; il manto erb
 *Durata:* Istantaneo 
 
 - Come incantesimo di Curare Malattie, il ricevente è curato da qualunque malattia — incluse quelle inflitte con la magia.
-- Come incantesimo di Causare Malattie, il ricevente è afflitto da un a malattia che l'Arbitro di gioco deve determinare.
+- Come incantesimo di Causare Malattie, il ricevente è afflitto da una malattia che l'Arbitro di gioco deve determinare.
 
 ### Curare (Causare) le Ferite Leggere
 *Livello:* C1  

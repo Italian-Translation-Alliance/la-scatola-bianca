@@ -129,7 +129,7 @@ Tirate 1d6 due volte per esagono per vedere se i personaggi si sono persi oppure
 |                              10+                             |                                 |     |     |     |     |     |     |  1  | 2-3 | 4-6 |
 
 
-Per gli incontri con classi di personaggio, tirare un d6 per il loro allineamento: 1-3 = Caotico, 4-5 Neutrale, 6 = Legale. La classe del personaggio può essere una qualunque delle razze o come opzione aggiuntiva l'Arbitro può scegliere un umanoide. Per esempio, invece di essere un Umano Guerriero di livello 5, potrebbe essere un Orco Guerriero di livello 5. 
+Per la classe dei personaggi incontrati, tirare un d6 per il loro allineamento: 1-3 = Caotico, 4-5 = Neutrale, 6 = Legale. La classe del personaggio può essere una qualunque delle razze o delle opzioni aggiuntive; l'Arbitro può scegliere un umanoide. Per esempio, invece di essere un Umano Guerriero di livello 5, potrebbe essere un Orco Guerriero di livello 5. 
 
 ### Livello degli Incontri
 

@@ -131,7 +131,7 @@ Un tiro di 1-19 su un d20 significa un tiro sulla tabella delle Gemme/Gioielli M
 | 40-42       | Invulnerabilità         |
 | 43-45       | Levitare                |
 | 46-48       | Controllo delle piante  |
-| 49-55       | Veleno                  |
+| 49-55       | Avvelenamento           |
 | 56-58       | Scivolosità             |
 | 59-61       | Ritrovamento di tesori  |
 | 62-64       | Controllo dei non morti |

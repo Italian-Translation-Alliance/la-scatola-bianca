@@ -22,6 +22,7 @@ Nel gioco originale, tutte le armi infliggono 1d6 danni, indipendentemente dal t
 | Attrezzi da ladro               | 25             |
 | Belladonna, mazzo               | 10             |
 | Bottiglia (vino), bicchiere     | 1              |
+| Chiodi (12), ferro              | 1              |
 | Corda (50'), canapa             | 1              |
 | Corda (50'), seta               | 5              |
 | Elmo                            | 10             |
@@ -32,7 +33,6 @@ Nel gioco originale, tutte le armi infliggono 1d6 danni, indipendentemente dal t
 | Pala                            | 5              |
 | Otre d'acqua                    | 1              |
 | Picchetti (12), legno           | 1              |
-| Picchi (12), ferro              | 1              |
 | Piede di porco                  | 5              |
 | Pietra focaia e acciaio         | 5              |
 | Rampino                         | 5              |
@@ -75,9 +75,9 @@ Nel gioco originale, tutte le armi infliggono 1d6 danni, indipendentemente dal t
 | Arma                              | **Danno** | **Peso** | **Costo (po)** |
 | --------------------------------- | --------- | -------- | -------------- |
 | Accetta‡                          | 1d6       | 5        | 3              |
-| Ascia, da battaglia ‡             | 1d6+1     | 15       | 7              |
+| Ascia, da battaglia\*             | 1d6+1     | 15       | 7              |
 | Asta (berdiche, alabarde, ecc.)\* | 1d6+1     | 15       | 7              |
-| Bastone *                         | 1d6       | 10       | 1              |
+| Bastone\*                         | 1d6       | 10       | 1              |
 | Clava                             | 1d6       | 10       | -              |
 | Flagello                          | 1d6       | 15       | 8              |
 | Lancia†‡                          | 1d6       | 10       | 2              |
@@ -86,7 +86,7 @@ Nel gioco originale, tutte le armi infliggono 1d6 danni, indipendentemente dal t
 | Mazza Chiodata                    | 1d6       | 15       | 6              |
 | Pugnale                           | 1d6-1     | 2        | 3              |
 | Spada corta                       | 1d6-1     | 5        | 8              |
-| Spada, a due mani*                | 1d6+1     | 15       | 15             |
+| Spada, a due mani\*               | 1d6+1     | 15       | 15             |
 | Spada, lunga                      | 1d6       | 10       | 10             |
 
 \* Arma a due mani

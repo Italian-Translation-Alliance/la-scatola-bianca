@@ -657,7 +657,8 @@ Questo incantesimo getta le creature in un sonno profondo (nessun tiro salvezza 
 |:---------------------:|:---------------------:|
 | Da meno di 1 DV a 1   |         2d6+3         |
 |        1+ a 2+        |          2d6          |
-|        3 a 4+1        |          1d6          |
+|        3 a 3+1        |          1d6          |
+|        4 a 4+1        |           1           |
 
 
 ### Terreno Illusorio
@@ -672,7 +673,7 @@ Questo incantesimo cambia l'aspetto di un terreno nelle sembianze di ciò che l'
 *Raggio d'azione:* 120'  
 *Durata:* 1 ora
 
-L'incantatore può muovere oggetti usando solamente il potere della mente. La quantità di peso che può alzare e muovere è 20 pounds (9 Kg) per livello. 
+L'incantatore può muovere oggetti usando solamente il potere della mente. La quantità di peso che può alzare e muovere è 20 libbre (9 kg) per livello. 
 
 ### Teletrasporto
 *Livello:* M5  

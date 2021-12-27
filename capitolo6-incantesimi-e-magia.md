@@ -655,8 +655,8 @@ Questo incantesimo getta le creature in un sonno profondo (nessun tiro salvezza 
 
 |    DV della Vittima   | Numero di Influenzati |
 |:---------------------:|:---------------------:|
-| Da meno di 1 DV a 1   |         2d6+3         |
-|        1+ a 2+        |          2d6          |
+| Da meno di 1 DV a 1+1 |          3d6          |
+|        2 a 2+1        |          2d6          |
 |        3 a 3+1        |          1d6          |
 |        4 a 4+1        |           1           |
 

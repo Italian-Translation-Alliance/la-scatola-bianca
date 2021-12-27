@@ -61,8 +61,8 @@ Un tiro di 1-19 su un d20 significa un tiro sulla tabella delle gemme/gioielli m
 | Tiro | **Risultato**                                                       |
 |:----:|:-------------------------------------------------------------------:|
 | 1    | Tirate 6 volte sulla tabella delle Pozioni                          |
-| 2-3  | Tirate 1d6+12 sulla tabella delle Pergamene                         |
-| 4-5  | Tirate 1d6+12 sulla tabella delle Armi e Armature                   |
+| 2-3  | Tirate 1d8+12 sulla tabella delle Pergamene                         |
+| 4-5  | Tirate 1d8+12 sulla tabella delle Armi e Armature                   |
 | 6    | Tirate 1d20+40 sulla tabella delle Varie (include Anelli e Bastoni) |
 
 #### Cambio per 1,000 po

@@ -194,7 +194,7 @@ L'incantatore crea un contatto mentale con i piani, le forze, i poteri e le geom
 |     6     |    1-12    |  13-19 |       20      |
 
 * I Piani sono la "profondità' a cui l'incantatore decide di cercare la verità; numero di domande Sì/No a cui ci sarà risposta. 
-† La Follia temporanea dura per un numero di settimane pari alla profondità del piano dove la sanità mentale dell'incantatore e ceduta.
+† La Follia temporanea dura per un numero di settimane pari alla profondità del piano dove la sanità mentale dell'incantatore è ceduta.
 ‡ Questo rappresenta la possibilità di sbagliarsi o fraintendere la risposta. 
 
 ### Controllo Atmosferico

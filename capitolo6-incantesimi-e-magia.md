@@ -123,7 +123,7 @@ Questo incantesimo anima scheletri o zombie da corpi morti. 1d6 non-morti sono a
 
 ### Benedire (Maledire)
 *Livello:* C2  
-*Raggio d'azione:* Pg o PNG bersaglio (fuori dal combattimento)  
+*Raggio d'azione:* PG o PNG bersaglio (fuori dal combattimento)  
 *Durata:* 1 ora
 
 L'incantatore deve annunciare quale delle due opzioni deve essere lanciata. Chi subisce l'incantesimo non può essere in combattimento nel momento in cui viene lanciato. 
@@ -309,7 +309,7 @@ Entro un raggio di 60', muoiono fino a 2d8 creature con meno di 7 DV.
 *Durata:* 1 ora (C), 20 minuti (M)
 
 - Come Individuare Caos, l'incantatore individua creature del Caos, o coloro che hanno incanti, pensieri, o auree caotici entro il raggio dell'incantesimo. Il Veleno non è intrinsecamente malvagio o caotico e non può essere individuato da questo incantesimo.
-- Come Individuare Legge, l'incantesimo funziona esattamente come Individuare Caos eccenzion fatta che individua la Legge.
+- Come Individuare Legge, l'incantesimo funziona esattamente come Individuare Caos eccezion fatta che individua la Legge.
 
 ### Individuare l'Invisibilità 
 *Livello:* M2  

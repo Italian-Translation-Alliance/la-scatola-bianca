@@ -318,7 +318,7 @@ Tirate 1d8 e aggiungi +0, +6 o +12, a seconda che il tesoro sia minore, medio o 
 |:----:|:----------------------------:|
 | 1-4  | Danno addizionale (+1)       |
 | 5    | Illumina, raggio di 15 piedi |
-| 6    | Illumina, 30 ft. raggio      |
+| 6    | Illumina, raggio di 30 piedi |
 
 #### Tabella 59: Armi Magiche Insolite
 

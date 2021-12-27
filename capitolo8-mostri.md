@@ -16,7 +16,7 @@ La "Classe Armatura" è spiegata in precedenza nelle regole di combattimento. Se
 
 ### Punti Esperienza
 
-I "Punti Esperienza" sono presentati dopo il punteggio di Dado Vita Equivalente (DVE) di un mostro ed elencano il numero di PE che il gruppo di avventurieri guadagna come risultato dell'uccisione della creatura. In alcuni casi, tuttavia, l'Arbitro può scegliere di assegnare punti esperienza per aver sconfitto una creatura senza ucciderla (aggirandola con mezzi creativi, catturandola per portarla a casa, ecc). Alcuni mostri hanno più punti esperienza indicati, questo perché alcuni mostri hanno una scala di Dadi Vita. L'ordine è sempre dal DV più basso al più alto.
+I "Punti Esperienza" sono presentati dopo il punteggio di Dado Vita Equivalente (DVE) di un mostro ed elencano il numero di PE che il gruppo di avventurieri guadagna come risultato dell'uccisione della creatura. In alcuni casi, tuttavia, l'Arbitro può scegliere di assegnare punti esperienza per aver sconfitto una creatura senza ucciderla (aggirandola con mezzi creativi, catturandola per portarla a casa, ecc.). Alcuni mostri hanno più punti esperienza indicati, questo perché alcuni mostri hanno una scala di Dadi Vita. L'ordine è sempre dal DV più basso al più alto.
 
 ### Dadi Vita
 
@@ -287,7 +287,7 @@ Un destriero notturno è un cavallo nero con occhi rosso fuoco e una criniera di
 *Movimento*: 9/24 (quando vola)  
 *DVE/PE*: 9/1,100
 
-I Djinn sono uno dei geni del folklore, creature dell'aria (e forse dei piani elementali). Possono trasportare 700 libbre di peso e hanno una serie di poteri magici. Un djinni può creare cibo e acqua di alta qualità, così come oggetti di legno e stoffa; può anche creare oggetti di metallo (comprese le monete), ma tutti i metalli creati magicamente scompaiono nel tempo. I Djinn possono evocare delle illusioni che, sebbene siano a loro modo eccellenti, scompaiono quando vengono toccate. I djinn possono trasformarsi in forma gassosa (non possono attaccare o essere attaccati, possono entrare in qualsiasi area che non sia ermeticamente chiusa) e possono diventare invisibili a volontà. Infine, un djinni può trasformarsi in un turbine molto simile a un elementale dell'aria, spazzando via qualsiasi creatura con uno o meno dadi vita (il diametro del turbine è di 10'). Tipi più potenti di djinn potrebbero essere in grado di concedere desideri limitati o addirittura veri desideri.
+I Djinn sono uno dei geni del folklore, creature dell'aria (e forse dei piani elementali). Possono trasportare 700 libbre di peso e hanno una serie di poteri magici. Un djinn può creare cibo e acqua di alta qualità, così come oggetti di legno e stoffa; può anche creare oggetti di metallo (comprese le monete), ma tutti i metalli creati magicamente scompaiono nel tempo. I Djinni possono evocare delle illusioni che, sebbene siano a loro modo eccellenti, scompaiono quando vengono toccate. I djinni possono trasformarsi in forma gassosa (non possono attaccare o essere attaccati, possono entrare in qualsiasi area che non sia ermeticamente chiusa) e possono diventare invisibili a volontà. Infine, un djinni può trasformarsi in un turbine molto simile a un elementale dell'aria, spazzando via qualsiasi creatura con uno o meno dadi vita (il diametro del turbine è di 10'). Tipi più potenti di djinn potrebbero essere in grado di concedere desideri limitati o addirittura veri desideri.
 
 ### Doppelganger
 
@@ -1262,7 +1262,7 @@ Gli uomini lucertola sono rettili umanoidi  che di solito vivono in villaggi tri
 *Movimento*: 12/18 (quando vola)  
 *DVE/PE*: 9/1,100; 10/1,400; 11/1,700
 
-I vampiri sono tra le creature non-morte più potenti. Possono essere colpiti solo con armi magiche e quando vengono "uccisi" in questo modo si trasformano in una forma gassosa, tornando nelle loro bare. Si rigenerano al ritmo di 3 punti ferita per round, possono trasformarsi in forma gassosa o in un pipistrello gigante a volontà e possono evocare un'orda di pipistrelli o 3d6 lupi dalla notte. Guardare negli occhi di un vampiro richiede un tiro salvezza a -2 o il personaggio viene incantato (come per l'incantesimo Ammalliare le Persone). Ancor più terrificante, il morso di un vampiro drena due livelli alla vittima.
+I vampiri sono tra le creature non-morte più potenti. Possono essere colpiti solo con armi magiche e quando vengono "uccisi" in questo modo si trasformano in una forma gassosa, tornando nelle loro bare. Si rigenerano al ritmo di 3 punti ferita per round, possono trasformarsi in forma gassosa o in un pipistrello gigante a volontà e possono evocare un'orda di pipistrelli o 3d6 lupi dalla notte. Guardare negli occhi di un vampiro richiede un tiro salvezza a -2 o il personaggio viene incantato (come per l'incantesimo Ammaliare le Persone). Ancor più terrificante, il morso di un vampiro drena due livelli alla vittima.
 
 Fortunatamente, i vampiri hanno alcune debolezze. Possono essere uccisi (questi sono gli unici metodi conosciuti) immergendoli in acqua corrente, esponendoli alla luce del sole o conficcando un paletto di legno nel cuore. Sono repulsi dall'odore di aglio, dalla vista di uno specchio o dalla vista di simboli sacri "buoni". Ogni essere umano ucciso da un vampiro diventa un vampiro sotto il controllo del suo creatore. Questa descrizione si riconosce facilmente come il tipo di vampiro "Dracula".
 

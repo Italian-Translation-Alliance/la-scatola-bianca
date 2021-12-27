@@ -149,20 +149,20 @@ Per la classe dei personaggi incontrati, tirare un d6 per il loro allineamento: 
 |  12  | Scarabeo, di Fuoco Gigante |         Elfo, Scuro        |        Elfo, Scuro        |
 
 
-| Tiro |       Livello 4      |      Livello 5      |      Livello 6     |
-|:----:|:--------------------:|:-------------------:|:------------------:|
-|   1  |   Segugio Infernale  |  Segugio Infernale  |  Segugio Infernale |
-|   2  |  Millepiede, Gigante |         Idra        |    Drago, Bianco   |
-|   3  |     Doppelganger     |    Drago, Bianco    |     Drago, Nero    |
-|   4  |       Gargoyle       |      Coccatrice     |        Idra        |
-|   5  |    Cubo Gelatinoso   |     Muffa Gialla    |      Basilisco     |
-|   6  |         Worg         |        Mummia       | Cane Intermittente |
-|   7  |      Apparizione     |         Orco        |       Medusa       |
-|   8  |         Orco         |      Orco Mago      |       Spettro      |
-|   9  | Guerriero, livello 4 | Guerriero,livello 5 |        Troll       |
-|  10  |  Chierico,livello 4  | Chierico, livello 5 |   Mago, livello 5  |
-|  11  |    Mago, livello 3   |   Mago, livello 4   |  Ladro, livello 6  |
-|  12  |   Ladro, livello 4   |   Ladro, livello 5  |        Sidhe       |
+| Tiro |       Livello 4      |      Livello 5       |      Livello 6     |
+|:----:|:--------------------:|:--------------------:|:------------------:|
+|   1  |   Segugio Infernale  |  Segugio Infernale   |  Segugio Infernale |
+|   2  |  Millepiede, Gigante |         Idra         |    Drago, Bianco   |
+|   3  |     Doppelganger     |    Drago, Bianco     |     Drago, Nero    |
+|   4  |       Gargoyle       |      Coccatrice      |        Idra        |
+|   5  |    Cubo Gelatinoso   |     Muffa Gialla     |      Basilisco     |
+|   6  |         Worg         |        Mummia        | Cane Intermittente |
+|   7  |      Apparizione     |         Orco         |       Medusa       |
+|   8  |         Orco         |      Orco Mago       |       Spettro      |
+|   9  | Guerriero, livello 4 | Guerriero, livello 5 |        Troll       |
+|  10  |  Chierico, livello 4 | Chierico, livello 5  |   Mago, livello 5  |
+|  11  |    Mago, livello 3   |   Mago, livello 4    |  Ladro, livello 6  |
+|  12  |   Ladro, livello 4   |   Ladro, livello 5   |        Sidhe       |
 
 
 | Tiro |     Livello 7     |         Livello 8        |       Livello 9      |       Livello 10      |
@@ -201,18 +201,18 @@ Per la classe dei personaggi incontrati, tirare un d6 per il loro allineamento: 
 
 #### Umani
 
-| Tiro | Aperto, Foresta | Fiume,Costa | Palude, Giungla | Colline, Montagne, Arido | Civilizzato |
-|:----:|:---------------:|:-----------:|:---------------:|:------------------------:|:-----------:|
-|   1  |       PNG       |     PNG     |       PNG       |            PNG           |     PNG     |
-|   2  |     Chierici    |  Berserker  |      Maghi      |         Berserker        |   Banditi   |
-|   3  |    Guerrieri    |  Guerrieri  |    Berserker    |         Guerrieri        |   Chierici  |
-|   4  |     Banditi     |    Pirati   |    Guerrieri    |          Banditi         |    Comune   |
-|   5  |      Comune     |    Pirati   |     Banditi     |          Banditi         |    Comune   |
-|   6  |     Banditi     |   Banditi   |     Banditi     |          Banditi         |    Comune   |
-|   7  |     Soldati     |  Guerrieri  |    Guerrieri    |         Guerrieri        |   Soldati   |
-|   8  |    Guerrieri    |  Berserker  |    Berserker    |         Berserker        |   Soldati   |
-|   9  |    Berserker    |    Maghi    |      Maghi      |         Chierici         |  Guerrieri  |
-|  10  |      Maghi      |   Chierici  |     Chierici    |           Maghi          |    Maghi    |
+| Tiro | Aperto, Foresta | Fiume, Costa | Palude, Giungla | Colline, Montagne, Arido | Civilizzato |
+|:----:|:---------------:|:------------:|:---------------:|:------------------------:|:-----------:|
+|   1  |       PNG       |     PNG      |       PNG       |            PNG           |     PNG     |
+|   2  |     Chierici    |  Berserker   |      Maghi      |         Berserker        |   Banditi   |
+|   3  |    Guerrieri    |  Guerrieri   |    Berserker    |         Guerrieri        |   Chierici  |
+|   4  |     Banditi     |    Pirati    |    Guerrieri    |          Banditi         |    Comune   |
+|   5  |      Comune     |    Pirati    |     Banditi     |          Banditi         |    Comune   |
+|   6  |     Banditi     |   Banditi    |     Banditi     |          Banditi         |    Comune   |
+|   7  |     Soldati     |  Guerrieri   |    Guerrieri    |         Guerrieri        |   Soldati   |
+|   8  |    Guerrieri    |  Berserker   |    Berserker    |         Berserker        |   Soldati   |
+|   9  |    Berserker    |    Maghi     |      Maghi      |         Chierici         |  Guerrieri  |
+|  10  |      Maghi      |   Chierici   |     Chierici    |           Maghi          |    Maghi    |
 
 
 #### Umanoidi

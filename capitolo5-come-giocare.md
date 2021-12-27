@@ -254,7 +254,7 @@ L'Arbitro potrebbe voler fare delle "prove di lealtà" per i PNG messi in situaz
 | 6-8   | -1 alla prossima prova di lealtà |
 | 9-12  | Media                            |
 | 13-15 | +1 alla prossima prova di lealtà |
-| 16-17 | +2 alla prossima provadi lealtà  |
+| 16-17 | +2 alla prossima prova di lealtà |
 | 18    | Lealista                         |
 
 Un buon trattamento, il rispetto e un'equa quota del tesoro guadagnato dovrebbero garantire bonus alle prove di lealtà, mentre l'abuso, fisico o di altro tipo, porterà a penalità, abbandono o peggio. I PNG dovrebbero essere trattati come individui distinti e non come semplici estensioni del personaggio del giocatore.

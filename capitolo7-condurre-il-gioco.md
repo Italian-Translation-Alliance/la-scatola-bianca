@@ -41,7 +41,7 @@ Nel Sottomondo, controllate ogni ora (sei turni) per i mostri erranti, mentre ne
 L'incontro specifico è tirato sulla tabella. La distanza iniziale dell'incontro dipende dalle circostanze.
 
 ### Tiro di Reazione
-La reazione dei mostri ai personaggi giocanti dovrebbe essere determinata dall'Arbitro in base all'intelligenza del mostro o al buon senso e alla situazione in cui l'incontro avviene. Mostri non intelligenti attaccheranno senza pensarci. Se ci fosse una qualunque incertezza riguardo alla reazione dei mostri, può essere effettuato un tiro sulla seguente tabella.
+La reazione dei mostri ai personaggi giocanti dovrebbe essere determinata dall'Arbitro in base all'intelligenza del mostro o al buon senso e alla situazione in cui l'incontro avviene. Mostri non intelligenti attaccheranno senza pensarci. Se ci fosse una qualunque incertezza riguardo alla reazione dei mostri, può essere effettuato un tiro sulla seguente tabella. Al valore ottenuto grazie al tiro possono essere applicati modificatori in base alla situazione o alle caratteristiche dei mostri o personaggi giocanti.
 
 #### Tabella 33: Tiro di Reazione
 

@@ -197,17 +197,17 @@ Gli attacchi a distanza sono effettuati con armi come balestre, fionde o asce la
 
 Alcuni mostri, come le creature senza intelletto o non-morte, non hanno paura e combatteranno sempre fino alla morte. La maggior parte, tuttavia, non continuerà a combattere una battaglia senza speranza e cercherà di ritirarsi, arrendersi o fuggire. L'Arbitro deciderà quando i mostri abbandonano la battaglia e si ritirano, basandosi sulla situazione e sull'intelligenza del mostro. Gli arbitri dovrebbero anche usare il morale per determinare le azioni e la lealtà dei gregari o di altri PNG compagni.
 
-Se c'è incertezza sul morale dei PNG o dei mostri, la seguente tabella può essere utilizzata a discrezione dell'Arbitro.
+Se c'è incertezza sul morale dei PNG o dei mostri, la tabella in questo paragrafo può essere utilizzata a discrezione dell'Arbitro. Il valore ottenuto dopo il tiro dei dadi può essere modificato da valori dipendenti dagli avvenimenti dell’incontro (la presenza di un comandante carismatico darà un valore positivo, la perdita di più di metà del gruppo un modificatore negativo e così via).
 
 #### Tabella 20: Prova di Morale
 
-| **Tiro**     | **Morale**                           |
-|:------------:|:------------------------------------:|
-| 2 o meno     | Resa                                 |
-| 3-5          | Fuga                                 |
-| 6-8          | Posizione mantenuta                  |
-| 9-11         | Combattimento per ottenere vantaggio |
-| 12           | Attacco!                             |
+| **Tiro (2d6)** | **Morale**                           |
+|:--------------:|:------------------------------------:|
+| 2 o meno       | Resa                                 |
+| 3-5            | Fuga                                 |
+| 6-8            | Posizione mantenuta                  |
+| 9-11           | Combattimento per ottenere vantaggio |
+| 12             | Attacco!                             |
 
 ### Negoziazione e diplomazia
 

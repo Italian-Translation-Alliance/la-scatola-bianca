@@ -1,6 +1,6 @@
 # Capitolo 8: Mostri
 
-Non sono forniti molti dettagli sui mostri, perché più dettagli vengono dati, più la vostra immagine mentale del mondo fantastico sarà bloccata su un unico binario. Non diremo che le formiche giganti sono rosse, notturne, lunghe un metro e mezzo e amano mangiare gli elfi. Perché, nella vostra mente, potrebbero essere blu, diurne, lunghe un metro e mezzo e mangiare solo piante, a meno che non vengano attaccate. I dettagli sui mostri pongono ostacoli all'immaginazione. Sì, i dettagli possono anche ispirare l'immaginazione, ma stiamo dando per scontato che, se siete interessati al gioco fantasy, avete già una buona immaginazione e non avete bisogno di dettagli sulle dimensioni di una formica gigante.
+Non sono forniti molti dettagli sui mostri, perché più dettagli vengono dati, più la vostra immagine mentale del mondo fantastico sarà bloccata su un unico binario. Non diremo che le formiche giganti sono rosse, notturne, lunghe tre piedi e amano mangiare gli elfi. Perché, nella vostra mente, potrebbero essere blu, diurne, lunghe cinque piedi e mangiare solo piante, a meno che non vengano attaccate. I dettagli sui mostri pongono ostacoli all'immaginazione. Sì, i dettagli possono anche ispirare l'immaginazione, ma stiamo dando per scontato che, se siete interessati al gioco fantasy, avete già una buona immaginazione e non avete bisogno di dettagli sulle dimensioni di una formica gigante.
 
 Una caratteristica importante di tutti i mostri, però, è che possono vedere al buio.
 
@@ -16,7 +16,7 @@ La "Classe Armatura" è spiegata in precedenza nelle regole di combattimento. Se
 
 ### Punti Esperienza
 
-I "Punti Esperienza" sono presentati dopo il punteggio di Dado Vita Equivalente (DVE) di un mostro ed elencano il numero di PE che il gruppo di avventurieri guadagna come risultato dell'uccisione della creatura. In alcuni casi, tuttavia, l'Arbitro può scegliere di assegnare punti esperienza per aver sconfitto una creatura senza ucciderla (aggirandola con mezzi creativi, catturandola per portarla a casa, ecc). Alcuni mostri hanno più punti esperienza indicati, questo perché alcuni mostri hanno una scala di Dadi Vita. L'ordine è sempre dal DV più basso al più alto.
+I "Punti Esperienza" sono presentati dopo il punteggio di Dado Vita Equivalente (DVE) di un mostro ed elencano il numero di PE che il gruppo di avventurieri guadagna come risultato dell'uccisione della creatura. In alcuni casi, tuttavia, l'Arbitro può scegliere di assegnare punti esperienza per aver sconfitto una creatura senza ucciderla (aggirandola con mezzi creativi, catturandola per portarla a casa, ecc.). Alcuni mostri hanno più punti esperienza indicati, questo perché alcuni mostri hanno una scala di Dadi Vita. L'ordine è sempre dal DV più basso al più alto.
 
 ### Dadi Vita
 
@@ -287,7 +287,7 @@ Un destriero notturno è un cavallo nero con occhi rosso fuoco e una criniera di
 *Movimento*: 9/24 (quando vola)  
 *DVE/PE*: 9/1,100
 
-I Djinn sono uno dei geni del folklore, creature dell'aria (e forse dei piani elementali). Possono trasportare 700 libbre di peso e hanno una serie di poteri magici. Un djinni può creare cibo e acqua di alta qualità, così come oggetti di legno e stoffa; può anche creare oggetti di metallo (comprese le monete), ma tutti i metalli creati magicamente scompaiono nel tempo. I Djinn possono evocare delle illusioni che, sebbene siano a loro modo eccellenti, scompaiono quando vengono toccate. I djinn possono trasformarsi in forma gassosa (non possono attaccare o essere attaccati, possono entrare in qualsiasi area che non sia ermeticamente chiusa) e possono diventare invisibili a volontà. Infine, un djinni può trasformarsi in un turbine molto simile a un elementale dell'aria, spazzando via qualsiasi creatura con uno o meno dadi vita (il diametro del turbine è di 10'). Tipi più potenti di djinn potrebbero essere in grado di concedere desideri limitati o addirittura veri desideri.
+I Djinn sono uno dei geni del folklore, creature dell'aria (e forse dei piani elementali). Possono trasportare 700 libbre (317 kg) di peso e hanno una serie di poteri magici. Un djinni può creare cibo e acqua di alta qualità, così come oggetti di legno e stoffa; può anche creare oggetti di metallo (comprese le monete), ma tutti i metalli creati magicamente scompaiono nel tempo. I Djinn possono evocare delle illusioni che, sebbene siano a loro modo eccellenti, scompaiono quando vengono toccate. I djinn possono trasformarsi in forma gassosa (non possono attaccare o essere attaccati, possono entrare in qualsiasi area che non sia ermeticamente chiusa) e possono diventare invisibili a volontà. Infine, un djinni può trasformarsi in un turbine molto simile a un elementale dell'aria, spazzando via qualsiasi creatura con uno o meno dadi vita (il diametro del turbine è di 10'). Tipi più potenti di djinn potrebbero essere in grado di concedere desideri limitati o addirittura veri desideri.
 
 ### Doppelganger
 
@@ -397,7 +397,7 @@ I draghi rossi sono gli spiriti di fuoco della leggenda. Sputano fuoco con un co
 *Movimento*: 12/24 (quando vola)  
 *DVE/PE*: 9/1,100; 10/1,400; 11/1,700
 
-I draghi verdi soffiano una nuvola di gas velenoso che ha un diametro di 15 metri.
+I draghi verdi soffiano una nuvola di gas velenoso che ha un diametro di 50 piedi.
 Un tiro salvezza riuscito dimezza il danno.
 
 ### Driade
@@ -446,7 +446,7 @@ Gli elementali d'acqua non possono muoversi a più di 60 piedi da un grande corp
 *Movimento*: 36 (quando vola)  
 *DVE/PE*: 9/1,100; 13/2,300; 17/3,500
 
-Gli elementali dell'aria possono trasformarsi in un turbine d'aria con un diametro di 30 piedi, scagliando qualsiasi creatura di 1 DV o meno per grandi distanze (quasi certamente uccidendola). I vortici elementali sono alti circa 30 metri.
+Gli elementali dell'aria possono trasformarsi in un turbine d'aria con un diametro di 30 piedi, scagliando qualsiasi creatura di 1 DV o meno per grandi distanze (quasi certamente uccidendola). I vortici elementali sono alti circa 100 piedi.
 
 ### Elementale, Fuoco
 
@@ -560,7 +560,7 @@ I giganti di collina sono l'ultima delle razze giganti; la maggior parte sono br
 *Movimento*: 12  
 *DVE/PE*: 10/1,400
 
-Con l'aspetto di uomini giganti (alti tre metri) con barbe rosse fiammeggianti, i firbolg abitano le regioni rocciose e vulcaniche dove vivono in clan di minatori e coltivatori di funghi sotterranei. A differenza degli altri giganti, non sono bellicosi per natura e preferiscono invece fare un uso prodigioso della loro capacità di lanciare massi e combattere a distanza, che infliggono 2d6 punti di danno. Sono intelligenti come gli umani e hanno la capacità naturale di lanciare la magia a volontà. 
+Con l'aspetto di uomini giganti (alti dieci piedi) con barbe rosse fiammeggianti, i firbolg abitano le regioni rocciose e vulcaniche dove vivono in clan di minatori e coltivatori di funghi sotterranei. A differenza degli altri giganti, non sono bellicosi per natura e preferiscono invece fare un uso prodigioso della loro capacità di lanciare massi e combattere a distanza, che infliggono 2d6 punti di danno. Sono intelligenti come gli umani e hanno la capacità naturale di lanciare la magia a volontà. 
 
 ### Gigante, Fuoco
 
@@ -743,17 +743,6 @@ I grifoni hanno il corpo di un leone, con le ali, la testa e le zampe anteriori 
 
 Gli hobgoblin sono semplicemente dei grandi goblin, probabilmente una razza separata che vive separata dai loro cugini più piccoli. Per una questione di varietà della campagna, l'Arbitro potrebbe scegliere di rendere gli hobgoblin i goblin "Fey" della leggenda irlandese, mentre i goblin normali sono gli abitanti del sottosuolo più in stile Tolkien.
 
-### Kraken
-
-*Classe Armatura*: 2 [17]  
-*Dadi Vita*: 15  
-*Attacchi*: Tentacolo (2d6) o Morso (4d6)  
-*Speciale*: Ingoia Tutto  
-*Movimento*: 15 nuotare  
-*DVE/PE*: 15/2,900
-
-Questi enormi mostri marini assomigliano a calamari di dimensioni inimmaginabili con otto (o più) appendici contorte. Attaccano intere navi, facendole a pezzi e ingoiandone l'intero equipaggio con la loro enorme bocca dentata. Quando un kraken attacca, afferra un bersaglio con uno dei suoi tentacoli nel primo round, tenta di morderlo nel secondo round e poi lo ingoia per intero nel terzo round. Un bersaglio che è stato inghiottito intero viene ucciso. I Kraken hanno tipicamente otto tentacoli e possono effettuare un attacco con ognuno di essi a ogni round di combattimento.
-
 ### Idra
 
 *Classe Armatura*: 5 [14]  
@@ -787,6 +776,17 @@ Gli inseguitori invisibili si trovano generalmente solo come risultato dell'inca
 
 L'ippogrifo è simile a un grifone, avendo la testa, gli artigli anteriori e le ali di un'aquila, ma invece del corpo di un leone, ha il corpo di un cavallo. Il poema Orlando Furioso (scritto nel 1516) suggerisce che l'ippogrifo è la progenie di un grifone e di un cavallo, ma sono apparentemente una razza indipendente, perché la tradizione folcloristica sostiene che i grifoni attaccano spesso gli ippogrifi. Gli ippogrifi non sono così difficili da addestrare come i grifoni - di nuovo, dall'Orlando Furioso: 
 > "Quivi per forza lo tirò d’incanto; e poi che l’ebbe, ad altro non attese, e con studio e fatica operò tanto, ch’a sella e briglia il cavalcò in un mese: cosí ch’in terra e in aria e in ogni canto lo facea volteggiar senza contese."
+
+### Kraken
+
+*Classe Armatura*: 2 [17]  
+*Dadi Vita*: 15  
+*Attacchi*: Tentacolo (2d6) o Morso (4d6)  
+*Speciale*: Ingoia Tutto  
+*Movimento*: 15 nuotare  
+*DVE/PE*: 15/2,900
+
+Questi enormi mostri marini assomigliano a calamari di dimensioni inimmaginabili con otto (o più) appendici contorte. Attaccano intere navi, facendole a pezzi e ingoiandone l'intero equipaggio con la loro enorme bocca dentata. Quando un kraken attacca, afferra un bersaglio con uno dei suoi tentacoli nel primo round, tenta di morderlo nel secondo round e poi lo ingoia per intero nel terzo round. Un bersaglio che è stato inghiottito intero viene ucciso. I Kraken hanno tipicamente otto tentacoli e possono effettuare un attacco con ognuno di essi a ogni round di combattimento.
 
 ## Licantropi.
 
@@ -938,7 +938,7 @@ Questo millepiedi gigante a misura d'uomo è un predatore mortale con segmenti c
 *Movimento*: 18  
 *DVE/PE*: 6/400  
 
-Un orrore lungo sei metri di chitina, molteplici zampe e pinze schioccanti e che grondano veleno (modificatore di +6 al tiro salvezza dell'avversario).
+Un orrore lungo venti piedi di chitina, molteplici zampe e pinze schioccanti e che grondano veleno (modificatore di +6 al tiro salvezza dell'avversario).
 
 ### Muffa Gialla
 
@@ -949,7 +949,7 @@ Dadi di Colpo: N/A
 *Movimento*: 0  
 *DVE/PE*: 3/60  
 
-La muffa gialla è un fungo sotterraneo; non si muove né attacca. Tuttavia, se viene colpito o punzecchiato, può (50% di probabilità) rilasciare una nuvola di spore velenose, del diametro di circa 3 metri. Fallire un tiro salvezza contro le spore significa che il personaggio muore di una morte piuttosto orribile. Toccare la muffa gialla causa 1d6 punti di danno acido. Queste escrescenze possono essere distrutte con il fuoco.
+La muffa gialla è un fungo sotterraneo; non si muove né attacca. Tuttavia, se viene colpito o punzecchiato, può (50% di probabilità) rilasciare una nuvola di spore velenose, del diametro di circa 10 piedi. Fallire un tiro salvezza contro le spore significa che il personaggio muore di una morte piuttosto orribile. Toccare la muffa gialla causa 1d6 punti di danno acido. Queste escrescenze possono essere distrutte con il fuoco.
 
 ### Nano
 
@@ -1262,7 +1262,7 @@ Gli uomini lucertola sono rettili umanoidi  che di solito vivono in villaggi tri
 *Movimento*: 12/18 (quando vola)  
 *DVE/PE*: 9/1,100; 10/1,400; 11/1,700
 
-I vampiri sono tra le creature non-morte più potenti. Possono essere colpiti solo con armi magiche e quando vengono "uccisi" in questo modo si trasformano in una forma gassosa, tornando nelle loro bare. Si rigenerano al ritmo di 3 punti ferita per round, possono trasformarsi in forma gassosa o in un pipistrello gigante a volontà e possono evocare un'orda di pipistrelli o 3d6 lupi dalla notte. Guardare negli occhi di un vampiro richiede un tiro salvezza a -2 o il personaggio viene incantato (come per l'incantesimo Ammalliare le Persone). Ancor più terrificante, il morso di un vampiro drena due livelli alla vittima.
+I vampiri sono tra le creature non-morte più potenti. Possono essere colpiti solo con armi magiche e quando vengono "uccisi" in questo modo si trasformano in una forma gassosa, tornando nelle loro bare. Si rigenerano al ritmo di 3 punti ferita per round, possono trasformarsi in forma gassosa o in un pipistrello gigante a volontà e possono evocare un'orda di pipistrelli o 3d6 lupi dalla notte. Guardare negli occhi di un vampiro richiede un tiro salvezza a -2 o il personaggio viene incantato (come per l'incantesimo Ammaliare le Persone). Ancor più terrificante, il morso di un vampiro drena due livelli alla vittima.
 
 Fortunatamente, i vampiri hanno alcune debolezze. Possono essere uccisi (questi sono gli unici metodi conosciuti) immergendoli in acqua corrente, esponendoli alla luce del sole o conficcando un paletto di legno nel cuore. Sono repulsi dall'odore di aglio, dalla vista di uno specchio o dalla vista di simboli sacri "buoni". Ogni essere umano ucciso da un vampiro diventa un vampiro sotto il controllo del suo creatore. Questa descrizione si riconosce facilmente come il tipo di vampiro "Dracula".
 

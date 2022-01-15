@@ -61,8 +61,8 @@ Un tiro di 1-19 su un d20 significa un tiro sulla tabella delle gemme/gioielli m
 | Tiro | **Risultato**                                                       |
 |:----:|:-------------------------------------------------------------------:|
 | 1    | Tirate 6 volte sulla tabella delle Pozioni                          |
-| 2-3  | Tirate 1d6+12 sulla tabella delle Pergamene                         |
-| 4-5  | Tirate 1d6+12 sulla tabella delle Armi e Armature                   |
+| 2-3  | Tirate 1d8+12 sulla tabella delle Pergamene                         |
+| 4-5  | Tirate 1d8+12 sulla tabella delle Armi e Armature                   |
 | 6    | Tirate 1d20+40 sulla tabella delle Varie (include Anelli e Bastoni) |
 
 #### Cambio per 1,000 po
@@ -318,7 +318,7 @@ Tirate 1d8 e aggiungi +0, +6 o +12, a seconda che il tesoro sia minore, medio o 
 |:----:|:----------------------------:|
 | 1-4  | Danno addizionale (+1)       |
 | 5    | Illumina, raggio di 15 piedi |
-| 6    | Illumina, 30 ft. raggio      |
+| 6    | Illumina, raggio di 30 piedi |
 
 #### Tabella 59: Armi Magiche Insolite
 

@@ -171,7 +171,7 @@ Oltre ai vari mezzi magici per ripristinare i PF, un personaggio recupera 1 punt
 
 ### Bendare le ferite (opzionale)
 
-Gli Arbitri possono permettere ai personaggi di guarire 1d4 PF bendando le ferite dopo una battaglia. Questo è particolarmente utile in campagne con poca magia o in avventure in cui nessuno dei giocatori ha scelto di giocare un Chierico.
+Gli Arbitri possono permettere ai personaggi di guarire 1d6 PF bendando le ferite dopo una battaglia. Questo è particolarmente utile in campagne con poca magia o in avventure in cui nessuno dei giocatori ha scelto di giocare un Chierico.
 
 Si noti che il personaggio può solo recuperare i PF persi durante questa particolare battaglia. I PF recuperati non possono far sì che un personaggio abbia più punti ferita del normale.
 

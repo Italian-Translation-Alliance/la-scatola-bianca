@@ -75,9 +75,9 @@ Nel gioco originale, tutte le armi infliggono 1d6 danni, indipendentemente dal t
 | Arma                              | **Danno** | **Peso** | **Costo (po)** |
 | --------------------------------- | --------- | -------- | -------------- |
 | Accetta‡                          | 1d6       | 5        | 3              |
-| Ascia, da battaglia ‡             | 1d6+1     | 15       | 7              |
+| Ascia, da battaglia\*             | 1d6+1     | 15       | 7              |
 | Asta (berdiche, alabarde, ecc.)\* | 1d6+1     | 15       | 7              |
-| Bastone *                         | 1d6       | 10       | 1              |
+| Bastone\*                         | 1d6       | 10       | 1              |
 | Clava                             | 1d6       | 10       | -              |
 | Flagello                          | 1d6       | 15       | 8              |
 | Lancia†‡                          | 1d6       | 10       | 2              |
@@ -86,7 +86,7 @@ Nel gioco originale, tutte le armi infliggono 1d6 danni, indipendentemente dal t
 | Mazza Chiodata                    | 1d6       | 15       | 6              |
 | Pugnale                           | 1d6-1     | 2        | 3              |
 | Spada corta                       | 1d6-1     | 5        | 8              |
-| Spada, a due mani*                | 1d6+1     | 15       | 15             |
+| Spada, a due mani\*               | 1d6+1     | 15       | 15             |
 | Spada, lunga                      | 1d6       | 10       | 10             |
 
 \* Arma a due mani
@@ -116,7 +116,7 @@ Nel gioco originale, tutte le armi infliggono 1d6 danni, indipendentemente dal t
 
 \* La cadenza di fuoco è il numero di proiettili che possono essere tirati per round di combattimento
 
-† È previsto un bonus "per colpire" di +2 per le armi a distanza utilizzate a breve corto raggio (x1), un bonus di +1 "per colpire" a medio raggio (x2) e nessun bonus o penalità penalità per gli attacchi a lunga distanza (x3)
+† È previsto un bonus "per colpire" di +2 per le armi a distanza utilizzate a breve corto raggio (x1), un bonus di +1 "per colpire" a medio raggio (x2) e nessun bonus o penalità per gli attacchi a lunga distanza (x3)
 
 #### Tabella 13: Armature
 

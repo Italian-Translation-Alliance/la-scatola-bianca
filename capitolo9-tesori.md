@@ -61,8 +61,8 @@ Un tiro di 1-19 su un d20 significa un tiro sulla tabella delle gemme/gioielli m
 | Tiro | **Risultato**                                                       |
 |:----:|:-------------------------------------------------------------------:|
 | 1    | Tirate 6 volte sulla tabella delle Pozioni                          |
-| 2-3  | Tirate 1d6+12 sulla tabella delle Pergamene                         |
-| 4-5  | Tirate 1d6+12 sulla tabella delle Armi e Armature                   |
+| 2-3  | Tirate 1d8+12 sulla tabella delle Pergamene                         |
+| 4-5  | Tirate 1d8+12 sulla tabella delle Armi e Armature                   |
 | 6    | Tirate 1d20+40 sulla tabella delle Varie (include Anelli e Bastoni) |
 
 #### Cambio per 1,000 po
@@ -156,7 +156,7 @@ Un tiro di 1-19 su un d20 significa un tiro sulla tabella delle Gemme/Gioielli M
 
 **Chiaroveggenza**: come da Incantesimo.
 
-**Crescita**: Il personaggio cresce e diventa alto 30 piedi.
+**Crescita**: Il personaggio cresce e diventa alto 30'.
 
 **Diminuzione**: Chi beve si rimpicciolisce e diventa alto 15 cm per 2d6 ore.
 
@@ -180,7 +180,7 @@ Un tiro di 1-19 su un d20 significa un tiro sulla tabella delle Gemme/Gioielli M
 
 **Resistenza al fuoco**: Conferisce immunità al fuoco normale, +2 tiri salvezza contro gli attacchi di fuoco e danni dimezzati agli attacchi di fuoco magico che non permettono tiri salvezza.
 
-**Ritrovamento di tesori**: Il personaggio è in grado di individuare tesori entro 400 piedi dalla sua posizione attuale.
+**Ritrovamento di tesori**: Il personaggio è in grado di individuare tesori entro 400' dalla sua posizione attuale.
 
 **Scivolosità**: Tranne le piante dei piedi e i palmi delle mani, il personaggio ha una superficie praticamente senza attrito.
 
@@ -230,19 +230,19 @@ Tirate 1d8 e aggiungi +0, +6 o +12, a seconda che il tesoro sia minore, medio o 
 
 ### Descrizioni delle Pergamene di Protezione
 
-**Annegamento**: Tutte le persone entro un raggio di 10 piedi da chi legge guadagnano la capacità di respirare sott'acqua per 1 giorno intero.
+**Annegamento**: Tutte le persone entro un raggio di 10' da chi legge guadagnano la capacità di respirare sott'acqua per 1 giorno intero.
 
-**Demoni**: Tutte le persone in un raggio di 10 piedi intorno a chi legge sono protette dagli attacchi di 1 demone per round per un periodo di 40 minuti.
+**Demoni**: Tutte le persone in un raggio di 10' intorno a chi legge sono protette dagli attacchi di 1 demone per round per un periodo di 40 minuti.
 
 **Elementali**: Questa pergamena protegge da un singolo elementale e dura per una durata di 40 minuti.
 
-**Licantropi**: Tutte le persone in un raggio di 10 piedi intorno a chi legge, per la durata di un'ora, sono protette dai licantropi.
+**Licantropi**: Tutte le persone in un raggio di 10' intorno a chi legge, per la durata di un'ora, sono protette dai licantropi.
 
-**Magia**: Un guscio antimagia circonda e si muove con chi legge per 1 ora, con un raggio di 10 piedi. Gli incantesimi non possono entrare o uscire dal guscio.
+**Magia**: Un guscio antimagia circonda e si muove con chi legge per 1 ora, con un raggio di 10'. Gli incantesimi non possono entrare o uscire dal guscio.
 
 **Metallo**: Il metallo non può danneggiare chi legge per la durata di 1 ora.
 
-**Non-morto**: Tutti coloro che si trovano in un raggio di 10 piedi dal lettore sono protetti contro i non-morti, ma solo in misura limitata. In ogni round, 2d12 non morti con DV inferiore a 4, e 2d6 non morti con dadi vita 4-5, e 1d6 non morti con dadi vita 6+ sono sventati dalla protezione della pergamena. Pertanto, la pergamena è efficace contro tutti, tranne che contro una vera e propria orda di non-morti.
+**Non-morto**: Tutti coloro che si trovano in un raggio di 10' dal lettore sono protetti contro i non-morti, ma solo in misura limitata. In ogni round, 2d12 non morti con DV inferiore a 4, e 2d6 non morti con dadi vita 4-5, e 1d6 non morti con dadi vita 6+ sono sventati dalla protezione della pergamena. Pertanto, la pergamena è efficace contro tutti, tranne che contro una vera e propria orda di non-morti.
 
 **Veleno**: Il veleno non può danneggiare chi legge per un periodo di 6 ore, e qualsiasi veleno nel suo sistema viene rimosso.
 
@@ -314,11 +314,11 @@ Tirate 1d8 e aggiungi +0, +6 o +12, a seconda che il tesoro sia minore, medio o 
 
 #### Tabella 58: Abilità minori per le armi da mischia
 
-| Tiro | **Tipo**                     |
-|:----:|:----------------------------:|
-| 1-4  | Danno addizionale (+1)       |
-| 5    | Illumina, raggio di 15 piedi |
-| 6    | Illumina, 30 ft. raggio      |
+| Tiro | **Tipo**              |
+|:----:|:---------------------:|
+| 1-4  | Danno addizionale (+1)|
+| 5    | Illumina, raggio 15'  |
+| 6    | Illumina, raggio 30'  |
 
 #### Tabella 59: Armi Magiche Insolite
 
@@ -426,17 +426,17 @@ Tirate 1d20 e aggiungi +0, +20 o +40, a seconda che il tesoro sia minore, medio 
 
 **Bacchetta d'individuazione (magia)**: Funziona come un incantesimo Individuare la Magia con una portata di 6 metri. L'utilizzatore della bacchetta ottiene una vaga percezione del tipo di magia che viene individuata. Sempre attiva quando viene tenuta in mano, non usa cariche.
 
-**Bacchetta d'individuazione (metallo)**: Rileva grandi quantità di metallo, con un raggio d'azione di 20 piedi. L'utilizzatore della bacchetta ottiene anche una vaga percezione del tipo di metallo. Sempre attiva quando viene tenuta in mano, non usa cariche.
+**Bacchetta d'individuazione (metallo)**: Rileva grandi quantità di metallo, con un raggio d'azione di 20'. L'utilizzatore della bacchetta ottiene anche una vaga percezione del tipo di metallo. Sempre attiva quando viene tenuta in mano, non usa cariche.
 
-**Bacchetta d'individuazione (nemici)**: Rileva i nemici in un raggio di 60 piedi, a condizione che i nemici abbiano effettivamente pensieri ostili. Sempre attiva quando viene tenuta in mano, non usa cariche.
+**Bacchetta d'individuazione (nemici)**: Rileva i nemici in un raggio di 60', a condizione che i nemici abbiano effettivamente pensieri ostili. Sempre attiva quando viene tenuta in mano, non usa cariche.
 
 **Bacchetta d'individuazione (trappole e porte segrete)**: Rileva trappole e porte segrete con un raggio d'azione di 6 metri. Sempre attiva se tenuta in mano, non usa cariche.
 
-**Bacchetta del Freddo**: Lancia un cono di freddo di 60 piedi a una base di 30 piedi di lato. Le creature nel cono subiscono 6d6 danni (tiro salvezza per metà danno). Contiene 25 cariche e non può essere ricaricata).
+**Bacchetta del Freddo**: Lancia un cono di freddo di 60' a una base di 30' di lato. Le creature nel cono subiscono 6d6 danni (tiro salvezza per metà danno). Contiene 25 cariche e non può essere ricaricata).
 
-**Bacchetta della Paralisi**: Lancia un cono di paralisi di 60 piedi a una base di 30 piedi di diametro. Le creature nel cono sono paralizzate per 3d6 turni. Contiene 25 cariche e non può essere ricaricata).
+**Bacchetta della Paralisi**: Lancia un cono di paralisi di 60' a una base di 30' di diametro. Le creature nel cono sono paralizzate per 3d6 turni. Contiene 25 cariche e non può essere ricaricata).
 
-**Bacchetta della Paura**: Provoca la fuga delle creature in un percorso a forma di cono (tiro salvezza). C'è una probabilità del 60% che facciano cadere ciò che hanno in mano. Il cono si estende per 60 piedi fino a una base di 30 piedi. Contiene 25 cariche e non può essere ricaricato).
+**Bacchetta della Paura**: Provoca la fuga delle creature in un percorso a forma di cono (tiro salvezza). C'è una probabilità del 60% che facciano cadere ciò che hanno in mano. Il cono si estende per 60' fino a una base di 30'. Contiene 25 cariche e non può essere ricaricato).
 
 **Bacchetta del Polimorfismo**: Lancia Polimorfismo (se stesso) o Polimorfismo (altri), porta 10 cariche.
 
@@ -455,7 +455,7 @@ Tirate 1d20 e aggiungi +0, +20 o +40, a seconda che il tesoro sia minore, medio 
 
 ### Descrizioni degli Anelli Minori
 
-**Controllo dei mammiferi**: Chi lo indossa controlla 1d6 mammiferi a una distanza massima di 60 piedi. Il controllo non si estende agli umani o agli animali giganti.
+**Controllo dei mammiferi**: Chi lo indossa controlla 1d6 mammiferi a una distanza massima di 60'. Il controllo non si estende agli umani o agli animali giganti.
 
 **Invisibilità**: Rende invisibile chi lo indossa.
 
@@ -498,11 +498,11 @@ Tirate 1d20 e aggiungi +0, +20 o +40, a seconda che il tesoro sia minore, medio 
 
 **Stelle cadenti**: Una volta al giorno, questo anello può evocare 1d6 meteore infuocate dalle profondità dello spazio. Ogni meteora può colpire un nemico separato e infligge 3d6 danni. Se usate al chiuso o sottoterra, le meteore colpiranno qualsiasi cosa si trovi direttamente sopra il bersaglio.
 
-**Telecinesi**: Chi lo indossa può sollevare e spostare mentalmente fino a 200 libbre di peso a una distanza di 120 piedi.
+**Telecinesi**: Chi lo indossa può sollevare e spostare mentalmente fino a 200 libbre di peso a una distanza di 120'.
 
 **Tre desideri**: Concede a chi lo indossa 3 desideri; i desideri oltraggiosi si ritorcono contro.
 
-**Visione a raggi X**: Chi lo indossa ha una visione a raggi X a una distanza di 40 piedi. La distanza massima attraverso la quale il personaggio può vedere attraverso la roccia solida è poco più di 3 metri, anche se i metalli solidi (diversi dal piombo) è di 1 piede, e attraverso il piombo è di 1 pollice.
+**Visione a raggi X**: Chi lo indossa ha una visione a raggi X a una distanza di 40'. La distanza massima attraverso la quale il personaggio può vedere attraverso la roccia solida è poco più di 3 metri, anche se i metalli solidi (diversi dal piombo) è di 1 piede, e attraverso il piombo è di 1 pollice.
 
 ## Bastoni
 
@@ -525,7 +525,7 @@ Tirate 1d20 e aggiungi +0, +20 o +40, a seconda che il tesoro sia minore, medio 
 
 **Assorbimento**: Assorbe gli incantesimi lanciati direttamente a chi lo impugna e permette a chi lo impugna di lanciare un incantesimo dalla propria memoria usando quel potere (e quindi non perdendo l'incantesimo dalla memoria). Una volta che il bastone ha assorbito 50 livelli di incantesimi (che il potere sia stato rilanciato o meno), non assorbe più gli incantesimi.
 
-**Ammaliatore**: Lancia Ammaliare le Persone in un raggio di 20 piedi da chi lo impugna (usa una carica). La durata dell'incanto è di 1 ora.
+**Ammaliatore**: Lancia Ammaliare le Persone in un raggio di 20' da chi lo impugna (usa una carica). La durata dell'incanto è di 1 ora.
 
 **Avvizzire**: Aggiunge dieci anni di invecchiamento fisico con un successo.
 
@@ -636,7 +636,7 @@ Tirate 1d20 e aggiungi +0, +20 o +40, a seconda che il tesoro sia minore, medio 
 
 **Bicchiere delle Pozioni**: Questa piccola brocca si riempie con la pozione richiesta, tra le 1d4+1 pozioni che è in grado di produrre. La brocca può essere usata tante volte alla settimana quante sono le pozioni che può creare. Utilizzabile da: Tutte le Classi.
 
-**Borsa di Raccolta**: L'interno di questa borsa è più grande dell'esterno. Le dimensioni interne sono circa 10 × 5 × 3 piedi, ma la borsa può trasportare fino a 1.000 libbre di peso. Se non è vuota, la borsa pesa 50 libbre, non importa quanto peso contenga effettivamente. Utilizzabile da: tutte le classi.
+**Borsa di Raccolta**: L'interno di questa borsa è più grande dell'esterno. Le dimensioni interne sono circa 10' × 5' × 3', ma la borsa può trasportare fino a 1.000 libbre di peso. Se non è vuota, la borsa pesa 50 libbre, non importa quanto peso contenga effettivamente. Utilizzabile da: tutte le classi.
 
 **Bottiglia dell'Efreeti**: L'Efreeti della bottiglia servirà il suo proprietario per un anno e un giorno, a meno che non venga accidentalmente liberato dalla servitù. Utilizzabile da: tutte le classi.
 
@@ -646,7 +646,7 @@ Tirate 1d20 e aggiungi +0, +20 o +40, a seconda che il tesoro sia minore, medio 
 
 **Brocca dell'Alchimia**: Questa brocca produce qualsiasi liquido desiderato, in una grande quantità di uso comune (per esempio, 10 galloni di acqua, ma solo cinque galloni di vino). Può essere usata non più di 7 volte al giorno, e produrrà solo il liquido richiesto per primo in quel giorno. Non produce liquidi magici. Utilizzabile da: tutte le classi.
 
-**Buco, portatile**: Un pezzo di stoffa scura di circa un metro e mezzo di diametro. È in realtà la bocca di un buco interdimensionale profondo 10 piedi - gli oggetti e le persone possono cadere attraverso di esso o arrampicarsi in esso una volta che è posto sul terreno. Il pezzo di stoffa può essere tirato dall'interno per chiudere completamente il buco, anche se non c'è nessuna fonte di aria fresca all'interno, e rimanere all'interno asfissierà chi ci cade in poco tempo. Il pezzo di stoffa può essere preso e portato via quando si vuole, da cui il nome "portatile". Utilizzabile da: tutte le classi.
+**Buco, portatile**: Un pezzo di stoffa scura di circa un metro e mezzo di diametro. È in realtà la bocca di un buco interdimensionale profondo 10' - gli oggetti e le persone possono cadere attraverso di esso o arrampicarsi in esso una volta che è posto sul terreno. Il pezzo di stoffa può essere tirato dall'interno per chiudere completamente il buco, anche se non c'è nessuna fonte di aria fresca all'interno, e rimanere all'interno asfissierà chi ci cade in poco tempo. Il pezzo di stoffa può essere preso e portato via quando si vuole, da cui il nome "portatile". Utilizzabile da: tutte le classi.
 
 **Campana dell'Apertura**: Suonando questa piccola campana si apre qualsiasi porta, anche se la porta è sbarrata o bloccata da un mago. Utilizzabile da: tutte le classi.
 
@@ -654,11 +654,11 @@ Tirate 1d20 e aggiungi +0, +20 o +40, a seconda che il tesoro sia minore, medio 
 
 **Collana di Palle di Fuoco**: Questa collana è appesa con 3d4 piccole palline. Quando viene lanciata, le palline esplodono in 6d6 palle di fuoco (secondo l'incantesimo). Utilizzabile da: tutte le classi. 
 
-**Corda dell'Arrampicata**: Una corda lunga 50 piedi che salta magicamente verso l'alto e può legarsi e slegarsi a comando. Utilizzabile da: tutte le classi.
+**Corda dell'Arrampicata**: Una corda lunga 50' che salta magicamente verso l'alto e può legarsi e slegarsi a comando. Utilizzabile da: tutte le classi.
 
 **Corda dell'Impigliamento**: Questa corda, a comando, si attorciglia intorno a 2d4+1 nemici di taglia umana. La corda non può essere colpita se non con un tiro naturale di 20 (è magica), e può sostenere 20 punti ferita di danno prima di sfilacciarsi e diventare inutile. Utilizzabile da: tutte le classi.
 
-**Corno di Abbattimento**: Questo corno, quando viene soffiato, ha lo stesso effetto sulle strutture di una catapulta, e causa 2d6 punti di danno alle creature, assordandole anche per 10 minuti. Il cono di suono è lungo 100 piedi, e si allarga a una base di 20 piedi (la "punta" del cono, alla bocca del corno, è larga 10 piedi). Utilizzabile da: tutte le classi.
+**Corno di Abbattimento**: Questo corno, quando viene soffiato, ha lo stesso effetto sulle strutture di una catapulta, e causa 2d6 punti di danno alle creature, assordandole anche per 10 minuti. Il cono di suono è lungo 100', e si allarga a una base di 20' (la "punta" del cono, alla bocca del corno, è larga 10'). Utilizzabile da: tutte le classi.
 
 **Corno del Valhalla, Argento**: Evoca 2d4 guerrieri berserk (2 DV) per assistere colui che ha caricato il corno. Utilizzabile da: tutte le classi.
 
@@ -666,7 +666,7 @@ Tirate 1d20 e aggiungi +0, +20 o +40, a seconda che il tesoro sia minore, medio 
 
 **Corno del Valhalla, Ferro**: Evoca 2d4 guerrieri berserk (4 DV) per assistere colui che ha caricato il corno. Utilizzabile da: Combattenti.
 
-**Elmo della Brillanza Ardente**: Questo elmo prodigiosamente potente garantisce molti benefici a chi lo indossa. Guadagna un +10 ai tiri salvezza contro i danni da fuoco e può creare lui stesso un muro di fuoco. I combattenti che indossano l'elmo possono comandare un'arma a mano infuocata (+1d6 danni). I maghi che indossano l'elmo possono aggiungere +1 a ogni dado di danno inflitto da un incantesimo Palla di fuoco. I chierici che indossano l'elmo possono incendiare a volontà gli oggetti nel raggio di 30 piedi e possono lanciare due incantesimi di Luce o Luce Continua per ogni incantesimo effettivamente preparato. È probabile che chi indossa questo elmo venga attaccato da qualsiasi creatura dell'elemento aria, ma i tipi dell'elemento fuoco (come gli Efreet o le Salamandre) saranno favorevolmente disposti verso chi lo indossa. Utilizzabile da: tutte le classi.
+**Elmo della Brillanza Ardente**: Questo elmo prodigiosamente potente garantisce molti benefici a chi lo indossa. Guadagna un +10 ai tiri salvezza contro i danni da fuoco e può creare lui stesso un muro di fuoco. I combattenti che indossano l'elmo possono comandare un'arma a mano infuocata (+1d6 danni). I maghi che indossano l'elmo possono aggiungere +1 a ogni dado di danno inflitto da un incantesimo Palla di fuoco. I chierici che indossano l'elmo possono incendiare a volontà gli oggetti nel raggio di 30' e possono lanciare due incantesimi di Luce o Luce Continua per ogni incantesimo effettivamente preparato. È probabile che chi indossa questo elmo venga attaccato da qualsiasi creatura dell'elemento aria, ma i tipi dell'elemento fuoco (come gli Efreet o le Salamandre) saranno favorevolmente disposti verso chi lo indossa. Utilizzabile da: tutte le classi.
 
 **Elmo di Lettura del Magico e delle Lingue**: Chi lo indossa può leggere tutte le lingue, comprese le scritture magiche. Utilizzabile da: tutte le classi.
 
@@ -684,7 +684,7 @@ Tirate 1d20 e aggiungi +0, +20 o +40, a seconda che il tesoro sia minore, medio 
 
 **Guanti della Destrezza**: Quando indossati, questi guanti garantiscono un bonus di +2 alla destrezza di chi li indossa (fino a un massimo di 18). Utilizzabili da: tutte le classi.
 
-**Guanti da Nuoto e Arrampicata**: Questi guanti permettono a chi li indossa di nuotare a una velocità di 18, e di scalare pareti a strapiombo con una probabilità di successo del 95% per ogni dieci piedi di scalata. Utilizzabile da: tutti tranne gli maghi.
+**Guanti da Nuoto e Arrampicata**: Questi guanti permettono a chi li indossa di nuotare a una velocità di 18, e di scalare pareti a strapiombo con una probabilità di successo del 95% per ogni 10' di scalata. Utilizzabile da: tutti tranne gli maghi.
 
 **Guanti del Potere Orchesco**: Questi guanti elevano la forza di chi li indossa a quella di un orco. La probabilità di colpire non è aumentata rispetto al normale, ma i bonus ai danni derivanti dalla forza sono aumentati a +4 (non cumulabili con il bonus alla forza esistente di chi li indossa, se presente). Utilizzabile da: tutti tranne gli utilizzatori di magia.
 
@@ -756,19 +756,19 @@ Tirate 1d20 e aggiungi +0, +20 o +40, a seconda che il tesoro sia minore, medio 
 
 - **Il Joker**: Guadagnate 25.000 PE.
 
-**Medaglione di Rilevamento dei Pensieri (ESP)**: Funziona come un incantesimo Leggere il Pensiero (ESP) entro 30 piedi (75%) o 90 piedi (25%). Utilizzabile da: tutte le classi.
+**Medaglione di Rilevamento dei Pensieri (ESP)**: Funziona come un incantesimo Leggere il Pensiero (ESP) entro 30' (75%) o 90' (25%). Utilizzabile da: tutte le classi.
 
 **Oggetto Maledetto**: (Vedi Oggetti Maledetti)
 
 **Pietra della Fortuna**: Questa pietra garantisce +1 ai tiri salvezza e ai tiri per colpire. Utilizzabile da: tutte le classi.
 
-**Polvere di Apparizione o Sparizione (50%)**: La Polvere di Apparizione viene lanciata in un raggio di 10 piedi intorno all'utente, e rende completamente visibile qualsiasi cosa invisibile, astrale, spostata, fuori fase o dimensionale. La polvere viene generalmente fornita in un sacchetto, con abbastanza per 20-30 usi. La Polvere della Scomparsa funziona al contrario: quando viene aspersa in un raggio di 10 piedi, tutto ciò che vi si trova diventa invisibile per 5d6 turni. I normali mezzi per rilevare l'invisibilità (come l'incantesimo Rileva Invisibilità) non sono abbastanza forti da funzionare contro il potente incantesimo della polvere. Utilizzabile da: tutte le classi.
+**Polvere di Apparizione o Sparizione (50%)**: La Polvere di Apparizione viene lanciata in un raggio di 10' intorno all'utente, e rende completamente visibile qualsiasi cosa invisibile, astrale, spostata, fuori fase o dimensionale. La polvere viene generalmente fornita in un sacchetto, con abbastanza per 20-30 usi. La Polvere della Scomparsa funziona al contrario: quando viene aspersa in un raggio di 10', tutto ciò che vi si trova diventa invisibile per 5d6 turni. I normali mezzi per rilevare l'invisibilità (come l'incantesimo Rileva Invisibilità) non sono abbastanza forti da funzionare contro il potente incantesimo della polvere. Utilizzabile da: tutte le classi.
 
 **Polvere di Starnuti e Soffocamento**: I sacchetti che contengono questa polvere ne contengono normalmente solo per una "dose". Quando viene aspersa in un raggio di 3 metri, la polvere fa sì che tutti coloro che si trovano nell'area debbano effettuare un tiro salvezza o morire. Se la natura della polvere viene identificata prima che venga sperimentata, può essere usata come un'arma da lancio devastante. Utilizzabile da: tutte le classi.
 
 **Sfera di Cristallo**: Permette all'utilizzatore di vedere ciò che desidera vedere, a una distanza considerevole. Una sfera di cristallo non può essere usata più di tre volte al giorno, o l'utilizzatore diventerà pazzo. Alcuni incantesimi e altre precauzioni possono essere usati per evitare di essere visti attraverso una sfera di cristallo. Alcune sfere di cristallo comunicano suoni o anche pensieri dall'area che viene scremata, anche se questi sono rari. Utilizzabile da: maghi.
 
-**Simbolo-Scarabeo della Follia**: Questo è una scultura di uno scarabeo, o forse i resti pietrificati di uno vero. Quando lo scarabeo viene mostrato, tutte le creature con 9 o meno dadi per colpire, entro un raggio di 30 piedi, cadono in una temporanea follia che dura 2 ore. Le creature con 10 o più dadi per colpire non ricevono comunque un tiro salvezza, ma hanno una possibilità su 4 di superare l'insidiosa influenza dello scarabeo. Lo scarabeo può essere usato 12 volte, dopodiché si sgretola in polvere. A discrezione dell'Arbitro, può essere ricaricato, ma con una probabilità del 5% per ogni carica che l'oggetto venga distrutto. Utilizzabile da: tutte le classi.
+**Simbolo-Scarabeo della Follia**: Questo è una scultura di uno scarabeo, o forse i resti pietrificati di uno vero. Quando lo scarabeo viene mostrato, tutte le creature con 9 o meno dadi per colpire, entro un raggio di 30', cadono in una temporanea follia che dura 2 ore. Le creature con 10 o più dadi per colpire non ricevono comunque un tiro salvezza, ma hanno una possibilità su 4 di superare l'insidiosa influenza dello scarabeo. Lo scarabeo può essere usato 12 volte, dopodiché si sgretola in polvere. A discrezione dell'Arbitro, può essere ricaricato, ma con una probabilità del 5% per ogni carica che l'oggetto venga distrutto. Utilizzabile da: tutte le classi.
 
 **Specchio di Scrittura Mentale**: Questo specchio a mano (potrebbe anche essere trovato come uno specchio più piccolo su una collana) permette all'utente di lanciare Chiaroudienza, Chiaroveggenza e Leggere il Pensiero (ESP), con la portata normale, ma per un tempo illimitato. Lo specchio risponderà anche a una domanda su ciò che ritrae (la risposta sarà probabilmente piuttosto criptica), ma è possibile solo una domanda a settimana. Utilizzabile da: tutte le classi.
 
@@ -776,7 +776,7 @@ Tirate 1d20 e aggiungi +0, +20 o +40, a seconda che il tesoro sia minore, medio 
 
 **Stivali di Levitazione**: Questi stivali permettono a chi li indossa di levitare (come da incantesimo) con durata illimitata. Utilizzabile da: tutte le classi.
 
-**Stivali della Velocità o Stivali del Balzo (50%)**: Gli Stivali della Velocità raddoppiano la velocità di movimento di chi li indossa, ma richiedono un riposo completo per un periodo di tempo equivalente a quello in cui sono stati usati. Gli Stivali del balzo permettono a chi li indossa di fare salti prodigiosi di 10 piedi in altezza e fino a 30 piedi in orizzontale. Questi stivali raddoppiano anche la velocità di movimento, ma solo all'aperto. Non richiedono che chi li indossa si riposi dopo averli usati. Utilizzabili da: tutte le classi.
+**Stivali della Velocità o Stivali del Balzo (50%)**: Gli Stivali della Velocità raddoppiano la velocità di movimento di chi li indossa, ma richiedono un riposo completo per un periodo di tempo equivalente a quello in cui sono stati usati. Gli Stivali del balzo permettono a chi li indossa di fare salti prodigiosi di 10' in altezza e fino a 30' in orizzontale. Questi stivali raddoppiano anche la velocità di movimento, ma solo all'aperto. Non richiedono che chi li indossa si riposi dopo averli usati. Utilizzabili da: tutte le classi.
 
 **Tappeto Volante**: Il tappeto può trasportare fino a tre persone, e viaggia a una velocità di 18 quando ha più di un passeggero. Con un solo cavaliere, il tappeto si muove a una velocità di 30. Utilizzabile da: tutte le classi.
 
@@ -788,7 +788,7 @@ Tirate 1d20 e aggiungi +0, +20 o +40, a seconda che il tesoro sia minore, medio 
 
 **Veste di Mimetizzazione**: Queste vesti fanno apparire chi le indossa come una parte dell'ambiente circostante, compresa la capacità di apparire come un altro di un gruppo di creature vicine. Apparirà come un piccolo albero nei dintorni della foresta, una formazione di sabbia nel deserto, ecc. Le creature con 10+ dadi per colpire (o livelli di esperienza) hanno una probabilità del 10% per ogni livello (o DV) superiore al 9° di percepire chi lo indossa come una figura vestita piuttosto che una parte dell'ambiente circostante. Utilizzabile da: tutte le classi.
 
-**Veste degli Occhi**: Centinaia di occhi sono intessuti e ricamati nel tessuto di queste vesti magiche, garantendo a chi le indossa enormi poteri di percezione soprannaturale. In un raggio di 240 piedi, qualsiasi cosa su cui guardi viene vista per quello che è: vede le creature invisibili, percepisce le illusioni e la sua vista si estende anche al piano astrale. Non può subire imboscate o essere colto di sorpresa e può seguire le tracce di qualsiasi cosa sia passata nell'ultimo giorno. Utilizzabile da: solo maghi.
+**Veste degli Occhi**: Centinaia di occhi sono intessuti e ricamati nel tessuto di queste vesti magiche, garantendo a chi le indossa enormi poteri di percezione soprannaturale. In un raggio di 240', qualsiasi cosa su cui guardi viene vista per quello che è: vede le creature invisibili, percepisce le illusioni e la sua vista si estende anche al piano astrale. Non può subire imboscate o essere colto di sorpresa e può seguire le tracce di qualsiasi cosa sia passata nell'ultimo giorno. Utilizzabile da: solo maghi.
 
 ## Oggetti Maledetti
 

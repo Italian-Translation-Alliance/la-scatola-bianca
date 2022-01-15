@@ -1,6 +1,6 @@
 # Capitolo 8: Mostri
 
-Non sono forniti molti dettagli sui mostri, perché più dettagli vengono dati, più la vostra immagine mentale del mondo fantastico sarà bloccata su un unico binario. Non diremo che le formiche giganti sono rosse, notturne, lunghe un metro e mezzo e amano mangiare gli elfi. Perché, nella vostra mente, potrebbero essere blu, diurne, lunghe un metro e mezzo e mangiare solo piante, a meno che non vengano attaccate. I dettagli sui mostri pongono ostacoli all'immaginazione. Sì, i dettagli possono anche ispirare l'immaginazione, ma stiamo dando per scontato che, se siete interessati al gioco fantasy, avete già una buona immaginazione e non avete bisogno di dettagli sulle dimensioni di una formica gigante.
+Non sono forniti molti dettagli sui mostri, perché più dettagli vengono dati, più la vostra immagine mentale del mondo fantastico sarà bloccata su un unico binario. Non diremo che le formiche giganti sono rosse, notturne, lunghe 3' e amano mangiare gli elfi. Perché, nella vostra mente, potrebbero essere blu, diurne, lunghe 5' e mangiare solo piante, a meno che non vengano attaccate. I dettagli sui mostri pongono ostacoli all'immaginazione. Sì, i dettagli possono anche ispirare l'immaginazione, ma stiamo dando per scontato che, se siete interessati al gioco fantasy, avete già una buona immaginazione e non avete bisogno di dettagli sulle dimensioni di una formica gigante.
 
 Una caratteristica importante di tutti i mostri, però, è che possono vedere al buio.
 
@@ -16,7 +16,7 @@ La "Classe Armatura" è spiegata in precedenza nelle regole di combattimento. Se
 
 ### Punti Esperienza
 
-I "Punti Esperienza" sono presentati dopo il punteggio di Dado Vita Equivalente (DVE) di un mostro ed elencano il numero di PE che il gruppo di avventurieri guadagna come risultato dell'uccisione della creatura. In alcuni casi, tuttavia, l'Arbitro può scegliere di assegnare punti esperienza per aver sconfitto una creatura senza ucciderla (aggirandola con mezzi creativi, catturandola per portarla a casa, ecc). Alcuni mostri hanno più punti esperienza indicati, questo perché alcuni mostri hanno una scala di Dadi Vita. L'ordine è sempre dal DV più basso al più alto.
+I "Punti Esperienza" sono presentati dopo il punteggio di Dado Vita Equivalente (DVE) di un mostro ed elencano il numero di PE che il gruppo di avventurieri guadagna come risultato dell'uccisione della creatura. In alcuni casi, tuttavia, l'Arbitro può scegliere di assegnare punti esperienza per aver sconfitto una creatura senza ucciderla (aggirandola con mezzi creativi, catturandola per portarla a casa, ecc.). Alcuni mostri hanno più punti esperienza indicati, questo perché alcuni mostri hanno una scala di Dadi Vita. L'ordine è sempre dal DV più basso al più alto.
 
 ### Dadi Vita
 
@@ -287,7 +287,7 @@ Un destriero notturno è un cavallo nero con occhi rosso fuoco e una criniera di
 *Movimento*: 9/24 (quando vola)  
 *DVE/PE*: 9/1,100
 
-I Djinn sono uno dei geni del folklore, creature dell'aria (e forse dei piani elementali). Possono trasportare 700 libbre di peso e hanno una serie di poteri magici. Un djinni può creare cibo e acqua di alta qualità, così come oggetti di legno e stoffa; può anche creare oggetti di metallo (comprese le monete), ma tutti i metalli creati magicamente scompaiono nel tempo. I Djinn possono evocare delle illusioni che, sebbene siano a loro modo eccellenti, scompaiono quando vengono toccate. I djinn possono trasformarsi in forma gassosa (non possono attaccare o essere attaccati, possono entrare in qualsiasi area che non sia ermeticamente chiusa) e possono diventare invisibili a volontà. Infine, un djinni può trasformarsi in un turbine molto simile a un elementale dell'aria, spazzando via qualsiasi creatura con uno o meno dadi vita (il diametro del turbine è di 10'). Tipi più potenti di djinn potrebbero essere in grado di concedere desideri limitati o addirittura veri desideri.
+I Djinn sono uno dei geni del folklore, creature dell'aria (e forse dei piani elementali). Possono trasportare 700 libbre (317 kg) di peso e hanno una serie di poteri magici. Un djinni può creare cibo e acqua di alta qualità, così come oggetti di legno e stoffa; può anche creare oggetti di metallo (comprese le monete), ma tutti i metalli creati magicamente scompaiono nel tempo. I Djinn possono evocare delle illusioni che, sebbene siano a loro modo eccellenti, scompaiono quando vengono toccate. I djinn possono trasformarsi in forma gassosa (non possono attaccare o essere attaccati, possono entrare in qualsiasi area che non sia ermeticamente chiusa) e possono diventare invisibili a volontà. Infine, un djinni può trasformarsi in un turbine molto simile a un elementale dell'aria, spazzando via qualsiasi creatura con uno o meno dadi vita (il diametro del turbine è di 10'). Tipi più potenti di djinn potrebbero essere in grado di concedere desideri limitati o addirittura veri desideri.
 
 ### Doppelganger
 
@@ -342,7 +342,7 @@ Notate che i draghi, pur essendo avversari pericolosi, non sono affatto invincib
 *Movimento*: 12/24 (quando vola)  
 *DVE/PE*: 7/600; 8/800; 9/1,100
 
-I draghi bianchi si trovano solitamente nelle regioni fredde, dove possono utilizzare il loro mimetismo naturale nel ghiaccio e nella neve per tendere imboscate alle loro prede. Soffiano aria d'un freddo intenso e congelano con un cono d’azione lungo 70 piedi e largo circa 30 piedi alla base.
+I draghi bianchi si trovano solitamente nelle regioni fredde, dove possono utilizzare il loro mimetismo naturale nel ghiaccio e nella neve per tendere imboscate alle loro prede. Soffiano aria d'un freddo intenso e congelano con un cono d’azione lungo 70' e largo circa 30' alla base.
 
 ### Drago, Blu
 
@@ -353,7 +353,7 @@ I draghi bianchi si trovano solitamente nelle regioni fredde, dove possono utili
 *Movimento*: 12/24 (quando vola)  
 *DVE/PE*: 10/1,400; 11/1,700; 12/2,000
 
-I draghi blu emettono un getto di fulmini elettrici che colpisce qualunque cosa sul suo cammino, in una linea ampia 5 piedi e lunga 100 piedi. Un tiro salvezza riuscito contro il getto di fulmini dimezza i danni. 
+I draghi blu emettono un getto di fulmini elettrici che colpisce qualunque cosa sul suo cammino, in una linea ampia 5' e lunga 100'. Un tiro salvezza riuscito contro il getto di fulmini dimezza i danni. 
 
 ### Drago, Oro
 
@@ -364,7 +364,7 @@ I draghi blu emettono un getto di fulmini elettrici che colpisce qualunque cosa 
 *Movimento*: 12/24 (quando vola)  
 *DVE/PE*: 12/2,000; 13/2,300; 14/2,600
 
-I draghi d'oro sono di allineamento legale, possono sempre parlare e lanciano incantesimi come se fossero maghi di livello pari alla loro categoria di età (quindi i draghi d'oro "Molto vecchi" sono maghi di 6° livello). Possono scegliere di sputare fuoco in un cono lungo 90 piedi e largo circa 30 piedi alla base o di soffiare gas cloro in una nuvola di 50 piedi di diametro.
+I draghi d'oro sono di allineamento legale, possono sempre parlare e lanciano incantesimi come se fossero maghi di livello pari alla loro categoria di età (quindi i draghi d'oro "Molto vecchi" sono maghi di 6° livello). Possono scegliere di sputare fuoco in un cono lungo 90' e largo circa 30' alla base o di soffiare gas cloro in una nuvola di 50' di diametro.
 
 ### Drago, Nero
 
@@ -375,7 +375,7 @@ I draghi d'oro sono di allineamento legale, possono sempre parlare e lanciano in
 *Movimento*: 12/24 (quando vola)  
 *DVE/PE*: 8/800; 9/1,100; 10/1,400
 
-I draghi neri sputano un acido mortale e corrosivo. L'acido copre tutto in una linea ampia 5 piedi e lunga 60 piedi.
+I draghi neri sputano un acido mortale e corrosivo. L'acido copre tutto in una linea ampia 5' e lunga 60'.
 
 ### Drago, Rosso
 
@@ -386,7 +386,7 @@ I draghi neri sputano un acido mortale e corrosivo. L'acido copre tutto in una l
 *Movimento*: 12/24 (quando vola)  
 *DVE/PE*: 11/1,700; 12/2,000; 13/2,300
 
-I draghi rossi sono gli spiriti di fuoco della leggenda. Sputano fuoco con un cono d’azione lungo 90 piedi e largo circa 30 piedi alla base.
+I draghi rossi sono gli spiriti di fuoco della leggenda. Sputano fuoco con un cono d’azione lungo 90' e largo circa 30' alla base.
 
 ### Drago, Verde
 
@@ -397,7 +397,7 @@ I draghi rossi sono gli spiriti di fuoco della leggenda. Sputano fuoco con un co
 *Movimento*: 12/24 (quando vola)  
 *DVE/PE*: 9/1,100; 10/1,400; 11/1,700
 
-I draghi verdi soffiano una nuvola di gas velenoso che ha un diametro di 15 metri.
+I draghi verdi soffiano una nuvola di gas velenoso che ha un diametro di 50'.
 Un tiro salvezza riuscito dimezza il danno.
 
 ### Driade
@@ -435,7 +435,7 @@ Gli elementali sono manifestazioni viventi delle forme fondamentali della materi
 *Movimento*: 6/18 (quando nuota)  
 *DVE/PE*: 9/1,100; 13/2,300; 17/3,500
 
-Gli elementali d'acqua non possono muoversi a più di 60 piedi da un grande corpo d'acqua e il loro danno è ridotto di 1d6 se l'avversario non sopra (o dentro) un corpo d'acqua. Questi potenti esseri possono rovesciare piccole imbarcazioni e possono persino rovesciare una nave se gli si danno 1d4+4 minuti per farlo. Sull'acqua, possono attaccare le navi, facendole a pezzi in un'ora se non vengono impediti o distratti.
+Gli elementali d'acqua non possono muoversi a più di 60' da un grande corpo d'acqua e il loro danno è ridotto di 1d6 se l'avversario non sopra (o dentro) un corpo d'acqua. Questi potenti esseri possono rovesciare piccole imbarcazioni e possono persino rovesciare una nave se gli si danno 1d4+4 minuti per farlo. Sull'acqua, possono attaccare le navi, facendole a pezzi in un'ora se non vengono impediti o distratti.
 
 ### Elementale, Aria
 
@@ -446,7 +446,7 @@ Gli elementali d'acqua non possono muoversi a più di 60 piedi da un grande corp
 *Movimento*: 36 (quando vola)  
 *DVE/PE*: 9/1,100; 13/2,300; 17/3,500
 
-Gli elementali dell'aria possono trasformarsi in un turbine d'aria con un diametro di 30 piedi, scagliando qualsiasi creatura di 1 DV o meno per grandi distanze (quasi certamente uccidendola). I vortici elementali sono alti circa 30 metri.
+Gli elementali dell'aria possono trasformarsi in un turbine d'aria con un diametro di 30', scagliando qualsiasi creatura di 1 DV o meno per grandi distanze (quasi certamente uccidendola). I vortici elementali sono alti circa 100'.
 
 ### Elementale, Fuoco
 
@@ -560,7 +560,7 @@ I giganti di collina sono l'ultima delle razze giganti; la maggior parte sono br
 *Movimento*: 12  
 *DVE/PE*: 10/1,400
 
-Con l'aspetto di uomini giganti (alti tre metri) con barbe rosse fiammeggianti, i firbolg abitano le regioni rocciose e vulcaniche dove vivono in clan di minatori e coltivatori di funghi sotterranei. A differenza degli altri giganti, non sono bellicosi per natura e preferiscono invece fare un uso prodigioso della loro capacità di lanciare massi e combattere a distanza, che infliggono 2d6 punti di danno. Sono intelligenti come gli umani e hanno la capacità naturale di lanciare la magia a volontà. 
+Con l'aspetto di uomini giganti (alti 10') con barbe rosse fiammeggianti, i firbolg abitano le regioni rocciose e vulcaniche dove vivono in clan di minatori e coltivatori di funghi sotterranei. A differenza degli altri giganti, non sono bellicosi per natura e preferiscono invece fare un uso prodigioso della loro capacità di lanciare massi e combattere a distanza, che infliggono 2d6 punti di danno. Sono intelligenti come gli umani e hanno la capacità naturale di lanciare la magia a volontà. 
 
 ### Gigante, Fuoco
 
@@ -649,7 +649,7 @@ Gli gnomi sono esseri industriosi e pacifici. Abitano per lo più nelle profondi
 *Movimento*: 9  
 *DVE/PE*: < 1/10
 
-I goblin sono piccole creature (alte circa 4 piedi) che abitano i boschi oscuri, le caverne sotterranee e (forse) i regni ultraterreni dei Fey. Attaccano con un -1 "per colpire" in piena luce del sole.
+I goblin sono piccole creature (alte circa 4') che abitano i boschi oscuri, le caverne sotterranee e (forse) i regni ultraterreni dei Fey. Attaccano con un -1 "per colpire" in piena luce del sole.
 
 ## Golem
 
@@ -675,7 +675,7 @@ Una creazione cucita insieme da membra umane e altre parti, come il mostro di Fr
 *Movimento*: 6  
 *DVE/PE*: 17/3,500
 
-I golem di ferro sono enormi statue di ferro in movimento. Possono respirare una nuvola di gas velenoso nel raggio di 10 piedi, oltre ad attaccare con grande potenza. Solo le armi magiche +3 o migliori possono danneggiare un golem di ferro. Queste statue massicce sono rallentate dagli incantesimi di fulmine, ma gli incantesimi basati sul fuoco ripristinano i punti ferita, mentre nessun altro tipo di incantesimo li colpisce.
+I golem di ferro sono enormi statue di ferro in movimento. Possono respirare una nuvola di gas velenoso nel raggio di 10', oltre ad attaccare con grande potenza. Solo le armi magiche +3 o migliori possono danneggiare un golem di ferro. Queste statue massicce sono rallentate dagli incantesimi di fulmine, ma gli incantesimi basati sul fuoco ripristinano i punti ferita, mentre nessun altro tipo di incantesimo li colpisce.
 
 ### Golem, Legno
 
@@ -719,7 +719,7 @@ Che siano fatti di vetro colorato animato o di enormi pile di frammenti frastagl
 *Movimento*: 12  
 *DVE/PE*: 10/1,400
 
-I gorgoni sono creature simili a tori con scaglie simili a draghi. Il loro soffio trasforma le persone in pietra (raggio di 60 piedi, si applica un tiro salvezza).
+I gorgoni sono creature simili a tori con scaglie simili a draghi. Il loro soffio trasforma le persone in pietra (raggio di 60', si applica un tiro salvezza).
 
 ### Grifone
 
@@ -742,17 +742,6 @@ I grifoni hanno il corpo di un leone, con le ali, la testa e le zampe anteriori 
 *DVE/PE*: 1/15
 
 Gli hobgoblin sono semplicemente dei grandi goblin, probabilmente una razza separata che vive separata dai loro cugini più piccoli. Per una questione di varietà della campagna, l'Arbitro potrebbe scegliere di rendere gli hobgoblin i goblin "Fey" della leggenda irlandese, mentre i goblin normali sono gli abitanti del sottosuolo più in stile Tolkien.
-
-### Kraken
-
-*Classe Armatura*: 2 [17]  
-*Dadi Vita*: 15  
-*Attacchi*: Tentacolo (2d6) o Morso (4d6)  
-*Speciale*: Ingoia Tutto  
-*Movimento*: 15 nuotare  
-*DVE/PE*: 15/2,900
-
-Questi enormi mostri marini assomigliano a calamari di dimensioni inimmaginabili con otto (o più) appendici contorte. Attaccano intere navi, facendole a pezzi e ingoiandone l'intero equipaggio con la loro enorme bocca dentata. Quando un kraken attacca, afferra un bersaglio con uno dei suoi tentacoli nel primo round, tenta di morderlo nel secondo round e poi lo ingoia per intero nel terzo round. Un bersaglio che è stato inghiottito intero viene ucciso. I Kraken hanno tipicamente otto tentacoli e possono effettuare un attacco con ognuno di essi a ogni round di combattimento.
 
 ### Idra
 
@@ -787,6 +776,17 @@ Gli inseguitori invisibili si trovano generalmente solo come risultato dell'inca
 
 L'ippogrifo è simile a un grifone, avendo la testa, gli artigli anteriori e le ali di un'aquila, ma invece del corpo di un leone, ha il corpo di un cavallo. Il poema Orlando Furioso (scritto nel 1516) suggerisce che l'ippogrifo è la progenie di un grifone e di un cavallo, ma sono apparentemente una razza indipendente, perché la tradizione folcloristica sostiene che i grifoni attaccano spesso gli ippogrifi. Gli ippogrifi non sono così difficili da addestrare come i grifoni - di nuovo, dall'Orlando Furioso: 
 > "Quivi per forza lo tirò d’incanto; e poi che l’ebbe, ad altro non attese, e con studio e fatica operò tanto, ch’a sella e briglia il cavalcò in un mese: cosí ch’in terra e in aria e in ogni canto lo facea volteggiar senza contese."
+
+### Kraken
+
+*Classe Armatura*: 2 [17]  
+*Dadi Vita*: 15  
+*Attacchi*: Tentacolo (2d6) o Morso (4d6)  
+*Speciale*: Ingoia Tutto  
+*Movimento*: 15 nuotare  
+*DVE/PE*: 15/2,900
+
+Questi enormi mostri marini assomigliano a calamari di dimensioni inimmaginabili con otto (o più) appendici contorte. Attaccano intere navi, facendole a pezzi e ingoiandone l'intero equipaggio con la loro enorme bocca dentata. Quando un kraken attacca, afferra un bersaglio con uno dei suoi tentacoli nel primo round, tenta di morderlo nel secondo round e poi lo ingoia per intero nel terzo round. Un bersaglio che è stato inghiottito intero viene ucciso. I Kraken hanno tipicamente otto tentacoli e possono effettuare un attacco con ognuno di essi a ogni round di combattimento.
 
 ## Licantropi.
 
@@ -845,7 +845,7 @@ I lich sono i resti non-morti degli stregoni, resi tali dalle loro azioni delibe
 *Movimento*: 6  
 *DVE/PE*: 13/2,300
 
-Queste enormi masse di carne viscida e gommosa sono completamente immuni alle armi contundenti. Oltre al loro potente morso, le lumache giganti possono sputare la loro saliva acida (un bersaglio alla volta). La gittata di base per lo sputo è di 60 piedi, ed entro questa gittata lo sputo della lumaca avrà il 50% di probabilità di "colpire" (non è richiesto il tiro "per colpire"). Per ogni 10 piedi di distanza in più, la probabilità di "colpire" diminuisce del 10%. Al suo primo attacco di sputo, la lumaca ha solo il 10% di possibilità di "colpire" entro 60 piedi, e nessuna possibilità di colpire oltre tale distanza. Alcune lumache giganti potrebbero avere un'acidità più o meno virulenta (cambiando così il danno inflitto).
+Queste enormi masse di carne viscida e gommosa sono completamente immuni alle armi contundenti. Oltre al loro potente morso, le lumache giganti possono sputare la loro saliva acida (un bersaglio alla volta). La gittata di base per lo sputo è di 60', ed entro questa gittata lo sputo della lumaca avrà il 50% di probabilità di "colpire" (non è richiesto il tiro "per colpire"). Per ogni 10' di distanza in più, la probabilità di "colpire" diminuisce del 10%. Al suo primo attacco di sputo, la lumaca ha solo il 10% di possibilità di "colpire" entro 60', e nessuna possibilità di colpire oltre tale distanza. Alcune lumache giganti potrebbero avere un'acidità più o meno virulenta (cambiando così il danno inflitto).
 
 ### Manticora
 
@@ -857,7 +857,7 @@ Queste enormi masse di carne viscida e gommosa sono completamente immuni alle ar
 *Movimento*: 12/8(quando vola)  
 *DVE/PE*: 8/800
 
-Un orribile mostro con ali di pipistrello, la faccia di un umano selvaggio, il corpo di un leone e una coda dotata di 24 spine di ferro. La manticora può lanciare fino a 6 spine di ferro dalla sua coda per round, con una portata massima di 180 piedi.
+Un orribile mostro con ali di pipistrello, la faccia di un umano selvaggio, il corpo di un leone e una coda dotata di 24 spine di ferro. La manticora può lanciare fino a 6 spine di ferro dalla sua coda per round, con una portata massima di 180'.
 
 ### Medusa
 
@@ -938,7 +938,7 @@ Questo millepiedi gigante a misura d'uomo è un predatore mortale con segmenti c
 *Movimento*: 18  
 *DVE/PE*: 6/400  
 
-Un orrore lungo sei metri di chitina, molteplici zampe e pinze schioccanti e che grondano veleno (modificatore di +6 al tiro salvezza dell'avversario).
+Un orrore lungo 20' di chitina, molteplici zampe e pinze schioccanti e che grondano veleno (modificatore di +6 al tiro salvezza dell'avversario).
 
 ### Muffa Gialla
 
@@ -949,7 +949,7 @@ Un orrore lungo sei metri di chitina, molteplici zampe e pinze schioccanti e che
 *Movimento*: 0  
 *DVE/PE*: 3/60  
 
-La muffa gialla è un fungo sotterraneo; non si muove né attacca. Tuttavia, se viene colpito o punzecchiato, può (50% di probabilità) rilasciare una nuvola di spore velenose, del diametro di circa 3 metri. Fallire un tiro salvezza contro le spore significa che il personaggio muore di una morte piuttosto orribile. Toccare la muffa gialla causa 1d6 punti di danno acido. Queste escrescenze possono essere distrutte con il fuoco.
+La muffa gialla è un fungo sotterraneo; non si muove né attacca. Tuttavia, se viene colpito o punzecchiato, può (50% di probabilità) rilasciare una nuvola di spore velenose, del diametro di circa 10'. Fallire un tiro salvezza contro le spore significa che il personaggio muore di una morte piuttosto orribile. Toccare la muffa gialla causa 1d6 punti di danno acido. Queste escrescenze possono essere distrutte con il fuoco.
 
 ### Nano
 
@@ -1015,7 +1015,7 @@ Gli orchi sono normalmente abbastanza stupidi, ma si possono incontrare versioni
 *Movimento*: 12/18 (quando vola)  
 *DVE/PE*: 7/600  
 
-L'orco mago è un orco con poteri magici, basato su una leggenda giapponese: un orco mago può volare, diventare invisibile (da  incantesimo), creare un cerchio di 10 piedi di raggio di oscurità magica, trasformarsi in forma umana, lanciare Sonno e Ammaliare Persone una volta al giorno, e lanciare un cono di gelo con una portata di 60 piedi e una base di 30 piedi, causando 8d6 danni a chiunque vi sia coinvolto (si applica il tiro salvezza). Il folklore occidentale contiene anche molti esempi di orchi magici che cambiano forma (l'esempio più famoso è quello del Gatto con gli stivali), quindi ci potrebbero essere molti tipi diversi di orchi magici, che si chiamino o meno "orchi maghi".
+L'orco mago è un orco con poteri magici, basato su una leggenda giapponese: un orco mago può volare, diventare invisibile (da  incantesimo), creare un cerchio di 10' di raggio di oscurità magica, trasformarsi in forma umana, lanciare Sonno e Ammaliare Persone una volta al giorno, e lanciare un cono di gelo con una portata di 60' e una base di 30', causando 8d6 danni a chiunque vi sia coinvolto (si applica il tiro salvezza). Il folklore occidentale contiene anche molti esempi di orchi magici che cambiano forma (l'esempio più famoso è quello del Gatto con gli stivali), quindi ci potrebbero essere molti tipi diversi di orchi magici, che si chiamino o meno "orchi maghi".
 
 ### Pegaso
 
@@ -1037,7 +1037,7 @@ Il pegaso era il cavallo alato della mitologia greca. Altre creature pegaso potr
 *Movimento*: 18  
 *DVE/PE*: 5/240
 
-I ragni giganti sono cacciatori aggressivi. Solo i ragni giganti maggiori sono costruttori di ragnatele. Le ragnatele giganti richiedono un tiro salvezza per evitare di rimanerci bloccati. Coloro che effettuano il tiro salvezza possono combattere e muoversi (5 piedi per round) nelle ragnatele. I ragni giganti sorprendono con un tiro di 1-5, essendo in grado di nascondersi bene nell'ombra. Il morso di un ragno gigante è molto velenoso.
+I ragni giganti sono cacciatori aggressivi. Solo i ragni giganti maggiori sono costruttori di ragnatele. Le ragnatele giganti richiedono un tiro salvezza per evitare di rimanerci bloccati. Coloro che effettuano il tiro salvezza possono combattere e muoversi (5' per round) nelle ragnatele. I ragni giganti sorprendono con un tiro di 1-5, essendo in grado di nascondersi bene nell'ombra. Il morso di un ragno gigante è molto velenoso.
 
 ### Ratto, Gigante
 
@@ -1114,7 +1114,7 @@ Gli scheletri sono ossa animate dei morti e sono solitamente sotto il controllo 
 *Movimento*: 12  
 *DVE/PE*: 5/240; 6/400; 7/600; 8/800
 
-I segugi infernale sono cani sputafuoco degli inferi o dei piani inferiori. Oltre a mordere, possono sputare fuoco ogni round, infliggendo 2 danni PF per dado colpito (raggio di 10 piedi, tiro salvezza per metà danno).
+I segugi infernale sono cani sputafuoco degli inferi o dei piani inferiori. Oltre a mordere, possono sputare fuoco ogni round, infliggendo 2 danni PF per dado colpito (raggio di 10', tiro salvezza per metà danno).
 
 ### Serpente Marino
 
@@ -1125,7 +1125,7 @@ I segugi infernale sono cani sputafuoco degli inferi o dei piani inferiori. Oltr
 *Movimento*: 18 (quando nuota)  
 *DVE/PE*: 30/8,400
 
-La dimensione e la natura dei serpenti marini è una questione che spetta all'Arbitro determinare. Il serpente marino qui raffigurato sarebbe di dimensioni medie, circa 60 piedi di lunghezza, con quelli più piccoli che sono la metà di quella dimensione (con statistiche aggiustate, ovviamente), e quelli grandi che sono circa il 50% più grandi di quello descritto qui. Un serpente marino sarebbe senza dubbio in grado di inghiottire un uomo intero, probabilmente con un tiro di attacco naturale di 14 o superiore. Un personaggio inghiottito intero verrebbe digerito entro, forse, tre ore.
+La dimensione e la natura dei serpenti marini è una questione che spetta all'Arbitro determinare. Il serpente marino qui raffigurato sarebbe di dimensioni medie, circa 60' di lunghezza, con quelli più piccoli che sono la metà di quella dimensione (con statistiche aggiustate, ovviamente), e quelli grandi che sono circa il 50% più grandi di quello descritto qui. Un serpente marino sarebbe senza dubbio in grado di inghiottire un uomo intero, probabilmente con un tiro di attacco naturale di 14 o superiore. Un personaggio inghiottito intero verrebbe digerito entro, forse, tre ore.
 
 ### Sidhe
 
@@ -1170,7 +1170,7 @@ Questi minuscoli uccelli hanno becchi simili ad aghi che usano per infilzare le 
 *DVE/PE*: 7/600; 8/800; 9/1,100;  
 10/1,400; 11/1,700; 12/2,000
 
-I treant sono protettori e "pastori" degli alberi della foresta. A seconda della loro taglia, hanno diversi dadi vita e danni; i treant da 7 a 8 dadi vita infliggono 2d6 punti di danno con ogni colpo delle loro mani simili a rami, i treant da 9-10 dadi vita infliggono 3d6 punti, e i treant da 11-12 dadi vita infliggono 4d6 punti. Tutti i treant possono "svegliare" gli alberi entro 60 piedi, permettendo loro di camminare a una velocità di 3, ed eventualmente di attaccare (non più di due alberi alla volta possono essere svegliati per ordine di un singolo treant).
+I treant sono protettori e "pastori" degli alberi della foresta. A seconda della loro taglia, hanno diversi dadi vita e danni; i treant da 7 a 8 dadi vita infliggono 2d6 punti di danno con ogni colpo delle loro mani simili a rami, i treant da 9-10 dadi vita infliggono 3d6 punti, e i treant da 11-12 dadi vita infliggono 4d6 punti. Tutti i treant possono "svegliare" gli alberi entro 60', permettendo loro di camminare a una velocità di 3, ed eventualmente di attaccare (non più di due alberi alla volta possono essere svegliati per ordine di un singolo treant).
 
 ### Troll
 
@@ -1240,7 +1240,7 @@ I soldati umani servono come guardia cittadina, mercenari e uomini d'arme. Sono 
 *Movimento*: 24  
 *DVE/PE*: 5/240
 
-Gli unicorni sono creature generalmente timide e benevole, che permetteranno solo a una casta fanciulla di avvicinarsi a loro. Possono teletrasportarsi una volta al giorno a una distanza di 360 piedi, con un cavaliere. Quando caricano, il loro corno può infliggere danni doppi. Gli unicorni sono resistenti alla magia al 25%. Il corno dell'unicorno ha proprietà curative secondo la leggenda (i dettagli di questo, se esistono, sono lasciati all'Arbitro). C'è molto spazio per creare ogni variante di sorta: unicorni malvagi o volanti, ecc.
+Gli unicorni sono creature generalmente timide e benevole, che permetteranno solo a una casta fanciulla di avvicinarsi a loro. Possono teletrasportarsi una volta al giorno a una distanza di 360', con un cavaliere. Quando caricano, il loro corno può infliggere danni doppi. Gli unicorni sono resistenti alla magia al 25%. Il corno dell'unicorno ha proprietà curative secondo la leggenda (i dettagli di questo, se esistono, sono lasciati all'Arbitro). C'è molto spazio per creare ogni variante di sorta: unicorni malvagi o volanti, ecc.
 
 ### Uomo Lucertola
 
@@ -1262,7 +1262,7 @@ Gli uomini lucertola sono rettili umanoidi  che di solito vivono in villaggi tri
 *Movimento*: 12/18 (quando vola)  
 *DVE/PE*: 9/1,100; 10/1,400; 11/1,700
 
-I vampiri sono tra le creature non-morte più potenti. Possono essere colpiti solo con armi magiche e quando vengono "uccisi" in questo modo si trasformano in una forma gassosa, tornando nelle loro bare. Si rigenerano al ritmo di 3 punti ferita per round, possono trasformarsi in forma gassosa o in un pipistrello gigante a volontà e possono evocare un'orda di pipistrelli o 3d6 lupi dalla notte. Guardare negli occhi di un vampiro richiede un tiro salvezza a -2 o il personaggio viene incantato (come per l'incantesimo Ammalliare le Persone). Ancor più terrificante, il morso di un vampiro drena due livelli alla vittima.
+I vampiri sono tra le creature non-morte più potenti. Possono essere colpiti solo con armi magiche e quando vengono "uccisi" in questo modo si trasformano in una forma gassosa, tornando nelle loro bare. Si rigenerano al ritmo di 3 punti ferita per round, possono trasformarsi in forma gassosa o in un pipistrello gigante a volontà e possono evocare un'orda di pipistrelli o 3d6 lupi dalla notte. Guardare negli occhi di un vampiro richiede un tiro salvezza a -2 o il personaggio viene incantato (come per l'incantesimo Ammaliare le Persone). Ancor più terrificante, il morso di un vampiro drena due livelli alla vittima.
 
 Fortunatamente, i vampiri hanno alcune debolezze. Possono essere uccisi (questi sono gli unici metodi conosciuti) immergendoli in acqua corrente, esponendoli alla luce del sole o conficcando un paletto di legno nel cuore. Sono repulsi dall'odore di aglio, dalla vista di uno specchio o dalla vista di simboli sacri "buoni". Ogni essere umano ucciso da un vampiro diventa un vampiro sotto il controllo del suo creatore. Questa descrizione si riconosce facilmente come il tipo di vampiro "Dracula".
 
@@ -1277,7 +1277,7 @@ Molte altre possibilità di vampiri esistono nel folklore: Vampiri cinesi, per e
 *Movimento*: 9  
 *DVE/PE*: 17/3,500
 
-I vermi viola sono massicci anellidi che crescono di oltre 40 piedi di lunghezza e a volte superano i 10 piedi di larghezza. Sono sotterranei e scavano gallerie nella roccia (o attraverso la sabbia, nei deserti, dove sono di colore marrone). Queste bestie ingoiano la loro preda intera con un tiro di 4 superiore al numero necessario o se il verme tira il doppio del numero richiesto "per colpire". Possono inghiottire qualsiasi cosa delle dimensioni di un cavallo o più piccola.
+I vermi viola sono massicci anellidi che crescono di oltre 40' di lunghezza e a volte superano i 10' di larghezza. Sono sotterranei e scavano gallerie nella roccia (o attraverso la sabbia, nei deserti, dove sono di colore marrone). Queste bestie ingoiano la loro preda intera con un tiro di 4 superiore al numero necessario o se il verme tira il doppio del numero richiesto "per colpire". Possono inghiottire qualsiasi cosa delle dimensioni di un cavallo o più piccola.
 
 Oltre al temuto morso, il verme possiede un aculeo velenoso sulla coda, lungo quanto una spada e altrettanto letale anche per il colpo perforante che infligge. Il veleno iniettato dall'aculeo è letale se la vittima fallisce un tiro salvezza. Quali tipi di prede i vermi viola cacciavano un tempo (o forse lo fanno ancora, nei luoghi profondi) con tali armi naturali devono essere state davvero terrificanti. Potrebbero esistere anche versioni acquatiche del verme viola.
 

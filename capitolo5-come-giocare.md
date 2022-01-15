@@ -50,7 +50,7 @@ Le porte dei dungeon sono grandi, pesanti e anche se sbloccate sono difficili da
 
 ### Luce
 
-Torce e lanterne illuminano un raggio di 30 piedi. Le torce bruciano per un'ora (sei turni), mentre le lanterne bruciano una pinta di olio in quattro ore (24 turni). I giocatori che usano una fonte di luce non possono normalmente sorprendere i mostri, ma possono comunque essere sorpresi. Si presume che tutti i mostri vedano al buio, a meno che non siano incantati o asserviti ai giocatori.
+Torce e lanterne illuminano un raggio di 30'. Le torce bruciano per un'ora (sei turni), mentre le lanterne bruciano una pinta di olio in quattro ore (24 turni). I giocatori che usano una fonte di luce non possono normalmente sorprendere i mostri, ma possono comunque essere sorpresi. Si presume che tutti i mostri vedano al buio, a meno che non siano incantati o asserviti ai giocatori.
 
 ### Ascolto alle porte
 
@@ -187,7 +187,7 @@ L'olio lanciato che viene successivamente incendiato da una torcia gettata o qua
 
 ### Attacco in mischia
 
-Un attacco in mischia è un attacco con un'arma a mano come una spada, una lancia o un pugnale. Due combattenti entro 10 piedi l'uno dall'altro sono considerati "in mischia".
+Un attacco in mischia è un attacco con un'arma a mano come una spada, una lancia o un pugnale. Due combattenti entro 10' l'uno dall'altro sono considerati "in mischia".
 
 ### Attacco a distanza
 
@@ -197,17 +197,17 @@ Gli attacchi a distanza sono effettuati con armi come balestre, fionde o asce la
 
 Alcuni mostri, come le creature senza intelletto o non-morte, non hanno paura e combatteranno sempre fino alla morte. La maggior parte, tuttavia, non continuerà a combattere una battaglia senza speranza e cercherà di ritirarsi, arrendersi o fuggire. L'Arbitro deciderà quando i mostri abbandonano la battaglia e si ritirano, basandosi sulla situazione e sull'intelligenza del mostro. Gli arbitri dovrebbero anche usare il morale per determinare le azioni e la lealtà dei gregari o di altri PNG compagni.
 
-Se c'è incertezza sul morale dei PNG o dei mostri, la seguente tabella può essere utilizzata a discrezione dell'Arbitro.
+Se c'è incertezza sul morale dei PNG o dei mostri, la tabella in questo paragrafo può essere utilizzata a discrezione dell'Arbitro. Il valore ottenuto dopo il tiro dei dadi può essere modificato da valori dipendenti dagli avvenimenti dell’incontro (la presenza di un comandante carismatico darà un valore positivo, la perdita di più di metà del gruppo un modificatore negativo e così via).
 
 #### Tabella 20: Prova di Morale
 
-| **Tiro**     | **Morale**                           |
-|:------------:|:------------------------------------:|
-| 2 o meno     | Resa                                 |
-| 3-5          | Fuga                                 |
-| 6-8          | Posizione mantenuta                  |
-| 9-11         | Combattimento per ottenere vantaggio |
-| 12           | Attacco!                             |
+| **Tiro (2d6)** | **Morale**                           |
+|:--------------:|:------------------------------------:|
+| 2 o meno       | Resa                                 |
+| 3-5            | Fuga                                 |
+| 6-8            | Posizione mantenuta                  |
+| 9-11           | Combattimento per ottenere vantaggio |
+| 12             | Attacco!                             |
 
 ### Negoziazione e diplomazia
 
@@ -254,7 +254,7 @@ L'Arbitro potrebbe voler fare delle "prove di lealtà" per i PNG messi in situaz
 | 6-8   | -1 alla prossima prova di lealtà |
 | 9-12  | Media                            |
 | 13-15 | +1 alla prossima prova di lealtà |
-| 16-17 | +2 alla prossima provadi lealtà  |
+| 16-17 | +2 alla prossima prova di lealtà |
 | 18    | Lealista                         |
 
 Un buon trattamento, il rispetto e un'equa quota del tesoro guadagnato dovrebbero garantire bonus alle prove di lealtà, mentre l'abuso, fisico o di altro tipo, porterà a penalità, abbandono o peggio. I PNG dovrebbero essere trattati come individui distinti e non come semplici estensioni del personaggio del giocatore.

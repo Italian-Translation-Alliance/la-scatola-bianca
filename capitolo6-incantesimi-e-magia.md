@@ -109,7 +109,7 @@ Questo incantesimo opera nello stesso modo di Ammaliare Persone, ma ha effetto s
 
 ### Ammaliare le Persone
 *Livello:* M1  
-*Raggio d'azione:* 60'  
+*Raggio d'azione:* 120'  
 *Durata:* Finché non viene dissolto
 
 Questo incantesimo affligge le creature viventi bipedi di taglia umana o più piccola, come goblin o driadi. Se l'incantesimo ha successo (tiro salvezza consentito), la sfortunata creatura cadrà sotto l'influenza dell'incantatore.
@@ -123,7 +123,7 @@ Questo incantesimo anima scheletri o zombie da corpi morti. 1d6 non-morti sono a
 
 ### Benedire (Maledire)
 *Livello:* C2  
-*Raggio d'azione:* Pg o PNG bersaglio (fuori dal combattimento)  
+*Raggio d'azione:* PG o PNG bersaglio (fuori dal combattimento)  
 *Durata:* 1 ora
 
 L'incantatore deve annunciare quale delle due opzioni deve essere lanciata. Chi subisce l'incantesimo non può essere in combattimento nel momento in cui viene lanciato. 
@@ -160,7 +160,7 @@ Poteri superiori concedono risposta a tre quesiti che l'incantatore pone. Ai pot
 
 ### Confusione
 *Livello:* M4  
-*Raggio d'azione:* 60'  
+*Raggio d'azione:* 120'  
 *Durata:* 2 ore
 
 Quest'incantesimo confonde le persone e i mostri, facendoli agire casualmente. Gli effetti della confusione possono mutare ogni 10 minuti; si tirano i dadi per determinare qualunque cambiamento. Tirate 2d6 per determinare il comportamento della creatura:
@@ -177,25 +177,25 @@ L'incantesimo colpisce 2d6 creature, più un numero addizionale di creature per 
 
 ### Contattare altri Piani
 *Livello:* M5  
-*Raggio d'azione:* 240'  
+*Raggio d'azione:* Nessuno  
 *Durata:* Vedi tabella
 
 L'incantatore crea un contatto mentale con i piani, le forze, i poteri e le geometrie dell'aldilà, affinché riceva risposte positive e negative alle domande che lo interessano. L'effetto dell'incantesimo dipende da quanto profondamente l'incantatore desidera inoltrarsi nel piano di esistenza. Tirare 1d20 nella tabella sotto. 
 
 #### Tabella 30: Contattare altri Piani
 
-| Piano (1)| Follia (2) | Giusto | Sbagliato (3)  |
+| Piano (*)| Follia (†) | Giusto | Sbagliato (‡)  |
 |:---------:|:----------:|:------:|:-------------:|
 |     1     |     1-2    |  3-11  |     12-20     |
 |     2     |     1-4    |  4-13  |     14-20     |
-|     3     |     1-6    |  7-16  |     16-20     |
+|     3     |     1-6    |  7-16  |     17-20     |
 |     4     |     1-8    |  9-17  |     18-20     |
 |     5     |    1-10    |  11-18 |     19-20     |
 |     6     |    1-12    |  13-19 |       20      |
 
-* I Piani sono la "profondità' a cui l'incantatore decide di cercare la verità; numero di domande Sì/No a cui ci sarà risposta. 
-† La Follia temporanea dura per un numero di settimane pari alla profondità del piano dove la sanità mentale dell'incantatore è ceduta.
-‡ Questo rappresenta la possibilità di sbagliarsi o fraintendere la risposta. 
+* \* I Piani sono la "profondità' a cui l'incantatore decide di cercare la verità; numero di domande Sì/No a cui ci sarà risposta. 
+* † La Follia temporanea dura per un numero di settimane pari alla profondità del piano dove la sanità mentale dell'incantatore è ceduta.
+* ‡ Questo rappresenta la possibilità di sbagliarsi o fraintendere la risposta. 
 
 ### Controllo Atmosferico
 *Livello:* M6  
@@ -214,7 +214,7 @@ Questo incantesimo crea una fornitura di cibo modesto e acqua potabile per 24 um
 ### Crescita Animale
 *Livello:* M5  
 *Raggio d'azione:* 120'  
-*Durata:* 30 minuti
+*Durata:* 2 ore
 
 L'incantesimo fa crescere 1d6 creature di taglia normale fino a una taglia gigante. Le creature affette possono attaccare come la versione gigante del normale animale.
 
@@ -223,7 +223,7 @@ L'incantesimo fa crescere 1d6 creature di taglia normale fino a una taglia gigan
 *Raggio d'azione:* 120'  
 *Durata:* Permanente finché non viene dissolto
 
-L'incantesimo può influenzare fino a 90 piedi quadrati di terreno; il manto erboso dell'area cresce improvvisamente in una foresta impenetrabile di spine e liane. L'incantatore può decidere la forma dell'area da incantare. Una versione alternativa (a discrezione dell'Arbitro) può permettere all'incantesimo di interessare un'area di 300 piedi per 300, per un totale di 90.000 piedi quadrati. 
+L'incantesimo può influenzare fino a 300' quadrati di terreno; il manto erboso dell'area cresce improvvisamente in una foresta impenetrabile di spine e liane. L'incantatore può decidere la forma dell'area da incantare. Una versione alternativa (a discrezione dell'Arbitro) può permettere all'incantesimo di interessare un'area di 300' per 300', per un totale di 90.000' quadrati. 
 
 ### Curare (Causare) le Malattie
 *Livello:* C3  
@@ -244,14 +244,14 @@ L'incantesimo può influenzare fino a 90 piedi quadrati di terreno; il manto erb
 ### Curare (Causare) le Ferite Gravi
 *Livello:* C4  
 *Raggio d'azione:* Tocco  
-*Durata:* 2 ore
+*Durata:* Istantaneo
 
-- Come Curare Ferite Gravi, l'incantatore cura 3d6+1 PF.
-- Come Causare Ferite Gravi, l'incantatore infligge 3d6+1 PF.
+- Come Curare Ferite Gravi, l'incantatore cura 3d6+3 PF.
+- Come Causare Ferite Gravi, l'incantatore infligge 3d6+3 PF.
 
 ### Dardo Elettrico
 *Livello:* M3  
-*Raggio d'azione:* 90'  
+*Raggio d'azione:* 60'  
 *Durata:* Istantaneo
 
 Un dardo di quasi 10' di larghezza si estende per 60' dalle dita dell'incantatore. Chiunque nel suo cammino soffre di 1d6 punti di danno per livello dell'incantatore, anche se un successo su di un tiro salvezza dimezza il danno. Il dardo si estende sempre per 60', anche se questo significa che può rimbalzare all'indietro su qualcosa che blocca il suo cammino.
@@ -284,7 +284,7 @@ Così, un Mago di 6° livello che tentasse di dissolvere un ammaliamento di un M
 
 ### Evocare un Elementale
 *Livello:* M5  
-*Raggio d'azione:* 120'  
+*Raggio d'azione:* 240'  
 *Durata:* Finché viene dissolto
 
 L'incantatore evoca un elementale di 16 DV (di qualunque tipo) dal piano elementale di esistenza e lo vincola ai suoi comandi. Ogni tipo di elementale può essere evocato solo una volta al giorno. L'elementale obbedisce all'incantatore finché si concentra su di esso; quando l'incantatore cessa di concentrarsi, anche per un solo istante, l'elementale si libera e attacca.
@@ -309,7 +309,7 @@ Entro un raggio di 60', muoiono fino a 2d8 creature con meno di 7 DV.
 *Durata:* 1 ora (C), 20 minuti (M)
 
 - Come Individuare Caos, l'incantatore individua creature del Caos, o coloro che hanno incanti, pensieri, o auree caotici entro il raggio dell'incantesimo. Il Veleno non è intrinsecamente malvagio o caotico e non può essere individuato da questo incantesimo.
-- Come Individuare Legge, l'incantesimo funziona esattamente come Individuare Caos eccenzion fatta che individua la Legge.
+- Come Individuare Legge, l'incantesimo funziona esattamente come Individuare Caos eccezion fatta che individua la Legge.
 
 ### Individuare l'Invisibilità 
 *Livello:* M2  
@@ -331,8 +331,6 @@ L'incantatore può percepire in luoghi, persone o cose la presenza di un incante
 *Durata:* Finché la missione non viene completata.
 
 Questo incantesimo evoca uno Inseguitore Invisibile con 8 DV. L'inseguitore compirà un solo compito come comandato dall'incantatore, indipendentemente da quanto sia lungo il compito o quanto debba viaggiare. L'inseguitore non può essere bandito per alcun motivo da Dissolvi Magie; deve essere ucciso per fermare la sua missione.
-
-L'incantatore può percepire creature e oggetti invisibili.
 
 ### Invisibilità 
 *Livello:* M2  
@@ -372,7 +370,7 @@ Questo incantesimo permette all'incantatore di leggere le iscrizioni magiche su 
 
 ### Levitare 
 *Livello:* M2  
-*Raggio d'azione:* 20'  
+*Raggio d'azione:* 20' per livello
 *Durata:* 10 minuti per livello
 
 Questo incantesimo permette al mago di levitare, muovendosi verticalmente verso l'alto o in giù, ma l'incantesimo stesso non fornisce nessun aiuto per il movimento laterale.
@@ -383,9 +381,9 @@ Levitare permette un movimento verso l'alto o verso il basso alla velocità di 6
 ### Localizzare un Oggetto
 *Livello:* C3, M2  
 *Raggio d'azione:* 90' (C), 60' + 10' per livello  
-*Durata:* Istantaneo
+*Durata:* 1 minuto per livello
 
-Questo incantesimo indica all'incantatore la direzione corretta (in linea d'aria) di un oggetto specificatot tramite descrizione. L'oggetto deve essere qualcosa visto in precedenza, anche se l'incantesimo può individuare un oggetto di tipo generico già noto: scale, oro, ecc.
+Questo incantesimo indica all'incantatore la direzione corretta (in linea d'aria) di un oggetto specificato tramite descrizione. L'oggetto deve essere qualcosa visto in precedenza, anche se l'incantesimo può individuare un oggetto di tipo generico già noto: scale, oro, ecc.
 
 ### Luce (Oscurità)
 *Livello:* C1, M1  
@@ -428,11 +426,11 @@ Questo incantesimo può essere usato solo al di sopra del terreno. Permette all'
 
 ### Muro di Fuoco o Ghiaccio
 *Livello:* M4  
-*Raggio d'azione:* 120'  
+*Raggio d'azione:* 60'  
 *Durata:* Concentrazione
 
 L'incantatore deve annunciare quale delle due opzioni viene lanciata:
-- Come incantesimo di Muro di Fuoco, l'incantatore evoca un muro di fuoco che si agita e brucia fintanto che si mantiene la concentrazione. Le creature con 3 dadi vita o meno non possono oltrepassarla e nessuna creatura può vedere cosa ci sia dall'altro lato. Passare attraverso le fiamme infligge 1d6 punti ferita di danno (nessun tiro salvezza) e le creature non-morte subiscono il doppio del danno.
+- Come incantesimo di Muro di Fuoco, l'incantatore evoca un muro di fuoco che si agita e brucia fintanto che si mantiene la concentrazione. Le creature con 3 dadi vita o meno non possono oltrepassarla e nessuna creatura può vedere cosa ci sia dall'altro lato. Passare attraverso le fiamme infligge 1d6 punti ferita di danno (nessun tiro salvezza) e le creature non-morte subiscono il doppio del danno. L'incantatore può scegliere di creare un muro lungo 60' e alto 20' o un muro circolare di 15' di raggio alto anche 20'.
 - Come incantesimo di Muro di Ghiaccio, l'incantatore evoca un muro di ghiaccio spesso fino a 6'. L'incantatore può scegliere di creare un muro lungo 60' e alto 20' o un muro circolare di 15' di raggio alto anche 20'. Le creature con 3 dadi vita o meno non possono sfondare il muro, ma creature con 4 o più dadi vita possono buttarlo giù, subendo 1d6 danni nel mentre. Le creature con un metabolismo basato sul fuoco subiscono 2d6 danni invece che un normale 1d6. Gli incantesimi di fuoco e gli effetti magici sono impediti in prossimità del muro. 
 
 ### Muro di Pietra o Ferro
@@ -441,8 +439,8 @@ L'incantatore deve annunciare quale delle due opzioni viene lanciata:
 *Durata:* Permanente (pietra) o 2 ore (ferro)
 
 L'incantatore deve annunciare quale delle due opzioni verrà lanciata:
-- Come incantesimo di Muro di Pietra, l'incantatore evoca un muro di pietra spesso 2', con una superficie di area 1000 piedi quadrati. 
-- Come incantesimo di Muro di Ferro, l'incantatore evoca un muro di ferro dal nulla. Il muro è spesso 3', con una superficie di 150'.
+- Come incantesimo di Muro di Pietra, l'incantatore evoca un muro di pietra spesso 2', con una superficie di area 1.000' quadrati. 
+- Come incantesimo di Muro di Ferro, l'incantatore evoca un muro di ferro dal nulla. Il muro è spesso 3', con una superficie di 500' quadrati.
 
 ### Mutaforma di Massa
 *Livello:* M4  
@@ -503,7 +501,7 @@ Questo incantesimo crea un buco attraverso la roccia solida. Il foro o tunnel ra
 *Raggio d'azione:* 480'  
 *Durata:* 1 giorno
 
-Questo incantesimo funziona solo negli spazi all'aperto. Uno sciame di insetti si riunisce e va ovunque l'incantatore desidera. La nube è larga approssimativamente 400 piedi quadrati (20x20 piedi e alto lo stesso). Qualunque creatura con meno di 2 DV esposta alla nube di insetti fuggirà terrorizzata (niente tiro salvezza). 
+Questo incantesimo funziona solo negli spazi all'aperto. Uno sciame di insetti si riunisce e va ovunque l'incantatore desidera. La nube è larga approssimativamente 400' quadrati (20' per 20' e alta lo stesso). Qualunque creatura con meno di 2 DV esposta alla nube di insetti fuggirà terrorizzata (niente tiro salvezza). 
 
 ### Polimorfismo
 *Livello:* M4  
@@ -533,7 +531,7 @@ L'incantatore proietta l'immagine della sua persona fino a un massimo di 240'. N
 *Raggio d'azione:* Solo incantatore  
 *Durata:* 2 ore (C), 1 ora (M)
 
-- Come incantesimo di Protezione dal Caos, l'incantatore crea un campo magico di protezione intorno a sé stesso per bloccare tutti i mostri caotici, i quali soffrono una penalità a colpire contro l'incantatore; l'incantatore guadagna un +1 su tutti i tiri salvezza contro questi attacchi.
+- Come incantesimo di Protezione dal Caos, l'incantatore crea un campo magico di protezione intorno a sé stesso per bloccare tutti i mostri caotici, i quali soffrono una penalità di -1 per colpire contro l'incantatore; l'incantatore guadagna un +1 su tutti i tiri salvezza contro questi attacchi.
 - Come Incantesimo di Protezione dalla Legge, fa la stessa cosa eccezion fatta che le creature legali soffrono la penalità di -1. 
 
 ### Protezione dal Caos (dalla Legge), raggio 10'
@@ -564,7 +562,7 @@ Il ricevente diventa invulnerabile a proiettili non-magici di piccole dimensioni
 *Raggio d'azione:* 30'  
 *Durata:* 8 ore
 
-Ragnatele appiccicose e fibrose riempiono un'area fino a 3 x 3 x 20'. è estremamente difficile attraversa la massa di fili — necessita un turno se una torcia e una spada (o una spada fiammeggiante) sono impiegate mentre le creature più larghe di un cavallo possono sfondare in 2 turni. Gli umani impiegano più tempo per attraversalo — probabilmente dai 3 ai 4 o più turni a discrezione dell'Arbitro.
+Ragnatele appiccicose e fibrose riempiono un'area fino a 10' per 10' per 20'. È estremamente difficile attraversare la massa di fili — necessita un turno se una torcia e una spada (o una spada fiammeggiante) sono impiegate mentre le creature più larghe di un cavallo possono sfondare in 2 turni. Gli umani impiegano più tempo per attraversalo — probabilmente dai 3 ai 4 o più turni a discrezione dell'Arbitro.
 
 ### Regressione Mentale
 *Livello:* M5  
@@ -592,7 +590,7 @@ Questo incantesimo conferisce l'abilità di respirare sott'acqua finché la dura
 *Raggio d'azione:* Linea di tiro  
 *Durata:* Vedi sotto
 
-Resurrezione dei Morti permette al Chierico di far risorgere un corpo dalla morte, ammesso che non sia morto da molto tempo. Il tempo massimo e 4 giorni, ma per ogni livello dell'incantatore superiore all'8°, il limite viene esteso di 4 giorni. I personaggi con una Costituzione bassa potrebbero non sopravvivere al rito; anche per coloro di costituzione robusta, un periodo di due settimane è richiesto prima che possa riprendersi. Questo incantesimo può funzionare solo su specie che possono essere usate dai personaggi giocanti (cioè "umanoidi"). 
+Resurrezione dei Morti permette al Chierico di far risorgere un corpo dalla morte, ammesso che non sia morto da molto tempo. Il tempo massimo è 4 giorni, ma per ogni livello dell'incantatore superiore all'8°, il limite viene esteso di 4 giorni. I personaggi con una Costituzione bassa potrebbero non sopravvivere al rito; anche per coloro di costituzione robusta, un periodo di due settimane è richiesto prima che possa riprendersi. Questo incantesimo può funzionare solo su specie che possono essere usate dai personaggi giocanti (cioè "umanoidi"). 
 
 ### Rimuovere una Maledizione
 *Livello:* C3, M4  
@@ -627,9 +625,9 @@ Il beneficiario dell'incantesimo può vedere nell'oscurità più totale. Il bene
 
 | Tirare 1d6 | Raggio di Visione (piedi) |
 |:----------:|:-------------------------:|
-|     1-2    |             12            |
-|     3-4    |             15            |
-|     5-6    |             18            |
+|     1-2    |             40            |
+|     3-4    |             50            |
+|     5-6    |             60            |
 
 ### Serratura del Mago
 *Livello:* M2  
@@ -643,7 +641,7 @@ Come l'incantesimo Blocca Porte, ma è permanente finché non viene dissolto. Le
 *Raggio d'azione:* 60'  
 *Durata:* 2 ore
 
-L'incantatore deve annunciare quale delle due opzioni verrà lanciata. Uno strato di almeno 2' di piedra solida o uno strato sottile di piombo possono bloccare entrambe le varianti. 
+L'incantatore deve annunciare quale delle due opzioni verrà lanciata. Uno strato di almeno 2' di pietra solida o uno strato sottile di piombo possono bloccare entrambe le varianti. 
 - Come incantesimo di Chiarudienza, l'incantatore può udire attraverso ostacoli solidi.
 - Come incantesimo di Chiaroveggenza, l'incantatore può vedere attraverso ostacoli soldi. 
 
@@ -673,10 +671,10 @@ Questo incantesimo cambia l'aspetto di un terreno nelle sembianze di ciò che l'
 
 ### Telecinesi
 *Livello:* M5  
-*Raggio d'azione:* 30'  
+*Raggio d'azione:* 120'  
 *Durata:* 1 ora
 
-L'incantatore può muovere oggetti usando solamente il potere della mente. La quantità di peso che può alzare e muovere è 9 Kg per livello. 
+L'incantatore può muovere oggetti usando solamente il potere della mente. La quantità di peso che può alzare e muovere è 20 libbre (9 kg) per livello. 
 
 ### Teletrasporto
 *Livello:* M5  
@@ -700,11 +698,11 @@ Questo incantesimo trasforma la carne in pietra o pietra in carne, come desidera
 *Raggio d'azione:* 120'  
 *Durata:* 3d6 giorni, o incantesimo invertito
 
-L'incantesimo trasforma la roccia (e qualunque altra forma di terreno) in fango o il fango in roccia. Un'area di circa 300x300 piedi diventa una melma profonda, riducendo il movimento al 10% del normale. 
+L'incantesimo trasforma la roccia (e qualunque altra forma di terreno) in fango o il fango in roccia. Un'area di circa 300' per 300' diventa una melma profonda, riducendo il movimento al 10% del normale. 
 
 ### Trasformare i Bastoni in Serpenti
 *Livello:* C4  
-*Raggio d'azione:* 30'  
+*Raggio d'azione:* 120'  
 *Durata:* 1 ora
 
 L'incantatore può tramutare fino a 2d8 bastoni ordinari in serpenti, ognuno ha la possibilità del 50% di essere velenoso. I serpenti seguono i suoi comandi, ma tornano a essere bastoni alla fine dell'incantesimo o quando vengono uccisi. 
@@ -723,7 +721,7 @@ Trovare Trappole permette all'incantatore di percepire trappole sia magiche sia 
 
 L'incantesimo sposta l'essenza vitale dell'incantatore, la sua intelligenza e la sua anima in un oggetto (virtualmente può essere di qualunque tipo). Il "vaso" deve essere entro 30' dal corpo dell'incantatore affinché l'incantesimo abbia successo.
 
-Una volta all'interno del vaso magico, l'incantatore può possedere i corpi di altre creature e persone, ammesso che siano entro 120' dal vaso e falliscano un tiro salvezza. L'incantatore può ritornare la sua anima al vaso magico in ogni momento e, se il corpo che controlla viene ucciso, la sua essenza vitale torna immediatamente al vaso. Se il corpo dell'incantatore viene ucciso mentre la sua anima e nel vaso magico, l'anima non ha più una casa al di là del vaso magico (anche se il mago senza corpo può ancora possedere corpi come prima). Se il vaso magico stesso viene distrutto mentre l'anima del mago e all'interno, l'anima e persa. Il mago può tornare dal vaso magico al proprio corpo in qualunque momento, ponendo fine così all'incantesimo.
+Una volta all'interno del vaso magico, l'incantatore può possedere i corpi di altre creature e persone, ammesso che siano entro 120' dal vaso e falliscano un tiro salvezza. L'incantatore può ritornare la sua anima al vaso magico in ogni momento, e se il corpo che controlla viene ucciso, la sua essenza vitale torna immediatamente al vaso. Se il corpo dell'incantatore viene ucciso mentre la sua anima è nel vaso magico, l'anima non ha più una dimora oltre al vaso magico (anche se il mago senza corpo può ancora possedere corpi come prima). Se il vaso magico stesso viene distrutto mentre l'anima del mago è al suo interno, l'anima è persa. Il mago può tornare dal vaso magico al proprio corpo in qualunque momento, ponendo fine così all'incantesimo.
 
 ### Volare
 *Livello:* M3  

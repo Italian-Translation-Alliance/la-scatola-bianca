@@ -1,4 +1,4 @@
-# Capitolo 7 - Condurre il Gioco
+# Capitolo 7: Condurre il Gioco
 
 Condurre una partita di *La Scatola Bianca* è molto più semplice che gestire la maggior parte degli altri giochi di ruolo. Il motivo è che non contiene così tante regole e il vostro giudizio le oltrepasserà in ogni caso. La maggior parte delle situazioni sono gestite prendendo decisioni di buon senso riguardo a ciò che può accadere.
 

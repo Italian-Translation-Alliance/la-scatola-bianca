@@ -131,7 +131,7 @@ Un tiro di 1-19 su un d20 significa un tiro sulla tabella delle Gemme/Gioielli M
 | 40-42       | Invulnerabilità         |
 | 43-45       | Levitare                |
 | 46-48       | Controllo delle piante  |
-| 49-55       | Veleno                  |
+| 49-55       | Avvelenamento           |
 | 56-58       | Scivolosità             |
 | 59-61       | Ritrovamento di tesori  |
 | 62-64       | Controllo dei non morti |
@@ -255,17 +255,17 @@ Tirate 1d8 e aggiungi +0, +6 o +12, a seconda che il tesoro sia minore, medio o 
 | Tiro | **Tipo**                               |
 |:----:|:--------------------------------------:|
 | 1    | Armatura o Scudo Maledetto             |
-| 2    | +1 Arma(e) a Distanza                  |
+| 2    | +1 Arma/i a Distanza                   |
 | 3    | +1 Scudo                               |
 | 4-6  | +1 Arma da Mischia                     |
 | 7-8  | +1 Armatura                            |
 | 9    | Arma Maledetta                         |
-| 10   | +2 Arma/e a Distanza                   |
+| 10   | +2 Arma/i a Distanza                   |
 | 11   | +2 Scudo                               |
 | 12   | +2 Arma da Mischia                     |
 | 13   | +2 Armatura                            |
 | 14   | +1 Arma da Mischia con Abilità Minore  |
-| 15   | +3 Arma/e a Distanza                   |
+| 15   | +3 Arma/i a Distanza                   |
 | 16   | +3 Arma da Mischia                     |
 | 17   | +3 Scudo                               |
 | 18   | +3 Armatura                            |

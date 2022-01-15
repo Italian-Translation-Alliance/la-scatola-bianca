@@ -223,7 +223,7 @@ L'incantesimo fa crescere 1d6 creature di taglia normale fino a una taglia gigan
 *Raggio d'azione:* 120'  
 *Durata:* Permanente finché non viene dissolto
 
-L'incantesimo può influenzare fino a 300 piedi quadrati di terreno; il manto erboso dell'area cresce improvvisamente in una foresta impenetrabile di spine e liane. L'incantatore può decidere la forma dell'area da incantare. Una versione alternativa (a discrezione dell'Arbitro) può permettere all'incantesimo di interessare un'area di 300' per 300', per un totale di 90.000 piedi quadrati. 
+L'incantesimo può influenzare fino a 300' quadrati di terreno; il manto erboso dell'area cresce improvvisamente in una foresta impenetrabile di spine e liane. L'incantatore può decidere la forma dell'area da incantare. Una versione alternativa (a discrezione dell'Arbitro) può permettere all'incantesimo di interessare un'area di 300' per 300', per un totale di 90.000' quadrati. 
 
 ### Curare (Causare) le Malattie
 *Livello:* C3  
@@ -439,8 +439,8 @@ L'incantatore deve annunciare quale delle due opzioni viene lanciata:
 *Durata:* Permanente (pietra) o 2 ore (ferro)
 
 L'incantatore deve annunciare quale delle due opzioni verrà lanciata:
-- Come incantesimo di Muro di Pietra, l'incantatore evoca un muro di pietra spesso 2', con una superficie di area 1.000 piedi quadrati. 
-- Come incantesimo di Muro di Ferro, l'incantatore evoca un muro di ferro dal nulla. Il muro è spesso 3', con una superficie di 500 piedi quadrati.
+- Come incantesimo di Muro di Pietra, l'incantatore evoca un muro di pietra spesso 2', con una superficie di area 1.000' quadrati. 
+- Come incantesimo di Muro di Ferro, l'incantatore evoca un muro di ferro dal nulla. Il muro è spesso 3', con una superficie di 500' quadrati.
 
 ### Mutaforma di Massa
 *Livello:* M4  
@@ -501,7 +501,7 @@ Questo incantesimo crea un buco attraverso la roccia solida. Il foro o tunnel ra
 *Raggio d'azione:* 480'  
 *Durata:* 1 giorno
 
-Questo incantesimo funziona solo negli spazi all'aperto. Uno sciame di insetti si riunisce e va ovunque l'incantatore desidera. La nube è larga approssimativamente 400 piedi quadrati (20' per 20' e alta lo stesso). Qualunque creatura con meno di 2 DV esposta alla nube di insetti fuggirà terrorizzata (niente tiro salvezza). 
+Questo incantesimo funziona solo negli spazi all'aperto. Uno sciame di insetti si riunisce e va ovunque l'incantatore desidera. La nube è larga approssimativamente 400' quadrati (20' per 20' e alta lo stesso). Qualunque creatura con meno di 2 DV esposta alla nube di insetti fuggirà terrorizzata (niente tiro salvezza). 
 
 ### Polimorfismo
 *Livello:* M4  
@@ -720,7 +720,7 @@ Trovare Trappole permette all'incantatore di percepire trappole sia magiche sia 
 
 L'incantesimo sposta l'essenza vitale dell'incantatore, la sua intelligenza e la sua anima in un oggetto (virtualmente può essere di qualunque tipo). Il "vaso" deve essere entro 30' dal corpo dell'incantatore affinché l'incantesimo abbia successo.
 
-Una volta all'interno del vaso magico, l'incantatore può possedere i corpi di altre creature e persone, ammesso che siano entro 120' dal vaso e falliscano un tiro salvezza. L'incantatore può ritornare la sua anima al vaso magico in ogni momento e, se il corpo che controlla viene ucciso, la sua essenza vitale torna immediatamente al vaso. Se il corpo dell'incantatore viene ucciso mentre la sua anima è nel vaso magico, l'anima non ha più una casa al di là del vaso magico (anche se il mago senza corpo può ancora possedere corpi come prima). Se il vaso magico stesso viene distrutto mentre l'anima del mago è all'interno, l'anima è persa. Il mago può tornare dal vaso magico al proprio corpo in qualunque momento, ponendo fine così all'incantesimo.
+Una volta all'interno del vaso magico, l'incantatore può possedere i corpi di altre creature e persone, ammesso che siano entro 120' dal vaso e falliscano un tiro salvezza. L'incantatore può ritornare la sua anima al vaso magico in ogni momento, e se il corpo che controlla viene ucciso, la sua essenza vitale torna immediatamente al vaso. Se il corpo dell'incantatore viene ucciso mentre la sua anima è nel vaso magico, l'anima non ha più una dimora oltre al vaso magico (anche se il mago senza corpo può ancora possedere corpi come prima). Se il vaso magico stesso viene distrutto mentre l'anima del mago è al suo interno, l'anima è persa. Il mago può tornare dal vaso magico al proprio corpo in qualunque momento, ponendo fine così all'incantesimo.
 
 ### Volare
 *Livello:* M3  

@@ -50,7 +50,7 @@ Le porte dei dungeon sono grandi, pesanti e anche se sbloccate sono difficili da
 
 ### Luce
 
-Torce e lanterne illuminano un raggio di 30 piedi. Le torce bruciano per un'ora (sei turni), mentre le lanterne bruciano una pinta di olio in quattro ore (24 turni). I giocatori che usano una fonte di luce non possono normalmente sorprendere i mostri, ma possono comunque essere sorpresi. Si presume che tutti i mostri vedano al buio, a meno che non siano incantati o asserviti ai giocatori.
+Torce e lanterne illuminano un raggio di 30'. Le torce bruciano per un'ora (sei turni), mentre le lanterne bruciano una pinta di olio in quattro ore (24 turni). I giocatori che usano una fonte di luce non possono normalmente sorprendere i mostri, ma possono comunque essere sorpresi. Si presume che tutti i mostri vedano al buio, a meno che non siano incantati o asserviti ai giocatori.
 
 ### Ascolto alle porte
 
@@ -187,7 +187,7 @@ L'olio lanciato che viene successivamente incendiato da una torcia gettata o qua
 
 ### Attacco in mischia
 
-Un attacco in mischia è un attacco con un'arma a mano come una spada, una lancia o un pugnale. Due combattenti entro 10 piedi l'uno dall'altro sono considerati "in mischia".
+Un attacco in mischia è un attacco con un'arma a mano come una spada, una lancia o un pugnale. Due combattenti entro 10' l'uno dall'altro sono considerati "in mischia".
 
 ### Attacco a distanza
 

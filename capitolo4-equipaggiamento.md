@@ -22,7 +22,6 @@ Nel gioco originale, tutte le armi infliggono 1d6 danni, indipendentemente dal t
 | Attrezzi da ladro               | 25             |
 | Belladonna, mazzo               | 10             |
 | Bottiglia (vino), bicchiere     | 1              |
-| Chiodi (12), ferro              | 1              |
 | Corda (50'), canapa             | 1              |
 | Corda (50'), seta               | 5              |
 | Elmo                            | 10             |
@@ -33,6 +32,7 @@ Nel gioco originale, tutte le armi infliggono 1d6 danni, indipendentemente dal t
 | Pala                            | 5              |
 | Otre d'acqua                    | 1              |
 | Picchetti (12), legno           | 1              |
+| Picchi (12), ferro              | 1              |
 | Piede di porco                  | 5              |
 | Pietra focaia e acciaio         | 5              |
 | Rampino                         | 5              |

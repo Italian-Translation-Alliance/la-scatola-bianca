@@ -653,7 +653,7 @@ Questo incantesimo getta le creature in un sonno profondo (nessun tiro salvezza 
 
 #### Tabella 32: Affetti da Sonno
 
-|    DV della Vittima   | Numero di Influenzati |
+|    DV della Vittima   | Creature Influenzate |
 |:---------------------:|:---------------------:|
 | Da meno di 1 DV a 1+1 |          3d6          |
 |        2 a 2+1        |          2d6          |

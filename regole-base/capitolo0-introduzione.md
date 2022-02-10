@@ -1,5 +1,6 @@
 ---
 nav_order: 1
+has_parent: Regole Base
 ---
 
 # Introduzione

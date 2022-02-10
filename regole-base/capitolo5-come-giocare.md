@@ -1,3 +1,8 @@
+---
+nav_order: 6
+has_parent: Regole Base
+---
+
 # Capitolo 5: Come Giocare
 
 Una volta che i personaggi sono stati creati, l'Arbitro descrive dove essi si trovano e cosa possono vedere. Il gioco potrebbe iniziare in un villaggio rurale abitato da contadini, in una enorme e brulicante città costellata di torri e minareti, in un castello, in una taverna o alle porte di un'antica tomba. Da quel punto in poi, i giocatori descrivono ciò che i propri personaggi fanno. Scendere delle scale, attaccare un drago, parlare con altri Personaggi Giocanti (PG) o Personaggi Non Giocanti (PNG) controllati dall'Arbitro - tutti questi tipi di azioni sono decise dai giocatori; l'Arbitro poi descrive cosa succede di conseguenza: le scale conducono in un'enorme tomba, il drago attacca i personaggi, ecc. Le regole che seguono sono linee guida per gestire eventi come il combattimento, guadagnare esperienza, il movimento, la guarigione, la morte e altre importanti parti del gioco. 

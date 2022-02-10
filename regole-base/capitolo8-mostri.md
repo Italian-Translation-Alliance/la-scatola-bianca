@@ -1,3 +1,8 @@
+---
+nav_order: 9
+has_parent: Regole Base
+---
+
 # Capitolo 8: Mostri
 
 Non sono forniti molti dettagli sui mostri, perché più dettagli vengono dati, più la vostra immagine mentale del mondo fantastico sarà bloccata su un unico binario. Non diremo che le formiche giganti sono rosse, notturne, lunghe 3' e amano mangiare gli elfi. Perché, nella vostra mente, potrebbero essere blu, diurne, lunghe 5' e mangiare solo piante, a meno che non vengano attaccate. I dettagli sui mostri pongono ostacoli all'immaginazione. Sì, i dettagli possono anche ispirare l'immaginazione, ma stiamo dando per scontato che, se siete interessati al gioco fantasy, avete già una buona immaginazione e non avete bisogno di dettagli sulle dimensioni di una formica gigante.

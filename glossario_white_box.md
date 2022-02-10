@@ -1,3 +1,9 @@
+---
+nav_order: 11
+has_parent: Regole Base
+title: Glossario di traduzione
+---
+
 **Incantesimi Chierico**
 Cure (Cause) Light Wounds = Curare (Causare) Ferite Leggere 
 Detect Chaos (Law) = Individuare Caos (Legge)  

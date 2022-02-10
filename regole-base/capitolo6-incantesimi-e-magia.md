@@ -1,3 +1,8 @@
+---
+nav_order: 7
+has_parent: Regole Base
+---
+
 # Capitolo 6: Incantesimi e Magia
 
 I Chierici e i Maghi sono le uniche classi che possono lanciare incantesimi. Gli incantesimi sono suddivisi in tre fasi. La prima è la memorizzazione (un personaggio può memorizzare solo un certo numero di incantesimi da portare con sé durante un'avventura — vedi la descrizione della classe del personaggio per vedere quanti e a quale livello). La seconda, la preparazione, è il processo di pronunciare le parole magiche e compiere i gesti magici. Nella terza l'incantesimo è lanciato, poi ha effetto e quindi la magia è compiuta. Nella normale sequenza di combattimento, l'incantatore comincia a preparare l'incantesimo all'inizio del round e lo lancia quando il suo gruppo avrà l'iniziativa. Nella sequenza di combattimento alternativa, preparare un incantesimo richiede un intero round, ma gli incantesimi sono lanciati all'inizio del round successivo; l'incantatore può effettuare nel frattempo altre azioni durante il round, incluso preparare un incantesimo per il round successivo.

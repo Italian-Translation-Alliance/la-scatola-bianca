@@ -1,3 +1,7 @@
+---
+nav_order: 10
+has_parent: Regole Base
+---
 # Capitolo 9: Tesori
 
 La quantità di tesori che un mostro possiede o custodisce è di solito correlata ai DVE del mostro. Questo non è necessariamente realistico, ma tenete a mente che il tesoro è uno dei modi in cui il gioco misura ciò che un personaggio ha fatto: è usato per assegnare i punti esperienza. Tesori troppo grandi e i personaggi diventeranno potenti senza aver fatto abbastanza; troppi mostri con tesori piccoli e i personaggi non guadagneranno livelli che misurino i loro successi.

@@ -1,6 +1,6 @@
 ---
 nav_order: 7
-has_parent: Regole Base
+parent: Regole Base
 ---
 
 # Capitolo 6: Incantesimi e Magia

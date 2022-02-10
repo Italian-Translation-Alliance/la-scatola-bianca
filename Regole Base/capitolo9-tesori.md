@@ -1,6 +1,6 @@
 ---
 nav_order: 10
-has_parent: Regole Base
+parent: Regole Base
 ---
 # Capitolo 9: Tesori
 

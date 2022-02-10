@@ -1,6 +1,6 @@
 ---
 nav_order: 11
-has_parent: Regole Base
+parent: Regole Base
 title: Glossario di traduzione
 ---
 

@@ -1,6 +1,6 @@
 ---
 nav_order: 8
-has_parent: Regole Base
+parent: Regole Base
 ---
 
 # Capitolo 7: Condurre il Gioco

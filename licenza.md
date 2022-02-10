@@ -1,3 +1,7 @@
+---
+nav_order: 11
+parent: Regole Base
+---
 # Licenza
 
 Il testo è completamente rilasciato sotto Open Gaming License, questo significa che chiunque, senza richiedere l'espresso permesso all'Italian Translation Alliance, può:

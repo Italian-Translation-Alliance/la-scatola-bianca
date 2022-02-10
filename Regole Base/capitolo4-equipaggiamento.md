@@ -1,6 +1,6 @@
 ---
 nav_order: 5
-has_parent: Regole Base
+parent: Regole Base
 ---
 # Capitolo 4: Equipaggiamento
 

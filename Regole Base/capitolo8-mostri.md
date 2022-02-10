@@ -1,6 +1,6 @@
 ---
 nav_order: 9
-has_parent: Regole Base
+parent: Regole Base
 ---
 
 # Capitolo 8: Mostri

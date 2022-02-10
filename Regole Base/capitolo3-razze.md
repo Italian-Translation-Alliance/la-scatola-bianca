@@ -1,6 +1,6 @@
 ---
 nav_order: 4
-has_parent: Regole Base
+parent: Regole Base
 ---
 
 # Capitolo 3: Razze

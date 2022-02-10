@@ -1,6 +1,6 @@
 ---
 nav_order: 2
-has_parent: Regole Base
+parent: Regole Base
 ---
 
 # Capitolo 1: Come iniziare

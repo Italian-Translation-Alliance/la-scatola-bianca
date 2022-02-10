@@ -1,6 +1,6 @@
 ---
 nav_order: 3
-has_parent: Regole Base
+parent: Regole Base
 ---
 
 # Capitolo 2: Classi Personaggio

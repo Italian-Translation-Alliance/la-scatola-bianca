@@ -1,6 +1,6 @@
 ---
 nav_order: 6
-has_parent: Regole Base
+parent: Regole Base
 ---
 
 # Capitolo 5: Come Giocare

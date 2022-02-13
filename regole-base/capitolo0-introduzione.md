@@ -15,7 +15,7 @@ Un gioco di ruolo, abbreviato spesso in GDR o RPG (dall'inglese role-playing gam
 
 Un giocatore detto Arbitro conduce la sessione di gioco, crea l'ambientazione e le situazioni in cui si trovano i loro personaggi, chiedendo loro cosa intendono fare. I giocatori dichiarano le azioni che compiono i loro personaggi, descrivendole o recitandole. L'Arbitro decide quindi il risultato di queste azioni, in coerenza con l'ambientazione e le regole del gioco. Le azioni intraprese nel gioco hanno successo o falliscono secondo un sistema di regole formali e di linee guida.
 
-### Cos'è un Retro-Clone?
+### Cos'è un Retroclone?
 
 *La Scatola Bianca* non è solo un gioco di ruolo. È specificamente un retroclone.
 

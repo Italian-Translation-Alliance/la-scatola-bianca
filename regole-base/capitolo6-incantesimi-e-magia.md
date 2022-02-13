@@ -101,7 +101,7 @@ Di seguito sono elencati tutti gli incantesimi per Chierici e Maghi, in ordine a
 *Raggio d'azione:* 240'  
 *Durata:* 30 minuti
 
-L'incantatore deve annunciare quale delle due opzioni sarà lanciata. Entrambe le opzioni hanno 60' di raggio ad area di effetto:
+L'incantatore deve annunciare quale delle due opzioni sarà lanciata. Entrambe le opzioni hanno 60' di raggio di area di effetto:
 - Come incantesimo di accelerazione, fino a 24 creature possono muoversi e attaccare al doppio della normale velocità. 
 - Come incantesimo di rallentamento, fino a 24 creature che falliscono il tiro salvezza si muovono e attaccano a metà della velocità.
 
@@ -132,7 +132,7 @@ Questo incantesimo anima scheletri o zombie da corpi morti. 1d6 non-morti sono a
 *Durata:* 1 ora
 
 L'incantatore deve annunciare quale delle due opzioni deve essere lanciata. Chi subisce l'incantesimo non può essere in combattimento nel momento in cui viene lanciato. 
-- Come incantesimo di Benedire, al ricevente viene garantito un bonus di +1 a tutti i ti d'attacco e, se il bersaglio non è un personaggio giocante, migliora il morale. 
+- Come incantesimo di Benedire, al ricevente viene garantito un bonus di +1 a tutti i tiri d'attacco e, se il bersaglio non è un personaggio giocante, migliora il morale. 
 - Come incantesimo di Maledire, il ricevente è maledetto con una penalità di -1 a tutti gli attacchi, e se il bersaglio non è un personaggio giocante, soffre una diminuzione del morale.
 
 ### Bloccare i Mostri
@@ -185,7 +185,7 @@ L'incantesimo colpisce 2d6 creature, più un numero addizionale di creature per 
 *Raggio d'azione:* Nessuno  
 *Durata:* Vedi tabella
 
-L'incantatore crea un contatto mentale con i piani, le forze, i poteri e le geometrie dell'aldilà, affinché riceva risposte positive e negative alle domande che lo interessano. L'effetto dell'incantesimo dipende da quanto profondamente l'incantatore desidera inoltrarsi nel piano di esistenza. Tirare 1d20 nella tabella sotto. 
+L'incantatore crea un contatto mentale con i piani, le forze, i poteri e le geometrie dell'aldilà, affinché riceva risposte positive o negative alle domande che lo interessano. L'effetto dell'incantesimo dipende da quanto profondamente l'incantatore desidera inoltrarsi nel piano di esistenza. Tirare 1d20 nella tabella sotto. 
 
 #### Tabella 30: Contattare altri Piani
 
@@ -199,7 +199,7 @@ L'incantatore crea un contatto mentale con i piani, le forze, i poteri e le geom
 |     6     |    1-12    |  13-19 |       20      |
 
 * \* I Piani sono la "profondità' a cui l'incantatore decide di cercare la verità; numero di domande Sì/No a cui ci sarà risposta. 
-* † La Follia temporanea dura per un numero di settimane pari alla profondità del piano dove la sanità mentale dell'incantatore è ceduta.
+* † La Follia temporanea dura per un numero di settimane pari alla profondità del piano dove la sanità mentale dell'incantatore ha ceduto.
 * ‡ Questo rappresenta la possibilità di sbagliarsi o fraintendere la risposta. 
 
 ### Controllo Atmosferico
@@ -259,14 +259,14 @@ L'incantesimo può influenzare fino a 300' quadrati di terreno; il manto erboso 
 *Raggio d'azione:* 60'  
 *Durata:* Istantaneo
 
-Un dardo di quasi 10' di larghezza si estende per 60' dalle dita dell'incantatore. Chiunque nel suo cammino soffre di 1d6 punti di danno per livello dell'incantatore, anche se un successo su di un tiro salvezza dimezza il danno. Il dardo si estende sempre per 60', anche se questo significa che può rimbalzare all'indietro su qualcosa che blocca il suo cammino.
+Un dardo di quasi 10' di larghezza si estende per 60' dalle dita dell'incantatore. Chiunque sul suo cammino soffre di 1d6 punti di danno per livello dell'incantatore, anche se un successo su di un tiro salvezza dimezza il danno. Il dardo si estende sempre per 60', anche se questo significa che può rimbalzare all'indietro su qualcosa che blocca il suo cammino.
 
 ### Disintegrare 
 *Livello:* M6  
 *Raggio d'azione:* 60'  
 *Durata:* Permanente
 
-L'incantesimo definisce un bersaglio specifico come una porta, un popolano, o una statua e lo disintegra in polvere. I materiali magici non sono disintegrabili, e alle creature viventi (come i già menzionati popolani) è concesso un tiro salvezza. L'incantesimo Disintegrare non può essere dissolto.
+L'incantatore designa un bersaglio specifico come una porta, un popolano, o una statua e lo disintegra in polvere. I materiali magici non sono disintegrabili, e alle creature viventi (come i già menzionati popolani) è concesso un tiro salvezza. L'incantesimo Disintegrare non può essere dissolto.
 
 ### Dissolvere il Caos (la Legge)
 *Livello:* C5  
@@ -299,7 +299,7 @@ L'incantatore evoca un elementale di 16 DV (di qualunque tipo) dal piano element
 *Raggio d'azione:* 240'  
 *Durata:* Finché non viene negata o dissolta
 
-Questo incantesimo crea un'illusione realistica di fronte a chi lo osserva. L'illusione scompare quando viene toccata, ma se l'osservatore crede che l'illusione sia vera potrà riceverne danno.
+Questo incantesimo crea un'illusione realistica di fronte a chi la osserva. L'illusione scompare quando viene toccata, ma se l'osservatore crede che l'illusione sia vera potrà riceverne danno.
 
 ### Incantesimo di Morte
 *Livello:* M6  
@@ -313,7 +313,7 @@ Entro un raggio di 60', muoiono fino a 2d8 creature con meno di 7 DV.
 *Raggio d'azione:* 120' (C), 60' (M)  
 *Durata:* 1 ora (C), 20 minuti (M)
 
-- Come Individuare Caos, l'incantatore individua creature del Caos, o coloro che hanno incanti, pensieri, o auree caotici entro il raggio dell'incantesimo. Il Veleno non è intrinsecamente malvagio o caotico e non può essere individuato da questo incantesimo.
+- Come Individuare Caos, l'incantatore individua creature del Caos, o coloro che hanno incanti, pensieri, o auree caotiche entro il raggio dell'incantesimo. Il Veleno non è intrinsecamente malvagio o caotico e non può essere individuato da questo incantesimo.
 - Come Individuare Legge, l'incantesimo funziona esattamente come Individuare Caos eccezion fatta che individua la Legge.
 
 ### Individuare l'Invisibilità 
@@ -385,15 +385,15 @@ Levitare permette un movimento verso l'alto o verso il basso alla velocità di 6
 
 ### Localizzare un Oggetto
 *Livello:* C3, M2  
-*Raggio d'azione:* 90' (C), 60' + 10' per livello  
+*Raggio d'azione:* 90' (C), 60' + 10' per livello (M)
 *Durata:* 1 minuto per livello
 
-Questo incantesimo indica all'incantatore la direzione corretta (in linea d'aria) di un oggetto specificato tramite descrizione. L'oggetto deve essere qualcosa visto in precedenza, anche se l'incantesimo può individuare un oggetto di tipo generico già noto: scale, oro, ecc.
+Questo incantesimo indica all'incantatore la direzione corretta (in linea d'aria) di un oggetto specificato tramite descrizione. L'oggetto deve essere qualcosa visto in precedenza, anche se l'incantesimo può individuare un oggetto di tipo generico già noto: scale, oro, ecc..
 
 ### Luce (Oscurità)
 *Livello:* C1, M1  
 *Raggio d'azione:* 120'  
-*Durata:* 2 ore (C), 1 ora + 10 minuti per livello
+*Durata:* 2 ore (C), 1 ora + 10 minuti per livello (M)
 
 - Come incantesimo di Luce, l'incantatore bersaglia una persona o un oggetto il quale comincia a produrre luce brillante quanto una torcia con un raggio di 20'.
 - Come incantesimo di Oscurità, l'incantatore causa un'oscurità come la notte entro l'area di un raggio di 20'.
@@ -419,7 +419,7 @@ Se la vittima fallisce il tiro salvezza, l'incantatore può affidargli un compit
 *Durata:* Vedere sotto 
 
 L'incantatore può annunciare quale delle due opzioni lancerà:
-- L'incantesimo abbassa la profondità e il livello d'acqua di laghi, fiumi, pozzi e altri corpi d'acqua di metà (1/2) del loro normale livello. Usato in tal modo, l'incantesimo dura per 10 turni.
+- L'incantesimo abbassa la profondità e il livello d'acqua di laghi, fiumi, pozzi e altri specchi d'acqua di metà (1/2) del loro normale livello. Usato in tal modo, l'incantesimo dura per 10 turni.
 - Alternativamente, questo incantesimo crea un passaggio attraverso l'acqua, ma solo a una profondità di 10'. Usato in tal modo, l'incantesimo dura per 6 turni.
 
 ### Muovere la Terra
@@ -514,7 +514,7 @@ Questo incantesimo funziona solo negli spazi all'aperto. Uno sciame di insetti s
 *Durata:* Vedi sotto
 
 L'incantatore deve annunciare quale delle due opzioni sarà lanciata:
-- L'incantatore assume la forma di un qualunque oggetto o creatura, ottenendo gli attributi della nuova forma (l'uso delle ali, per esempio), ma non i suoi punti ferita o abilità combattive. L'Arbitro potrebbe permettere come beneficio la Classe Armatura della nuova forma, se questa ha una pelle pesantemente corazzata. Buona parte degli effetti dell'incantesimo è lasciata a discrezione dell'Arbitro. Questa forma dell'incantesimo dura almeno un'ora più una addizionale per ogni livello dell'incantatore
+- L'incantatore assume la forma di un qualunque oggetto o creatura, ottenendo gli attributi della nuova forma (l'uso delle ali, per esempio), ma non i suoi punti ferita o abilità marziali. L'Arbitro potrebbe permettere come beneficio la Classe Armatura della nuova forma, se questa ha una pelle pesantemente corazzata. Buona parte degli effetti dell'incantesimo è lasciata a discrezione dell'Arbitro. Questa forma dell'incantesimo dura almeno un'ora più una addizionale per ogni livello dell'incantatore
 - In alternativa, questo incantesimo permette all'incantatore di trasformare un altro essere in un tipo differente di creatura (come un drago, una lumaca da giardino, e certamente, un rospo o una salamandra). La creatura trasformata guadagna tutte le abilita della forma, ma mantiene la sua coscienza e i suoi punti ferita. Usato in tal modo, il raggio dell'incantesimo è di 60'. Questa versione dell'incantesimo dura finché non viene dissolta.
 
 ### Portale Dimensionale 
@@ -647,7 +647,7 @@ Come l'incantesimo Blocca Porte, ma è permanente finché non viene dissolto. Le
 *Durata:* 2 ore
 
 L'incantatore deve annunciare quale delle due opzioni verrà lanciata. Uno strato di almeno 2' di pietra solida o uno strato sottile di piombo possono bloccare entrambe le varianti. 
-- Come incantesimo di Chiarudienza, l'incantatore può udire attraverso ostacoli solidi.
+- Come incantesimo di Chiaroudienza, l'incantatore può udire attraverso ostacoli solidi.
 - Come incantesimo di Chiaroveggenza, l'incantatore può vedere attraverso ostacoli soldi. 
 
 ### Sonno
@@ -689,7 +689,7 @@ L'incantatore può muovere oggetti usando solamente il potere della mente. La qu
 L'incantesimo trasporta l'incantatore o un'altra persona alla destinazione che l'incantatore conosce (o perlomeno che conosce tramite un dipinto o una mappa). Il successo dipende da quanto bene l'incantatore conosce la posizione bersaglio:
 - Se l'incantatore ha solo esperienza indiretta della posizione (conosciuta attraverso un'immagine o una mappa) c'è il 25% di probabilità di successo — e il fallimento rappresenta la morte.
 - Se l'incantatore ha visto ma non studiato la destinazione c'è il 20% di possibilità di fallimento. Metà dei fallimenti porterà il viaggiatore 1d10x10' sotto la posizione voluta, possibilmente risultando nella morte se arriva dentro una sostanza solida. L'altra metà dei fallimenti porterà il viaggiatore 1d10x10' sopra la posizione voluta, la quale risulterà possibilmente in una caduta mortale. 
-- Se l'incantatore è familiare con la posizione o l'ha studiata attentamente, c'è un 5% di possibilità, con 1 su 6 chance di fallimento si arrivi sopra o sotto la posizione bersaglio. In entrambi i casi, l'arrivo e 1d4x10' troppo alto o troppo basso. 
+- Se l'incantatore è familiare con la posizione o l'ha studiata attentamente, c'è un 5% di possibilità, con 1 su 6 chance di fallimento si arrivi sopra o sotto la posizione bersaglio. In entrambi i casi, l'arrivo è 1d4x10' troppo alto o troppo basso. 
 
 ### Trasformare la Pietra in Carne
 *Livello:* M6  
@@ -726,7 +726,7 @@ Trovare Trappole permette all'incantatore di percepire trappole sia magiche sia 
 
 L'incantesimo sposta l'essenza vitale dell'incantatore, la sua intelligenza e la sua anima in un oggetto (virtualmente può essere di qualunque tipo). Il "vaso" deve essere entro 30' dal corpo dell'incantatore affinché l'incantesimo abbia successo.
 
-Una volta all'interno del vaso magico, l'incantatore può possedere i corpi di altre creature e persone, ammesso che siano entro 120' dal vaso e falliscano un tiro salvezza. L'incantatore può ritornare la sua anima al vaso magico in ogni momento, e se il corpo che controlla viene ucciso, la sua essenza vitale torna immediatamente al vaso. Se il corpo dell'incantatore viene ucciso mentre la sua anima è nel vaso magico, l'anima non ha più una dimora oltre al vaso magico (anche se il mago senza corpo può ancora possedere corpi come prima). Se il vaso magico stesso viene distrutto mentre l'anima del mago è al suo interno, l'anima è persa. Il mago può tornare dal vaso magico al proprio corpo in qualunque momento, ponendo fine così all'incantesimo.
+Una volta all'interno del vaso magico, l'incantatore può possedere i corpi di altre creature e persone, ammesso che siano entro 120' dal vaso e falliscano un tiro salvezza. L'incantatore far può ritornare la sua anima al vaso magico in ogni momento, e se il corpo che controlla viene ucciso, la sua essenza vitale torna immediatamente al vaso. Se il corpo dell'incantatore viene ucciso mentre la sua anima è nel vaso magico, l'anima non ha più una dimora oltre al vaso magico (anche se il mago senza corpo può ancora possedere corpi come prima). Se il vaso magico stesso viene distrutto mentre l'anima del mago è al suo interno, l'anima è persa. Il mago può tornare dal vaso magico al proprio corpo in qualunque momento, ponendo fine così all'incantesimo.
 
 ### Volare
 *Livello:* M3  

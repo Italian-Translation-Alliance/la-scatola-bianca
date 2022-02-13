@@ -11,6 +11,10 @@ title: Regole Base
 Roberto Bisceglie  
 Alessio Persichetti
 
+### Revisione
+Alberto Giuffrida  
+Gianluca Quadro
+
 La Scatola Bianca è un progetto dell'[**Italian Translation Alliance**](https://italian-translation-alliance.github.io)
 
 ### Ringraziamenti

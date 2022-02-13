@@ -19,15 +19,15 @@ Il Chierico è un campione della sua fede e del suo allineamento morale. Il pers
 | ------- | ---------------- | --------- | ----------- | ------------- | --------- | --- | --- | --- | --- |
 |         |                  |           |             |               | 1         | 2   | 3   | 4   | 5   |
 | 1       | 0                | 1         | +0          | 15            | –         | –   | –   | –   | –   |
-| 2       | 1,500            | 2         | +0          | 14            | 1         | –   | –   | –   | –   |
-| 3       | 3,000            | 3         | +0          | 13            | 2         | –   | –   | –   | –   |
-| 4       | 6,000            | 3+1       | +1          | 12            | 2         | 1   | –   | –   | –   |
-| 5       | 12,000           | 4         | +1          | 11            | 2         | 2   | 1   | –   | –   |
-| 6       | 24,000           | 5         | +2          | 10            | 2         | 2   | 1   | 1   | –   |
-| 7       | 48,000           | 6         | +2          | 9             | 2         | 2   | 2   | 1   | 1   |
-| 8       | 96,000           | 6+1       | +3          | 8             | 2         | 2   | 2   | 2   | 2   |
-| 9       | 192,000          | 7         | +4          | 7             | 3         | 3   | 3   | 2   | 2   |
-| 10      | 384,000          | 8         | +5          | 6             | 3         | 3   | 3   | 3   | 3   |
+| 2       | 1.500            | 2         | +0          | 14            | 1         | –   | –   | –   | –   |
+| 3       | 3.000            | 3         | +0          | 13            | 2         | –   | –   | –   | –   |
+| 4       | 6.000            | 3+1       | +1          | 12            | 2         | 1   | –   | –   | –   |
+| 5       | 12.000           | 4         | +1          | 11            | 2         | 2   | 1   | –   | –   |
+| 6       | 24.000           | 5         | +2          | 10            | 2         | 2   | 1   | 1   | –   |
+| 7       | 48.000           | 6         | +2          | 9             | 2         | 2   | 2   | 1   | 1   |
+| 8       | 96.000           | 6+1       | +3          | 8             | 2         | 2   | 2   | 2   | 2   |
+| 9       | 192.000          | 7         | +4          | 7             | 3         | 3   | 3   | 2   | 2   |
+| 10      | 384.000          | 8         | +5          | 6             | 3         | 3   | 3   | 3   | 3   |
 
 ### Abilità del Chierico
 
@@ -61,7 +61,7 @@ Solamente i Chierici Legali hanno la capacità di scacciare i non-morti, facendo
 
 Se il risultato dei dadi è uguale o superiore al numero indicato sulla tabella, tutte le creature non-morte del tipo bersaglio vengono scacciate e fuggono per 3d6 round (o si accucciano impotenti, se non sono in grado di fuggire). Opzionalmente, l'Arbitro può decidere che solo 2d6 DV siano scacciati, iniziando dal più basso al più alto.
 
-Per i Chierici allineati legalmente, se la tabella indica una "D" allora la creatura non-morta viene distrutta automaticamente e si sgretola in polvere.
+Per i Chierici di allineamento legale, se la tabella indica una "D" allora la creatura non-morta viene distrutta automaticamente e si sgretola in polvere.
 
 #### Tabella 4: Scacciare i non-morti
 
@@ -97,15 +97,15 @@ Il Guerriero è un soldato, addestrato alla battaglia e all'uso di armature e ar
 | Livello | Punti Esperienza | Dado Vita | Per Colpire | Tiro Salvezza |
 | ------- | ---------------- | --------- | ----------- | ------------- |
 | 1       | 0                | 1+1       | +0          | 14            |
-| 2       | 2,000            | 2         | +1          | 13            |
-| 3       | 4,000            | 3         | +2          | 12            |
-| 4       | 8,000            | 4         | +2          | 11            |
-| 5       | 16,000           | 5         | +3          | 10            |
-| 6       | 32,000           | 6         | +4          | 9             |
-| 7       | 64,000           | 7         | +4          | 8             |
-| 8       | 128,000          | 8         | +5          | 7             |
-| 9       | 256,000          | 9         | +6          | 6             |
-| 10      | 512,000          | 10        | +6          | 5             |
+| 2       | 2.000            | 2         | +1          | 13            |
+| 3       | 4.000            | 3         | +2          | 12            |
+| 4       | 8.000            | 4         | +2          | 11            |
+| 5       | 16.000           | 5         | +3          | 10            |
+| 6       | 32.000           | 6         | +4          | 9             |
+| 7       | 64.000           | 7         | +4          | 8             |
+| 8       | 128.000          | 8         | +5          | 7             |
+| 9       | 256.000          | 9         | +6          | 6             |
+| 10      | 512.000          | 10        | +6          | 5             |
 
 ### Abilità del Guerriero
 
@@ -123,7 +123,7 @@ I Guerrieri ricevono un bonus di +2 ai Tiri Salvezza contro Morte e Veleno (a me
 
 #### Costruire un Castello
 
-Al nono livello, un Guerriero che sceglie di costruire un castello si considera aver raggiunto il grado di "barone" o "baronessa", conferitogli dal sovrano o dal monarca locale.
+Al nono livello, un Guerriero che sceglie di costruire un castello si considera aver raggiunto il rango di "barone" o "baronessa", conferitogli dal sovrano o dal monarca locale.
 Il personaggio può scegliere di attirare un seguito di soldati, che giureranno la loro lealtà come fedeli seguaci.
 
 ### Bonus di Esperienza per la Forza
@@ -141,15 +141,15 @@ Il Mago è una figura misteriosa, uno studente di poteri arcani e di magia nera.
 |         |                  |           |             |               | 1   | 2   | 3   | 4   | 5   | 6   |
 | ------- | ---------------- | --------- | ----------- | ------------- | --- | --- | --- | --- | --- | --- |
 | 1       | 0                | 1         | +0          | 15            | 1   | –   | –   | –   | –   | –   |
-| 2       | 2,500            | 1+1       | +0          | 14            | 2   | –   | –   | –   | –   | –   |
-| 3       | 5,000            | 2         | +0          | 13            | 3   | 1   | –   | –   | –   | –   |
-| 4       | 10,000           | 2+1       | +0          | 12            | 4   | 2   | –   | –   | –   | –   |
-| 5       | 20,000           | 3         | +1          | 11            | 4   | 2   | 1   | –   | –   | –   |
-| 6       | 40,000           | 3+1       | +1          | 10            | 4   | 2   | 2   | –   | –   | –   |
-| 7       | 80,000           | 4         | +2          | 9             | 4   | 3   | 2   | 1   | –   | –   |
-| 8       | 160,000          | 4+1       | +2          | 8             | 4   | 3   | 3   | 2   | –   | –   |
-| 9       | 320,000          | 5         | +3          | 7             | 4   | 3   | 3   | 2   | 1   | –   |
-| 10      | 640,000          | 5+1       | +3          | 6             | 4   | 4   | 3   | 2   | 2   | –   |
+| 2       | 2.500            | 1+1       | +0          | 14            | 2   | –   | –   | –   | –   | –   |
+| 3       | 5.000            | 2         | +0          | 13            | 3   | 1   | –   | –   | –   | –   |
+| 4       | 10.000           | 2+1       | +0          | 12            | 4   | 2   | –   | –   | –   | –   |
+| 5       | 20.000           | 3         | +1          | 11            | 4   | 2   | 1   | –   | –   | –   |
+| 6       | 40.000           | 3+1       | +1          | 10            | 4   | 2   | 2   | –   | –   | –   |
+| 7       | 80.000           | 4         | +2          | 9             | 4   | 3   | 2   | 1   | –   | –   |
+| 8       | 160.000          | 4+1       | +2          | 8             | 4   | 3   | 3   | 2   | –   | –   |
+| 9       | 320.000          | 5         | +3          | 7             | 4   | 3   | 3   | 2   | 1   | –   |
+| 10      | 640.000          | 5+1       | +3          | 6             | 4   | 4   | 3   | 2   | 2   | –   |
 | 11      | –                | 6         | +4          | 5             | 4   | 4   | 4   | 3   | 3   | –   |
 | 12      | –                | 6+1       | +4          | 4             | 4   | 4   | 4   | 4   | 4   | 1   |
 
@@ -177,7 +177,7 @@ Al decimo livello, un Mago ottiene il titolo di "strega" o "stregone" e può cos
 
 ## Il Ladro (Opzionale)
 
-Mentre ci sono molti che brandiscono spade e incantesimi mentre esplorano tombe e sotterranei, il Ladro spera di recuperare le ricchezze perdute attraverso l'uso di astuzia e furtività. Anche se addestrato alle armi, non è un combattente di professione. Colpisce invece dall'ombra e i suoi occhi acuti vedono i pericoli che i suoi compagni non vedono. I ladri raramente sono nobili, ma sono più spesso professionisti pragmatici che cercano opportunità per accumulare rapidamente grandi ricchezze. Tuttavia, le loro abilità uniche li rendono molto utili per gli avventurieri e gli esploratori e ci sono alcuni tra loro che si attengono a un codice di "onore tra i ladri".
+Mentre ci sono molti che brandiscono spade e incantesimi quando esplorano tombe e sotterranei, il Ladro spera di recuperare le ricchezze perdute attraverso l'uso di astuzia e furtività. Anche se addestrato alle armi, non è un combattente di professione. Colpisce invece dall'ombra e i suoi occhi acuti vedono i pericoli che i suoi compagni non vedono. I ladri raramente sono nobili, ma sono più spesso professionisti pragmatici che cercano opportunità per accumulare rapidamente grandi ricchezze. Tuttavia, le loro abilità uniche li rendono molto utili per gli avventurieri e gli esploratori e ci sono alcuni tra loro che si attengono a un codice di "onore tra i ladri".
 
 I Ladri spesso vanno equipaggiati con poche armi e armature leggere, e si affidano a grimaldelli e strumenti per la sopravvivenza. Quando il combattimento è inevitabile, svaniscono nell'oscurità, pronti ad affondare un pugnale nella schiena dei nemici ignari. I pochi ladri che riescono ad accumulare fortuna e gloria è probabile che si ritirino e fondino una gilda di altre persone con abilità simili.
 
@@ -208,7 +208,7 @@ Ogni volta che un Ladro attacca un avversario che non è consapevole della sua p
 
 #### Tiro salvezza
 
-I Ladri ricevono un bonus di +2 a qualsiasi tiro salvezza effettuato per ridurre o evitare gli effetti di qualsiasi trappola, magica o terrena.
+I Ladri ricevono un bonus di +2 a qualsiasi tiro salvezza effettuato per ridurre o evitare gli effetti di qualsiasi trappola, magica o mondana.
 
 #### Furto
 

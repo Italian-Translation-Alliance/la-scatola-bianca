@@ -19,7 +19,7 @@ L'"avventura" è solo l'ambientazione per il gioco — solitamente una mappa e d
 ### Creare una Campagna
 Una campagna è il mondo al di là dell'avventura — le città, le foreste, le coste e i regni di tale mondo fantastico. I giocatori quasi sicuramente vorranno che i loro personaggi esplorino le Terre Selvagge, visitino le città e poter fare ogni cosa in questo mondo fantastico. All'inizio del gioco, vorrete forse definire una mappa di un singolo villaggio (come punto di partenza) e qualche area circostante (la località della prima avventura — forse una foresta). Quando i giocatori muoveranno i loro personaggi da un'avventura all'altra, potrete espandere passo dopo passo la mappa in un intero mondo fantastico con continenti, regni e maestosi imperi a vostra disposizione.
 
-Se volete prendere una scorciatoia, potete ambientare la vostra intera campagna in un mondo fittizio creato da uno degli autori delle vostre storie preferite. Molti di questi hanno mappe e l'autore ha già creato i dettagli e l'atmosfera del mondo per voi. Per esempio: i mondi di Conan di Hyboria (Robert E. Howard), di Elric e del Campione Eterno (Michael Moorcock) e quello della Terra Morente (Jack Vance) sono ambientazioni fittizie pronte per essere giocate. Infatti, alcuni editori hanno già creato campagne per-confezionate per tutti questi esempi. 
+Se volete prendere una scorciatoia, potete ambientare la vostra intera campagna in un mondo fittizio creato da uno degli autori delle vostre storie preferite. Molti di questi hanno mappe e l'autore ha già creato i dettagli e l'atmosfera del mondo per voi. Per esempio: i mondi di Conan di Hyboria (Robert E. Howard), di Elric e del Campione Eterno (Michael Moorcock) e quello della Terra Morente (Jack Vance) sono ambientazioni fittizie pronte per essere giocate. Infatti, alcuni editori hanno già creato campagne preconfezionate per tutti questi esempi. 
 
 ### Punti Esperienza
 I Punti Esperienza sono conferiti ai giocatori per avere ottenuto tesoro o ucciso mostri, come descritto nella sezione "Guadagnare Esperienza" nel Capitolo 5. Potrebbe sembrare contro intuitivo che il tesoro in qualche modo renda i personaggi più esperti, ma dare esperienza per il tesoro non ha a che fare solo con le monete d'oro. Le monete d'oro sono una misura al termine dell'avventura per valutare quanto i personaggi (i giocatori) sono stati astuti nel recuperarle. Le monete d'oro non sono l'unica fonte di esperienza — sono il prodotto misurabile di essa.
@@ -31,7 +31,7 @@ Qualche Arbitro calcola i Punti Esperienza in quanto totale guadagnato collettiv
 Se scopriste che un qualunque sistema che state usando conduce i giocatori verso decisioni affrettate — come cercare combattimenti superflui o cercare di innescare trappole — dovreste calibrare il vostro sistema. Questo vale anche per il sistema "ufficiale" per conferire punti esperienza. Ricordate, l'Arbitro è il giudice ultimo di ciò che funziona meglio per una partita e qualunque regola può essere cambiata per adattarsi al gruppo.
 
 ### Scala di Avanzamento
-Ogni Arbitro ha il proprio stile di campagna e sarebbe sciocco per un autore imporre restrizioni inutili a chiunque giochi. Ciononostante, è prezioso ricordare che questo regolamento è stato pensato con la nozione che dei personaggi al 4° livello siano "eroici" e quindi le tabelle siano limitate al livello 10. Un Arbitro che desideri estendere le tabelle a livelli superiori e incoraggiato a farlo per adattarle allo stile della propria campagna.
+Ogni Arbitro ha il proprio stile di campagna e sarebbe sciocco per un autore imporre restrizioni inutili a chiunque giochi. Ciononostante, è prezioso ricordare che questo regolamento è stato pensato con la nozione che dei personaggi al 4° livello siano "eroici" e quindi le tabelle siano limitate al livello 10. Un Arbitro che desideri estendere le tabelle a livelli superiori è incoraggiato a farlo per adattarle allo stile della propria campagna.
 
 ### Sottomondo e Terre Selvagge
 Molti Arbitri creeranno mappe del Sottomondo o delle Terre Selvagge prima di giocare. I personaggi giocanti esploreranno la mappa non sapendo cosa aspettarsi.
@@ -157,7 +157,7 @@ Per la classe dei personaggi incontrati, tirare un d6 per il loro allineamento: 
 | Tiro |       Livello 4      |      Livello 5       |      Livello 6     |
 |:----:|:--------------------:|:--------------------:|:------------------:|
 |   1  |   Segugio Infernale  |  Segugio Infernale   |  Segugio Infernale |
-|   2  |  Millepiede, Gigante |         Idra         |    Drago, Bianco   |
+|   2  |  Millepiedi, Gigante |         Idra         |    Drago, Bianco   |
 |   3  |     Doppelganger     |    Drago, Bianco     |     Drago, Nero    |
 |   4  |       Gargoyle       |      Coccatrice      |        Idra        |
 |   5  |    Cubo Gelatinoso   |     Muffa Gialla     |      Basilisco     |
@@ -183,7 +183,7 @@ Per la classe dei personaggi incontrati, tirare un d6 per il loro allineamento: 
 |   9  |  Demone, Succube  |     Elementale, Fuoco    | Guerriero, livello 9 |   Elementale, Acqua   |
 |  10  |     Salamandra    |     Elementale, Acqua    |  Chierico, livello 9 | Cavaliere della Morte |
 |  11  |      Viverna      |          Gorgone         |    Mago, livello 8   |    Lumaca, Gigante    |
-|  12  |      Dijinni      |  Inseguitore Invisibile  |   Ladro, livello 9   |      Verme Viola      |
+|  12  |      Djinni       |  Inseguitore Invisibile  |   Ladro, livello 9   |      Verme Viola      |
 
 
 ### Tabelle degli Incontri nelle Terre Selvagge per Tipo di Terreno
@@ -229,11 +229,11 @@ Per la classe dei personaggi incontrati, tirare un d6 per il loro allineamento: 
 |   3  |    Hobgoblin    |     Orchetti     |     Orchetti     |         Hobgoblin        |     Elfi    |
 |   4  |       Elfi      | Uomini Lucertola | Uomini Lucertola |           Nani           |   Coboldi   |
 |   5  |      Gnomi      |     Hobgoblin    | Uomini Lucertola |          Coboldi         |    Gnomi    |
-|   6  |     Orchetti    |       Troll      |      Coboldi     |         Orchetti         |      —     |
-|   7  |      Sidhe      |        —        |     Hobgoblin    |          Goblin          |      —     |
-|   8  |     Coboldi     |        —        |       Troll      |           Troll          |      —     |
-|   9  |     Bugbear     |        —        |        —        |           Orchi          |      —     |
-|  10  |      Troll      |        —        |        —        |         Minotauri        |      —     |
+|   6  |     Orchetti    |       Troll      |      Coboldi     |         Orchetti         |      —      |
+|   7  |      Sidhe      |        —        |     Hobgoblin     |          Goblin          |      —      |
+|   8  |     Coboldi     |        —        |       Troll       |           Troll          |      —      |
+|   9  |     Bugbear     |        —        |        —          |           Orchi          |      —      |
+|  10  |      Troll      |        —        |        —          |         Minotauri        |      —      |
 
 
 #### Animali
@@ -271,14 +271,14 @@ Per la classe dei personaggi incontrati, tirare un d6 per il loro allineamento: 
 | Tirare |     Drago     |       Non-Morto       |      Gigante      |
 |:------:|:-------------:|:---------------------:|:-----------------:|
 |    1   |   Drago, Oro  |        Banshee        |      Efreeti      |
-|    2   |   Drago, Blu  |      Apparizione      |      Dijinni      |
+|    2   |   Drago, Blu  |      Apparizione      |      Djinni       |
 |    3   |  Drago, Nero  |         Ombra         | Gigante, Ghiaccio |
 |    4   |  Drago, Verde |         Ghoul         |  Gigante, Pietra  |
 |    5   |  Drago, Rosso |       Scheletri       |  Gigante, Colline |
 |    6   | Drago, Bianco |         Zombie        | Gigante, Tempeste |
 |    7   |    Viverne    |     Anima Dannata     |   Gigante, Fuoco  |
 |    8   |      Idra     |         Mummie        |  Gigante, Nuvole  |
-|    9   |       —      |        Spettro        |  Gigante, Firbolg |
-|   10   |       —      |        Vampiro        |       Treant      |
-|   11   |       —      | Cavaliere della Morte |         —        |
-|   12   |       —      |          Lich         |         —        |
+|    9   |       —      |        Spettro        |  Gigante, Firbolg  |
+|   10   |       —      |        Vampiro        |       Treant       | 
+|   11   |       —      | Cavaliere della Morte |         —          |
+|   12   |       —      |          Lich         |         —          |

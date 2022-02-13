@@ -17,7 +17,7 @@ La regola più importante di *La Scatola Bianca* è che l'Arbitro ha sempre il d
 
 Non esiste un dado a 100 facce. Quando viene chiesto di tirare un d100, verranno tirati due (2) dadi a dieci facce, considerando il primo tiro come le "decine" e il secondo come le "unità". Quindi, se con un lancio si ottenessero un "7" e poi un "3", il risultato sarebbe "73".
 
-Il tiro di due zeri equivale al risultato di "100", quindi non si può tirare uno "0" su un dado percentile. Il risultato più basso possibile è "1".
+Il tiro di due zeri equivale al risultato di "100", quindi non si può tirare uno "0" su un dado percentuale. Il risultato più basso possibile è "1".
 
 ### Riguardo alle regole opzionali
 
@@ -99,4 +99,4 @@ Gli allineamenti nel gioco rappresentano le forze cosmiche e sono descritti come
 
 ### Pensionamento del personaggio
 
-Se un personaggio raggiunge il livello più alto indicato nella tabella per quella Classe Personaggio, cosa succede? L'avanzamento si ferma? Il personaggio deve ritirarsi? Ogni gruppo ha il proprio stile di gioco e la sua preferenza per un determinata scala di livelli dei personaggi per le proprie partite. Se l'Arbitro vuole estendere le tabelle per permettere personaggi di livello più alto, allora faccia pure!
+Se un personaggio raggiunge il livello più alto indicato nella tabella per quella Classe Personaggio, cosa succede? L'avanzamento si ferma? Il personaggio deve ritirarsi? Ogni gruppo ha il proprio stile di gioco e la sua preferenza per una determinata scala di livelli dei personaggi per le proprie partite. Se l'Arbitro vuole estendere le tabelle per permettere personaggi di livello più alto, allora faccia pure!

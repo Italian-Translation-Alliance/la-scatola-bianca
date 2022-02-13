@@ -189,7 +189,7 @@ I cavalli hanno CA 7 [12], con i cavalli da corsa che hanno 2 DV e un movimento 
 *Movimento*: 12/18 (quando vola)  
 *DVE/PE*: 11/1,700
 
-La chimera è una bestia alata a tre teste; una è una testa di capra, l'altra di leone e la terza di drago. La testa di drago può sputare fuoco (3 volte al giorno) con una portata di 50', causando 3d8 danni a chiunque venga catturato dal getto di fuoco (tiro salvezza per subire solo metà danno).
+La chimera è una bestia alata a tre teste; una è una testa di capra, l'altra di leone e la terza di drago. La testa di drago può sputare fuoco (3 volte al giorno) con una portata di 50', causando 3d8 danni a chiunque venga colpito dal getto di fuoco (tiro salvezza per subire solo metà danno).
 
 ### Coboldi
 
@@ -248,7 +248,7 @@ Questi potenti demoni assomigliano un po' a grandi minotauri con grandi ali di p
 *Movimento*: 6 (12 quando vola)  
 *DVE/PE*: 3/60
 
-Queste piccole creature diaboliche hanno la pelle di colore rosso o nero con occhi da gatto, lunghe code appuntite e ali di pipistrello. Sono demoni inferiori e spesso servono come schiavi di demoni superiori o servitori di potenti chierici malvagi e maghi. I folletti sono immuni alle armi non magiche e al fuoco e possono lanciare Individuare la Magia a volontà e Invisibilità una volta al giorno - entrambi come un mago. La loro coda ha un veleno moderatamente potente che può uccidere se un tiro salvezza non ha successo, sebbene la vittima riceve un bonus di +4 al suo tiro.
+Queste piccole creature diaboliche hanno la pelle di colore rosso o nero con occhi da gatto, lunghe code appuntite e ali di pipistrello. Sono demoni inferiori e spesso servono come schiavi di demoni superiori o servitori di potenti chierici malvagi e maghi. I folletti sono immuni alle armi non magiche e al fuoco e possono lanciare Individuare la Magia a volontà e Invisibilità una volta al giorno - entrambi come un mago. La loro coda ha un veleno moderatamente potente che può uccidere se un tiro salvezza non ha successo, sebbene la vittima riceva un bonus di +4 al suo tiro.
 
 ### Demone, Lemure
 
@@ -309,9 +309,9 @@ Un doppelganger può cambiare forma per assomigliare all'aspetto fisico (compres
 
 Tutti i draghi hanno come arma un soffio di qualche tipo, che può essere usato fino a tre volte in un giorno. L'Arbitro sceglie quando un drago userà un soffio come arma o può tirare per esso (50% di possibilità) in qualsiasi turno.
 
-L'Arbitro non dovrebbe tirare per i punti ferita del drago, come si farebbe per altri mostri. Invece, determina la categoria di età del drago - questo darà sia i punti ferita del drago per dado vita che quanti punti di danno dell'arma del respiro per dado vita il drago infligge.
+L'Arbitro non dovrebbe tirare per i punti ferita del drago, come si farebbe per altri mostri. Invece, determina la categoria di età del drago - questo darà sia i punti ferita del drago per dado vita che quanti punti di danno dell'arma del soffio per dado vita il drago infligge.
 
-Per esempio, un drago "Adulto" ha sia 4 punti ferita che 4 punti di danno dell'arma del respiro per dado vita. Quindi un drago nero "Adulto" con 6 DV avrebbe 24 PF e infliggerebbe 24 punti di danno da acido quando usa il suo respiro come arma.
+Per esempio, un drago "Adulto" ha sia 4 punti ferita che 4 punti di danno dell'arma del soffio per dado vita. Quindi un drago nero "Adulto" con 6 DV avrebbe 24 PF e infliggerebbe 24 punti di danno da acido quando usa il suo soffio come arma.
 
 #### Tabella 41: Categorie di Età dei Draghi
 
@@ -440,7 +440,7 @@ Gli elementali sono manifestazioni viventi delle forme fondamentali della materi
 *Movimento*: 6/18 (quando nuota)  
 *DVE/PE*: 9/1,100; 13/2,300; 17/3,500
 
-Gli elementali d'acqua non possono muoversi a più di 60' da un grande corpo d'acqua e il loro danno è ridotto di 1d6 se l'avversario non sopra (o dentro) un corpo d'acqua. Questi potenti esseri possono rovesciare piccole imbarcazioni e possono persino rovesciare una nave se gli si danno 1d4+4 minuti per farlo. Sull'acqua, possono attaccare le navi, facendole a pezzi in un'ora se non vengono impediti o distratti.
+Gli elementali d'acqua non possono muoversi a più di 60' da un grande corpo d'acqua e il loro danno è ridotto di 1d6 se l'avversario non è sopra (o dentro) un corpo d'acqua. Questi potenti esseri possono rovesciare piccole imbarcazioni e possono persino rovesciare una nave se gli si danno 1d4+4 minuti per farlo. Sull'acqua, possono attaccare le navi, facendole a pezzi in un'ora se non vengono impediti o distratti.
 
 ### Elementale, Aria
 
@@ -484,7 +484,7 @@ Gli elementali di terra sono forme umane e massicce di roccia e terra. Colpiscon
 *Movimento*: 12  
 *DVE/PE*: 1/15  
 
-L'esempio di cui sopra è per un elfo tipico; i guerrieri addestrati avrebbero probabilmente il massimo di 7 DV. Ovviamente, gli Elfi incontrati nel corso delle avventure di un gruppo di avventurieri avranno una varietà di poteri e attributi diversi. L'Arbitro assegnerà tali poteri come meglio crede, in accordo con il modo in cui immagina gli Elfi. Potrebbero essere gli abitanti dei boschi de Lo Hobbit di Tolkien, o gli alti Elfi del Signore degli Anelli, o potrebbero essere i folletti della leggenda irlandese. In ogni caso, come per i Nani, non preoccupatevi di cercare di far rientrare i vostri elfi "avanzati" nei vincoli delle classi personaggio - inventate semplicemente i loro attributi per adattarli a ciò che vi serve. I PNG non sono soggetti alle regole che governano la costruzione di un personaggio giocatore; sono i vostri strumenti per un buon fantasy, non un esercizio di applicazione di formule.
+L'esempio di cui sopra è per un elfo tipico; i guerrieri addestrati avrebbero probabilmente il massimo di 7 DV. Ovviamente, gli Elfi incontrati nel corso delle avventure di un gruppo di avventurieri avranno una varietà di poteri e attributi diversi. L'Arbitro assegnerà tali poteri come meglio crede, in accordo con il modo in cui immagina gli Elfi. Potrebbero essere gli abitanti dei boschi de Lo Hobbit di Tolkien, o gli alti Elfi del Signore degli Anelli, o potrebbero essere i folletti della leggenda irlandese. In ogni caso, come per i Nani, non preoccupatevi di cercare di far rientrare i vostri elfi "avanzati" nei vincoli delle classi personaggio - inventate semplicemente i loro attributi per adattarli a ciò che vi serve. I PNG non sono soggetti alle regole che governano la costruzione di un personaggio giocante; sono i vostri strumenti per un buon fantasy, non un esercizio di applicazione di formule.
 
 ### Elfo, Scuro
 
@@ -554,7 +554,7 @@ I giganti sono un punto di riferimento del gioco fantasy, creature enormi e peri
 *Movimento*: 12  
 *DVE/PE*: 9/1,100
 
-I giganti di collina sono l'ultima delle razze giganti; la maggior parte sono brutali abitanti delle caverne che si vestono con pelli e pelli non curate. Lanciano massi per 2d8 punti di danno.
+I giganti di collina sono l'ultima delle razze giganti; la maggior parte sono brutali abitanti delle caverne che si vestono con pelli e cuoio grezzo. Lanciano massi per 2d8 punti di danno.
 
 ### Gigante, Firbolg
 
@@ -565,7 +565,7 @@ I giganti di collina sono l'ultima delle razze giganti; la maggior parte sono br
 *Movimento*: 12  
 *DVE/PE*: 10/1,400
 
-Con l'aspetto di uomini giganti (alti 10') con barbe rosse fiammeggianti, i firbolg abitano le regioni rocciose e vulcaniche dove vivono in clan di minatori e coltivatori di funghi sotterranei. A differenza degli altri giganti, non sono bellicosi per natura e preferiscono invece fare un uso prodigioso della loro capacità di lanciare massi e combattere a distanza, che infliggono 2d6 punti di danno. Sono intelligenti come gli umani e hanno la capacità naturale di lanciare la magia a volontà. 
+Con l'aspetto di uomini giganti (alti 10') con barbe rosse fiammeggianti, i firbolg abitano le regioni rocciose e vulcaniche dove vivono in clan di minatori e coltivatori di funghi sotterranei. A differenza degli altri giganti, non sono bellicosi per natura e preferiscono invece fare un uso prodigioso della loro capacità di combattere a distanza e lanciare massi, che infliggono 2d6 punti di danno. Sono intelligenti come gli umani e hanno la capacità naturale di lanciare la magia a volontà. 
 
 ### Gigante, Fuoco
 
@@ -669,7 +669,7 @@ I golem sono creature a forma di uomo costruite per servire i loro padroni, di s
 *Movimento*: 8  
 *DVE/PE*: 12/2,000
 
-Una creazione cucita insieme da membra umane e altre parti, come il mostro di Frankenstein. I danni inflitti dai fulmini guariscono il golem, ed è rallentato dal fuoco e dal freddo. Nessun altro tipo di incantesimo che non sia il fulmine, il fuoco o il freddo colpisce un golem di carne. Solo le armi magiche +1 o migliori possono danneggiare un golem di carne.
+Una creazione cucita insieme da membra umane e altre parti, come il mostro di Frankenstein. I danni inflitti dai fulmini guariscono il golem, e questi è rallentato dal fuoco e dal freddo. Nessun altro tipo di incantesimo che non sia il fulmine, il fuoco o il freddo colpisce un golem di carne. Solo le armi magiche +1 o migliori possono danneggiare un golem di carne.
 
 ### Golem, Ferro
 
@@ -746,7 +746,7 @@ I grifoni hanno il corpo di un leone, con le ali, la testa e le zampe anteriori 
 *Movimento*: 9  
 *DVE/PE*: 1/15
 
-Gli hobgoblin sono semplicemente dei grandi goblin, probabilmente una razza separata che vive separata dai loro cugini più piccoli. Per una questione di varietà della campagna, l'Arbitro potrebbe scegliere di rendere gli hobgoblin i goblin "Fey" della leggenda irlandese, mentre i goblin normali sono gli abitanti del sottosuolo più in stile Tolkien.
+Gli hobgoblin sono semplicemente dei grandi goblin, probabilmente una razza distinta che vive separata dai loro cugini più piccoli. Per una questione di varietà della campagna, l'Arbitro potrebbe scegliere di rendere gli hobgoblin i goblin "Fey" della leggenda irlandese, mentre i goblin normali sono gli abitanti del sottosuolo più in stile Tolkien.
 
 ### Idra
 
@@ -768,7 +768,7 @@ Le Idre sono grandi creature simili a lucertole o serpenti con 5-12 teste. Ogni 
 *Movimento*: 12  
 *DVE/PE*: 9/1,100
 
-Gli inseguitori invisibili si trovano generalmente solo come risultato dell'incantesimo Inseguitore Invisibile. Sono esseri volanti invisibili creati per seguire un singolo comando fatto dall'incantatore.
+Gli inseguitori invisibili si trovano generalmente solo come risultato dell'incantesimo Inseguitore Invisibile. Sono esseri volanti invisibili creati per eseguire un singolo comando impartito dall'incantatore.
 
 ### Ippogrifo
 
@@ -795,7 +795,7 @@ Questi enormi mostri marini assomigliano a calamari di dimensioni inimmaginabili
 
 ## Licantropi.
 
-I licantropi sono creature mannare, in particolare quelli in cui la malattia permette l'assunzione di una forma ibrida dell'umano e dell'animale. Non possono essere colpiti da armi normali; solo le armi d'argento o magiche gli infliggono danni. Se un personaggio viene portato sotto il 50% di punti ferita da un licantropo, il personaggio stesso diventerà un licantropo.
+I licantropi sono creature mannare, in particolare quelli in cui la malattia permette l'assunzione di una forma ibrida dell'umano e dell'animale. Non possono essere colpiti da armi normali; solo le armi d'argento o magiche infliggono loro danni. Se un personaggio viene portato sotto il 50% di punti ferita da un licantropo, il personaggio stesso diventerà un licantropo.
 
 ### Licantropo, Lupo Mannaro
 
@@ -850,7 +850,7 @@ I lich sono i resti non-morti degli stregoni, resi tali dalle loro azioni delibe
 *Movimento*: 6  
 *DVE/PE*: 13/2,300
 
-Queste enormi masse di carne viscida e gommosa sono completamente immuni alle armi contundenti. Oltre al loro potente morso, le lumache giganti possono sputare la loro saliva acida (un bersaglio alla volta). La gittata di base per lo sputo è di 60', ed entro questa gittata lo sputo della lumaca avrà il 50% di probabilità di "colpire" (non è richiesto il tiro "per colpire"). Per ogni 10' di distanza in più, la probabilità di "colpire" diminuisce del 10%. Al suo primo attacco di sputo, la lumaca ha solo il 10% di possibilità di "colpire" entro 60', e nessuna possibilità di colpire oltre tale distanza. Alcune lumache giganti potrebbero avere un'acidità più o meno virulenta (cambiando così il danno inflitto).
+Queste enormi masse di carne viscida e gommosa sono completamente immuni alle armi contundenti. Oltre al loro potente morso, le lumache giganti possono sputare la loro saliva acida (un bersaglio alla volta). La gittata di base per lo sputo è di 60', ed entro questa gittata lo sputo della lumaca avrà il 50% di probabilità di colpire (non è richiesto il tiro "per colpire"). Per ogni 10' di distanza in più, la probabilità di colpire diminuisce del 10%. Al suo primo attacco di sputo, la lumaca ha solo il 10% di possibilità di colpire entro 60', e nessuna possibilità di colpire oltre tale distanza. Alcune lumache giganti potrebbero avere un'acidità più o meno virulenta (cambiando così il danno inflitto).
 
 ### Manticora
 
@@ -884,7 +884,7 @@ Le meduse sono orribili creature della mitologia greca con un volto femminile ma
 *Movimento*: 12  
 *DVE/PE*: 6/400
 
-Il minotauro è un predatore mangia-uomini della mitologia greca, con la testa di un toro e il corpo di un umano massiccio, coperto di peli arruffati. A volte brande grandi asce e la maggior parte di essi non è particolarmente intelligente.
+Il minotauro è un predatore mangia-uomini della mitologia greca, con la testa di un toro e il corpo di un umano massiccio, coperto di peli arruffati. A volte brandisce grandi asce e la maggior parte di essi non è particolarmente intelligente.
 
 ### Mummia
 
@@ -965,7 +965,7 @@ La muffa gialla è un fungo sotterraneo; non si muove né attacca. Tuttavia, se 
 *Movimento*: 6  
 *DVE/PE*: 1/15
 
-Le statistiche di cui sopra sono per il nano comune, senza particolari caratteristiche insolite. Un Nano d'armi di solito ha 7 DV, che riflettono l'abilità e la tenacità complessiva. Nani più forti (sergenti d'armi, per esempio) potrebbero avere più dadi vita o insoliti bonus "per colpire", anche abilità magiche se i nani sono magici nel vostro universo fantasy. Non preoccupatevi di trattare i PNG nani più potenti come Guerrieri o tipi di personaggi; assegnate semplicemente il giusto numero di DV e di abilità (se ce ne sono) e procedete con la fantasia.
+Le statistiche di cui sopra sono per il nano comune, senza particolari caratteristiche insolite. Un Nano d'armi di solito ha 7 DV, che riflettono l'abilità e la tenacia complessiva. Nani più forti (sergenti d'armi, per esempio) potrebbero avere più dadi vita o insoliti bonus "per colpire", anche abilità magiche se i nani sono magici nel vostro universo fantasy. Non preoccupatevi di trattare i PNG nani più potenti come Guerrieri o tipi di personaggi; assegnate semplicemente il giusto numero di DV e di abilità (se ce ne sono) e procedete con la fantasia.
 
 ### Ninfa
 
@@ -998,7 +998,7 @@ Le ombre possono essere o meno creature non-morte: sono immuni a Sonno e ad Amma
 *Movimento*: 12  
 *DVE/PE*: 1/15
 
-Gli orchetti sono umanoidi stupidi e brutali che si riuniscono in tribù di centinaia di persone. La maggior parte di essi vive nei sotterranei e combatte con una penalità di -1 ai colpi quando sono alla luce del sole. Occasionalmente, bande da guerra o addirittura intere tribù di orchetti escono dalle loro caverne per razziare e saccheggiare di notte. I capi orcheschi sono grandi bruti con DV addizionali, e nelle tribù più grandi si possono trovare anche sciamani che usano la magia. Le tribù orchesche si odiano a vicenda e combatteranno selvaggiamente a meno che non siano tenute a freno da un comandante potente e temuto, come un sacerdote malvagio o uno stregone mistico.
+Gli orchetti sono umanoidi stupidi e brutali che si riuniscono in tribù di centinaia di persone. La maggior parte di essi vive nei sotterranei e combatte con una penalità di -1 ai colpi quando sono alla luce del sole. Occasionalmente, bande da guerra o addirittura intere tribù di orchetti escono dalle loro caverne per razziare e saccheggiare di notte. I capi orchetti sono grandi bruti con DV addizionali, e nelle tribù più grandi si possono trovare anche sciamani che usano la magia. Le tribù orchesche si odiano a vicenda e combatteranno selvaggiamente a meno che non siano tenute a freno da un comandante potente e temuto, come un sacerdote malvagio o uno stregone mistico.
 
 ### Orco
 
@@ -1086,7 +1086,7 @@ Le salamandre sono creature intelligenti dei piani elementali del fuoco. Hanno l
 *Movimento*: 6  
 *DVE/PE*: 11/1,700
 
-I sanguinacci neri sono globi amorfi con una superficie acida. Sono predatori e spazzini sotterranei. Qualsiasi arma o armatura che entra in contatto con un sanguinaccio nero verrà divorata dall'acido nel seguente modo: arma (1 colpo dell'arma sul sanguinaccio), cotta di maglia o armatura minore (1 colpo del sanguinaccio), cotta di maglia (2 colpi del sanguinaccio). Se un'arma o un'armatura è magica, può subire un colpo in più per +1 prima di essere dissolta. Sono immuni al freddo e si dividono se attaccati da un fulmine.
+I sanguinacci neri sono globi amorfi con una superficie acida. Sono predatori e spazzini sotterranei. Qualsiasi arma o armatura che entra in contatto con un sanguinaccio nero verrà divorata dall'acido nel seguente modo: arma (1 colpo dell'arma sul sanguinaccio), cotta di maglia o armatura minore (1 colpo del sanguinaccio), armatura a piastre (2 colpi del sanguinaccio). Se un'arma o un'armatura è magica, può subire un colpo in più per +1 prima di essere dissolta. Sono immuni al freddo e si dividono se attaccati da un fulmine.
 
 ### Scarabeo, di Fuoco Gigante
 
@@ -1119,7 +1119,7 @@ Gli scheletri sono ossa animate dei morti e sono solitamente sotto il controllo 
 *Movimento*: 12  
 *DVE/PE*: 5/240; 6/400; 7/600; 8/800
 
-I segugi infernale sono cani sputafuoco degli inferi o dei piani inferiori. Oltre a mordere, possono sputare fuoco ogni round, infliggendo 2 danni PF per dado colpito (raggio di 10', tiro salvezza per metà danno).
+I segugi infernali sono cani sputafuoco degli inferi o dei piani inferiori. Oltre a mordere, possono sputare fuoco ogni round, infliggendo 2 danni per dado vita (raggio di 10', tiro salvezza per metà danno).
 
 ### Serpente Marino
 
@@ -1245,7 +1245,7 @@ I soldati umani servono come guardia cittadina, mercenari e uomini d'arme. Sono 
 *Movimento*: 24  
 *DVE/PE*: 5/240
 
-Gli unicorni sono creature generalmente timide e benevole, che permetteranno solo a una casta fanciulla di avvicinarsi a loro. Possono teletrasportarsi una volta al giorno a una distanza di 360', con un cavaliere. Quando caricano, il loro corno può infliggere danni doppi. Gli unicorni sono resistenti alla magia al 25%. Il corno dell'unicorno ha proprietà curative secondo la leggenda (i dettagli di questo, se esistono, sono lasciati all'Arbitro). C'è molto spazio per creare ogni variante di sorta: unicorni malvagi o volanti, ecc.
+Gli unicorni sono creature generalmente timide e benevole, che permetteranno solo a una casta fanciulla di avvicinarsi a loro. Possono teletrasportarsi una volta al giorno a una distanza di 360', con un cavaliere. Quando caricano, il loro corno può infliggere danni doppi. Gli unicorni sono resistenti alla magia al 25%. Il corno dell'unicorno ha proprietà curative secondo la leggenda (i dettagli di questo, se esistono, sono lasciati all'Arbitro). C'è molto spazio per creare ogni variante di sorta: unicorni malvagi o volanti, ecc..
 
 ### Uomo Lucertola
 
@@ -1267,7 +1267,7 @@ Gli uomini lucertola sono rettili umanoidi  che di solito vivono in villaggi tri
 *Movimento*: 12/18 (quando vola)  
 *DVE/PE*: 9/1,100; 10/1,400; 11/1,700
 
-I vampiri sono tra le creature non-morte più potenti. Possono essere colpiti solo con armi magiche e quando vengono "uccisi" in questo modo si trasformano in una forma gassosa, tornando nelle loro bare. Si rigenerano al ritmo di 3 punti ferita per round, possono trasformarsi in forma gassosa o in un pipistrello gigante a volontà e possono evocare un'orda di pipistrelli o 3d6 lupi dalla notte. Guardare negli occhi di un vampiro richiede un tiro salvezza a -2 o il personaggio viene incantato (come per l'incantesimo Ammaliare le Persone). Ancor più terrificante, il morso di un vampiro drena due livelli alla vittima.
+I vampiri sono tra le creature non-morte più potenti. Possono essere colpiti solo con armi magiche e quando vengono "uccisi" in questo modo si trasformano in una forma gassosa, tornando nelle loro bare. Si rigenerano al ritmo di 3 punti ferita per round, possono trasformarsi in forma gassosa o in un pipistrello gigante a volontà e possono evocare un'orda di pipistrelli o 3d6 lupi dal profondo della notte. Guardare negli occhi di un vampiro richiede un tiro salvezza a -2 o il personaggio viene incantato (come per l'incantesimo Ammaliare le Persone). Ancor più terrificante, il morso di un vampiro drena due livelli alla vittima.
 
 Fortunatamente, i vampiri hanno alcune debolezze. Possono essere uccisi (questi sono gli unici metodi conosciuti) immergendoli in acqua corrente, esponendoli alla luce del sole o conficcando un paletto di legno nel cuore. Sono repulsi dall'odore di aglio, dalla vista di uno specchio o dalla vista di simboli sacri "buoni". Ogni essere umano ucciso da un vampiro diventa un vampiro sotto il controllo del suo creatore. Questa descrizione si riconosce facilmente come il tipo di vampiro "Dracula".
 
@@ -1284,7 +1284,7 @@ Molte altre possibilità di vampiri esistono nel folklore: Vampiri cinesi, per e
 
 I vermi viola sono massicci anellidi che crescono di oltre 40' di lunghezza e a volte superano i 10' di larghezza. Sono sotterranei e scavano gallerie nella roccia (o attraverso la sabbia, nei deserti, dove sono di colore marrone). Queste bestie ingoiano la loro preda intera con un tiro di 4 superiore al numero necessario o se il verme tira il doppio del numero richiesto "per colpire". Possono inghiottire qualsiasi cosa delle dimensioni di un cavallo o più piccola.
 
-Oltre al temuto morso, il verme possiede un aculeo velenoso sulla coda, lungo quanto una spada e altrettanto letale anche per il colpo perforante che infligge. Il veleno iniettato dall'aculeo è letale se la vittima fallisce un tiro salvezza. Quali tipi di prede i vermi viola cacciavano un tempo (o forse lo fanno ancora, nei luoghi profondi) con tali armi naturali devono essere state davvero terrificanti. Potrebbero esistere anche versioni acquatiche del verme viola.
+Oltre al temuto morso, il verme possiede un aculeo velenoso sulla coda, lungo quanto una spada e altrettanto letale anche per il colpo perforante che infligge. Il veleno iniettato dall'aculeo è letale se la vittima fallisce un tiro salvezza. Qualunque prede i vermi viola cacciavano un tempo (o forse lo fanno ancora, nei luoghi profondi) con tali armi naturali devono essere state davvero terrificanti. Potrebbero esistere anche versioni acquatiche del verme viola.
 
 ### Viverna
 
@@ -1317,7 +1317,7 @@ I worg sono grandi lupi del caos, intelligenti e malvagi. A volte sono cavalcati
 *Movimento*: 6  
 *DVE/PE*: 2/30
 
-Gli zombie sono creature senza cervello, morti che camminano. Sono semplicemente cadaveri animati, non portatori di alcun tipo di contagio non-morto come i ghoul. Se il loro essere non-morti è contagioso, dovrebbero valere qualche punto esperienza in più di quanto descritto qui e, se un singolo colpo di uno zombie causa il contagio o qualsiasi altro tipo di malattia, dovrebbero valere molto più esperienza. Tuttavia, lo zombie standard è semplicemente un cadavere animato per eseguire gli ordini del suo creatore.
+Gli zombie sono creature senza cervello, morti che camminano. Sono semplicemente cadaveri animati, non portatori di alcun tipo di contagio non-morto come i ghoul. Se il loro essere non-morti è contagioso, dovrebbero valere qualche punto esperienza in più di quanto descritto qui e, se un singolo colpo di uno zombie causa il contagio o qualsiasi altro tipo di malattia, dovrebbero valere molta più esperienza. Tuttavia, lo zombie standard è semplicemente un cadavere animato per eseguire gli ordini del suo creatore.
 
 ### Mostri più tenaci
 
@@ -1349,10 +1349,10 @@ I mostri sono Personaggi Non Giocanti e le loro abilità non sono affatto determ
 | 6         | +6                              | 13                | 400               |
 | 7         | +7                              | 12                | 600               |
 | 8         | +8                              | 11                | 800               |
-| 9         | +9                              | 10                | 1,100             |
-| 10        | +10                             | 9                 | 1,400             |
-| 11        | +11                             | 8                 | 1,700             |
-| 12        | +12                             | 7                 | 2,000             |
-| 13        | +13                             | 6                 | 2,300             |
-| 14        | +14                             | 5                 | 2,600             |
-| 15        | +15                             | 4                 | 2,900             |
+| 9         | +9                              | 10                | 1.100             |
+| 10        | +10                             | 9                 | 1.400             |
+| 11        | +11                             | 8                 | 1.700             |
+| 12        | +12                             | 7                 | 2.000             |
+| 13        | +13                             | 6                 | 2.300             |
+| 14        | +14                             | 5                 | 2.600             |
+| 15        | +15                             | 4                 | 2.900             |

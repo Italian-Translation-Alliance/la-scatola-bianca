@@ -76,7 +76,7 @@ Idealmente, i giocatori saranno abbastanza descrittivi durante una ricerca da tr
 ## Combattimento
 
 Quando il gruppo di avventurieri entra in contatto con i nemici, l'ordine degli eventi nel round di combattimento è il seguente:  
-1\) L'arbitro determina se una parte o l'altra abbia diritto a un attacco gratuito o a una mossa come risultato della sorpresa - questo è una valutazione o un tiro di dado di qualche tipo, a seconda delle circostanze. Normalmente, chiunque è sorpreso se tira un 1 o un 2 su un d6.  
+1\) L'arbitro determina se una parte o l'altra abbia diritto a un attacco gratuito o a una mossa come risultato della sorpresa - questa è una valutazione o un tiro di dado di qualche tipo, a seconda delle circostanze. Normalmente, chiunque è sorpreso se tira un 1 o un 2 su un d6.  
 2\) Si determina l'iniziativa. Si effettua un tiro per ogni parte, non per ogni individuo in combattimento.  
 
 - La parte che ha l'iniziativa agisce per prima (lancio di dardi, incantesimi, movimento, attacchi in mischia, ecc.) e i risultati hanno effetto.
@@ -111,7 +111,7 @@ Se è importante sapere quale personaggio del gruppo va prima di un altro, basta
 
 ### Il Tiro d'Attacco
 
-Per attaccare con un'arma, il giocatore tira un d20 e aggiunge qualsiasi bonus al risultato. Questi bonus "per colpire" possono includere un bonus alla forza (per gli attacchi con armi a mano), un bonus alla destrezza (per gli attacchi con armi a distanza) e qualsiasi bonus per le armi magiche. Il giocatore sottrae poi qualsiasi penalità "per colpire" che potrebbe avere dal suo tiro.
+Per attaccare con un'arma, il giocatore tira un d20 e aggiunge qualsiasi bonus al risultato. Questi bonus "per colpire" possono includere un bonus alla forza (per gli attacchi con armi a mano), un bonus alla destrezza (per gli attacchi con armi a distanza) e qualsiasi bonus per le armi magiche. Il giocatore sottrae poi qualsiasi penalità "per colpire" che potrebbe avere al suo tiro.
 
 Il Tiro d'Attacco viene poi confrontato con una tabella per vedere se l'attacco va a segno. Se il tiro di attacco è uguale o superiore al numero sulla tabella, l'attacco va a segno. Se state usando il sistema di CA ascendente, piuttosto che fare riferimento a queste tabelle, c'è un metodo veloce presentato qui sotto che potete usare. L'Arbitro decide quale sarà usato.
 
@@ -248,7 +248,7 @@ Notate che nella Sequenza Alternativa di Combattimento il lancio degli incantesi
 
 ### Lealtà
 
-L'Arbitro potrebbe voler fare delle "prove di lealtà" per i PNG messi in situazioni pericolose o per quelli a cui vengono offerte tangenti per cambiare parte durante un conflitto. Quando viene effettuato una prova di lealtà, tirate 3d6 e consultate la tabella della lealtà per il risultato. Ricordate che queste prove possono essere modificate dal punteggio di Carisma del giocatore.
+L'Arbitro potrebbe voler fare delle "prove di lealtà" per i PNG messi in situazioni pericolose o per quelli a cui vengono offerte tangenti per cambiare parte durante un conflitto. Quando viene effettuata una prova di lealtà, tirate 3d6 e consultate la tabella della lealtà per il risultato. Ricordate che queste prove possono essere modificate dal punteggio di Carisma del giocatore.
 
 #### Tabella 22: Lealtà
 

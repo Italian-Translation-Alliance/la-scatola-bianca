@@ -65,12 +65,12 @@ Nel gioco originale, tutte le armi infliggono 1d6 danni, indipendentemente dal t
 | Cavallo da guerra, pesante    | 200            |
 | Cavallo, cavalcatura leggera  | 40             |
 | Cavallo, da tiro              | 30             |
-| Galea, grande                 | 30,000         |
-| Galea, piccola                | 10,000         |
+| Galea, grande                 | 30.000         |
+| Galea, piccola                | 10.000         |
 | Mulo                          | 20             |
-| Nave da guerra                | 40,000         |
-| Nave, a vela (grande)         | 20,000         |
-| Nave, a vela (piccola)        | 5,000          |
+| Nave da guerra                | 40.000         |
+| Nave, a vela (grande)         | 20.000         |
+| Nave, a vela (piccola)        | 5.000          |
 | Sella                         | 25             |
 | Zattera                       | 40             |
 
@@ -151,7 +151,7 @@ Per il sistema ascendente, una persona senza armatura ha una CA di \[10]. CAA si
 
 ### Conversione tra sistemi di classi d'armatura
 
-Per tradurre tra i sistemi di CA ascendente e discendente, i valori di classe d'armatura ascendente (CAA) e discendente (CA) devono sommarsi a 19. Quindi, CA 7 è uguale a CAA \[12\] (12+7=19).
+Per convertire tra i sistemi di CA ascendente e discendente (e viceversa), i valori di classe d'armatura ascendente (CAA) e discendente (CA) devono sommarsi a 19. Quindi, CA 7 è uguale a CAA \[12\] (12+7=19).
 
 ### Assumere Gregari
 

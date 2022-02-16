@@ -6,6 +6,7 @@ $table-font-family: 'PT Sans', system-ui, -apple-system, BlinkMacSystemFont, "Se
 
 h1, h2, h3, h4, h5, h6 {
     font-family: $header-font-family !important;
+    font-weight: 700;
 }
 
 body {
@@ -14,4 +15,8 @@ body {
 
 table {
     font-family: $table-font-family;
+}
+
+th {
+    font-weight: 700;
 }

@@ -571,7 +571,7 @@ Tirate 1d20 e aggiungete +0, +20 o +40, a seconda che il tesoro sia minore, medi
 | 14   | Ferri di Cavallo della Velocità                                  |
 | 15   | Pietra della Fortuna (+1 ai tiri salvezza e ai tiri per colpire) |
 | 16   | Manuale di Esercizio Benefico                                    |
-| 17   | Pifferi delle Fogne                                              |
+| 17   | Tubi delle Fogne                                                 |
 | 18   | Corda dell'Arrampicata                                           |
 | 19   | Corda dell'Impigliamento                                         |
 | 20   | Vanga da Scavo                                                   |
@@ -766,8 +766,6 @@ Tirate 1d20 e aggiungete +0, +20 o +40, a seconda che il tesoro sia minore, medi
 
 **Pietra della Fortuna**: Questa pietra garantisce +1 ai tiri salvezza e ai tiri per colpire. Utilizzabile da: tutte le classi.
 
-**Pifferi delle Fogne**: Questi pifferi evocano 10d6 ratti giganti. Il pifferaio non ha bisogno di concentrarsi una volta che i ratti arrivano (in 1d4 × 10 minuti), ma è saggio farlo. Quando i ratti arrivano, c'è un 5% di possibilità che non gli obbediscano, e se smette di concentrarsi sulla sua melodia c'è un 10% di possibilità che perda il controllo su di loro. Ogni turno successivo in cui non riesce a concentrarsi c'è un'altra possibilità di perdere il controllo, e la possibilità aumenta del 10% ogni volta che usato (primo turno, 10%, secondo turno 20%, ecc.). Utilizzabile da: tutte le classi.
-
 **Polvere di Apparizione o Scomparsa (50%)**: La Polvere di Apparizione viene lanciata in un raggio di 10' intorno all'utente, e rende completamente visibile qualsiasi cosa invisibile, astrale, spostata, fuori fase o dimensionale. La polvere viene generalmente fornita in un sacchetto, con abbastanza per 20-30 usi. La Polvere della Scomparsa funziona al contrario: quando viene aspersa in un raggio di 10', tutto ciò che vi si trova diventa invisibile per 5d6 turni. I normali mezzi per rilevare l'invisibilità (come l'incantesimo Individuare l'Invisibilità) non sono abbastanza forti da funzionare contro il potente incantesimo della polvere. Utilizzabile da: tutte le classi.
 
 **Polvere di Starnuti e Soffocamento**: I sacchetti che contengono questa polvere ne contengono normalmente solo per una "dose". Quando viene aspersa in un raggio di 10', la polvere fa sì che tutti coloro che si trovano nell'area debbano effettuare un tiro salvezza o morire. Se la natura della polvere viene identificata prima che venga sperimentata, può essere usata come un'arma da lancio devastante. Utilizzabile da: tutte le classi.
@@ -785,6 +783,8 @@ Tirate 1d20 e aggiungete +0, +20 o +40, a seconda che il tesoro sia minore, medi
 **Stivali della Velocità o Stivali del Balzo (50%)**: Gli Stivali della Velocità raddoppiano la velocità di movimento di chi li indossa, ma richiedono un riposo completo per un periodo di tempo equivalente a quello di utilizzo. Gli Stivali del balzo permettono a chi li indossa di fare salti prodigiosi di 10’ in altezza e fino a 30’ in orizzontale. Questi stivali raddoppiano anche la velocità di movimento, ma solo all'aperto. Non richiedono che chi li indossa si riposi dopo averli usati. Utilizzabili da: tutte le classi.
 
 **Tappeto Volante**: Il tappeto può trasportare fino a tre persone, e viaggia a una velocità di 18 quando ha più di un passeggero. Con un solo cavaliere, il tappeto si muove a una velocità di 30. Utilizzabile da: tutte le classi.
+
+**Tubi delle Fogne**: Questi pifferi evocano 10d6 ratti giganti. Il pifferaio non ha bisogno di concentrarsi una volta che i ratti arrivano (in 1d4 × 10 minuti), ma è saggio farlo. Quando i ratti arrivano, c'è un 5% di possibilità che non gli obbediscano, e se smette di concentrarsi sulla sua melodia c'è un 10% di possibilità che perda il controllo su di loro. Ogni turno successivo in cui non riesce a concentrarsi c'è un'altra possibilità di perdere il controllo, e la possibilità aumenta del 10% ogni volta che usato (primo turno, 10%, secondo turno 20%, ecc.). Utilizzabile da: tutte le classi.
 
 **Vanga da Scavo**: Questa vanga dall'aspetto ordinario scava da sola quando viene comandata, spalando fuori 3' (3' x 3' x 3') ogni dieci minuti. Utilizzabile da: guerrieri.
 

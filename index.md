@@ -6,6 +6,8 @@ nav_exclude: true
 
 ## Gioco fantasy medievale d'avventura
 
+**versione 1.8**
+
 Benvenuti nel repository del testo sorgente di ***La Scatola Bianca***.
 
 *La Scatola Bianca* è un Gioco di Ruolo retroclone.

@@ -183,7 +183,7 @@ Per la classe dei personaggi incontrati, tirare un d6 per il loro allineamento: 
 |   9  |  Demone, Succube  |     Elementale, Fuoco    | Guerriero, livello 9 |   Elementale, Acqua   |
 |  10  |     Salamandra    |     Elementale, Acqua    |  Chierico, livello 9 | Cavaliere della Morte |
 |  11  |      Viverna      |          Gorgone         |    Mago, livello 8   |    Lumaca, Gigante    |
-|  12  |      Dijinni      |  Inseguitore Invisibile  |   Ladro, livello 9   |      Verme Viola      |
+|  12  |      Djinni       |  Inseguitore Invisibile  |   Ladro, livello 9   |      Verme Viola      |
 
 
 ### Tabelle degli Incontri nelle Terre Selvagge per Tipo di Terreno
@@ -271,11 +271,11 @@ Per la classe dei personaggi incontrati, tirare un d6 per il loro allineamento: 
 | Tirare |     Drago     |       Non-Morto       |      Gigante      |
 |:------:|:-------------:|:---------------------:|:-----------------:|
 |    1   |   Drago, Oro  |        Banshee        |      Efreeti      |
-|    2   |   Drago, Blu  |      Apparizione      |      Dijinni      |
-|    3   |  Drago, Nero  |         Ombra         | Gigante, Ghiaccio |
+|    2   |   Drago, Blu  |      Apparizione      |      Djinni       |
+|    3   |  Drago, Nero  |         Ombra         |   Gigante, Gelo   |
 |    4   |  Drago, Verde |         Ghoul         |  Gigante, Pietra  |
-|    5   |  Drago, Rosso |       Scheletri       |  Gigante, Colline |
-|    6   | Drago, Bianco |         Zombie        | Gigante, Tempeste |
+|    5   |  Drago, Rosso |       Scheletri       |  Gigante, Collina |
+|    6   | Drago, Bianco |         Zombie        | Gigante, Tempesta |
 |    7   |    Viverne    |     Anima Dannata     |   Gigante, Fuoco  |
 |    8   |      Idra     |         Mummie        |  Gigante, Nuvole  |
 |    9   |       —      |        Spettro        |  Gigante, Firbolg |

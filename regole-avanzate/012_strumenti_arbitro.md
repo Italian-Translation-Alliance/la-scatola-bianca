@@ -128,7 +128,7 @@ Usa questa tabella per progettare trappole. Sarà necessario impiegare un po' di
 <sup>1</sup> Avvelenato con un tiro di 1 su d10
 <sup>2</sup> Tirate un d10; punte avvelenate, 1; punte, 2-3; allagamento, 4
 <sup>3</sup> Tirate un d10; trappola, 1-2; ago avvelenato, 3
-<sup>4</sup> Tirate un d10; accecante, 1-2; confusione, 3-4; paura, 5; velenoso, 6; sonno, 7-8; rallentamento, 9-10;
+<sup>4</sup> Tirate un d10; accecante, 1-2; confusione, 3-4; paura, 5; velenoso, 6; sonno, 7-8; rallentamento, 9-10
 <sup>5</sup> Tirate un d6; blocca il passaggio davanti 1-3; blocca il passaggio dietro 4-6
 <sup>6</sup> Tirate un d10; inondazione, 1-2; ascensore, 3-4; collasso, 5-6; spunzoni, 7-8; schiacciante, 9-10
 
@@ -349,7 +349,7 @@ Usate la tabella qui sotto per determinare a caso il contenuto di barattoli, vas
 | 25-27 | Uova, esotiche in salamoia | 77-79 | Sale, cristalli         |
 | 28-31 | Viscere, sottaceto         | 80-82 | Semi                    |
 | 32-35 | Occhi, secchi              | 83-85 | Torsolo                 |
-| 36-38 | Grasso/grasso              | 86-88 | Pelle, secca            |
+| 36-38 | Grasso/lardo               | 86-88 | Pelle, secca            |
 | 39-41 | Dita/piedi, secchi         | 89-91 | Bava                    |
 | 42-44 | Petali di fiori, secchi    | 92-94 | Denti                   |
 | 45-47 | Fluido, putrido            | 95-97 | Lingua, sottaceto       |

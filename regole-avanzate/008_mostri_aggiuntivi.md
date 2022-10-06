@@ -611,7 +611,7 @@ Le tigri dai denti a sciabola sono i grandi felini del Pliocene, capaci di cacci
 
 Un Titano è un gigante molto bello e civilizzato. Sono intelligenti almeno quanto gli uomini, alti il triplo e incredibilmente forti. Con le loro enormi armi, infliggono 6-21 punti di danno e hanno l'uso di due incantesimi di ogni livello di magia al giorno. La tana di un Titano conterrà altri 3.000-18.000 po.
 
-## Titanotteri
+### Titanotteri
 
 *Classe Armatura*: 7 [12]  
 *Dadi Vita*: 12  

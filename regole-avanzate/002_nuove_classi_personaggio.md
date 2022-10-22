@@ -267,7 +267,7 @@ Gli Illusionisti non possono indossare armature e sono limitati all'uso di pugna
 Gli Illusionisti lanciano incantesimi da mago, ma hanno accesso a più incantesimi (sono trattati come un livello superiore - Capitolo 4 Nuovi Incantesimi).
 
 #### Ammaliamento Minore
-Gli Illusionisti possono alterare il proprio aspetto a volontà, cambiando abito, età, i tratti del viso, il sesso, l'altezza e la corporatura. Non possono apparire di un'altra razza razza e qualcosa del loro aspetto deve rimanere costante -- normalmente la voce, il colore delle loro vesti, l'odore del profumo o una spilla distintiva. L'Illusionista può alterare l'aspetto di qualsiasi cosa tenuta in mano, anche se ritorna al suo vero aspetto quando viene lasciata andare.
+Gli Illusionisti possono alterare il proprio aspetto a volontà, cambiando abito, età, i tratti del viso, il sesso, l'altezza e la corporatura. Non possono apparire di un'altra razza e qualcosa del loro aspetto deve rimanere costante -- normalmente la voce, il colore delle loro vesti, l'odore del profumo o una spilla distintiva. L'Illusionista può alterare l'aspetto di qualsiasi cosa tenuta in mano, anche se ritorna al suo vero aspetto quando viene lasciata andare.
 
 #### Tiro salvezza
 Gli Illusionisti ottengono un bonus di +2 contro illusioni o inganni.

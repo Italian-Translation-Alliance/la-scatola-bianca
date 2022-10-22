@@ -152,10 +152,10 @@ Quando viene indicato un incontro, l'Arbitro può determinare il tipo di mostro 
 | Tiro d20 | Pianura                 | Bosco                       | Giungla                       |
 |----------|-------------------------|-----------------------------|-------------------------------|
 | 1        | Dinosauri, qualsiasi    | Orsi                        | Formiche, giganti             |
-| 2        | Cani                    | Cinghiali, normali/giganti  | Scimmie                       |
+| 2        | Cani                    | Cinghiali, normali/giganti  | Scimmioni                     |
 | 3        | Draghi, qualsiasi       | Centauri                    | Basilischi                    |
 | 4        | Nani                    | Millepiedi, grandi/giganti  | Pipistrelli, normali/giganti  |
-| 5        | Elfi                    | Cacatua                     | Scarabei, giganti             |
+| 5        | Elfi                    | Coccatrici                  | Scarabei, giganti             |
 | 6        | Giganti, collina        | Draghi, verde               | Millepiedi, grandi/giganti    |
 | 7        | Gnoll                   | Driadri                     | Dinosauri, qualsiasi          |
 | 8        | Goblin                  | Elfi                        | Draghi, verde                 |
@@ -163,7 +163,7 @@ Quando viene indicato un incontro, l'Arbitro può determinare il tipo di mostro 
 | 10       | Hobgoblin               | Meduse                      | Coboldi                       |
 | 11       | Cavalli                 | Uomini                      | Sanguisughe, giganti          |
 | 12       | Leoni                   | Personaggi non giocanti     | Uomini lucertola              |
-| 13       | Licantropi              | Orchetti                    | Lucertole, grandi/ giganti    |
+| 13       | Licantropi              | Orchetti                    | Lucertole, grandi/giganti     |
 | 14       | Mastodonti              | Pixie                       | Meduse                        |
 | 15       | Uomini                  | Vermi viola                 | Uomini                        |
 | 16       | Personaggi non giocanti | Serpenti, grandi/giganti    | Personaggi non giocanti       |
@@ -176,7 +176,7 @@ Quando viene indicato un incontro, l'Arbitro può determinare il tipo di mostro 
 | Tiro d20 | Montagna                   | Deserto                     | Artico                     |
 |----------|----------------------------|-----------------------------|----------------------------|
 | 1        | Orsi delle caverne         | Formiche, giganti           | Orsi delle caverne         |
-| 2        | Uomini delle caverne       | Uomini delle caverne        | Uomini delle caverne       |
+| 2        | Cavernicoli                | Cavernicoli                 | Cavernicoli                |
 | 3        | Chimere                    | Millepiedi, grandi/giganti  | Ciclopi                    |
 | 4        | Draghi, rosso              | Chimere                     | Cani                       |
 | 5        | Nani                       | Ciclopi                     | Draghi, bianchi            |
@@ -190,8 +190,8 @@ Quando viene indicato un incontro, l'Arbitro può determinare il tipo di mostro 
 | 13       | Leoni, maculati            | Manticore                   | Personaggi non giocanti    |
 | 14       | Uomini                     | Uomini                      | Vermi viola                |
 | 15       | Minotauri                  | Mummie                      | Tigri dai denti a sciabola |
-| 16       | Personaggi non giocanti    | Personaggi non giocanti     | Teschi                     |
-| 17       | Rocs                       | Vermi viola                 | Lupi                       |
+| 16       | Personaggi non giocanti    | Personaggi non giocanti     | Thull                      |
+| 17       | Roc                        | Vermi viola                 | Lupi                       |
 | 18       | Tigri dai denti a sciabola | Salamandre                  | Lupi, giganti              |
 | 19       | Troll                      | Scorpioni, giganti          | Mammut lanosi              |
 | 20       | Viverne                    | Serpenti, grandi            | Rinoceronti lanosi         |
@@ -199,14 +199,14 @@ Quando viene indicato un incontro, l'Arbitro può determinare il tipo di mostro 
 
 | Tiro d20 | Palude                     | Città                   | Necropoli                     |
 |----------|----------------------------|-------------------------|-------------------------------|
-| 1        | Basilischi                 | Uomini delle caverne    | Pipistrelli, normale/giganti  |
+| 1        | Basilischi                 | Cavernicoli             | Pipistrelli, normali/giganti  |
 | 2        | Coccodrilli                | Doppelganger            | Millepiedi, grandi/giganti    |
 | 3        | Coccodrilli, giganti       | Nani                    | Gargoyle                      |
 | 4        | Dinosauri, qualsiasi       | Elfi                    | Ghoul                         |
-| 5        | Draghi tartarughe          | Ghoul                   | Goblin/Hobgoblin              |
+| 5        | Tartarughe drago           | Ghoul                   | Goblin/Hobgoblin              |
 | 6        | Draghi, nero               | Giganti, qualsiasi      | Golem, qualsiasi              |
 | 7        | Giganti, collina           | Gnoll                   | Manticore                     |
-| 8        | Idre                       | Goblin                  | Uomini, zelanti               |
+| 8        | Idre                       | Goblin                  | Uomini, zeloti                |
 | 9        | Coboldi                    | Golem, qualsiasi        | Mummie                        |
 | 10       | Sanguisughe, giganti       | Halfling                | Personaggi non giocanti       |
 | 11       | Uomini lucertola           | Hobgoblin               | Ratti, giganti                |
@@ -215,7 +215,7 @@ Quando viene indicato un incontro, l'Arbitro può determinare il tipo di mostro 
 | 14       | Uomini                     | Uomini, dervisci        | Spettri                       |
 | 15       | Personaggi non giocanti    | Personaggi non giocanti | Ragni, grandi/giganti         |
 | 16       | Melme, qualsiasi           | Orchi                   | Vampiri                       |
-| 17       | Vermi viola                | Orchetti                | Erranti                       |
+| 17       | Vermi viola                | Orchetti                | Anime dannate                 |
 | 18       | Serpenti, grandi/giganti   | Ratti, giganti          | Lupi, giganti                 |
 | 19       | Rospi, giganti             | Titano                  | Apparizioni                   |
 | 20       | Troll                      | Vampiri                 | Zombie                        |
@@ -381,8 +381,8 @@ Quando viene determinato un incontro, stabilite il tipo di mostro tirando i dadi
 | 13       | Uomini, pirati          | Uomini lucertola        | Tritoni                 |
 | 14       | Tritoni                 | Uomini                  | Nixie                   |
 | 15       | Nixie                   | Uomini, bucanieri       | Personaggi non giocanti |
-| 16       | Personaggi non giocanti | Uomini, pirati          | Polpi, giganti          |
-| 17       | Polpi giganti           | Tritoni                 | Serpenti marini         |
+| 16       | Personaggi non giocanti | Uomini, pirati          | Piovre, giganti         |
+| 17       | Piovre, giganti         | Tritoni                 | Serpenti marini         |
 | 18       | Serpenti marini         | Nixie                   | Serpenti marini         |
 | 19       | Serpente, giganti       | Nixie                   | Serpente, giganti       |
 | 20       | Rospi, giganti          | Personaggi non giocanti | Calamari, giganti       |
@@ -524,8 +524,8 @@ Quando si verifica un incontro, determinate il tipo di mostro tirando i dadi sul
 
 | Tiro d20 | Cime delle montagne      | Cielo aperto             | Cime delle nuvole        |
 |----------|--------------------------|--------------------------|--------------------------|
-| 1        | Uomini delle caverne     | Chimere                  | Chimere                  |
-| 2        | Chimere                  | Dinosauri, pterodattili  | Cacatua                  |
+| 1        | Cavernicoli              | Chimere                  | Chimere                  |
+| 2        | Chimere                  | Dinosauri, pterodattili  | Coccatrici               |
 | 3        | Coccatrici               | Dinosauri, pterodattili‡ | Dinosauri, pterodattili† |
 | 4        | Dinosauri, pterodattili† | Djinn                    | Djinn                    |
 | 5        | Draghi, bianco           | Draghi, qualsiasi        | Draghi, dorato           |

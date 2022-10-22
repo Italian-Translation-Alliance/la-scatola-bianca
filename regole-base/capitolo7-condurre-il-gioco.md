@@ -271,14 +271,14 @@ Per la classe dei personaggi incontrati, tirare un d6 per il loro allineamento: 
 | Tirare |     Drago     |       Non-Morto       |      Gigante      |
 |:------:|:-------------:|:---------------------:|:-----------------:|
 |    1   |   Drago, Oro  |        Banshee        |      Efreeti      |
-|    2   |   Drago, Blu  |      Apparizione      |      Djinni       |
-|    3   |  Drago, Nero  |         Ombra         | Gigante, Ghiaccio |
+|    2   |   Drago, Blu  |      Apparizione      |       Djinni      |
+|    3   |  Drago, Nero  |         Ombra         |   Gigante, Gelo   |
 |    4   |  Drago, Verde |         Ghoul         |  Gigante, Pietra  |
-|    5   |  Drago, Rosso |       Scheletri       |  Gigante, Colline |
-|    6   | Drago, Bianco |         Zombie        | Gigante, Tempeste |
+|    5   |  Drago, Rosso |       Scheletri       |  Gigante, Collina |
+|    6   | Drago, Bianco |         Zombie        | Gigante, Tempesta |
 |    7   |    Viverne    |     Anima Dannata     |   Gigante, Fuoco  |
 |    8   |      Idra     |         Mummie        |  Gigante, Nuvole  |
-|    9   |       —      |        Spettro        |  Gigante, Firbolg  |
-|   10   |       —      |        Vampiro        |       Treant       | 
-|   11   |       —      | Cavaliere della Morte |         —          |
-|   12   |       —      |          Lich         |         —          |
+|    9   |       —       |        Spettro        |  Gigante, Firbolg |
+|   10   |       —       |        Vampiro        |       Treant      |
+|   11   |       —       | Cavaliere della Morte |         —         |
+|   12   |       —       |          Lich         |         —         |

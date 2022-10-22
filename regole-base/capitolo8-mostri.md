@@ -97,7 +97,7 @@ Le anime dannate vivono in tombe, cimiteri e tumuli. Sono non-morti e quindi non
 *Movimento*: 24  
 *DVE/PE*: 6/400
 
-Le apparizioni sono delle potenti anime dannate, immuni a tutte le armi non magiche tranne quelle d'argento (che infliggono solo metà del danno). Le frecce sono particolarmente inefficaci contro di loro e perfino le frecce magiche e d'argento infliggono solo un punto di danno per colpo. Le apparizioni possono montare cavalli da battaglia ben addestrati o cavalcature più insolite che tollerano la loro presenza.
+Le apparizioni sono delle potenti anime dannate, immuni a tutte le armi non magiche tranne quelle d'argento (che infliggono solo metà del danno). Le frecce sono particolarmente inefficaci contro di loro e perfino le frecce magiche e d'argento infliggono solo un punto di danno per colpo. Il tocco dell'apparizione drena un livello alla vittima. Le apparizioni possono montare cavalli da battaglia ben addestrati o cavalcature più insolite che tollerano la loro presenza.
 
 ### Arpia
 
@@ -719,7 +719,7 @@ Che siano fatti di vetro colorato animato o di enormi pile di frammenti frastagl
 
 *Classe Armatura*: 2 [17]  
 *Dadi Vita*: 8  
-*Attacchi*: Gore (1d6+1)  
+*Attacchi*: Incornata (1d6+1)  
 *Speciale*: Soffio di pietra  
 *Movimento*: 12  
 *DVE/PE*: 10/1,400
@@ -908,7 +908,7 @@ Le mummie non possono essere colpite da armi normali e anche le armi magiche inf
 
 La melma grigia è quasi identica alla roccia bagnata, ma è una sostanza viscida e informe che divora prede e carogne con le sue secrezioni acide, sferzando in avanti per colpire i nemici. La melma grigia è immune agli incantesimi, al calore e ai danni da freddo. Il metallo (ma non la pietra o il legno) deve effettuare un tiro salvezza contro l'acido quando viene esposto alla melma grigia (anche se il contatto è breve come il colpo di una spada) o marcisce. Quando la melma grigia colpisce un personaggio con un'armatura di metallo, l'armatura deve effettuare un tiro salvezza contro gli oggetti. Solo il taglio e la perforazione danneggiano la melma grigia, che è impenetrabile agli attacchi contundenti o di schiacciamento.
 
-### Melma verde
+### Melma Verde
 
 La melma verde non è tecnicamente un mostro, solo un rischio estremamente pericoloso nelle tombe sotterranee e altri luoghi simili. Qualsiasi sostanza metallica o organica che tocca inizia a trasformarsi in melma verde (tiro salvezza). Può essere uccisa con il fuoco o con il freddo estremo, e il processo di trasformazione può essere arrestato con l'uso dell'incantesimo Curare le Malattie.
 
@@ -1170,7 +1170,7 @@ Questi minuscoli uccelli hanno becchi simili ad aghi che usano per infilzare le 
 *Classe Armatura*: 2 [17]  
 *Dadi Vita*: 7-12  
 *Attacchi*: Colpo  
-*Speciale*: Alberi di controllo  
+*Speciale*: Controllo degli alberi 
 *Movimento*: 6  
 *DVE/PE*: 7/600; 8/800; 9/1,100;  
 10/1,400; 11/1,700; 12/2,000

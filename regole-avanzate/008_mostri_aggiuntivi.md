@@ -434,7 +434,7 @@ I ragni, giganti e grandi, sono comuni nei sotterranei. I ragni grandi hanno le 
 *Classe Armatura*: 7 [12]  
 *Dadi Vita*: ½  
 *Attacchi*: Morso (vedi sotto)  
-*Speciale*: Ragnatela   
+*Speciale*: Malattia (vedi sotto)   
 *Movimento*: 12/6  
 *DVE/PE*: 2/30
 

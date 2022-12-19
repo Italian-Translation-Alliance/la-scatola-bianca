@@ -145,7 +145,7 @@ Questi grandi umanoidi pelosi simili a goblin sono più furtivi di quanto la lor
 
 ### Centauro
 
-*Classe Armatura*: 5 [14], 4 [16] con scudo  
+*Classe Armatura*: 5 [14], 4 [15] con scudo  
 *Dadi Vita*: 4  
 *Attacchi*: Arma o calcio  
 *Speciale*: Nessuna  
@@ -167,7 +167,7 @@ I cani intermittenti sono cacciatori in branchi, intelligenti e solitamente amic
 
 ### Cavaliere della Morte
 
-*Classe Armatura*: 0 [20]  
+*Classe Armatura*: 0 [19]  
 *Dadi Vita*: 10  
 *Attacchi*: Spada a due mani (1d6+3)  
 *Speciale*: Vedi sotto  
@@ -488,7 +488,7 @@ L'esempio di cui sopra è per un elfo tipico; i guerrieri addestrati avrebbero p
 
 ### Elfo, Scuro
 
-*Classe Armatura*: 5 [16]  
+*Classe Armatura*: 5 [14]  
 *Dadi Vita*: 2  
 *Attacchi*: Vedi sotto  
 *Speciale*: Vedi sotto  
@@ -635,7 +635,7 @@ Gli gnoll sono umanoidi alti con teste simili a iene. Possono essere trovati sia
 
 ### Gnomo
 
-*Classe Armatura*: 7  
+*Classe Armatura*: 7 [12] 
 *Dadi Vita*: 1  
 *Attacchi*: Arco corto o Spada corta  
 (1d6-1)  
@@ -1134,7 +1134,7 @@ La dimensione e la natura dei serpenti marini è una questione che spetta all'Ar
 
 ### Sidhe
 
-*Classe Armatura*: 3 [17]  
+*Classe Armatura*: 3 [16]  
 *Dadi Vita*: 5  
 *Attacchi*: Lama Fey (2d6)  
 *Speciale*: Vedi sotto  

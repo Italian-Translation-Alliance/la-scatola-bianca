@@ -183,7 +183,7 @@ Gli pterodattili sono rettili volanti di dimensioni umane e anche più grandi ch
 
 ### Dinosauro, Stegosauro
 
-*Classe Armatura*: 2 [17], 5 [/14]  
+*Classe Armatura*: 2 [17], 5 [14]  
 *Dadi Vita*: 8  
 *Attacchi*: Coda (2d6/3d6 vedi sotto)  
 *Speciale*: Vedi sotto  
@@ -194,7 +194,7 @@ Gli Stegosauri sono grandi erbivori lunghi fino a 30 piedi e alti fino a 10 pied
 
 ### Dinosauro, Triceratopo
 
-*Classe Armatura*: 2 [17], 5 [/14]  
+*Classe Armatura*: 2 [17], 5 [14]  
 *Dadi Vita*: 16  
 *Attacchi*: Corna (2d6)  
 *Speciale*: Vedi sotto  
@@ -376,7 +376,7 @@ Gli orsi delle caverne sono enormi orsi carnivori che hanno sempre fame. Hanno u
 
 ### Piovra, Gigante
 
-*Classe Armatura*: 7  
+*Classe Armatura*: 7 [12]
 *Dadi Vita*: 4  
 *Attacchi*: Tentacoli (6d6 vedi sotto)  
 *Speciale*: Vedi sotto   
@@ -508,7 +508,7 @@ Gli scimmioni dannati sono così chiamati per la loro colorazione pallida e il l
 
 ### Scorpione, Gigante
 
-*Classe Armatura*: 3 [13]  
+*Classe Armatura*: 3 [16]  
 *Dadi Vita*: 5+4  
 *Attacchi*: Aculeo, tenaglia (vedi sotto)  
 *Speciale*: Vedi sotto   
@@ -723,7 +723,7 @@ Per aiutarvi a determinare i Dadi Vita Equivalenti (DVE), la tabella qui sotto p
 | Capacità speciali                                                          | Effetto sui DVE |
 |----------------------------------------------------------------------------|-----------------|
 | 4+ attacchi per round (minimo d6 o tiro salvezza ciascuno)                 | +1 DVE          |
-| AC 20 o superiore                                                          | +1 DVE          |
+| AC -1 [20] o superiore                                                     | +1 DVE          |
 | Danno automatico dopo il colpo                                             | +1 DVE          |
 | Arma da soffio 25 punti max o inferiore                                    | +1 DVE          |
 | Arma da soffio 26 punti max o più                                          | +2 DVE          |

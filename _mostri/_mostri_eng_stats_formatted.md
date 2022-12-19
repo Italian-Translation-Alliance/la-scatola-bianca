@@ -5,8 +5,8 @@
 **Atk** 1 tongue (swallows), 2 claws (1d8)  
 **Save** 6  
 **Move** 6  
-**AL N  
-CL/XP** 11/1700  
+**AL** N  
+**CL/XP** 11/1700  
 **Special**: Swallow whole.
 
 ### Aaztar-Ghola
@@ -16,8 +16,8 @@ CL/XP** 11/1700
 **Atk** 2 swords (1d8)  
 **Save** 11  
 **Move** 12  
-**AL C  
-CL/XP** 9/1100  
+**AL** C  
+**CL/XP** 9/1100  
 **Special**: Spells, magic resistance 25%
 
 ### Abasheen
@@ -384,10 +384,7 @@ CL/XP** 9/1100
 **Move** 15 (Fly 25)  
 **AL** L  
 **CL/XP** 15/2900  
-**Special**: Radiant blast  
-immune to acid, cold and petrification  
-resists electricity and fire  
-spell-like abilities
+**Special**: Radiant blast immune to acid, cold and petrification resists electricity and fire spell-like abilities
 
 ### Angel (Monadic Deva, 10 HD)
 
@@ -430,7 +427,7 @@ spell-like abilities
 **Move** 12  
 **Save** 18  
 **AL N  
-CL/XP** 1/15  
+**CL/XP** 1/15  
 **Special**: Knocks over.
 
 ### Ankheg (3 HD)
@@ -452,7 +449,7 @@ CL/XP** 1/15
 **Move** 12 (burrow 6)  
 **Save** 13  
 **AL N  
-CL/XP** 5/240XP  
+**CL/XP** 5/240XP  
 **Special**: Spits acid 5d6 (1/day, save for half)
 
 ### Ankheg (5 HD)
@@ -463,7 +460,7 @@ CL/XP** 5/240XP
 **Move** 12 (burrow 6)  
 **Save** 12  
 **AL N  
-CL/XP** 6/400XP  
+**CL/XP** 6/400XP  
 **Special**: Spits acid 5d6 (1/day, save for half)
 
 ### Ankheg (6 HD)
@@ -474,7 +471,7 @@ CL/XP** 6/400XP
 **Move** 12 (burrow 6)  
 **Save** 11  
 **AL N  
-CL/XP** 7/600XP  
+**CL/XP** 7/600XP  
 **Special**: Spits acid 5d6 (1/day, save for half)
 
 ### Ankheg (7 HD)
@@ -485,7 +482,7 @@ CL/XP** 7/600XP
 **Move** 12 (burrow 6)  
 **Save** 9  
 **AL N  
-CL/XP** 8/800XP  
+**CL/XP** 8/800XP  
 **Special**: Spits acid 5d6 (1/day, save for half)
 
 ### Ankheg (8 HD)
@@ -496,7 +493,7 @@ CL/XP** 8/800XP
 **Move** 12 (burrow 6)  
 **Save** 8  
 **AL N  
-CL/XP** 9/1100XP  
+**CL/XP** 9/1100XP  
 **Special**: Spits acid 5d6 (1/day, save for half).
 
 ### Ankylosaurus
@@ -585,7 +582,7 @@ CL/XP** 9/1100XP
 **Move** 12 (Climb 6)  
 **AL** C  
 **CL/XP** 9/1100  
-**Special**:Poison, summon spiders, spells
+**Special**: Poison, summon spiders, spells
 
 ### Aranea
 
@@ -638,7 +635,7 @@ CL/XP** 9/1100XP
 **Save** 11  
 **Move** 12  
 **AL N  
-CL/XP** 8/800  
+**CL/XP** 8/800  
 **Special**: Spells, Spell-Stealing, Teleport.
 
 ### Arcanix (Minor)
@@ -649,7 +646,7 @@ CL/XP** 8/800
 **Save** 14  
 **Move** 12  
 **AL N  
-CL/XP** 5/240  
+**CL/XP** 5/240  
 **Special**: Spells, Spell-Stealing, Teleport.
 
 ### Arcanoplasm
@@ -781,7 +778,7 @@ CL/XP** 5/240
 **Move** 15 (Fly 24)  
 **AL** N  
 **CL/XP** 2/30  
-**Special**:Spells, magic resistance (20%), surprise on 1-2 on 1d6
+**Special**: Spells, magic resistance (20%), surprise on 1-2 on 1d6
 
 ### Aurumvorax
 
@@ -854,8 +851,8 @@ CL/XP** 5/240
 **Move** 12  
 **Save** 16  
 **CL/XP** 5/240  
-**AL N  
-Special**: None.
+**AL** N  
+**Special**: None.
 
 ### Baboon alpha male
 
@@ -864,8 +861,8 @@ Special**: None.
 **Atk** 1 bite (1d6)  
 **Move** 12  
 **Save** 16  
-**AL N  
-CL/XP** 2/30  
+**AL** N  
+**CL/XP** 2/30  
 **Special**: None.
 
 ### Baboon, Giant
@@ -877,7 +874,7 @@ CL/XP** 2/30
 **Save** 14  
 **CL/XP** 3/60  
 **AL N  
-Special**: None.
+**Special**: None.
 
 ### Baboon
 
@@ -954,10 +951,7 @@ Special**: None.
 **Save** 9  
 **AL** C  
 **CL/XP** 11/1700  
-**Special**: Magic or silver to hit  
-magic resistance 49%  
-shriek of death  
-Immune to enchantments
+**Special**: Magic or silver to hit magic resistance 49% shriek of death. Immune to enchantments
 
 ### Baobhan Sith
 
@@ -1328,7 +1322,7 @@ Immune to enchantments
 **Move** 9 (Climb 9/Swim 9)  
 **Save** 12  
 **AL** N  
-**CL/XP**6/400  
+**CL/XP** 6/400  
 **Special**: Constrict, gaze
 
 ### Boar, Giant
@@ -1474,7 +1468,7 @@ Immune to enchantments
 **HD** 3  
 **AC** 8 \[11\]  
 **Atk** 1 strike (1d8)  
-**Move**: 6  
+**Move** : 6  
 **Save** 14  
 **AL** C  
 **CL/XP** 5/240  
@@ -1578,7 +1572,9 @@ Immune to enchantments
 **CL/XP** 1/15  
 **Special**: Magic resistance (25%), spells
 
-### Brume: **HD 7** **AC** 2 \[17\]  
+### Brume
+**HD** 7  
+**AC** 2 \[17\]  
 **Atk** 2 claws (1d6)  
 **Move** 15  
 **Save** 9  
@@ -1627,7 +1623,7 @@ Immune to enchantments
 **Move** 15 (Burrow 3)  
 **Save** 5  
 **AL N  
-CL/XP** 12/2000  
+**CL/XP** 12/2000  
 **Special**: Leaping, surprise, burrow.
 
 ### Bulette (7 HD)
@@ -1649,7 +1645,7 @@ CL/XP** 12/2000
 **Move** 15 (Burrow 3)  
 **Save** 8  
 **AL N  
-CL/XP** 10/1400  
+**CL/XP** 10/1400  
 **Special**: Leaping, surprise, burrow.
 
 ### Bulette (9 HD)
@@ -1660,7 +1656,7 @@ CL/XP** 10/1400
 **Move** 15 (Burrow 3)  
 **Save** 6  
 **AL N  
-CL/XP** 11/1700  
+**CL/XP** 11/1700  
 **Special**: Burrow, leaping, surprise.
 
 ### Bumblebee Queen, Giant
@@ -1979,18 +1975,18 @@ CL/XP** 11/1700
 
 ### Centipede, Giant (small, lethal)
 
-**HD**: 1d2  
+**HD**  1d2  
 **AC** 9 \[10\]  
 **Atk** 1 bite (0 + poison)  
 **Move** 13  
 **Save** 18  
 **AL** N  
-**CL/XP**1/15  
+**CL/XP** 1/15  
 **Special** poison bite (+4 save or die)
 
 ### Centipede, Giant (small, non-lethal)
 
-**HD**: 1d2  
+**HD**  1d2  
 **AC** 9 \[10\]  
 **Atk** 1 bite (0 + poison)  
 **Move** 13  
@@ -2064,8 +2060,8 @@ CL/XP** 11/1700
 
 ### Charonodaemon
 
-**HD** 10**  
-** **AC** -2 \[21\]  
+**HD** 10  
+**AC** -2 \[21\]  
 **Atk** Staff (1d8)  
 **Move** 15  
 **Save** 5  
@@ -2222,7 +2218,7 @@ CL/XP** 11/1700
 
 ### Clockwork (Brain Gear)
 
-**HD**: 5  
+**HD**  5  
 **AC** 2 \[17\]  
 **Atk** None  
 **Move** 0  
@@ -2254,7 +2250,7 @@ CL/XP** 11/1700
 
 ### Clockwork (Drone)
 
-**HD**: 1d6  
+**HD**  1d6  
 **AC** 2 \[17\]  
 **Atk** Slam (1d3)  
 **Move** 9 (Fly 24)  
@@ -2265,7 +2261,7 @@ CL/XP** 11/1700
 
 ### Clockwork (Overseer)
 
-**HD**: 2  
+**HD**  2  
 **AC** 2 \[17\]  
 **Atk** Slam (1d6)  
 **Move** 15  
@@ -2276,7 +2272,7 @@ CL/XP** 11/1700
 
 ### Clockwork (Parasite)
 
-**HD**: 4  
+**HD**  4  
 **AC** 4 \[15\]  
 **Atk** Bite (1d4)  
 **Move** 9  
@@ -2287,7 +2283,7 @@ CL/XP** 11/1700
 
 ### Clockwork (Scout)
 
-**HD**: 1  
+**HD**  1  
 **AC** 2 \[17\]  
 **Atk** Slam (1d4)  
 **Move** 15  
@@ -2298,7 +2294,7 @@ CL/XP** 11/1700
 
 ### Clockwork (Swarm)
 
-**HD**: 4  
+**HD**  4  
 **AC** 2 \[17\]  
 **Atk** Swarm (1d6)  
 **Move** 15  
@@ -2309,7 +2305,7 @@ CL/XP** 11/1700
 
 ### Clockwork (Titan 3 HD)
 
-**HD**: 7  
+**HD**  7  
 **AC** 0 \[19\]  
 **Atk** Slam (2d8)  
 **Move** 12  
@@ -2320,7 +2316,7 @@ CL/XP** 11/1700
 
 ### Clockwork (Titan 7 HD)
 
-**HD**: 3  
+**HD**  3  
 **AC** 2 \[17\]  
 **Atk** Slam (1d8)  
 **Move** 9  
@@ -2504,8 +2500,7 @@ CL/XP** 11/1700
 **Save** 12  
 **AL** C  
 **CL/XP** 7/600  
-**Special**: If both fists hit the victim is “bear” hugged for an additional 2d6 damage  
-immune to to non-magical weapons, ice, electricity, acid, and normal fires.
+**Special**: If both fists hit the victim is “bear” hugged for an additional 2d6 damage immune to to non-magical weapons, ice, electricity, acid, and normal fires.
 
 ### Corpse Candle
 
@@ -2558,7 +2553,7 @@ immune to to non-magical weapons, ice, electricity, acid, and normal fires.
 **Move** 12 (Fly 24)  
 **Save** 8  
 **AL L  
-CL/XP** 11/1700  
+**CL/XP** 11/1700  
 **Special**: Fly, poison (lethal), spells, polymorph.
 
 ### Cow/Ox
@@ -2710,15 +2705,15 @@ CL/XP** 11/1700
 **CL/XP** 5/240  
 **Special**: Blood drain.
 
-### Crystal Ooze: 
-**HD** 4  
- **AC** 7 \[12\]  
- **Atk** Strike (2d6 plus paralysis)  
+### Crystal Ooze:
+**HD** 4  
+**AC** 7\[12\]  
+**Atk** Strike (2d6 plus paralysis)  
 **Move** 3/6 (swimming)  
- **Save** 13  
- **AL** N  
- **CL/XP** 6/400
- **Special**: Acid, paralysis, immune to acid, cold and fire, transparent, water dependent
+**Save** 13  
+**AL** N  
+**CL/XP** 6/400
+**Special**: Acid, paralysis, immune to acid, cold and fire, transparent, water dependent
 
 ### Crystaline
 
@@ -3651,7 +3646,7 @@ CL/XP** 11/1700
 **Move** 9 (Fly 24)  
 **Save** 5  
 **AL L  
-CL/XP** 12/2000  
+**CL/XP** 12/2000  
 **Special**: spits lightning or misdirection gas.
 
 ### Dragon, Adult Bronze (8 HD)
@@ -3673,7 +3668,7 @@ CL/XP** 12/2000
 **Move** 9 (Fly 24)  
 **Save** 6  
 **AL L  
-CL/XP** 11/1700  
+**CL/XP** 11/1700  
 **Special**: spits lightning or misdirection gas.
 
 ### Dragon, Adult Cloud (12 HD)
@@ -3695,7 +3690,7 @@ CL/XP** 11/1700
 **Move** 9 (Fly 24)  
 **Save** 6  
 **AL** N**  
-CL/XP** 15/2900  
+**CL/XP** 15/2900  
 **Special**: Cloud form, breath weapon, spells
 
 ### Dragon, Adult Cloud (14 HD)
@@ -3706,7 +3701,7 @@ CL/XP** 15/2900
 **Move** 9 (Fly 24)  
 **Save** 5  
 **AL** N**  
-CL/XP** 16/3200  
+**CL/XP** 16/3200  
 **Special**: Cloud form, breath weapon, spells
 
 ### Dragon, Adult Copper (7 HD)
@@ -3728,7 +3723,7 @@ CL/XP** 16/3200
 **Move** 9 (Fly 24)  
 **Save** 8  
 **AL L  
-CL/XP** 10/1400  
+**CL/XP** 10/1400  
 **Special**: Spit acid or breathe slowing gas.
 
 ### Dragon, Adult Copper (9 HD)
@@ -3739,7 +3734,7 @@ CL/XP** 10/1400
 **Move** 9 (Fly 24)  
 **Save** 6  
 **AL L  
-CL/XP** 11/1700  
+**CL/XP** 11/1700  
 **Special**: Spit acid or breathe slowing gas.
 
 ### Dragon, Adult Dungeon (10 HD)
@@ -3750,7 +3745,7 @@ CL/XP** 11/1700
 **Move** 9 (Fly 24)  
 **Save** 5  
 **AL** N**  
-CL/XP** 12/2000  
+**CL/XP** 12/2000  
 **Special**: Spits confusion mist
 
 ### Dragon, Adult Dungeon (8 HD)
@@ -3772,7 +3767,7 @@ CL/XP** 12/2000
 **Move** 9 (Fly 24)  
 **Save** 6  
 **AL** N**  
-CL/XP** 11/1700  
+**CL/XP** 11/1700  
 **Special**: Spits confusion mist
 
 ### Dragon, Adult Gold (10 HD)
@@ -3794,7 +3789,7 @@ CL/XP** 11/1700
 **Move** 12 (Fly 24)  
 **Save** 4  
 **AL L  
-CL/XP** 14/2600  
+**CL/XP** 14/2600  
 **Special**: fire or chlorine breath, magic-user spells.
 
 ### Dragon, Adult Gold (12 HD)
@@ -3805,7 +3800,7 @@ CL/XP** 14/2600
 **Move** 12 (Fly 24)  
 **Save** 3  
 **AL L  
-CL/XP** 15/2900  
+**CL/XP** 15/2900  
 **Special**: fire or chlorine breath, magic-user spells.
 
 ### Dragon, Adult Green (7 HD)
@@ -3827,7 +3822,7 @@ CL/XP** 15/2900
 **Move** 9 (Fly 24)  
 **Save** 8  
 **AL C  
-CL/XP** 10/1400  
+**CL/XP** 10/1400  
 **Special**: Breathes poison gas.
 
 ### Dragon, Adult Green (9 HD)
@@ -3838,7 +3833,7 @@ CL/XP** 10/1400
 **Move** 9 (Fly 24)  
 **Save** 6  
 **AL C  
-CL/XP** 11/1700  
+**CL/XP** 11/1700  
 **Special**: Breathes poison gas.
 
 ### Dragon, Adult Mist (10 HD)
@@ -3849,7 +3844,7 @@ CL/XP** 11/1700
 **Move** 9 (Fly 30)  
 **Save** 5  
 **AL** N**  
-CL/XP** 15/2900  
+**CL/XP** 15/2900  
 **Special**: Gaseous form, breath weapon, spells
 
 ### Dragon, Adult Mist (11 HD)
@@ -3860,7 +3855,7 @@ CL/XP** 15/2900
 **Move** 9 (Fly 30)  
 **Save** 4  
 **AL** N**  
-CL/XP** 16/3200  
+**CL/XP** 16/3200  
 **Special**: Gaseous form, breath weapon, spells
 
 ### Dragon, Adult Mist (9 HD)
@@ -3882,7 +3877,7 @@ CL/XP** 16/3200
 **Move** 9 (Fly 24)  
 **Save** 5  
 **AL C  
-CL/XP** 12/2000  
+**CL/XP** 12/2000  
 **Special**: Breathes fire.
 
 ### Dragon, Adult Red (11 HD)
@@ -3893,7 +3888,7 @@ CL/XP** 12/2000
 **Move** 9 (Fly 24)  
 **Save** 4  
 **AL C  
-CL/XP** 13/2300  
+**CL/XP** 13/2300  
 **Special**: Breathes fire.
 
 ### Dragon, Adult Red (9 HD)
@@ -3915,7 +3910,7 @@ CL/XP** 13/2300
 **Move** 9 (Fly 24)  
 **Save** 5  
 **AL L  
-CL/XP** 12/2000  
+**CL/XP** 12/2000  
 **Special**: Breathes frost or paralyzing gas, polymorph.
 
 ### Dragon, Adult Silver (11 HD)
@@ -3926,7 +3921,7 @@ CL/XP** 12/2000
 **Move** 9 (Fly 24)  
 **Save** 4  
 **AL L  
-CL/XP** 13/2300  
+**CL/XP** 13/2300  
 **Special**: Breathes frost or paralyzing gas, polymorph.
 
 ### Dragon, Adult Silver (9 HD)
@@ -3959,7 +3954,7 @@ CL/XP** 13/2300
 **Move** 9 (Fly 24)  
 **Save** 13  
 **AL** N**  
-CL/XP** 4/120  
+**CL/XP** 4/120  
 **Special**: Spits smoke
 
 ### Dragon, Adult Smoke (5 HD)
@@ -3970,7 +3965,7 @@ CL/XP** 4/120
 **Move** 9 (Fly 24)  
 **Save** 12  
 **AL** N**  
-CL/XP** 5/240  
+**CL/XP** 5/240  
 **Special**: Spits smoke
 
 ### Dragon, Adult White (5 HD)
@@ -3992,7 +3987,7 @@ CL/XP** 5/240
 **Move** 9 (Fly 24)  
 **Save** 11  
 **AL C  
-CL/XP** 8/800  
+**CL/XP** 8/800  
 **Special**: Breathes frost.
 
 ### Dragon, Adult White (7 HD)
@@ -4003,7 +3998,7 @@ CL/XP** 8/800
 **Move** 9 (Fly 24)  
 **Save** 9  
 **AL C  
-CL/XP** 9/1100  
+**CL/XP** 9/1100  
 **Special**: Breathes frost.
 
 ### Dragon, Adult Wrath (10 HD)
@@ -4025,7 +4020,7 @@ CL/XP** 9/1100
 **Move** 9 (Fly 24)  
 **Save** 4  
 **AL** L**  
-CL/XP** 13/2300  
+**CL/XP** 13/2300  
 **Special**: Breathes holy fire, turn undead
 
 ### Dragon, Adult Wrath (12 HD)
@@ -4036,7 +4031,7 @@ CL/XP** 13/2300
 **Move** 9 (Fly 24)  
 **Save** 3  
 **AL** L**  
-CL/XP** 14/2600  
+**CL/XP** 14/2600  
 **Special**: Breathes holy fire, turn undead
 
 ### Dragonfly
@@ -4435,25 +4430,25 @@ CL/XP** 14/2600
 **CL/XP** 9/1100  
 **Special**: mindfeed, resists cold, haste, regenerate 3 hp/round
 
-### Entropic Ooze: 
-**HD** 10  
- **AC** 8 \[11\]  
- **Atk** 1 pseudopod (2d6 + level drain)  
- **Move** 6  
- **Save** 5  
- **AL** N  
- **CL/XP** 11/1700
- **Special**: 25% magic resistant, devour soul
+### Entropic Ooze:
+**HD** 10  
+**AC** 8\[11\]  
+**Atk** 1 pseudopod (2d6 + level drain)  
+**Move** 6  
+**Save** 5  
+**AL** N  
+**CL/XP** 11/1700
+**Special**: 25% magic resistant, devour soul
 
-### Entropic Ooze (Dark Matter) 
-**HD** 20  
- **AC** 8 \[11\]  
- **Atk** 1 pseudopod (2d8 + level drain)  
- **Move** 6  
- **Save** 3  
- **AL** N  
- **CL/XP** 23/1700
- **Special**: 25% magic resistant, devour soul
+### Entropic Ooze (Dark Matter)
+**HD** 20  
+**AC** 8\[11\]  
+**Atk** 1 pseudopod (2d8 + level drain)  
+**Move** 6  
+**Save** 3  
+**AL** N  
+**CL/XP** 23/1700
+**Special**: 25% magic resistant, devour soul
 
 ### Erinyes Demon
 
@@ -5492,15 +5487,15 @@ CL/XP** 14/2600
 **CL/XP** B/10  
 **Special**: Breathe underwater.
 
-### Glacial Ooze: 
-**HD** 5  
- **AC** 8 \[11\]  
- **Atk** 1 slam (2d6)  
- **Move** 4/12 (swim)  
- **Save** 12  
- **AL** N  
- **CL/XP** 6/400
- **Special**: cold, engulf, transparent, immune to cold and blunt weapons
+### Glacial Ooze:
+**HD** 5  
+**AC** 8\[11\]  
+**Atk** 1 slam (2d6)  
+**Move** 4/12 (swim)  
+**Save** 12  
+**AL** N  
+**CL/XP** 6/400
+**Special**: cold, engulf, transparent, immune to cold and blunt weapons
 
 ### Glass Butterfly
 
@@ -7055,42 +7050,45 @@ AC 4 \[15\]
 **CL/XP** 4/120  
 **Special**: Level drain (1)
 
-### Kamadan: 
-**HD** 4  
- **AC** 3 \[16\]  
- **Atk** 2 claws (1d6) or snakes (1d4) and bite (1d8)  
- **Move** 15  
- 
+### Kamadan
+**HD** 4  
+**AC** 3\[16\]  
+**Atk** 2 claws (1d6) or snakes (1d4) and bite (1d8)  
+**Move** 15  
+**Save** 13  
+**AL** N (Chaotic tendencies)  
+**CL/XP** 6/400  
+**Special**: Sleep breath
 
-### Kampfult (Sinewy Mugger): 
-**HD** 2  
-**AC** 3 \[16\]  
-**Atk** 6 tendrils (1d4)  
-**Move** 6  
-**Save** 16  
-**AL** N (Chaotic tendencies)
-**CL/XP** 2/30
+### Kampfult (Sinewy Mugger):
+**HD** 2  
+**AC** 3\[16\]  
+**Atk** 6 tendrils (1d4)  
+**Move** 6  
+**Save** 16  
+**AL** N (Chaotic tendencies)
+**CL/XP** 2/30
 **Special**: Strangle
 
-### Kathlin: 
-**HD** 4  
- **AC** 7 \[12\]  
- **Atk** 2 hooves (1d6), bite (1d4)  
- **Move** 24  
- **Save** 13  
- **AL** N  
-**CL/XP** 4/120
-**Special**: Endurance 
+### Kathlin:
+**HD** 4  
+**AC** 7\[12\]  
+**Atk** 2 hooves (1d6), bite (1d4)  
+**Move** 24  
+**Save** 13  
+**AL** N  
+**CL/XP** 4/120
+**Special**: Endurance
 
-### Kech: 
-**HD** 5  
- **AC** 3 \[16\]  
- **Atk** 2 claws (1d4) and bite (1d6)  
- **Move** 12  
- **Save** 12  
- **AL** C  
-**CL/XP** 5/240
-**Special**: Rending claws, pass without trace, surprise on roll of 1-3 on 1d6 
+### Kech
+**HD** 5  
+**AC** 3\[16\]  
+**Atk** 2 claws (1d4) and bite (1d6)  
+**Move** 12  
+**Save** 12  
+**AL** C  
+**CL/XP** 5/240
+**Special**: Rending claws, pass without trace, surprise on roll of 1-3 on 1d6
 
 ### Keeper of The Well
 
@@ -7114,37 +7112,38 @@ AC 4 \[15\]
 **CL/XP** 12/2000  
 **Special**: Fire immunity, Magic resistance (75%), Water teleport.
 
-### Kelp Devil: 
-**HD** 8  
- **AC** 2 \[17\]  
- **Atk** 6 fronds (1d6)  
- **Move** 12/18 (swimming)  
- **Save** 8  
- **AL** C  
- **CL/XP** 10/1400
-  **Special**: Charm, immunity to electricity, resistance to fire (50%), resistance to blunt weapons (50%), underwater concealment
- 
+### Kelp Devil:
+**HD** 8  
+**AC** 2\[17\]  
+**Atk** 6 fronds (1d6)  
+**Move** 12/18 (swimming)  
+**Save** 8  
+**AL** C  
+**CL/XP** 10/1400
+**Special**: Charm, immunity to electricity, resistance to fire (50%), resistance to blunt weapons (50%), underwater concealment
 
-### Kelpie: 
-**HD** 5  
- **AC** 2 \[17\]  
- **Atk** Slam (see below)  
- **Move** 9/12 (swimming)  
- **Save** 12  
- **AL** C  
-**CL/XP** 7/600
-**Special**: Charm, amphibious, reshape form, resistance to fire (50%), telepathy 1 mile
- 
 
-### Khargra: 
-**HD** 6  
- **AC** 0 \[19\]  
- **Atk** 3 claws (1d3) and bite (2d8)  
- **Move** 6/12 (burrowing)  
- **Save** 11  
- **AL** N; **CL/XP** 9/1100
-  **Special**: Ruin armor and weapons, earth glide, immunity to cold and fire
- 
+### Kelpie
+**HD** 5  
+**AC** 2\[17\]  
+**Atk** Slam(see below)  
+**Move** 9/12 (swimming)  
+**Save** 12  
+**AL** C  
+**CL/XP** 7/600
+**Special**: Charm, amphibious, reshape form, resistance to fire (50%), telepathy 1 mile
+
+
+### Khargra
+**HD** 6  
+**AC** 0\[19\]  
+**Atk** 3 claws (1d3) and bite (2d8)  
+**Move** 6/12 (burrowing)  
+**Save** 11  
+**AL** N  
+**CL/XP** 9/1100  
+**Special**: Ruin armor and weapons, earth glide, immunity to cold and fire
+
 
 ### Kheph Elder
 
@@ -7153,8 +7152,8 @@ AC 4 \[15\]
 **Atk** 1 scimitar (1d8)  
 **Move** 12  
 **Save** 4  
-**AL C  
-CL/XP** 15/2900  
+**AL** C  
+**CL/XP** 15/2900  
 **Special**: Spells as level 11 magic-user and level 11 cleric, symbol of death, plane shift.
 
 ### Kheph Mage
@@ -7165,7 +7164,7 @@ CL/XP** 15/2900
 **Move** 12  
 **Save** 5  
 **AL C  
-CL/XP** 13/2300  
+**CL/XP** 13/2300  
 **Special**: Spells as level 10 magic-user, symbol of fear, plane shift.
 
 ### Kheph Priest
@@ -7176,7 +7175,7 @@ CL/XP** 13/2300
 **Move** 12  
 **Save** 6  
 **AL C  
-CL/XP** 12/2000  
+**CL/XP** 12/2000  
 **Special**: Spells as level 9 cleric, symbol of pain, plane shift.
 
 ### Kheph Warrior
@@ -7256,15 +7255,15 @@ CL/XP** 12/2000
 **CL/XP** 12/2000  
 **Special**: None.
 
-### Killmoulis: 
-**HD** 1d4  
- **AC** 4 \[15\]  
- **Atk** Needle (1)  
- **Move** 15  
- **Save** 18  
- **AL** N  
- **CL/XP** B/10  
- 
+### Killmoulis
+**HD** 1d4  
+**AC** 4\[15\]  
+**Atk** Needle (1)  
+**Move** 15  
+**Save** 18  
+**AL** N  
+**CL/XP** B/10  
+**Special**: Magic resistance 25%, surprise on a roll of 1-3 on 1d6, telepathy 100 ft.
 
 ### Ko'haai
 
@@ -7321,15 +7320,15 @@ CL/XP** 12/2000
 **CL/XP** 4/120  
 **Special**: Poison bite.
 
-### Korred: 
-**HD** 6  
- **AC** 4 \[15\]  
- **Atk** Slam (1d4) or shears (1d6) or club (1d6)  
- **Move** 12  
- **Save** 11  
- **AL** N (Chaotic tendencies)  
- **CL/XP **8/800  
- **Special**: Animate hair, laugh, magic resistance (30%)
+### Korred
+**HD** 6  
+**AC** 4\[15\]  
+**Atk** Slam (1d4) or shears (1d6) or club (1d6)  
+**Move** 12  
+**Save** 11  
+**AL** N (Chaotic tendencies)  
+**CL/XP** 8/800  
+**Special**: Animate hair, laugh, magic resistance (30%)
 
 ### Kostchtchie (Demon Prince of Wrath)
 
@@ -7353,15 +7352,15 @@ CL/XP** 12/2000
 **CL/XP** 24/5600  
 **Special**: Ink cloud, constriction, control weather, create lights.
 
-### Kuah-Lij: 
-**HD** 4hp  
- **AC** 8 \[11\]  
- **Atk** Weapon (1d4)  
- **Move** 18  
- **Save** 18  
- **AL** N  
- **CL/XP** A/5  
- **Special**:None
+### Kuah-Lij
+**HD** 4hp  
+**AC** 8\[11\]  
+**Atk** Weapon(1d4)  
+**Move** 18  
+**Save** 18  
+**AL** N  
+**CL/XP** A/5  
+**Special**: None
 
 ### Kurok-Spirit
 
@@ -7417,26 +7416,26 @@ CL/XP** 12/2000
 **CL/XP** 5/240  
 **Special**: Sucks blood.
 
-### Land Lamprey: 
-**HD** 1  
- **AC** 3 \[16\]  
- **Atk** Bite (1d3)  
- **Move** 15  
- **Save** 17  
- **AL** N  
- **CL/XP** 2/30  
+### Land Lamprey:
+**HD** 1  
+**AC** 3\[16\]  
+**Atk** Bite(1d3)  
+**Move** 15  
+**Save** 17  
+**AL** N  
+**CL/XP** 2/30  
 **Special**: Attach, blood drain
 
-### Lantern Goat: 
-**HD** 7 or 14  
- **AC** 3 \[16\]  
-**Atk** 7 HD: butt (1d8) and 2 hooves (1d6)  
+### Lantern Goat:
+**HD** 7 or 14  
+**AC** 3\[16\]  
+**Atk** 7 HD: butt (1d8) and 2 hooves (1d6)  
 14 HD: butt (2d6) and 2 hooves (1d8)  
- **Move** 6  
- **Save** 9 or 3  
- **AL** C  
- **CL/XP** 7 HD (10/1400)  
-14 HD (17/3500) **Special**: Fear light, soul capture
+**Move** 6  
+**Save** 9 or 3  
+**AL** C  
+**CL/XP** 7 HD (10/1400)  
+14 HD (17/3500)**Special**:Fear light, soul capture
 
 ### Large Adult Vapor Crane
 
@@ -7451,7 +7450,7 @@ CL/XP** 12/2000
 
 ### Large Giant Centipede (20 ft.)
 
-**HD**: 4  
+**HD**  4  
 **AC** 0 \[19\]  
 **Atk** 1 bite (3d8)  
 **Move** 18  
@@ -7460,15 +7459,15 @@ CL/XP** 12/2000
 **CL/XP 6/400  
 Special** Poison bite (+4 save or die).
 
-### Lava Child: 
-**HD** 4  
- **AC** 3 \[16\]  
-**Atk** 2 claws (1d4) and bite (1d6)  
- **Move** 12  
- **Save** 13  
- **AL** N  
- **CL/XP** 5/240; **Special**: Immunity to earth magic, fire and metal, double damage from cold
- 
+### Lava Child:
+**HD** 4  
+**AC** 3\[16\]  
+**Atk** 2 claws (1d4) and bite (1d6)  
+**Move** 12  
+**Save** 13  
+**AL** N  
+**CL/XP** 5/240;**Special**:Immunity to earth magic, fire and metal, double damage from cold
+
 
 ### Leaping Maw
 
@@ -7489,7 +7488,7 @@ Special** Poison bite (+4 save or die).
 **Move** 3  
 **Save** 17  
 **AL N  
-CL/XP** 2/30  
+**CL/XP** 2/30  
 **Special**: Sucks blood (1 hp/round).
 
 ### Leech, Giant (2 HD): **AC** 9 \[10\]  
@@ -7497,7 +7496,7 @@ CL/XP** 2/30
 **Move** 3  
 **Save** 16  
 **AL N  
-CL/XP** 3/60  
+**CL/XP** 3/60  
 **Special**: Sucks blood (2 hp/round).
 
 ### Leech, Giant (3 HD)  
@@ -7506,7 +7505,7 @@ CL/XP** 3/60
 **Move** 3  
 **Save** 14  
 **AL N  
-CL/XP** 4/120  
+**CL/XP** 4/120  
 **Special**: Sucks blood (3 hp/round).
 
 ### Leech, Giant (4 HD)  
@@ -7515,7 +7514,7 @@ CL/XP** 4/120
 **Move** 3  
 **Save** 13  
 **AL N  
-CL/XP** 5/240  
+**CL/XP** 5/240  
 **Special**: Sucks blood (4 hp/round).
 
 ### Leech, Giant (5 HD): **AC** 9 \[10\]  
@@ -7523,7 +7522,7 @@ CL/XP** 5/240
 **Move** 3  
 **Save** 12  
 **AL N  
-CL/XP** 6/400  
+**CL/XP** 6/400  
 **Special**: Sucks blood (5 hp/round).
 
 ### Leech, Giant (6 HD): **AC** 9 \[10\]  
@@ -7531,7 +7530,7 @@ CL/XP** 6/400
 **Move** 3  
 **Save** 11  
 **AL N  
-CL/XP** 7/600  
+**CL/XP** 7/600  
 **Special**: Sucks blood (6 hp/round).
 
 ### Lemure Demon
@@ -7589,15 +7588,15 @@ CL/XP** 7/600
 **CL/XP** 5/400  
 **Special**: Magic resistance (10%), magic abilities.
 
-### Leprechaun (II) 
-**HD** 1d6  
- **AC** 5 \[14\]  
- **Atk** Dagger (1d3)  
- **Move** 15  
- **Save** 18 (16 vs. magic)  
- **AL** N  
- **CL/XP** 3/60; **Special**: Spells, magic resistance 60%
- 
+### Leprechaun (II)
+**HD** 1d6  
+**AC** 5\[14\]  
+**Atk** Dagger (1d3)  
+**Move** 15  
+**Save** 18 (16 vs. magic)  
+**AL** N  
+**CL/XP** 3/60;**Special**:Spells, magic resistance 60%
+
 
 ### Lesser Gelid Beetle
 
@@ -7709,16 +7708,16 @@ CL/XP** 7/600
 **CL/XP** 21/4700  
 **Special**: Appearance causes paralytic fear, touch causes automatic paralysis, spells.
 
-### Lich Shade: 
-**HD** 11  
- **AC** 6 \[13\]  
- **Atk** 2 claws (1d6 + chill)  
- **Move** 9  
- **Save** 4  
- **AL** C  
- **CL/XP** 14/2600
- **Special**:Chill, death throes, spell leech, resists cold and electricity, spell resistance (22%)
- 
+### Lich Shade:
+**HD** 11  
+**AC** 6\[13\]  
+**Atk** 2 claws (1d6 + chill)  
+**Move** 9  
+**Save** 4  
+**AL** C  
+**CL/XP** 14/2600
+**Special**: Chill, death throes, spell leech, resists cold and electricity, spell resistance (22%)
+
 
 ### Lichenthrope
 
@@ -7794,46 +7793,46 @@ CL/XP** 7/600
 **CL/XP** 9/1100  
 **Special**: Body immune to blunt weapons.
 
-### Livestone: 
-**HD** 5  
- **AC** 10 \[9\]  
- **Atk** Slam (1d8)  
- **Move** 9  
- **Save** 12  
- **AL** N  
- **CL/XP** 7/600  
- **Special**:Engulf, solidify, immunity to petrification, surprise on 1-4 on 1d6
- 
+### Livestone
+**HD** 5  
+**AC** 10\[9\]  
+**Atk** Slam (1d8)  
+**Move** 9  
+**Save** 12  
+**AL** N  
+**CL/XP** 7/600  
+**Special**: Engulf, solidify, immunity to petrification, surprise on 1-4 on 1d6
 
-### Living Lake: 
-**HD** 16  
- **AC** 2 \[17\]  
- **Atk** 4 slams (3d8)  
- **Move** 6  
- **Save** 3  
- **AL** N  
- **CL/XP** 17/3500  
- **Special**:Engulf, spells
 
-### Lizard, Cavern: 
-**HD** 4  
- **AC** 5 \[14\]  
- **Atk** 1 bite (2d4)  
- **Move** 9/6 (climb)  
- **Save** 13  
- **AL** N  
- **CL/XP** 4/120
-  **Special**:Grab
+### Living Lake:
+**HD** 16  
+**AC** 2\[17\]  
+**Atk** 4 slams (3d8)  
+**Move** 6  
+**Save** 3  
+**AL** N  
+**CL/XP** 17/3500  
+**Special**: Engulf, spells
 
-### Fire Lizard: 
-**HD** 10+1  
- **AC** 2 \[17\]  
- **Atk** 2 claws (1d8), bite (2d6)  
- **Move** 12  
- **Save** 5  
- **AL** N  
-  **CL/XP** 11/1700
-   **Special**:Breathe fire, immunity to fire, double damage from cold
+### Lizard, Cavern:
+**HD** 4  
+**AC** 5\[14\]  
+**Atk** 1 bite (2d4)  
+**Move** 9/6 (climb)  
+**Save** 13  
+**AL** N  
+**CL/XP** 4/120
+**Special**: Grab
+
+### Fire Lizard:
+**HD** 10+1  
+**AC** 2\[17\]  
+**Atk** 2 claws (1d8), bite (2d6)  
+**Move** 12  
+**Save** 5  
+**AL** N  
+**CL/XP** 11/1700
+**Special**: Breathe fire, immunity to fire, double damage from cold
 
 ### Lizard, Giant
 
@@ -7846,15 +7845,15 @@ CL/XP** 7/600
 **CL/XP** 3/60  
 **Special**: None.
 
-### Gnasher Lizard: 
-**HD** 8  
- **AC** 6 \[13\]  
- **Atk** 1 bite (1d8)  
- **Move** 10  
- **Save** 8  
- **AL** N  
- **CL/XP** 7/600
-  **Special**:swallow whole, severing bite
+### Gnasher Lizard:
+**HD** 8  
+**AC** 6\[13\]  
+**Atk** 1 bite (1d8)  
+**Move** 10  
+**Save** 8  
+**AL** N  
+**CL/XP** 7/600
+**Special**: swallow whole, severing bite
 
 
 ### Lizard, Samurai Captain
@@ -7865,7 +7864,7 @@ CL/XP** 7/600
 **Move** 9  
 **Save** 11  
 **AL any  
-CL/XP** 6/400  
+**CL/XP** 6/400  
 **Special**: Improved saving throw.
 
 ### Lizard, Samurai
@@ -7911,15 +7910,15 @@ CL/XP** 6/400
 **CL/XP** 40/10400  
 **Special**: Gaze weapons, spells, summon devils, +3 or better weapon to hit, immunity to fire and poison, regeneration (4 hp/round), magic resistance (90%), see in darkness, telepathy 100 ft.
 
-### Lurker, Above: 
-**HD** 10  
- **AC** 4 \[15\]  
- **Atk** Buffet (1d8)  
- **Move** 6/15 (flying)  
- **Save** 5  
- **AL** N  
- **CL/XP** 12/2000
-  **Special**:Amorphous, smother, half damage from blunt weapons 
+### Lurker, Above:
+**HD** 10  
+**AC** 4\[15\]  
+**Atk** Buffet (1d8)  
+**Move** 6/15 (flying)  
+**Save** 5  
+**AL** N  
+**CL/XP** 12/2000
+**Special**: Amorphous, smother, half damage from blunt weapons
 
 ### Lurker, Ceiling
 
@@ -7943,15 +7942,15 @@ CL/XP** 6/400
 **CL/XP** 2/30  
 **Special**: Rear claws, surprise
 
-### Lythic: 
-**HD** 3  
- **AC** 4 \[15\]  
- **Atk** 2 slams (1d4+2)  
- **Move** 12/18 (burrowing)  
- **Save** 14  
- **AL** N  
- **CL/XP** 3/60
-  **Special**:Earth glide, blend with stone 
+### Lythic
+**HD** 3  
+**AC** 4\[15\]  
+**Atk** 2 slams (1d4+2)  
+**Move** 12/18 (burrowing)  
+**Save** 14  
+**AL** N  
+**CL/XP** 3/60
+**Special**: Earth glide, blend with stone
 
 ### Macaw, Giant
 
@@ -7975,25 +7974,25 @@ CL/XP** 6/400
 **CL/XP** 7/600  
 **Special**: Spell use.
 
-### Magma Ooze: 
-**HD** 7  
- **AC** 8 \[11\]  
- **Atk** Strike (2d6 plus 2d6 fire)  
- **Move** 6  
- **Save** 9  
- **AL** N  
- **CL/XP** 8/800
- **Special**: Lava, immune to fire, double damage from cold, split
+### Magma Ooze:
+**HD** 7  
+**AC** 8\[11\]  
+**Atk** Strike (2d6 plus 2d6 fire)  
+**Move** 6  
+**Save** 9  
+**AL** N  
+**CL/XP** 8/800
+**Special**: Lava, immune to fire, double damage from cold, split
 
-### Magmoid: 
-**HD** 8  
- **AC** 2 \[17\]  
- **Atk** 1 flaming slam (2d6)  
- **Move** 9  
- **Save** 8  
- **AL** N  
- **CL/XP** 9/1100 
- **Special**: Melt normal weapons, magma blast, immune to fire, *sleep* and poison
+### Magmoid
+**HD** 8  
+**AC** 2\[17\]  
+**Atk** 1 flaming slam (2d6)  
+**Move** 9  
+**Save** 8  
+**AL** N  
+**CL/XP** 9/1100
+**Special**: Melt normal weapons, magma blast, immune to fire, *sleep* and poison
 
 ### Magnesium Golem
 
@@ -8006,15 +8005,16 @@ CL/XP** 6/400
 **CL/XP** 9/1100  
 **Special**: Sickness, +1 weapons to hit, immune to most spells
 
-### Magnesium Spirit: 
-**HD** 6  
- **AC** 5 \[14\]  
- **Atk** Touch (2 strength)  
- **Move** 18  
- **Save** 11  
- **AL** C  
- **CL/XP** 11/1700
- **Special**:Blinding flash, level drain, strength damage, possession, magic resistance (40%), vulnerability to holy water
+### Magnesium Spirit
+
+**HD** 6  
+**AC** 5\[14\]  
+**Atk** Touch (2 strength)  
+**Move** 18  
+**Save** 11  
+**AL** C  
+**CL/XP** 11/1700
+**Special**: Blinding flash, level drain, strength damage, possession, magic resistance (40%), vulnerability to holy water
 
 ### Malcarna
 
@@ -8068,7 +8068,7 @@ CL/XP** 6/400
 **Move** 12  
 **Save** 4  
 **AL N  
-CL/XP** 11/1700  
+**CL/XP** 11/1700  
 **Special**: None.
 
 ### Man of Bronze (hoplite)
@@ -8090,7 +8090,7 @@ CL/XP** 11/1700
 **Move** 12  
 **Save** 9  
 **AL N  
-CL/XP** 7/600  
+**CL/XP** 7/600  
 **Special**: None.
 
 ### Man of Bronze (sergeant)
@@ -8101,12 +8101,12 @@ CL/XP** 7/600
 **Move** 12  
 **Save** 11  
 **AL N  
-CL/XP** 6/400  
+**CL/XP** 6/400  
 **Special**: None.
 
 ### Man-sized Giant Centipede (7ft)
 
-**HD**: 2  
+**HD**  2  
 **AC** 5 \[14\]  
 **Atk** 1 bite (1d8 + poison)  
 **Move** 15  
@@ -8115,15 +8115,15 @@ CL/XP** 6/400
 **CL/XP** 4/120  
 **Special** Poison bite (+6 save or die)
 
-### Mandragora: 
-**HD** 1  
- **AC** 3 \[16\]  
- **Atk** 2 tentacle slaps (1d4)  
- **Move** 12/9 (burrowing)  
- **Save** 17
-  **AL** C
-  **CL/XP** 3/60
- **Special**:Constrict, light blindness, resistance to fire (50%), magic resistance (10%)
+### Mandragora
+**HD** 1  
+**AC** 3\[16\]  
+**Atk** 2 tentacle slaps (1d4)  
+**Move** 12/9 (burrowing)  
+**Save** 17
+**AL** C
+**CL/XP** 3/60
+**Special**: Constrict, light blindness, resistance to fire (50%), magic resistance (10%)
 
 ### Manes Demon
 
@@ -8146,14 +8146,15 @@ CL/XP** 6/400
 **CL/XP** 10/1400  
 **Special**: Swallow whole, tail stuns.
 
-### Mantari: 
-**HD** 1  
- **AC** 5 \[14\]  
- **Atk** Tail sting (1d6)  
- **Move** 3/24 (flying)  
- **Save** 17  
- **AL** C  
- **CL/XP** 2/30**Special**:None
+### Mantari
+**HD** 1  
+**AC** 5\[14\]  
+**Atk** Tail sting (1d6)  
+**Move** 3/24 (flying)  
+**Save** 17  
+**AL** C  
+**CL/XP** 2/30
+**Special**: None
 
 ### Manticore
 
@@ -8166,15 +8167,15 @@ CL/XP** 6/400
 **CL/XP** 8/800  
 **Special**: Flies, tail spikes.
 
-### Mantidrake: 
-**HD** 9+2  
- **AC** 3 \[16\]  
- **Atk** 2 claws (1d3), 1 bite (1d8), 6 tail spikes (1d6)  
- **Move** 12/18 (flying)
- **Save** 6
- **AL** C
- **CL/XP** 10/1400
-**Special**: breath weapon, spikes
+### Mantidrake
+**HD** 9+2  
+**AC** 3\[16\]  
+**Atk** 2 claws (1d3), 1 bite (1d8), 6 tail spikes (1d6)  
+**Move** 12/18 (flying)
+**Save** 6
+**AL** C
+**CL/XP** 0/1400
+**Special**: breath weapon, spikes
 
 ### Maphistal (Second of Orcus)
 
@@ -8187,16 +8188,16 @@ CL/XP** 6/400
 **CL/XP** 30/7400  
 **Special**: Bone knit, disease, spells, summon undead, +1 or better weapon to hit, immunity to electricity and poison, magic resistance (70%), telepathy 100 ft.
 
-### Marble Snake: 
-**HD** 3  
- **AC** 7 \[12\]  
- **Atk** Bite (1d6)  
- **Move** 9/9 (climbing)  
- **Save** 14  
- **AL** N  
- **CL/XP** 4/120
- **Special**: Whistle
- 
+### Marble Snake
+**HD** 3  
+**AC** 7\[12\]  
+**Atk** Bite (1d6)  
+**Move** 9/9 (climbing)  
+**Save** 14  
+**AL** N  
+**CL/XP** 4/120
+**Special**: Whistle
+
 
 ### Margoyle
 
@@ -8253,30 +8254,30 @@ CL/XP** 6/400
 **CL/XP** 3/60  
 **Special**: Geas.
 
-### Mawler: 
-**HD** 4  
- **AC** 7 \[12\]  
- **Atk** Bite (1d4)  
- **Move** 6  
- **Save** 13  
- **AL** C  
- **CL/XP** 5/240  
- **Special**:Constrict, mimic shape, radiate magic, vorpal bite
+### Mawler
+**HD** 4  
+**AC** 7\[12\]  
+**Atk** Bite (1d4)  
+**Move** 6  
+**Save** 13  
+**AL** C  
+**CL/XP** 5/240  
+**Special**: Constrict, mimic shape, radiate magic, vorpal bite
 
-### Medusa, Greater: 
-**HD** 8  
- **AC** 3 \[16\]  
- **Atk** Shortbow (1d6) or dagger (1d4) and snakes (1d4 plus poison)  
- **Move** 12  
- **Save** 8  
- **AL** C  
- **CL/XP** 10/1400  
-**Special**:Petrifying gaze, poisonous blood
+### Medusa, Greater:
+**HD** 8  
+**AC** 3\[16\]  
+**Atk** Shortbow (1d6) or dagger (1d4) and snakes (1d4 plus poison)  
+**Move** 12  
+**Save** 8  
+**AL** C  
+**CL/XP** 10/1400  
+**Special**: Petrifying gaze, poisonous blood
 
 ### Medusa
 
 **HD** 6  
-**AC**8 \[11\]  
+**AC** 8 \[11\]  
 **Atk** 1 weapon (1d4)  
 **Move** 9  
 **Save** 11  
@@ -8317,15 +8318,15 @@ CL/XP** 6/400
 **CL/XP** 4/120  
 **Special**: Strength-draining poison, holds fast.
 
-### Memory Child: 
-**HD** 8  
- **AC** 5 \[14\]  
- **Atk** Mind drain (1d6)  
- **Move** 12  
- **Save** 8  
- **AL** N  
- **CL/XP** 8/800
- **Special**: Mind flood
+### Memory Child:
+**HD** 8  
+**AC** 5\[14\]  
+**Atk** Mind drain (1d6)  
+**Move** 12  
+**Save** 8  
+**AL** N  
+**CL/XP** 8/800
+**Special**: Mind flood
 
 ### Mephit, Brimstone
 
@@ -8350,34 +8351,34 @@ CL/XP** 6/400
 **Special**: Breathe gas cloud, gaseous form.
 
 ### Mephit, Lightning
-**HD** 2  
- **AC** 4 \[15\]  
- **Atk** 2 claws (1d2 + 1d4 electricity)  
- **Move** 12/18 (flying)  
- **Save** 16
-  **AL** N
-  **CL/XP** 2/30
-  **Special**: breath weapon, immune to electricity, summon mephit
+**HD** 2  
+**AC** 4\[15\]  
+**Atk** 2 claws (1d2 + 1d4 electricity)  
+**Move** 12/18 (flying)  
+**Save** 16
+**AL** N
+**CL/XP** 2/30
+**Special**: breath weapon, immune to electricity, summon mephit
 
-### Mephit, Smoke: 
-**HD** 2  
- **AC** 4 \[15\]  
- **Atk** 2 claws (1d2)  
- **Move** 12/18 (flying)  
- **Save** 16
- **AL** N
- **CL/XP** 2/30;
- **Special**: breath weapon, immune to fire, summon mephit
+### Mephit, Smoke:
+**HD** 2  
+**AC** 4\[15\]  
+**Atk** 2 claws (1d2)  
+**Move** 12/18 (flying)  
+**Save** 16
+**AL** N
+**CL/XP** 2/30;
+**Special**: breath weapon, immune to fire, summon mephit
 
-### Mercury Ooze: 
-**HD** 5  
- **AC** 7 \[12\]  
- **Atk** Strike (2d4 plus mercury poisoning)  
- **Move** 12/9 (swimming)  
- **Save** 12
-  **AL** N
-  **CL/XP** 6/400
- **Special**: Mercury poisoning
+### Mercury Ooze:
+**HD** 5  
+**AC** 7\[12\]  
+**Atk** Strike (2d4 plus mercury poisoning)  
+**Move** 12/9 (swimming)  
+**Save** 12
+**AL** N
+**CL/XP** 6/400
+**Special**: Mercury poisoning
 
 ### Merman
 
@@ -8390,15 +8391,15 @@ CL/XP** 6/400
 **CL/XP** 1/15  
 **Special**: Breathe water.
 
-### Metallic Ooze: 
-**HD** 7  
- **AC** 7 \[12\]  
- **Atk** 1 slam (1d8)  
- **Move** 6/3 (climbing)  
- **Save** 9  
- **AL** N  
- **CL/XP** 8/800  
- **Special**: Acid, irritating fumes, immune to blunt weapons
+### Metallic Ooze:
+**HD** 7  
+**AC** 7\[12\]  
+**Atk** 1 slam (1d8)  
+**Move** 6/3 (climbing)  
+**Save** 9  
+**AL** N  
+**CL/XP** 8/800  
+**Special**: Acid, irritating fumes, immune to blunt weapons
 
 ### Mezzalorn Demon (Wasp Demon)
 
@@ -8411,35 +8412,35 @@ CL/XP** 6/400
 **CL/XP** 13/2300  
 **Special**: Magic resistance (10%), immune to poison
 
-### Midnight Peddler: 
-**HD** 7  
- **AC** 3 \[16\]  
- **Atk** Touch (death chill)  
- **Move** 9  
- **Save** 9  
- **AL** N  
- **CL/XP** 10/1400
- **Special**:Death chill, divination, plane shift
+### Midnight Peddler:
+**HD** 7  
+**AC** 3\[16\]  
+**Atk** Touch (death chill)  
+**Move** 9  
+**Save** 9  
+**AL** N  
+**CL/XP** 10/1400
+**Special**: Death chill, divination, plane shift
 
-### Mihstu: 
-**HD** 8  
- **AC** -3 \[22\]  
- **Atk** 4 tentacles (1d6)  
- **Move** 9/9 (flying)  
- **Save** 8  
- **AL** C  
- **CL/XP** 13/2300
- **Special**:Constitution damage, engulf, +1 or better weapon to hit, immunity to electricity, resistance to missile attacks, magic resistance (15%), susceptible to cold
+### Mihstu
+**HD** 8  
+**AC** -3\[22\]  
+**Atk** 4 tentacles (1d6)  
+**Move** 9/9 (flying)  
+**Save** 8  
+**AL** C  
+**CL/XP** 13/2300
+**Special**: Constitution damage, engulf, +1 or better weapon to hit, immunity to electricity, resistance to missile attacks, magic resistance (15%), susceptible to cold
 
-### Mimi: 
-**HD** 2hp  
- **AC** 5 \[14\]  
- **Atk** 1 dagger (1d4)  
- **Move** 3/18 (flying)  
- **Save** 16  
- **AL** N  
- **CL/XP** 1/15
- **Special**:Spell-like abilities
+### Mimi
+**HD** 2hp  
+**AC** 5\[14\]  
+**Atk** 1 dagger (1d4)  
+**Move** 3/18 (flying)  
+**Save** 16  
+**AL** N  
+**CL/XP** 1/15
+**Special**: Spell-like abilities
 
 ### Mimic
 
@@ -8463,15 +8464,15 @@ CL/XP** 6/400
 **CL/XP** 6/400  
 **Special**: Never get lost in labyrinths.
 
-### Mire Beast: 
-**HD** 15  
- **AC** 3 \[16\]  
- **Atk** 2 fists (3d6)  
- **Move** 9/20 (swimming)  
- **Save** 3  
- **AL** N  
- **CL/XP** 15/2900
- **Special**:Disgorge vermin, disease, impale, magic weapon required to hit, immune to fire
+### Mire Beast:
+**HD** 15  
+**AC** 3\[16\]  
+**Atk** 2 fists (3d6)  
+**Move** 9/20 (swimming)  
+**Save** 3  
+**AL** N  
+**CL/XP** 15/2900
+**Special**: Disgorge vermin, disease, impale, magic weapon required to hit, immune to fire
 
 ### Mirror Fiend
 
@@ -8495,25 +8496,25 @@ CL/XP** 6/400
 **CL/XP** 5/240  
 **Special**: Exhale mist.
 
-### Mite, Common: 
-**HD** 1  
- **AC** 7 \[12\]  
- **Atk** Club (1d4) and bite (1d3)   
- **Move** 9  
- **Save** 17  
- **AL** C  
- **CL/XP** 1/15
- **Special**:None
+### Mite, Common:
+**HD** 1  
+**AC** 7\[12\]  
+**Atk** Club (1d4) and bite (1d3)  
+**Move** 9  
+**Save** 17  
+**AL** C  
+**CL/XP** 1/15
+**Special**: None
 
-### Mite, Pestie: 
-**HD** 1  
- **AC** 5 \[14\]  
- **Atk** Dagger (1d3)  
- **Move** 15  
- **Save** 17  
- **AL** N  
- **CL/XP** 1/15  
- **Special**:Surprise on 1-2 on 1d6
+### Mite, Pestie:
+**HD** 1  
+**AC** 5\[14\]  
+**Atk** Dagger (1d3)  
+**Move** 15  
+**Save** 17  
+**AL** N  
+**CL/XP** 1/15  
+**Special**: Surprise on 1-2 on 1d6
 
 ### Mobat
 
@@ -8558,16 +8559,16 @@ CL/XP** 6/400
 **CL/XP** 31/7700  
 **Special**: Breath weapon, spells, summon devils, +2 or better weapon to hit, immunity to fire and poison, regeneration (3 hp/round), magic resistance (70%), see in darkness, telepathy 100 ft.
 
-### Mongrelman: 
-**HD** 2  
- **AC** 4 \[15\]  
- **Atk** Fists (1d4) or club (1d6)   
- **Move** 12  
- **Save** 16  
- **AL** N  
- **CL/XP** 2/30
- **Special**: Sound imitation, surprise on 1-2 on 1d6
- 
+### Mongrelman
+**HD** 2  
+**AC** 4\[15\]  
+**Atk** Fists (1d4) or club (1d6)  
+**Move** 12  
+**Save** 16  
+**AL** N  
+**CL/XP** 2/30
+**Special**: Sound imitation, surprise on 1-2 on 1d6
+
 
 ### Monstrous Crab
 
@@ -8581,12 +8582,13 @@ CL/XP** 6/400
 
 ### Monstrous Crayfish
 
-**HD** 4: **AC** 4 \[15\]  
+**HD** 4:  
+**AC** 4 \[15\]  
 **Atk** 2 claws (1d6)  
 **Move** 9 (Swim 15)  
 **Save** 13  
 **AL** N  
-**CL/XP**4/120  
+**CL/XP** 4/120  
 **Special**: Surprise on 1-2 on 1d6
 
 ### Monstrous Mouth
@@ -8611,16 +8613,16 @@ CL/XP** 6/400
 **CL/XP** 3/120  
 **Special**: 5% are diseased.
 
-### Moon Dog: 
-**HD** 9  
- **AC** -3 \[22\]  
- **Atk** Bite (1d8)  
- **Move** 18/12 (bipedal)  
- **Save** 7  
- **AL** L  
- **CL/XP** 15/2900
- **Special**: Bay, shadow weave, spells, +1 or better weapon to hit, immunity to fear, lick, plane shift, magic resistance (30%)
- 
+### Moon Dog:
+**HD** 9  
+**AC** -3\[22\]  
+**Atk** Bite (1d8)  
+**Move** 18/12 (bipedal)  
+**Save** 7  
+**AL** L  
+**CL/XP** 15/2900
+**Special**: Bay, shadow weave, spells, +1 or better weapon to hit, immunity to fear, lick, plane shift, magic resistance (30%)
+
 
 ### Moray Eel, Giant
 
@@ -8633,27 +8635,27 @@ CL/XP** 6/400
 **CL/XP** 4/120  
 **Special**: None.
 
-### Mortuary Cyclone: 
-**HD** 17  
- **AC** 0 \[19\]  
- **Atk** 1 fist (3d6 + level drain)  
- **Move** 16  
- **Save** 3  
- **AL** C
-  **CL/XP** 20/5900
- **Special**: 50% spell resistance, +2 magic weapons required to hit, create spawn, desecrating aura, whirlwind
- 
+### Mortuary Cyclone:
+**HD** 17  
+**AC** 0\[19\]  
+**Atk** 1 fist (3d6 + level drain)  
+**Move** 16  
+**Save** 3  
+**AL** C
+**CL/XP** 20/5900
+**Special**: 50% spell resistance, +2 magic weapons required to hit, create spawn, desecrating aura, whirlwind
 
-### Mosquito, Giant: 
-**HD** 4 hp  
- **AC** 6 \[13\]  
- **Atk** 1 bite (1 point + blood drain)  
- **Move** 6/15 (flying)  
- **Save** 13
- **AL** N
- **CL/XP** B/10
- **Special**: Blood drain
- 
+
+### Mosquito, Giant:
+**HD** 4 hp  
+**AC** 6\[13\]  
+**Atk** 1 bite (1 point + blood drain)  
+**Move** 6/15 (flying)  
+**Save** 13
+**AL** N
+**CL/XP** B/10
+**Special**: Blood drain
+
 
 ### Mothdog
 
@@ -8699,37 +8701,37 @@ CL/XP** 6/400
 **CL/XP** 21/4700  
 **Special**: Change shape, disease, magic resistance (95%), magical abilities, immune to mind-affecting effects (including illusions), surprise on 1-5 on 1d6, +1 or better weapon to hit
 
-### Muckdweller: 
-**HD** 1d6  
- **AC** 5 \[14\]  
- **Atk** Bite (1d3)  
- **Move** 6/12 (swimming)  
- **Save** 18  
- **AL** N  
- **CL/XP** 1/15
- **Special**: Blinding spray
- 
+### Muckdweller
+**HD** 1d6  
+**AC** 5\[14\]  
+**Atk** Bite (1d3)  
+**Move** 6/12 (swimming)  
+**Save** 18  
+**AL** N  
+**CL/XP** 1/15
+**Special**: Blinding spray
 
-### Mudbog: 
-**HD** 3  
- **AC** 5 \[14\]  
- **Atk** Engulf  
- **Move** 3  
- **Save** 14  
- **AL** N  
- **CL/XP** 3/60  
- **Special**: Immune to blunt weapons, engulf, acid
 
-### Mudman: 
-**HD** 2  
- **AC** 7 \[12\]  
- **Atk** 2 slams (1d4) or mud bomb (see text)  
- **Move** 6  
- **Save** 16  
- **AL** N
- **CL/XP** 5/240
- **Special**: Engulf, mud bomb, +1 or better weapon to hit, mindless, mud pool
- 
+### Mudbog
+**HD** 3  
+**AC** 5\[14\]  
+**Atk** Engulf  
+**Move** 3  
+**Save** 14  
+**AL** N  
+**CL/XP** 3/60  
+**Special**: Immune to blunt weapons, engulf, acid
+
+### Mudman
+**HD** 2  
+**AC** 7\[12\]  
+**Atk** 2 slams (1d4) or mud bomb (see text)  
+**Move** 6  
+**Save** 16  
+**AL** N
+**CL/XP** 5/240
+**Special**: Engulf, mud bomb, +1 or better weapon to hit, mindless, mud pool
+
 
 ### Mummy Golem
 
@@ -8742,15 +8744,15 @@ CL/XP** 6/400
 **CL/XP** 10/1400  
 **Special**: Hit only by +1 magic weapons, immune to most spells, constriction
 
-### Mummy of the Deep: 
-**HD** 6+2  
- **AC** -1 \[20\]  
- **Atk** Slam (1d6 plus curse of the deep)  
- **Move** 9/9 (swimming)
- **Save** 11
- **AL** C
- **CL/XP** 9/1100
- **Special**: Curse of the deep, despair, control water, resistance to fire (50%)
+### Mummy of the Deep:
+**HD** 6+2  
+**AC** -1\[20\]  
+**Atk** Slam (1d6 plus curse of the deep)  
+**Move** 9/9 (swimming)
+**Save** 11
+**AL** C
+**CL/XP** 9/1100
+**Special**: Curse of the deep, despair, control water, resistance to fire (50%)
 
 ### Mummy
 
@@ -8762,25 +8764,25 @@ CL/XP** 6/400
 **CL/XP** 7/600  
 **Special**: Rot, hit only by magic weapons.
 
-### Murder Crow: 
-**HD** 8  
- **AC** 4 \[15\]  
- **Atk** 2 claws (1d4), bite (1d6)  
- **Move** 6/30 (flying)  
- **Save** 8  
- **AL** N
-  **CL/XP** 9/1100
- **Special**: Eye-rake, death throes
+### Murder Crow:
+**HD** 8  
+**AC** 4\[15\]  
+**Atk** 2 claws (1d4), bite (1d6)  
+**Move** 6/30 (flying)  
+**Save** 8  
+**AL** N
+**CL/XP** 9/1100
+**Special**: Eye-rake, death throes
 
-### Murder-Born: 
-**HD** 6  
- **AC** 4 \[15\]  
- **Atk** 1 incorporeal touch (1d6)  
- **Move** 15 (flying)  
- **Save** 11  
- **AL** C
-  **CL/XP** 8/600
- **Special**: Despondent wail, +1 magic weapons to hit
+### Murder-Born
+**HD** 6  
+**AC** 4\[15\]  
+**Atk** 1 incorporeal touch (1d6)  
+**Move** 15 (flying)  
+**Save** 11  
+**AL** C
+**CL/XP** 8/600
+**Special**: Despondent wail, +1 magic weapons to hit
 
 ### Mushroom-Men
 
@@ -8814,25 +8816,25 @@ CL/XP** 6/400
 **CL/XP** 3/60  
 **Special**: Spores.
 
-### Nazalor: 
-**HD** 8  
- **AC** 4 \[15\]  
- **Atk** 2 claws (1d8) and bite (1d8)  
- **Move** 6  
- **Save** 8  
- **AL** N
-  **CL/XP** 8/600
- **Special**:Stun
+### Nazalor
+**HD** 8  
+**AC** 4\[15\]  
+**Atk** 2 claws (1d8) and bite (1d8)  
+**Move** 6  
+**Save** 8  
+**AL** N
+**CL/XP** 8/600
+**Special**: Stun
 
-### Necrophidius: 
-**HD** 3+3  
- **AC** 1 \[18\]  
- **Atk** Bite (1d8 plus paralysis)  
- **Move** 12  
- **Save** 14  
- **AL** N
- **CL/XP** 5/240
- **Special**: Dance of death, paralysis
+### Necrophidius
+**HD** 3+3  
+**AC** 1\[18\]  
+**Atk** Bite (1d8 plus paralysis)  
+**Move** 12  
+**Save** 14  
+**AL** N
+**CL/XP** 5/240
+**Special**: Dance of death, paralysis
 
 ### Negative Energy Elemental (12 HD)
 
@@ -8871,15 +8873,15 @@ CL/XP** 6/400
 
 Stats depend on circumstances.
 
-### Nereid: 
-**HD** 4  
- **AC** 3 \[16\]  
- **Atk** Poison spittle (ranged attack, poison)  
- **Move** 12/15 (swimming)  
- **Save** 13  
- **AL** N (chaotic tendencies)  
- **CL/XP** 8/800  
-**Special**:Beguilement, kiss, poison spittle, spells, change shape, magic resistance (40%), transparency, vulnerability
+### Nereid
+**HD** 4  
+**AC** 3\[16\]  
+**Atk** Poison spittle (ranged attack, poison)  
+**Move** 12/15 (swimming)  
+**Save** 13  
+**AL** N (chaotic tendencies)  
+**CL/XP** 8/800  
+**Special**: Beguilement, kiss, poison spittle, spells, change shape, magic resistance (40%), transparency, vulnerability
 
 ### Nerizo (Hound Demon)
 
@@ -8892,15 +8894,15 @@ Stats depend on circumstances.
 **CL/XP** 17/3500  
 **Special**: Poison, spit acid, spells, magic or silver weapons to hit, immune to electricity and poison, magic resistance (35%)
 
-### Netherspark: 
-**HD** 10  
- **AC** 3 \[16\]  
- **Atk** 2 slams (1d6)  
- **Move** 12/15 (swimming)  
- **Save** 5  
- **AL** N  
-  **CL/XP** 13/2300
-  **Special**: Negative energy ray, negative energy burst
+### Netherspark
+**HD** 10  
+**AC** 3\[16\]  
+**Atk** 2 slams (1d6)  
+**Move** 12/15 (swimming)  
+**Save** 5  
+**AL** N  
+**CL/XP** 13/2300
+**Special**: Negative energy ray, negative energy burst
 
 ### Night Adder Inphidian
 
@@ -8945,26 +8947,26 @@ Stats depend on circumstances.
 **CL/XP** 16/3,200  
 **Special**: Cold, gaze attack, magical powers.
 
-### Nilbog: 
-**HD** 1d6  
- **AC** 4 \[15\]  
- **Atk** 1 mace (1d6) or javelin (1d4)  
- **Move** 9  
- **Save** 18  
- **AL** C  
- **CL/XP** 1/15
- **Special**: Spatio-temporal reversal, damage reversal 
- 
+### Nilbog
+**HD** 1d6  
+**AC** 4\[15\]  
+**Atk** 1 mace (1d6) or javelin (1d4)  
+**Move** 9  
+**Save** 18  
+**AL** C  
+**CL/XP** 1/15
+**Special**: Spatio-temporal reversal, damage reversal
 
-### Niln: 
-**HD** 5  
- **AC** 3 \[16\]  
- **Atk** 1 slam (1d6)  
- **Move** 24 (flying)  
- **Save** 12  
- **AL** N  
- **CL/XP** 5/240  
- **Special**: Drench, drowning fog
+
+### Niln
+**HD** 5  
+**AC** 3\[16\]  
+**Atk** 1 slam (1d6)  
+**Move** 24 (flying)  
+**Save** 12  
+**AL** N  
+**CL/XP** 5/240  
+**Special**: Drench, drowning fog
 
 ### Nixie
 
@@ -8999,15 +9001,15 @@ Stats depend on circumstances.
 **CL/XP** 3/60  
 **Special**: None.
 
-### Nuckalavee: 
-**HD** 8  
- **AC** 2 \[17\]  
- **Atk** 2 hooves (1d6), bite (1d6) and 1 weapon (2d8)  
- **Move** 18  
- **Save** 8
-  **AL** C
-  **CL/XP** 9/1100
- **Special**: Breath weapon, fearful presence
+### Nuckalavee
+**HD** 8  
+**AC** 2\[17\]  
+**Atk** 2 hooves (1d6), bite (1d6) and 1 weapon (2d8)  
+**Move** 18  
+**Save** 8
+**AL** C
+**CL/XP** 9/1100
+**Special**: Breath weapon, fearful presence
 
 ### Nykoul
 
@@ -9042,35 +9044,35 @@ Stats depend on circumstances.
 **CL/XP** 12/2000  
 **Special**: Constrict, immune to poison, spit poison
 
-### Oakman: 
-**HD** 3  
- **AC** 8 \[11\]  
- **Atk** +1 staff (1d6+1)  
- **Move** 6/9 (climbing)  
- **Save** 14  
- **AL** C  
- **CL/XP** 3/60
- **Special**: Magic weapon, tree stride
+### Oakman
+**HD** 3  
+**AC** 8\[11\]  
+**Atk** +1 staff (1d6+1)  
+**Move** 6/9 (climbing)  
+**Save** 14  
+**AL** C  
+**CL/XP** 3/60
+**Special**: Magic weapon, tree stride
 
-### Oblivion Wraith: 
-**HD** 12  
- **AC** 1 \[18\]  
- **Atk** 1 touch (3d6 + attribute drain)  
- **Move** 15 (Fly 30)  
- **Save** 3  
- **AL** C  
- **CL/XP** 15/2900  
- **Special**: Drain attributes, immune to non-magical weapons, disintegrates objects.
+### Oblivion Wraith:
+**HD** 12  
+**AC** 1\[18\]  
+**Atk** 1 touch (3d6 + attribute drain)  
+**Move** 15 (Fly 30)  
+**Save** 3  
+**AL** C  
+**CL/XP** 15/2900  
+**Special**: Drain attributes, immune to non-magical weapons, disintegrates objects.
 
-### Obsidian Minotaur: 
-**HD** 12  
- **AC** -2 \[21\]  
- **Atk** 2 claws (2d8 plus 1d6 fire), breath weapon  
- **Move** 9
-  **Save** 3
-  **AL** N
-  **CL/XP** 16/3200
- **Special**: Breath weapon, burn, immune to magic
+### Obsidian Minotaur:
+**HD** 12  
+**AC** -2\[21\]  
+**Atk** 2 claws (2d8 plus 1d6 fire), breath weapon  
+**Move** 9
+**Save** 3
+**AL** N
+**CL/XP** 16/3200
+**Special**: Breath weapon, burn, immune to magic
 
 ### Ochre Jelly
 
@@ -9127,35 +9129,35 @@ Stats depend on circumstances.
 **CL/XP** 4/120  
 **Special**: None.
 
-### Ogren: 
-**HD** 2  
- **AC** 7 \[12\]  
- **Atk** 1 weapon (1d8)  
- **Move** 9  
- **Save** 16  
- **AL** C  
- **CL/XP** 2/30  
- **Special**:None
- 
-### Ogrillon: 
-**HD** 2  
- **AC** 5 \[14\]  
- **Atk** 2 strikes (1d4+1)  
- **Move** 12  
- **Save** 16  
- **AL** C  
- **CL/XP** 2/30  
- **Special**: Reinforced fists
+### Ogren
+**HD** 2  
+**AC** 7\[12\]  
+**Atk** 1 weapon (1d8)  
+**Move** 9  
+**Save** 16  
+**AL** C  
+**CL/XP** 2/30  
+**Special**: None
 
-### Oil Shark: 
-**HD** 9  
- **AC** 6 \[13\]  
- **Atk** 1 bite (1d8+4)  
- **Move** 24 (swimming)  
- **Save** 6  
- **AL** N  
- **CL/XP** 9/1100
- **Special**: immune to fire
+### Ogrillon
+**HD** 2  
+**AC** 5\[14\]  
+**Atk** 2 strikes (1d4+1)  
+**Move** 12  
+**Save** 16  
+**AL** C  
+**CL/XP** 2/30  
+**Special**: Reinforced fists
+
+### Oil Shark:
+**HD** 9  
+**AC** 6\[13\]  
+**Atk** 1 bite (1d8+4)  
+**Move** 24 (swimming)  
+**Save** 6  
+**AL** N  
+**CL/XP** 9/1100
+**Special**: immune to fire
 
 ### Oktomon
 
@@ -9234,9 +9236,10 @@ Stats depend on circumstances.
 **CL/XP** 10/1400  
 **Special**: Acid, death throes, immune to blunt weapons, immune to most spells, regenerate 2 hp/round
 
-### Ophidian: HD3  
+### Ophidian
+**HD** 3  
 **AC** 4 \[15\] or 3\[16\] with shield  
-Atk 1 two-handed weapon (1d8+1) or weapon with shield (1d8), and bite (0)  
+**Atk** 1 two-handed weapon (1d8+1) or weapon with shield (1d8), and bite (0)  
 **Move** 12  
 **Save** 14  
 **AL** C  
@@ -9404,8 +9407,8 @@ Atk 1 two-handed weapon (1d8+1) or weapon with shield (1d8), and bite (0)
 **Atk** 1 drop and pierce (2d6)  
 **Move** 1  
 **Save** 16  
-**AL N  
-CL/XP** 2/30  
+**AL** N  
+**CL/XP** 2/30  
 **Special**: None.
 
 ### Piercer (3 HD)
@@ -9415,8 +9418,8 @@ CL/XP** 2/30
 **Atk** 1 drop and pierce (3d6)  
 **Move** 1  
 **Save** 14  
-**AL N  
-CL/XP** 3/60  
+**AL** N  
+**CL/XP** 3/60  
 **Special**: None.
 
 ### Piercer (4 HD)
@@ -9426,8 +9429,8 @@ CL/XP** 3/60
 **Atk** 1 drop and pierce (4d6)  
 **Move** 1  
 **Save** 13  
-**AL N  
-CL/XP** 4/120  
+**AL** N  
+**CL/XP** 4/120  
 **Special**: None.
 
 ### Piscodaemon
@@ -9636,7 +9639,7 @@ CL/XP** 4/120
 **Move** 12  
 **Save** 14  
 **AL** N  
-**CL/XP**4/120  
+**CL/XP** 4/120  
 **Special**: Detect magic, dispel magic (as 4th Level Magic User).
 
 ### Rakshasa
@@ -9767,8 +9770,8 @@ CL/XP** 4/120
 **Atk** 1 bite (5d6)  
 **Move** 12  
 **Save** 5  
-**AL N  
-CL/XP** 12/2000  
+**AL** N  
+**CL/XP** 12/2000  
 **Special**: swallow whole on natural 20, melt weapons.
 
 ### Remorhaz (11 HD)
@@ -9778,8 +9781,8 @@ CL/XP** 12/2000
 **Atk** 1 bite (5d6)  
 **Move** 12  
 **Save** 4  
-**AL N  
-CL/XP** 13/2300  
+**AL** N  
+**CL/XP** 13/2300  
 **Special**: swallow whole on natural 20, melt weapons.
 
 ### Remorhaz (12 HD)
@@ -9789,8 +9792,8 @@ CL/XP** 13/2300
 **Atk** 1 bite (5d6)  
 **Move** 12  
 **Save** 3  
-**AL N  
-CL/XP** 14/2600  
+**AL** N  
+**CL/XP** 14/2600  
 **Special**: swallow whole on natural 20, melt weapons.
 
 ### Remorhaz (13 HD)
@@ -9801,7 +9804,7 @@ CL/XP** 14/2600
 **Move** 12  
 **Save** 3  
 **AL N  
-CL/XP** 15/2900  
+**CL/XP** 15/2900  
 **Special**: swallow whole on natural 20, melt weapons.
 
 ### Remorhaz (8 HD)
@@ -9822,8 +9825,8 @@ CL/XP** 15/2900
 **Atk** 1 bite (5d6)  
 **Move** 12  
 **Save** 6  
-**AL N  
-CL/XP** 10/1400  
+**AL** N  
+**CL/XP** 10/1400  
 **Special**: swallow whole on natural 20, melt weapons.
 
 ### Requiem Beetle
@@ -9932,8 +9935,8 @@ CL/XP** 10/1400
 **Atk** 1 tentacle (weakness), 1 bite (2d10)  
 **Move** 3  
 **Save** 4  
-**AL N  
-CL/XP** 12/2000  
+**AL** N  
+**CL/XP** 12/2000  
 **Special**: tentacles grab and cause weakness.
 
 ### Roper (12 HD)
@@ -9943,8 +9946,8 @@ CL/XP** 12/2000
 **Atk** 1 tentacle (weakness), 1 bite (2d10)  
 **Move** 3  
 **Save** 3  
-**AL N  
-CL/XP** 13/2300  
+**AL** N  
+**CL/XP** 13/2300  
 **Special**: tentacles grab and cause weakness.
 
 ### Rot Grub
@@ -9960,7 +9963,7 @@ CL/XP** 13/2300
 
 ### Rot Pudding
 
-**HD**8  
+**HD** 8  
 **AC** 6 \[13\]  
 **Atk** 1 (2d8 + disease)  
 **Move** 6  
@@ -10116,7 +10119,7 @@ CL/XP** 13/2300
 
 **HD** 9  
 **AC** -2 \[21\]  
-**Atk**1 bite (2d8)  
+**Atk** 1 bite (2d8)  
 **Move** 9  
 **Save** 6  
 **AL** C  
@@ -10480,7 +10483,7 @@ Atk1 two-handed weapon (1d8+1) or weapon with shield (1d8)
 **Move** 9  
 **Save** 8  
 **AL** N  
-**CL**/XP 9/1100  
+**CL/XP** 9/1100  
 **Special**: Swallow whole.
 
 ### The Oinodaemon
@@ -10498,7 +10501,7 @@ Atk1 two-handed weapon (1d8+1) or weapon with shield (1d8)
 
 **HD** 10  
 **AC** -3 \[22\]  
-**Atk**2 claws (1d10), 1 bite (3d6)  
+**Atk** 2 claws (1d10), 1 bite (3d6)  
 **Move** 9  
 **Save** 5  
 **AL** C  
@@ -10732,7 +10735,7 @@ Atk1 two-handed weapon (1d8+1) or weapon with shield (1d8)
 **Atk** 2 strikes (3d6)  
 **Move** 6  
 **Save** 5  
-AL L  
+**AL** L  
 **CL/XP** 10/1400  
 **Special**: Control trees.
 
@@ -10742,7 +10745,7 @@ AL L
 **AC** 2\[17\]  
 **Atk** 2 strikes (4d6)  
 **Move** 6  
-Save 4  
+**Save** 4  
 **AL** L  
 **CL/XP** 11/1700  
 **Special**: Control trees.
@@ -10787,7 +10790,7 @@ Save 4
 **Atk** 2 strikes (3d6)  
 **Move** 6  
 **Save** 6  
-AL L  
+**AL** L  
 **CL/XP** 9/1100  
 **Special**: Control trees.
 
@@ -10795,11 +10798,11 @@ AL L
 
 **HD** 3  
 **AC** 6\[13\]  
-**Atk**: 2 claws (1d3) or thorns (0)  
+**Atk** : 2 claws (1d3) or thorns (0)  
 **Move** 12  
 **Save** 14  
 **AL** C  
-**CL/XP**: 10/1400  
+**CL/XP** : 10/1400  
 **Special**: Charisma drain, Insect Plague, animate wood, immune to normal weapons, cold, electricity, acid, and non-magical fire.
 
 ### Triceratops
@@ -10854,7 +10857,7 @@ AL L
 **Move** Infinite  
 **Save** 16  
 **AL** C  
-**CL/XP**: 7/600  
+**CL/XP** : 7/600  
 **Special**: Incorporeal/teleport movement, perceive secret and hidden things, immune to spells affecting a “person,” saving throw against all magic, reduced damage from spells, immune to restraint, detect good, magic and evil, sense emotions (empathy).
 
 ### Tsathogga (The Frog God)
@@ -10876,7 +10879,7 @@ AL L
 **Move** 6  
 **Save** 17  
 **AL** N  
-**CL/XP**: 1/15  
+**CL/XP** : 1/15  
 **Special**: Climbing.
 
 ### Tusken Ogre
@@ -10900,14 +10903,14 @@ AL L
 **CL/XP** 19/4100  
 **Special**: Chew for automatic 3d8 damage after bite.
 
-### Undead Ooze: 
-**HD** 6  
- **AC** 9 \[10\]  
- **Atk** Strike (2d4 plus 1d6 cold)  
- **Move** 9/9 (climbing)  
- **Save** 11  
- **AL** C  
- **CL/XP** 8/800;**Special**:Engulf, skeletons
+### Undead Ooze:
+**HD** 6  
+**AC** 9\[10\]  
+**Atk** Strike (2d4 plus 1d6 cold)  
+**Move** 9/9 (climbing)  
+**Save** 11  
+**AL** C  
+**CL/XP** 8/800;**Special**:Engulf, skeletons
 
 ### Unicorn
 
@@ -10997,15 +11000,15 @@ AL L
 **CL/XP** 4/120  
 **Special**: Swooping attack, chance of disease, blood drain.
 
-### Vampiric Ooze: 
-**HD** 8  
- **AC** 8 \[11\]  
- **Atk** Strike (2d4 plus level drain)  
- **Move** 6/6 (climbing)  
- **Save** 8  
- **AL** C  
- **CL/XP** 10/1400
- **Special**: Level drain, create spawn, split, sunlight vulnerability
+### Vampiric Ooze:
+**HD** 8  
+**AC** 8\[11\]  
+**Atk** Strike (2d4 plus level drain)  
+**Move** 6/6 (climbing)  
+**Save** 8  
+**AL** C  
+**CL/XP** 10/1400
+**Special**: Level drain, create spawn, split, sunlight vulnerability
 
 ### Vargouille
 
@@ -11033,7 +11036,7 @@ AL L
 
 **HD** 22  
 **AC** -4 \[23\]  
-**Atk** *+2 trident (Demonbrand)* (2d6+4) or 2 claws (1d8+2 + hypothermic touch)  
+**Atk** *+2 trident (Demonbrand)* (2d6+4) or 2 claws(1d8+2 + hypothermic touch)  
 **Move** 6/24 (swim)  
 **Save** 3  
 **AL** C  
@@ -11598,7 +11601,11 @@ AL L
 **HD** 1d6hp  
 **AC** 8\[11\]  
 **Atk** 1 bite (1d3)  
-**Move**
+**Move**  1 (Fly 6)  
+**Save** 18  
+**AL** N  
+**CL/XP** 1/15  
+**Special**: Immune to sleep and cold.
 
 ### Zombie
 

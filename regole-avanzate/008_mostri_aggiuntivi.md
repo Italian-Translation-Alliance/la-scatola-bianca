@@ -508,7 +508,7 @@ Gli scimmioni dannati sono così chiamati per la loro colorazione pallida e il l
 
 ### Scorpione, Gigante
 
-*Classe Armatura*: 3 [13]  
+*Classe Armatura*: 3 [16]  
 *Dadi Vita*: 5+4  
 *Attacchi*: Aculeo, tenaglia (vedi sotto)  
 *Speciale*: Vedi sotto   
@@ -723,7 +723,7 @@ Per aiutarvi a determinare i Dadi Vita Equivalenti (DVE), la tabella qui sotto p
 | Capacità speciali                                                          | Effetto sui DVE |
 |----------------------------------------------------------------------------|-----------------|
 | 4+ attacchi per round (minimo d6 o tiro salvezza ciascuno)                 | +1 DVE          |
-| AC 20 o superiore                                                          | +1 DVE          |
+| AC -1 [20] o superiore                                                     | +1 DVE          |
 | Danno automatico dopo il colpo                                             | +1 DVE          |
 | Arma da soffio 25 punti max o inferiore                                    | +1 DVE          |
 | Arma da soffio 26 punti max o più                                          | +2 DVE          |

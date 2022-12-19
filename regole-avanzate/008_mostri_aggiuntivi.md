@@ -183,7 +183,7 @@ Gli pterodattili sono rettili volanti di dimensioni umane e anche più grandi ch
 
 ### Dinosauro, Stegosauro
 
-*Classe Armatura*: 2 [17], 5 [/14]  
+*Classe Armatura*: 2 [17], 5 [14]  
 *Dadi Vita*: 8  
 *Attacchi*: Coda (2d6/3d6 vedi sotto)  
 *Speciale*: Vedi sotto  
@@ -194,7 +194,7 @@ Gli Stegosauri sono grandi erbivori lunghi fino a 30 piedi e alti fino a 10 pied
 
 ### Dinosauro, Triceratopo
 
-*Classe Armatura*: 2 [17], 5 [/14]  
+*Classe Armatura*: 2 [17], 5 [14]  
 *Dadi Vita*: 16  
 *Attacchi*: Corna (2d6)  
 *Speciale*: Vedi sotto  
@@ -376,7 +376,7 @@ Gli orsi delle caverne sono enormi orsi carnivori che hanno sempre fame. Hanno u
 
 ### Piovra, Gigante
 
-*Classe Armatura*: 7  
+*Classe Armatura*: 7 [12]
 *Dadi Vita*: 4  
 *Attacchi*: Tentacoli (6d6 vedi sotto)  
 *Speciale*: Vedi sotto   

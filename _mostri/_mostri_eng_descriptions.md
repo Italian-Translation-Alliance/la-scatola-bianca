@@ -1237,7 +1237,7 @@ Achaierai resemble hellish birds standing fifteen feet tall on four stilt-like l
 
 Aeshma are demons of rage. They creature are 8-foot tall humanoids with basalt-colored skin. Dark hair covers its head and its hair is long and braided. Its arms are well-muscled and its hands end in powerful claws. Its head is human-like and its eyes are sapphire blue. Large leathery, bat-like wings protrude from its shoulders. Aeshma, sometimes called “fiends of the wounding spear”, sometimes command battalions of lesser demons, usually vrocks or dretches. An aeshma that is reduced to half it normal hit points in combat flies into a berserk rage on its next turn, swinging madly with its longspear. A raging aeshma fights until either it or its opponent is dead and gains an additional attack each round. Aeshma continuously see invisibility. They can cast a web spell twice per day. Aeshma carry long *+1 spears* that cause terrible wounds when they hit. Creatures wounded by these spears suffer 1d2 points of damage each round after they are wounded from blood loss until the wounds are bound or magically healed.
 
-### Demon, Alu-
+### Demon, Alu-Demon
 
 The alu-demon is the female demonic offspring of a succubus and human. Though part demon, not all alu-demons are inherently chaotic (although lawful alu-demons are extremely rare). The typical alu-demon has black or brown hair and dark green, brown, or black eyes. Alu-demons might be sent to the Material Plane to seduce mortals. When on such missions they typically arrange their flowing hair so it hides their horns and also fold their wings against their backs (and tuck them under their robe, shirt, or whatever garment of clothing one happens to be wearing at the time). Each time an alu-demon hits with its claw attack it gains temporary hit points equal to the damage she inflicts. These temporary hit points disappear in one hour. Alu-demons can cast the following spells: *Charm person* (3/day), *dimension door* (1/day), *ESP* (3/day) and *suggestion* (1/day).
 
@@ -1258,8 +1258,6 @@ The Baalroch seems to be missing a stat block for its special spell-like abiliti
 Hmm. I have a feeling we might have used the "Balrog" stats from the very early printing of the game for the type 6, which would then be overshadowed somewhat by the Eldritch Wizardry demons. Try adding *fear*, *detect magic*, *read magic*, *read languages*, *detect invisibility*, *dispel magic*, *pyrotechnics*, *suggestion*, *telekinesis* (600 lbs.), *symbol of fear*, *discord*, *sleep*, *stunning*.
 
 That's more on par with the others. **\- Matt F.**
-
-\[[Source](https://plus.google.com/u/0/communities/117966648995453744773)\]
 
 The Baalroch’s name means, roughly, the Bull of Baal: the Baal-aurochs (the aurochs was a bull that stood twelve feet tall at the shoulder, and Baal is an ancient and evil pagan deity). These powerful demons somewhat resemble vast minotaurs with great, spreading bat-wings; they burn with the fires of hell and are wreathed in flame. Spells from casters below 6<sup>th</sup> level do not affect them, and against higher-level spell casters they are yet 75% immune to all spells. In combat, a baalroch uses whip and sword; the whip can be used to reach great distances – on a successful hit the victim is pulled close to the baalroch and burned by the fires of the demon’s body (3d6 hit points). Baalrochs are sometimes referred to in ancient texts as Balor or Baalor, which may be the name of a single demon rather than a term for all of them. A baalroch could be forced or tricked into the service of a powerful wizard, but the risk would be immense.
 
@@ -1325,7 +1323,7 @@ These creatures are fat, with long, spindly arms and legs. They have rudimentary
 
 The erinyes, the “furies” of Ancient Greek mythology, are female demons who pursue those guilty of crimes against the order of the gods. Their appearance is so terrible as to cause *fear* (saving throw). They are impossible to hide from, being able to see invisible things and locate objects at will. The furies carry a whip, which, if it hits, entangles the victim (saving throw) until the fury releases it. The furies are immune to fire and cold, and have a magic resistance of 25%. The blade of a fury’s sword causes *paralysis* (saving throw).
 
-### Demon, Gallu- (Faceless Demon)
+### Demon, Gallu-Demon (Faceless Demon)
 
 A gallu-demon is a 9-foot-tall featureless black humanoid with a mouth filled with rows of sharpened teeth. A gallu-demon can *polymorph self* and *dimension door* at will. Gallu-demons are immune to poison and electricity.
 
@@ -1391,10 +1389,60 @@ A mehrim is a man-sized black goat that exhales putrid black smoke when it breat
 
 A mezzalorn looks like a hellish giant wasp with the head and torso of a man. When reduced to half its hit points it releases a pheromone that gives it and all other mezzalorns a +1 to-hit bonus. The poison injected by a mezzalorn’s stinger is lethal if the victim fails a saving throw.
 
-### Demon, Nabasu (Death Stealer Demon)
+### Demon, Nabasu (Death Stealer Demon) - Demonling
 
-A mehrim is a man-sized black goat that exhales putrid black smoke when it breathes. It has three horns and jet black, glossy hooves. Its diseased bite inflicts 1 point of damage each day until cured. A mehrim can cast *darkness* at will, and *dispel magic* once per day. They are able to see invisible creatures at all times.
+Nabasu are tall and thin, with large, scaled wings and pale gray skin
+stretched tightly over their bones. Their hands end in long fingers tipped
+with razor-sharp talons and their mouths are filled with tusk-like teeth,
+including two overgrown tusks that jut upward from its bottom jaw. Their
+eyes glow with an eerie yellow light. Nabasu derive great pleasure from
+torturing and killing other creatures. Unlike other demons, a nabasu
+spends a portion of its life on the Material Plane. Those that reach the
+demonling stage in their growing process travel to the Material Plane
+where they feed on humanoids in order to continue their maturity. Once
+a nabasu reaches maturity, it returns to the Abyss to spend the rest of its
+immortal existence there.
 
+A nabasu’s gaze causes instant death in those who fail a saving throw.
+The death effect has a range of 20 feet. Humanoids who die from this
+attack are transformed into ghouls within 1d4 rounds and are under
+control of the nabasu that created them. A demonling nabasu can use its
+death gaze ability once per day. For every Hit Dice above 7 it has, it gains
+one more use per day of its death gaze.
+
+When a demonling nabasu slays a humanoid opponent, it can feed on
+the corpse’s heart, devouring both flesh and life force. Feeding destroys
+the victim’s body and prevents any form of raising or resurrection that
+requires part of the corpse. There is a 50% chance that a wish spell can
+restore a devoured victim to life. Check once for each destroyed creature.
+If the check fails, the creature cannot be brought back to life by mortal
+magic.
+
+A demonling nabasu advances in Hit Dice by consuming corpses in this
+fashion. For every three suitable corpses a nabasu devours, it gains 1 Hit
+Die and its AC improves by 1. The demonling nabasu only advances by
+consuming the corpses of creatures whose Hit Dice or levels are equal to
+or greater than its own current total. A nabasu that reaches 13 Hit Dice
+through feeding becomes a mature nabasu upon completion of the act. (A
+mature nabasu advances normally for its Hit Dice; see its statistics block
+above.)
+
+### Demon, Nabasu (Death Stealer Demon) - Mature
+
+A demonling nabasu that reaches 13 Hit Dice through feeding becomes
+a mature nabasu. Mature nabasu do not have the feeding ability of
+demonlings. A mature nabasu can use its death gaze seven times per day.
+They can cast darkness at will and silence once per day and has the level
+drain ability of a vampire. They can also travel ethereally as though using
+a potion of etherealness two times per day.
+
+Once per day, a mature nabasu can create an aura of paralysis in a 10-
+foot radius centered on its form. Creatures in the area must succeed on a
+saving throw or be paralyzed for 1d6+4 rounds. This ability functions as
+a hold monster spell. Demons are immune to this aura.
+
+Once per day, a mature nabasu can automatically summon 2d4 ghasts
+while in the Abyss.
 
 ### Demon, Nalfeshnee (Fourth-Category Demon)
 
@@ -1915,19 +1963,19 @@ The wolf-like devil dog is larger than a wolf — about 5 feet long and 3 feet h
 
 Digers are semi-transparent oozes about 9 feet in diameter that live in abandoned ruins or underground areas where they spend most of their time hunting for food. A large, reddish-colored gem, actually an eye, floats near the center of the creature. A diger’s gem-like eye offers it a means to lure its prey in so it can attack. A character has a 1 in 6 (2 in 6 for dwarves and elves) to realize the gem is not real. A diger attacks by hitting a foe with its slimy appendage, or by simply waiting, floating unnoticed until an opponent contacts it. A diger secretes a digestive acid that dissolves only flesh. Any melee hit deals acid damage. Digers also secrete an anaesthetizing slime. A creature making physical contact with a diger must succeed on a saving throw or be paralyzed for 1d6 rounds. Digers do not deliver this paralysis with an attack by one of their slimy appendages. A diger can automatically engulf a paralyzed foe. An opponent remains paralyzed for as long as it remains engulfed. A paralyzed foe is considered to be grappled and takes 1d4 points of acid damage every 10 minutes as the diger slowly digests it. By releasing naturally occurring helium from its body, a diger is able to fly for 2 rounds. After that, it must land and cannot fly again until it has rested for 2 rounds.
 
-### Ankylosaurus
+### Dinosaur, Ankylosaurus
 
 An ankylosaurus looks like a turtle with spikes around the edge of its shell and elephant-like legs. It has a tail with a clubbed end. They are herbivores, and travel in small groups.
 
-### Brontosaurus
+### Dinosaur, Brontosaurus
 
 Brontosaurus (Apatosaurus) is a massive, long-necked herbivore. They are encountered in groups or even herds. A brontosaurus stands 20 ft. tall at the shoulder, and weighs from 35 to 45 tons.
 
-### Elasmosaurus
+### Dinosaur, Elasmosaurus
 
 Fish-like, 15-ft. long carnivores, the elasmosaurus has a long neck like a sea serpent, but has a thick, saurian body with fins. This is a good sea monster for use in campaigns where the dark horrors of the far-forgotten past might still survive. These creatures cannot survive more than a few minutes on land.
 
-### Stegosaurus
+### Dinosaur, Stegosaurus
 
 These dinosaurs have large back-plates standing out from the spine, and a spiked tail. They are herbivores, and travel in small groups.
 
@@ -1935,7 +1983,7 @@ These dinosaurs have large back-plates standing out from the spine, and a spiked
 
 A triceratops has three horns protruding from its face, and a protective plate rising like an armored frill behind its head. They are extremely hard to damage with frontal assaults. The bony plate behind the head would also provide excellent protection for a rider. The horns inflict double damage if the creature charges.
 
-### Tyrannosaurus
+### Dinosaur, Tyrannosaurus
 
 Tyrannosaurus is a deadly carnivorous dinosaur, walking on two legs and attacking with a massively powerful bite. When it bites prey, it grabs the victim in its jaws, shaking and chewing for 3d8 points of automatic damage in subsequent rounds. It can inflict such damage even against opponents as large as a brontosaurus. Only creatures with shells, bone frills, or spines can avoid the horrendous tearing damage a tyrannosaur can inflict (e.g., triceratops, stegosaurus, ankylosaurus).
 

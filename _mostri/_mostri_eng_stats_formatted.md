@@ -8679,7 +8679,7 @@ Special** Poison bite (+4 save or die).
 **CL/XP**: 11/1700  
 **Special**: Telepathy, mimicry, pyrotechnics, ethereal travel, +1 or better weapon required to hit, magic resistance 30%.
 
-### Mountain Hag/Yama-uba
+### Mountain Hag (Yama-uba)
 
 **HD**: 7  
 **AC**: 4 \[15\]  
@@ -10442,7 +10442,7 @@ Atk1 two-handed weapon (1d8+1) or weapon with shield (1d8)
 **CL/XP**: 12/2000  
 **Special**: Chemisorb, only harmed by sharp weapons, immunity to cold, double damage from fire
 
-### Tangle Weed/Strangle Vine
+### Tangle Weed (Strangle Vine)
 
 **HD**: 4  
 **AC**: 6\[13\]  
@@ -10978,7 +10978,7 @@ Atk1 two-handed weapon (1d8+1) or weapon with shield (1d8)
 **CL/XP**: 12/2000  
 **Special**: Immune to non-magic weapons, only killed in coffin, regenerate (3/round), gaseous form, shapeshift, summon rats or wolves, charm gaze, drain 2 levels with hit.
 
-### Vampire Tree/Jubokko
+### Vampire Tree (Jubokko)
 
 **HD**: 4  
 **AC**: 6\[13\]  

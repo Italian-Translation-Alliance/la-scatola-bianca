@@ -52,7 +52,7 @@
 **CL/XP**: 12/2000  
 **Special**: Charm monster (3/day), Phantasmal force (3/day), Mucus cloud in water (save or cannot breathe air for 3 hours), special disease upon successful hit (save or must be immersed in water every hour).
 
-### Abomination (Owlephant)
+### Abomination, Owlephant
 
 **HD**: 10  
 **AC**: 4 \[15\]  
@@ -63,7 +63,7 @@
 **CL/XP**: 10/1400  
 **Special**: Trample
 
-### Abomination (Tigrilla)
+### Abomination, Tigrilla
 
 **HD**: 5  
 **AC**: 5 \[14\]  
@@ -320,7 +320,7 @@
 **CL/XP**: 7/600  
 **Special**: Resistance to cold (50%), split, cannot be surprised
 
-### Amphoron (Juggernaut)
+### Amphoron, Juggernaut
 
 **HD**: 10  
 **AC**: 2 \[17\]  
@@ -331,7 +331,7 @@
 **CL/XP**: 13/2300  
 **Special**: magic resistance 25%, crane, chance of flickering.
 
-### Amphoron (Warrior)
+### Amphoron, Warrior
 
 **HD**: 5  
 **AC**: 2 \[17\]  
@@ -342,7 +342,7 @@
 **CL/XP**: 8/800  
 **Special**: magic resistance 25%, immune to piercing weapons, chance of flickering, flamethrower.
 
-### Amphoron (Worker)
+### Amphoron, Worker
 
 **HD**: 2  
 **AC**: 2 \[17\]  
@@ -364,7 +364,7 @@
 **CL/XP**: 13/2300  
 **Special**: Acid cloud, swallow whole
 
-### Angel (Chalkydri)
+### Angel, Chalkydri
 
 **HD**: 9  
 **AC**: 0 \[19\]  
@@ -375,7 +375,7 @@
 **CL/XP**: 11/1700  
 **Special**: Plane shift, spells
 
-### Angel (Empyreal)
+### Angel, Empyreal
 
 **HD**: 12  
 **AC**: -1 \[20\]  
@@ -386,7 +386,7 @@
 **CL/XP**: 15/2900  
 **Special**: Radiant blast immune to acid, cold and petrification resists electricity and fire spell-like abilities
 
-### Angel (Monadic Deva, 10 HD)
+### Angel, Monadic Deva (10 HD)
 
 **HD**: 10  
 **AC**: -2 \[21\]  
@@ -397,7 +397,7 @@
 **CL/XP**: 18/3500  
 **Special**: Immunities, +1 weapon to hit, magic resistance (60%), magical abilities
 
-### Angel (Movanic Deva, 8 HD)
+### Angel, Movanic Deva (8 HD)
 
 **HD**: 8  
 **AC**: -1 \[20\]  
@@ -408,7 +408,7 @@
 **CL/XP**: 15/2900  
 **Special**: Immunities, +1 weapon to hit, magic resistance (55%), magical abilities
 
-### Animated Carpet
+### Animated Object, Carpet
 
 **HD**: 1  
 **AC**: 9 \[10\]  
@@ -419,7 +419,7 @@
 **CL/XP**: 1/15  
 **Special**: Grab.
 
-### Animated Chair
+### Animated Object, Chair
 
 **HD**: 1  
 **AC**: 8 \[11\]  
@@ -518,16 +518,37 @@
 **CL/XP**: 10/1400  
 **Special**: Hug and rend, polymorph, call mists.
 
-### Ant Exoskeleton, Giant
+### Ant, Giant (Worker)
 
-**HD**: 1  
-**AC**: 3 \[16\]  
-**Atk**: Bite (1d6)  
-**Move**: 12  
-**Save**: 17  
-**AL**: N  
-**CL/XP**: 2/30  
-**Special**: Immune to sleep, hold, and charm spells, half damage from piercing and slashing weapons.
+**HD**: 2
+**AC**: 3 \[16\]
+**Atk**: Bite (1d6)
+**Save**: 16
+**Move**: 18
+**AL**: N
+**CL/XP**: 2/30
+**Special**: None
+
+### Ant, Giant (Warrior)
+
+**HD**: 3
+**AC**: 3 \[16\]
+**Atk**: Bite (1d6 + poison)
+**Save**: 14
+**Move**: 18
+**AL**: N
+**CL/XP**: 4/120
+**Special**: Poison 2d6 (save for 1d4 only).
+
+### Ant, Giant (Queen)
+**HD**: 10
+**AC**: 3 \[16\]
+**Atk**: Bite (1d6)
+**Save**: 5
+**Move**: 3
+**AL**: N;
+**CL/XP**: 8/800
+**Special**: None
 
 ### Ant Lion
 
@@ -605,16 +626,6 @@
 **AL**: C  
 **CL/XP**: 11/1700  
 **Special**: Demonic immunities, magical abilities, breathe fire, gate (10%).
-
-### Arcane Beetle
-
-**HD**: 5  
-**AC**: 3 \[16\]  
-**Atk**: pincers (2d6)  
-**Save**: 12  
-**Move**: 12  
-**CL/XP**: 7/600  
-**Special**: Arcane Reflection.
 
 ### Arcanix (Greater)
 
@@ -1062,6 +1073,39 @@
 **CL/XP**: 5/240  
 **Special**: 10% chance of disease.
 
+### Bear, Black
+
+**HD**: 4+1  
+**AC**: 7 \[12\]  
+**Atk**: 2 claws (1d3), 1 bite (1d6)  
+**Move**: 9  
+**Save**: 13  
+**AL**: N  
+**CL/XP**: 4/120  
+**Special**: Hug (1d8).
+
+### Bear, Cave or Polar
+
+**HD**: 7  
+**AC**: 6 \[13\]  
+**Atk**: 2 claws (1d6+1), 1 bite (1d10+1)  
+**Move**: 12  
+**Save**: 9  
+**AL**: N  
+**CL/XP**: 7/600  
+**Special**: Hug (3d6).
+
+### Bear, Grizzly
+
+**HD**: 6  
+**AC**: 6 \[13\]  
+**Atk**: 2 claws (1d6), 1 bite (1d10)  
+**Move**: 9  
+**Save**: 11  
+**AL**: N  
+**CL/XP**: 6/400  
+**Special**: Hug (2d6).
+
 ### Beast of Chaos
 
 **HD**: 5  
@@ -1095,7 +1139,72 @@
 **CL/XP**: 5/240  
 **Special**: Lethal poison sting.
 
-### Beetle, Giant (5 ft.)
+### Beetle (Giant), Arcane 
+
+**HD**: 5  
+**AC**: 3 \[16\]  
+**Atk**: pincers (2d6)  
+**Save**: 12  
+**Move**: 12  
+**CL/XP**: 7/600  
+**Special**: Arcane Reflection.
+
+### Beetle (Giant), Blister
+
+**HD**: 2  
+**AC**: 8 \[11\]  
+**Atk**: 1 bite (1d6)  
+**Move**: 15  
+**Save**: 16  
+**AL**: N  
+**CL/XP**: 3/60  
+**Special**: Blister spray, immune to poison
+
+### Beetle (Giant), Boring
+
+**HD**: 5  
+**AC**: 2 \[17\]  
+**Atk**: Bite (2d8)  
+**Move**: 9  
+**Save**: 12  
+**AL**: N  
+**CL/XP**: 5/240  
+**Special**: Hive mind
+
+### Beetle (Giant), Deathwatch
+
+**HD**: 9  
+**AC**: 2 \[17\]  
+**Atk**: Bite (1d8)  
+**Move**: 12  
+**Save**: 6  
+**AL**: N  
+**CL/XP**: 11/1700  
+**Special**: Death rattle, immune to death spells, surprise on a 1-4 on 1d6
+
+### Beetle (Giant), Fire
+
+**HD**: 1+3  
+**AC**: 4 \[15\]  
+**Atk**: 1 bite (1d4+2)  
+**Move**: 12  
+**Save**: 17  
+**AL**: N  
+**CL/XP**: 1/15  
+**Special**: Light glands.
+
+### Beetle (Giant), HuHu
+
+**HD**: 1+3  
+AC 4 \[15\]  
+**Atk**: Bite (2d6)  
+**Move**: 9 (18 fly)  
+**Save**: 17  
+**AL**: N  
+**CL/XP**: 2/30  
+**Special**: Grab hold.
+
+### Beetle (Giant), Normal
 
 **HD**: 5  
 **AC**: 3 \[16\]  
@@ -1105,16 +1214,60 @@
 **CL/XP**: 5/240  
 **Special**: None.
 
-### Beetle, Giant (Exoskeleton)
+### Beetle (Giant), Rhinoceros
 
-**HD**: 5  
-**AC**: 3 \[16\]  
-**Atk**: 1 bite (2d6)  
-**Move**: 6  
-**Save**: 12  
+**HD**: 12  
+**AC**: 1 \[18\]  
+**Atk**: Bite (2d8) and gore (2d6)  
+**Move**: 9  
+**Save**: 3  
 **AL**: N  
-**CL/XP**: 7/600  
-**Special**: Immune to turning, unaffected by sleep, hold, and charm, immune to non-blunt weapons.
+**CL/XP**: 12/2000  
+**Special**: Trample (3d6)
+
+### Beetle (Giant), Saw-Toothed
+
+**HD**: 4  
+**AC**: 7 \[12\]  
+**Atk**: 1 bite (2d6)  
+**Move**: 12  
+**Save**: 13  
+**AL**: N  
+**CL/XP**: 5/240  
+**Special**: Grab
+
+### Beetle (Giant), Slicer
+
+**HD**: 6  
+**AC**: 2 \[17\]  
+**Atk**: Bite (3d8)  
+**Move**: 9  
+**Save**: 11  
+**AL**: N  
+**CL/XP**: 8/800  
+**Special**: Vorpal bite
+
+### Beetle (Giant), Water
+
+**HD**: 3  
+**AC**: 6 \[13\]  
+**Atk**: 1 bite (1d8)  
+**Move**: 6 (Swim 24)  
+**Save**: 14  
+**AL**: N  
+**CL/XP**: 3/60  
+**Special**: Stench spray, aquatic
+
+### Beetle, Requiem
+
+**HD**: 18  
+**AC**: 2 \[17\]  
+**Atk**: 2 claws (3d6+4) and bite (2d8+4)  
+**Move**: 18  
+**Save**: 3  
+**AL**: N  
+**CL/XP**: 20/4400  
+**Special**: Constrict, earth-shaking
 
 ### Behir
 
@@ -1193,17 +1346,6 @@
 **CL/XP**: 2/30  
 **Special**: None.
 
-### Black Bear
-
-**HD**: 4+1  
-**AC**: 7 \[12\]  
-**Atk**: 2 claws (1d3), 1 bite (1d6)  
-**Move**: 9  
-**Save**: 13  
-**AL**: N  
-**CL/XP**: 4/120  
-**Special**: Hug (1d8).
-
 ### Black Pudding
 
 **HD**: 10  
@@ -1247,17 +1389,6 @@
 **AL**: L  
 **CL/XP**: 4/120  
 **Special**: Teleport.
-
-### Blister Beetle, Giant
-
-**HD**: 2  
-**AC**: 8 \[11\]  
-**Atk**: 1 bite (1d6)  
-**Move**: 15  
-**Save**: 16  
-**AL**: N  
-**CL/XP**: 3/60  
-**Special**: Blister spray, immune to poison
 
 ### Blood Bush
 
@@ -1441,17 +1572,6 @@
 **CL/XP**: 10/1400  
 **Special**: Liquefy bones, +1 or better weapon to hit
 
-### Boring Beetle, Giant
-
-**HD**: 5  
-**AC**: 2 \[17\]  
-**Atk**: Bite (2d8)  
-**Move**: 9  
-**Save**: 12  
-**AL**: N  
-**CL/XP**: 5/240  
-**Special**: Hive mind
-
 ### Borsin
 
 **HD**: 4  
@@ -1463,7 +1583,7 @@
 **CL/XP**: 4/120  
 **Special**: Hug and rend.
 
-### Brain-eating Zombie
+### Zombie, Brain-eating
 
 **HD**: 3  
 **AC**: 8 \[11\]  
@@ -1506,7 +1626,7 @@
 **CL/XP**: 12/2000  
 **Special**: Spit molten brass (6d6), +1 or better magic weapon to hit, slowed by lightning, healed by fire, immune to spells
 
-### Brine Zombie
+### Zombie, Brine
 
 **HD**: 4  
 **AC**: 6 \[13\]  
@@ -1659,7 +1779,7 @@
 **CL/XP**: 11/1700  
 **Special**: Burrow, leaping, surprise.
 
-### Bumblebee Queen, Giant
+### Bumblebee, Giant (Queen)
 
 **HD**: 10  
 **AC**: 3\[16\]  
@@ -1670,7 +1790,7 @@
 **CL/XP**: 12/2000  
 **Special**: None
 
-### Bumblebee Worker, Giant
+### Bumblebee, Giant (Worker)
 
 **HD**: 3  
 **AC**: 3\[16\]  
@@ -1836,7 +1956,7 @@
 **CL/XP**: 7/600  
 **Special**: Immune to magic, half damage from normal weapons, shatter weapons
 
-### Cat Lord
+### Animal Lord, Cat Lord
 
 **HD**: 19  
 **AC**: -5 \[24\]  
@@ -1940,17 +2060,6 @@
 **CL/XP**: 2/30  
 **Special**: Strike from cave walls.
 
-### Cave or Polar Bear
-
-**HD**: 7  
-**AC**: 6 \[13\]  
-**Atk**: 2 claws (1d6+1), 1 bite (1d10+1)  
-**Move**: 12  
-**Save**: 9  
-**AL**: N  
-**CL/XP**: 7/600  
-**Special**: Hug (3d6).
-
 ### Centaur
 
 **HD**: 4  
@@ -1994,6 +2103,27 @@
 **CL/XP**: B/10  
 **Special** Non-lethal poison bite, +4 save  
 
+### Centipede, Giant (Large, 20 ft.)
+
+**HD**:  4  
+**AC**: 0 \[19\]  
+**Atk**: 1 bite (3d8)  
+**Move**: 18  
+**Save**: 13  
+**AL**: N  
+**CL/XP**: 6/400  
+**Special**: Poison bite (+4 save or die).
+
+### Centipede, Giant (Man-sized, 7ft)
+
+**HD**:  2  
+**AC**: 5 \[14\]  
+**Atk**: 1 bite (1d8 + poison)  
+**Move**: 15  
+**Save**: 16  
+**AL**: N  
+**CL/XP**: 4/120  
+**Special**: Poison bite (+6 save or die)
 
 ### Cerberus
 
@@ -2216,7 +2346,7 @@
 **CL/XP**: 8/800  
 **Special**: Moan, mirror image, darkness, enfurl.
 
-### Clockwork (Brain Gear)
+### Clockwork, Brain Gear
 
 **HD**:  5  
 **AC**: 2 \[17\]  
@@ -2227,7 +2357,7 @@
 **CL/XP**: 3/60  
 **Special**: Control clockworks, dream
 
-### Clockwork (Bronze Giant)
+### Clockwork, Bronze Giant
 
 **HD**: 14: **AC**: 0 \[19\]  
 **Atk**: 1 Weapon (4d6 plus poison) or 1 fist (2d8)  
@@ -2237,7 +2367,7 @@
 **CL/XP**: 16/3200  
 **Special**: magic resistance (25%), +1 magic weapon needed to hit, throw rocks (2d8), lightning heals, immune to most spells
 
-### Clockwork (Cavalier)
+### Clockwork, Cavalier
 
 **HD**: 5  
 **AC**: 3 \[16\]  
@@ -2248,7 +2378,7 @@
 **CL/XP**: 5/240  
 **Special**: Slows down, immune to sleep, charm, hold, and non-magical piercing weapons, explodes if beheaded.
 
-### Clockwork (Drone)
+### Clockwork, Drone
 
 **HD**:  1d6  
 **AC**: 2 \[17\]  
@@ -2259,7 +2389,7 @@
 **CL/XP**: B/10  
 **Special**: None
 
-### Clockwork (Overseer)
+### Clockwork, Overseer
 
 **HD**:  2  
 **AC**: 2 \[17\]  
@@ -2270,7 +2400,7 @@
 **CL/XP**: 2/30  
 **Special**: None
 
-### Clockwork (Parasite)
+### Clockwork, Parasite 
 
 **HD**:  4  
 **AC**: 4 \[15\]  
@@ -2281,7 +2411,7 @@
 **CL/XP**: 5/240  
 **Special**: Control host, self-repair
 
-### Clockwork (Scout)
+### Clockwork, Scout
 
 **HD**:  1  
 **AC**: 2 \[17\]  
@@ -2292,7 +2422,7 @@
 **CL/XP**: 1/15  
 **Special**: None
 
-### Clockwork (Swarm)
+### Clockwork, Swarm
 
 **HD**:  4  
 **AC**: 2 \[17\]  
@@ -2303,7 +2433,7 @@
 **CL/XP**: 7/600  
 **Special**: Distraction, minimum damage from slashing and piercing weapons, self-repair
 
-### Clockwork (Titan 3 HD)
+### Clockwork, Titan (3 HD)
 
 **HD**:  7  
 **AC**: 0 \[19\]  
@@ -2314,7 +2444,7 @@
 **CL/XP**: 8/800  
 **Special**: None
 
-### Clockwork (Titan 7 HD)
+### Clockwork, Titan (7 HD)
 
 **HD**:  3  
 **AC**: 2 \[17\]  
@@ -2578,16 +2708,6 @@
 **CL/XP**: 2/30  
 **Special**: None.
 
-### Crab, Giant (Exoskeleton)
-
-**HD**: 6  
-**AC**: 3 \[16\]  
-**Atk**: 2 pincers (2d6)  
-**Move**: 6  
-**Save**: 11  
-**CL/XP**: 8/800  
-**Special**: Immune to turning, unaffected by sleep, hold, and charm, immune to non-blunt weapons.
-
 ### Crab, Giant
 
 **HD**: 3  
@@ -2661,6 +2781,17 @@
 **Save**: 11  
 **AL**: N  
 **CL/XP**: 6/400  
+**Special**: None.
+
+### Crocodile, Normal 
+
+**HD**: 3  
+**AC**: 4 \[15\]  
+**Atk**: 1 bite (1d6)  
+**Move**: 9 (Swim 12)  
+**Save**: 14  
+**AL**: N  
+**CL/XP**: 3/60  
 **Special**: None.
 
 ### Crucifixion Spirit
@@ -2909,17 +3040,6 @@
 **AL**: C  
 **CL/XP**: 8/800  
 **Special**: Spit lightning, surprise on 1-3 on 1d6
-
-### Deathwatch Beetle, Giant
-
-**HD**: 9  
-**AC**: 2 \[17\]  
-**Atk**: Bite (1d8)  
-**Move**: 12  
-**Save**: 6  
-**AL**: N  
-**CL/XP**: 11/1700  
-**Special**: Death rattle, immune to death spells, surprise on a 1-4 on 1d6
 
 ### Decapus
 
@@ -4560,6 +4680,38 @@
 **CL/XP**: 12/1700  
 **Special**: Immune to non-magic weapons, strangle, half damage from non-blunt weapons.
 
+### Exoskeleton, Giant (Ant)
+
+**HD**: 1  
+**AC**: 3 \[16\]  
+**Atk**: Bite (1d6)  
+**Move**: 12  
+**Save**: 17  
+**AL**: N  
+**CL/XP**: 2/30  
+**Special**: Immune to sleep, hold, and charm spells, half damage from piercing and slashing weapons.
+
+### Exoskeleton, Beetle (Giant)
+
+**HD**: 5  
+**AC**: 3 \[16\]  
+**Atk**: 1 bite (2d6)  
+**Move**: 6  
+**Save**: 12  
+**AL**: N  
+**CL/XP**: 7/600  
+**Special**: Immune to turning, unaffected by sleep, hold, and charm, immune to non-blunt weapons.
+
+### Exoskeleton, Crab (Giant)
+
+**HD**: 6  
+**AC**: 3 \[16\]  
+**Atk**: 2 pincers (2d6)  
+**Move**: 6  
+**Save**: 11  
+**CL/XP**: 8/800  
+**Special**: Immune to turning, unaffected by sleep, hold, and charm, immune to non-blunt weapons.
+
 ### Faerie Dragon
 
 **HD**: 2  
@@ -4676,17 +4828,6 @@
 **AL**: C  
 **CL/XP**: 13/2300  
 **Special**: Magic resistance (80%), +1 or better magic weapon required to hit, demonic magical powers.
-
-### Fire Beetle, Giant
-
-**HD**: 1+3  
-**AC**: 4 \[15\]  
-**Atk**: 1 bite (1d4+2)  
-**Move**: 12  
-**Save**: 17  
-**AL**: N  
-**CL/XP**: 1/15  
-**Special**: Light glands.
 
 ### Fire Crab (1 HD)
 
@@ -5400,6 +5541,29 @@
 **CL/XP**: 11/1700  
 **Special**: Hit only by magic weapons, immune to most spells
 
+
+### Gelid Beetle, Greater
+
+**HD**: 12  
+**AC**: 2 \[17\]  
+**Atk**: 1 bite (1d6 + 1d8 cold)  
+**Move**: 12  
+**Save**: 3  
+**AL**: N  
+**CL/XP**: 13/2300  
+**Special**: Cold, cold cloud, immune to cold
+
+### Gelid Beetle, Lesser 
+
+**HD**: 4  
+**AC**: 5 \[14\]  
+**Atk**: 1 bite (1d4 + 1d4 cold)  
+**Move**: 15  
+**Save**: 13  
+**AL**: N  
+**CL/XP**: 5/240  
+**Special**: Cold, cold spray, immune to cold
+
 ### Geon
 
 **HD**: 8  
@@ -5802,17 +5966,6 @@
 **CL/XP**: 13/2300  
 **Special**: Foul breath, petrifying gaze, poison
 
-### Greater Gelid Beetle
-
-**HD**: 12  
-**AC**: 2 \[17\]  
-**Atk**: 1 bite (1d6 + 1d8 cold)  
-**Move**: 12  
-**Save**: 3  
-**AL**: N  
-**CL/XP**: 13/2300  
-**Special**: Cold, cold cloud, immune to cold
-
 ### Greater Ooze Demon
 
 **HD**: 10  
@@ -5943,17 +6096,6 @@
 **Save**: 17 **AL**: N  
 **CL/XP**: 1/15  
 **Special**: Marsh move.
-
-### Grizzly Bear
-
-**HD**: 6  
-**AC**: 6 \[13\]  
-**Atk**: 2 claws (1d6), 1 bite (1d10)  
-**Move**: 9  
-**Save**: 11  
-**AL**: N  
-**CL/XP**: 6/400  
-**Special**: Hug (2d6).
 
 ### Groaning Spirit
 
@@ -6502,17 +6644,6 @@
 **AL**: N  
 **CL/XP**: 5/240  
 **Special**: Temporal jump, Temporal heal.
-
-### HuHu Beetle, Giant
-
-**HD**: 1+3  
-AC 4 \[15\]  
-**Atk**: Bite (2d6)  
-**Move**: 9 (18 fly)  
-**Save**: 17  
-**AL**: N  
-**CL/XP**: 2/30  
-**Special**: Grab hold.
 
 ### Huecuva
 
@@ -7448,17 +7579,6 @@ AC 4 \[15\]
 **CL/XP**: 7/600  
 **Special**: Scalding to touch, steam cloud (1d6+1/ hit die) in cone or 15-ft. radius.
 
-### Large Giant Centipede (20 ft.)
-
-**HD**:  4  
-**AC**: 0 \[19\]  
-**Atk**: 1 bite (3d8)  
-**Move**: 18  
-**Save**: 13  
-**AL**: N  
-**CL/XP 6/400  
-Special** Poison bite (+4 save or die).
-
 ### Lava Child:
 **HD**: 4  
 **AC**: 3\[16\]  
@@ -7555,7 +7675,7 @@ Special** Poison bite (+4 save or die).
 **CL/XP**: 3/60  
 **Special**: None.
 
-### Leper Zombie
+### Zombie, Leper
 
 **HD**: 1  
 **AC**: 6\[13\]  
@@ -7596,18 +7716,6 @@ Special** Poison bite (+4 save or die).
 **Save**: 18 (16 vs. magic)  
 **AL**: N  
 **CL/XP**: 3/60;**Special**:Spells, magic resistance 60%
-
-
-### Lesser Gelid Beetle
-
-**HD**: 4  
-**AC**: 5 \[14\]  
-**Atk**: 1 bite (1d4 + 1d4 cold)  
-**Move**: 15  
-**Save**: 13  
-**AL**: N  
-**CL/XP**: 5/240  
-**Special**: Cold, cold spray, immune to cold
 
 ### Lesser Ooze Demon
 
@@ -8103,17 +8211,6 @@ Special** Poison bite (+4 save or die).
 **AL N  
 **CL/XP**: 6/400  
 **Special**: None.
-
-### Man-sized Giant Centipede (7ft)
-
-**HD**:  2  
-**AC**: 5 \[14\]  
-**Atk**: 1 bite (1d8 + poison)  
-**Move**: 15  
-**Save**: 16  
-**AL**: N  
-**CL/XP**: 4/120  
-**Special** Poison bite (+6 save or die)
 
 ### Mandragora
 **HD**: 1  
@@ -8690,7 +8787,7 @@ Special** Poison bite (+4 save or die).
 **CL/XP**: 7/600  
 **Special**: None.
 
-### Mouse Lord
+### Animal Lord, Mouse Lord
 
 **HD**: 15  
 **AC**: -5 \[24\]  
@@ -8989,17 +9086,6 @@ Stats depend on circumstances.
 **AL**: N  
 **CL/XP**: 32/8600  
 **Special**: Alter age, cell death, multi-manifestation, temporal displacement, time stop, foresight, immunity to magic, magic resistance (50%), time jaunt, +2 or better weapon to hit
-
-### Normal Crocodile
-
-**HD**: 3  
-**AC**: 4 \[15\]  
-**Atk**: 1 bite (1d6)  
-**Move**: 9 (Swim 12)  
-**Save**: 14  
-**AL**: N  
-**CL/XP**: 3/60  
-**Special**: None.
 
 ### Nuckalavee
 **HD**: 8  
@@ -9587,7 +9673,7 @@ Stats depend on circumstances.
 **CL/XP**: 17/3500  
 **Special**: Poison sting, swallow whole.
 
-### Pyre Zombie
+### Zombie, Pyre
 
 **HD**: 2  
 **AC**: 8\[11\] or with shield 7\[12\]  
@@ -9829,17 +9915,6 @@ Stats depend on circumstances.
 **CL/XP**: 10/1400  
 **Special**: swallow whole on natural 20, melt weapons.
 
-### Requiem Beetle
-
-**HD**: 18  
-**AC**: 2 \[17\]  
-**Atk**: 2 claws (3d6+4) and bite (2d8+4)  
-**Move**: 18  
-**Save**: 3  
-**AL**: N  
-**CL/XP**: 20/4400  
-**Special**: Constrict, earth-shaking
-
 ### Retriever
 
 **HD**: 10  
@@ -9850,17 +9925,6 @@ Stats depend on circumstances.
 **AL**: C  
 **CL/XP**: 13/2300  
 **Special**: Eye rays, crushing damage on natural 20.
-
-### Rhinoceros Beetle, Giant
-
-**HD**: 12  
-**AC**: 1 \[18\]  
-**Atk**: Bite (2d8) and gore (2d6)  
-**Move**: 9  
-**Save**: 3  
-**AL**: N  
-**CL/XP**: 12/2000  
-**Special**: Trample (3d6)
 
 ### Rhinoceros
 
@@ -10049,17 +10113,6 @@ Stats depend on circumstances.
 **CL/XP**: 19/4100  
 **Special**: Shape earth, spells, rock catching
 
-### Saw-Toothed Beetle, Giant
-
-**HD**: 4  
-**AC**: 7 \[12\]  
-**Atk**: 1 bite (2d6)  
-**Move**: 12  
-**Save**: 13  
-**AL**: N  
-**CL/XP**: 5/240  
-**Special**: Grab
-
 ### Sea Giant
 
 **HD**: 14+1d6 hp  
@@ -10169,17 +10222,6 @@ Stats depend on circumstances.
 **AL**: C  
 **CL/XP**: 3/60  
 **Special**: Magic resistance (5%), immune to electricity, poison
-
-### Slicer Beetle, Giant
-
-**HD**: 6  
-**AC**: 2 \[17\]  
-**Atk**: Bite (3d8)  
-**Move**: 9  
-**Save**: 11  
-**AL**: N  
-**CL/XP**: 8/800  
-**Special**: Vorpal bite
 
 ### Slinker Graymalkin
 
@@ -10398,7 +10440,7 @@ Atk1 two-handed weapon (1d8+1) or weapon with shield (1d8)
 **CL/XP**: 16/3200  
 **Special**: Throw boulders, control weather.
 
-### Strangling Ghost
+### Ghost, Strangling
 
 **HD**: 5  
 **AC**: 0 \[19\]  
@@ -11120,17 +11162,6 @@ Atk1 two-handed weapon (1d8+1) or weapon with shield (1d8)
 **CL/XP**: 6/400  
 **Special**: Paralyzing poison, larvae.
 
-### Water Beetle, Giant
-
-**HD**: 3  
-**AC**: 6 \[13\]  
-**Atk**: 1 bite (1d8)  
-**Move**: 6 (Swim 24)  
-**Save**: 14  
-**AL**: N  
-**CL/XP**: 3/60  
-**Special**: Stench spray, aquatic
-
 ### Water Elemental (12 HD)
 
 **HD**: 12  
@@ -11597,7 +11628,7 @@ Atk1 two-handed weapon (1d8+1) or weapon with shield (1d8)
 **CL/XP**: 3/60  
 **Special**: +1 or better weapon to hit, Fear aura.
 
-### Zombie Raven
+### Zombie, Raven
 
 **HD**: 1d6hp  
 **AC**: 8\[11\]  

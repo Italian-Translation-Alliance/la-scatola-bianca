@@ -196,7 +196,7 @@ Movanic devas wield *+1 flaming greatswords*. Animals do not willingly attack mo
 
 For every animal species, there is a single ruler or lord, looked upon by those animals as a minor deity of sorts. The animal lord is the master of that species; for example, there is a fox lord, mouse lord, and a cat lord. Each animal can assume two forms: human and animal. Its animal form is always of a member of the species it represents. Animal lords are seen as protectors of nature and animals. They may step in and prevent hunters from destroying a race of animals or foresters from completely decimating a forest. They do not, however, interfere with nature itself (i.e., animals die, they are killed for food or clothing)—such is the way of the universe.
 
-#### Cat Lord
+#### Animal Lord, Cat Lord
 
 There is only one. The Cat Lord is the Lord of All Felines. His natural form is that of a black panther with dark, ruby eyes. He can assume a human form, and in this form, he appears as a dark-skinned human with black hair, chiseled features, and ruby eyes. In human form, he almost always dresses in black. The Cat Lord spends his days roaming the planes. The Cat Lord can speak the secret language of druids.
 
@@ -210,7 +210,7 @@ The Cat Lord sees five times as well as a human in shadowy illumination and norm
 
 - Cat Lord: **HD** 19; **AC** -5 \[24\]; **Atk** 2 claws (2d6) and bite (1d6); **Save** 3; **Move** 24 (Climb 12); **AL** N; **CL/XP** 26/6200; **Special**: Change shape, howl, lick wounds, magic resistance (95%), magical abilities, immune to mind-affecting effects, surprise on 1-4 on 1d6, +1 or better weapon to hit
 
-#### Mouse Lord
+#### Animal Lord, Mouse Lord
 
 **Special**: Change shape, disease, magic resistance (95%), magical abilities, immune to mind-affecting effects (including illusions), surprise on 1-5 on 1d6, +1 or better weapon to hit
 
@@ -674,12 +674,6 @@ Giant boring beetles are 9-foot long, with greenish-gray carapaces and wing-cove
 This creature appears as a giant beetle with a dark green carapace and wing-covers. Its body is covered in leaves and sticks. Its mandibles are silver and its legs are black. The death watch beetle makes its lair in forests and uses a mixture of saliva and earth to stick rubbish (leaves and twigs, for instance) to itself in order to attack by surprise. Once every hour, a death watch beetle can vibrate its carapace to produce a clicking noise that sets up vibrations in all creatures within 30 feet. Affected creatures with 6 HD or less must succeed on a saving throw or die immediately. Creatures with more than 6 HD or those that succeed on their saving throw take 4d6 points of damage. Since the effect stems from the vibrations set up in a victim’s body and not from the clicking noise itself, *silence* offers no protection against this attack. Likewise, a creature that cannot hear can still be affected.
 
 - Giant Deathwatch Beetle: **HD** 9; **AC** 2 \[17\]; **Atk** Bite (1d8); **Move** 12; **Save** 6; **AL** N; **CL/XP** 11/1700; **Special**: Death rattle, immune to death spells, surprise on a 1-4 on 1d6
-
-#### Beetle, Giant (Normal)
-
-These stats are for a generic giant beetle about five feet long. Larger or smaller beetles might have different statistics or have unusual abilities; to reflect the vast range of possible sizes, assume one hit die and 1d4 damage per 1ft length of the monster. The common characteristics of giant beetles are a very good armor class (due to the carapace) and a single, strong bite from the mandibles. Uncommon varieties of giant beetle might have unusual characteristics – the giant fire beetle being a good example.
-
-- Giant Beetle (5 ft.): **HD** 5; **AC** 3 \[16\]; **Atk** 1 bite 5d4); **Move** 9; **Save** 12; **CL/XP** 5/240; **Special**: None.
 
 #### Beetle, Giant Fire
 
@@ -1482,16 +1476,6 @@ Monstrous crabs are omnivores and spend most of their time combing the ocean flo
 Crab men are bipedal creatures with a crab-like exoskeleton and a pincer at the end of each arm. They are tribal creatures, found living near water (including subterranean lakes and rivers).
 
 - Crab men: **HD** 2; **AC** 4 \[15\]; **Atk** 2 claws (1d4); **Save** 16; **Move** 9 (swim 9); **AL** N; **CL/XP** 2/30; **Special**: None.
-
-### Crabman
-
-This giant-sized creature is a bipedal humanoid with a crab-like head, large hands that end in powerful pincers, feet that are splayed. It is covered with chitinous plates, reddish-brown in color. Two smaller humanoid arms protrude below its pincers. Crabmen inhabit coastal waters, hunting fish and gathering food. Crabmen communicate with others of their race through a series of hisses and clicks. A typical crabman stands about 9 feet tall. They speak their own language, and more intelligent examples of their species often speak Common. Crabmen are passive and peaceful creatures, rarely engaging in combat. Crabmen attack with their claws; their pincers prevent them from wielding weapons. Their humanoid arms end in human-like hands and are used for fine dexterity and manipulation; they are too weak to wield weapons effectively. Crabmen can survive indefinitely on land and under water. Crabmen make their homes in sea caves and coastal cliffs. Most tribes are led by male or female elders.
-
-#### Crabmen as Characters
-
-Crabmen are rather hulking brutes, despite their passive dispositions. They begin the game with an extra hit dice and are capable of swimming at a speed of 9. Their chitinous exoskeletons provide an AC of 3 \[16\], which is convenient since crabmen are incable of wearing armor or using shields. Their pincer attacks do 1d6 points of damage - again, this is convenient since they are incapable of using weapons, their second set of humanoid arms being too frail for such heavy work.
-
-Crabmen may be fighters, advancing to the 4th level of ability (5th level with Strength of 17, 6th level with Strength of 18). Rare crabmen with prime requisites of 16 or higher can take up the profession of druid or magic-user, advancing to a maximum of 3rd level.
 
 - Crabman: **HD** 3: **AC** 3 \[16\]; **Atk** 2 claws (1d6); **Move** 12 (Swim 9); **Save** 14; **AL** N; **CL/XP** 3/60; **Special**: None
 

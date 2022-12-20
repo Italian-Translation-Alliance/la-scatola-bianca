@@ -20,15 +20,11 @@ Aberrants are hideous giants standing about 14 feet tall, with deformed bodies a
 
 The aboleth is a revolting fish-like amphibian, primarily subterranean, roughly the size of a killer whale. It vaguely resembles a catfish, but has four long tentacles and four orifices along its belly. The tentacles can be used to drag its bulk across dry land. These horrid abominations are extremely intelligent: an aboleth can cast charm monster three times per day, and create a phantasmal force three times per day. In the water, an aboleth surrounds itself with a cloud of mucus that requires anyone inhaling it to make a saving throw or become unable to breathe air for 3 hours.Finally, the slime on an aboleth’s tentacles causes disease if a saving throw fails. Those afflicted suffer a change to their skin, which must be immersed in water every hour, or the victim suffers 1d6 points of damage.
 
-### Abomination
-
-Abominations (often called hybrids) are fusions of two normal creatures that are just as often intelligent as they are rampaging beasts. No one knows how abominations came to be: perhaps the result of experimentation by a mad wizard or druid, a *wish* spell gone awry, or the wrath of a deity. The end result that fuses two creatures together often destroys the mind of the hapless beings, forcing them into madness and evil. The most well known examples of abominations are hippogriffs, griffons, gorilla-bears, and the terrible owlbear.
-
-#### Owlephant
+### Abomination, Owlephant
 
 This massive creature looks like an elephant with the head of a giant owl. Beneath its tusks, two clawed arms protrude from its body, one to each side of its elephantine trunk. Its feathered owl head is dark brown, fading to gray as it blends into its elephant-like body. An owlephant can trample opponent simply by moving over them. Those who fail a saving throw suffer 2d8 points of damage each. Those who pass a saving throw leap to the side to avoid the beast. Folk who choose not to avoid the trample attack can make a counter attack at a +1 bonus to hit.
 
-#### Tigrilla
+### Abomination, Tigrilla
 
 This creature looks like a gorilla with the head of a tiger. Its arms end in sharpened claws and its fur is orange-brown. Its head is striped like that of a normal tiger.
 
@@ -86,27 +82,15 @@ The amphisbaena is a giant poisonous snake about 10 feet long. It is often found
 
 An amphisbaena basilisk is a single great lizard composed of two normal basilisks conjoined in the middle. Each head’s gaze can turns to stone anyone meeting its eye. Fighting without trying to look at the creature incurs a -4 penalty to hit. If the amphisbaena basilisk’s gaze is reflected back at it, it has a 10% chance to force the basilisk into a saving throw against being turned to stone itself.
 
-### Amphorons of Yothri
-
-Amphorons of Yothri are mechanisms created by the Artificers of that plane (see, “Artificers of Yothri”) using their strange magic-science. Amphorons on the material plane are physical projections of a model that remains on Yothri – the Artificer’s mind, possibly using a lens apparatus of some kind, projects the device into the material plane, where it has a physical reality.
-
-These projections can fail, and, moreover, the Artificer’s control of more than one Amphoron at a time depends on his mental connection to a single, controlling Amphoron. If the Artificer attempts to switch his mental connection from one Amphoron to another, the process takes 1d6 rounds to complete.
-
-In any given round, any Amphoron has a 1 in 6 chance to “flicker,” due to a momentary interruption of the connection across time and space. While flickering, the Amphoron cannot be attacked, and cannot inflict damage. However, it regains 1 hit point when it rematerializes. A flickering Amphoron is visible as a faint, static-shrouded shape. In the following round, the Amphoron reappears (unless it fails a second roll of the d6).
-
-The controlling Amphoron has only a 1 in 20 chance of flickering, but if it does so, all of the Amphorons under its control will flicker. Any Amphoron can be used as the controller, but a single controller cannot control more than six other Amphorons, and an Artificer can only project his mind to one controller at a time. Thus, unless the Artificer has projected some apparatus (the possibilities are many, and left to the Referee’s creativity) to allow remote controllers or auto-controls, the maximum number of Amphorons encountered at time is seven (six controlled and one controller). When the Artificer’s nefarious schemes on the material plane are complete, he will likely not bother to disintegrate his Amphorons, so their material substance will remain on the material plane, operating randomly, remaining completely inert, or proceeding independently with their rudimentary intelligence.
-
-All Amphorons have a metallic, jointed shell; their insides are filled with wires and a gel-like flesh which allows the mental connection with the distant reality of Yothri, and also gives the creature its basic intelligence. There are three varieties of Amphoron, although the Referee could design others with little effort. *(Author Matt Finch; first appeared in [Knockspell Magazine #1](http://shop.d20pfsrd.com/collections/knockspell-magazine/products/knockspell-issue-1)).*
-
-#### Worker Amphoron
+### Amphoron, Worker
 
 Worker Amphorons are just smaller than a human, and move with crab-like legs (although they can levitate for up to 3 rounds once per day, if need be). As with other Amphorons, they have a 1 in 6 chance of flickering unless used as a controller by the Artificer. In addition to the chance of flickering, a worker Amphoron may randomly belch out arcs of electricity, inflicting 1hp damage to anyone within 10ft (in addition to its other actions).
 
-#### Warrior Amphoron
+### Amphoron, Warrior 
 
 Warrior Amphorons are usually used to protect Worker Amphorons, or in situations where the Artificer’s schemes involve violence. They have a flamethrower which is in constant operation, allowing the Amphoron to shoot a line of flame at a single target up to 100ft away in addition to its other attacks. The flame inflicts 1d6 damage (saving throw for half damage).
 
-#### Juggernaut Amphoron
+### Amphoron, Juggernaut 
 
 The Juggernaut Amphoron is a harvester/processor the size of a semi-attached trailer truck, with a moving crane mounted on its back and two huge circular saws mounted on its articulated arms. If the Juggernaut’s crane hits an opponent, the victim is lifted up into the air over the Juggernaut’s processing hatch, and dropped automatically in the following round. If the crane hits, a saving throw is permitted to escape the its grasp unless the target is wearing metal armor, in which case no saving throw is allowed (the crane contains a backup magnet). Anyone dropped into the processing hatch is processed within 1d4 rounds into a small brick.
 
@@ -114,37 +98,29 @@ The Juggernaut Amphoron is a harvester/processor the size of a semi-attached tra
 
 This gigantic flowerlike creature has a dark green to gray trunk and a brightly colored interior. At the center of the creature’s front is a circular opening that leads into its interior. An anemone attacks any creature that swims into its many tendrils with a paralytic poison that immobilizes prey so it can be swallowed whole. A victim caught in the tendrils can save to resist the paralysis. If a creature fails, the anemone swallows the prey whole in the next round. If provoked, an anemone ejects the contents of its stomach in an acidic cloud that deals 1d8 damage to all creatures within 20 feet for 1d3 rounds.
 
-### Angels
-
-Angels are a race of celestials native to the lawfully-aligned outer planes.
-
-#### Angel, Chalkydri
+### Angel, Chalkydri
 
 This angelic figure resembles a muscular humanoid with coppery skin and eyes. It has four large feathery, white wings and carries a longsword swathed in fire. Chalkydri take their role as protectors of good very seriously, and shift planes with ease, jumping from one reality to the next to do so. They are powerful spell casters (at will—*bless*, *detect evil*, *dispel magic*, *invisibility* (self only), *polymorph self*, *remove curse*, *cure disease*, *see invisible*; 3/day—*cure serious* *wounds*, *flame strike*; 1/day—*restoration*, *raise dead*)
 
 **Angel, Chalkydri** from the [Tome of Horrors Complete](http://shop.d20pfsrd.com/products/sw-the-tome-of-horrors-complete), Copyright 2011, Necromancer Games, Inc., published and distributed by Frog God Games; Author Scott Greene.
 
-#### Angel, Empyreal
+### Angel, Empyreal
 
 Empyreals are powerful angelic warriors about 9 feet tall with silver hair, blue eyes and dressed in shining armor. They have large, feathery, silver wings and milk-white skin. Empyreals are fiery, quick-tempered, and forceful, but always fair. To non-Lawful beings and Lawful creatures with fewer HD, the empyreal appears as a column of white fire. Once per day, an empyreal can increase its radiance to deal 8d6 damage to creatures within 60 feet, and blind them for 3d6 minutes (save for half damage, avoid blindness). An empyreal also radiates an aura in a 30-foot-radius that forces Chaotic creatures to save before they can attack the angel. This aura grants Lawful creatures a -2\[+2\] armor bonus.
 
 Empyreals have a number of spell-like abilities: at will—*continual light*, *detect evil*, *dispel magic*, *invisibility* (self only), *remove curse*; 2/day—*blade barrier*, *cure disease*, *cure serious wounds*; 1/day—*resurrection*, *raise dead*. Many can also cast spells as an 8th-level Cleric
 
-#### Angel, Monadic Deva
+### Angel, Monadic Deva (10 HD)
 
 Monadic devas are angels with silvery wings that patrol the Ethereal and Elemental planes. They serve as leaders and officers in celestial armies. Monadic devas wield two *maces +3/+5 vs. constructed creatures*. They are immune to acid and cold damage and death effects and suffer only half damage from electricity and fire. Monadic devas can use the following spells: *charm elemental* (per *charm monster*, but only affects elementals), *continual light*, *cure disease*, *cure light wounds* (7/day), *detect evil*, *dispel magic*, *hold monster* (1/day), *holy word*, *invisibility* (self only), *mirror image* (7/day), *polymorph self* and *remove curse*.
 
-#### Angel, Movanic Deva
+### Angel, Movanic Deva (8 HD)
 
 Movanic devas resemble broad-shouldered humans with silver hair, white eyes, and large feathery silver wings. Relatives of the monadic devas, they are usually found wandering the Positive or Negative Energy Planes or the Material Plane. Movanic devas directly aid powerful mortals when evil threatens the balance of the planes. In the celestial armies, movanic devas serve as soldiers.
 
 Movanic devas wield *+1 flaming greatswords*. Animals do not willingly attack movanic devas, and plant creatures cannot and do not attack them unless attacked first. Movanic devas can shift between planes at will. They can also use the following spells: *Anti-magic shell* (3/day)*, continual light, cure disease, cure light wounds* (7/day), *detect evil, dispel magic, invisibility* (self only), *plane shift, polymorph self, protection from normal missiles* (1/day) and *remove curse.*
 
-### Animal Lords
-
-For every animal species, there is a single ruler or lord, looked upon by those animals as a minor deity of sorts. The animal lord is the master of that species; for example, there is a fox lord, mouse lord, and a cat lord. Each animal can assume two forms: human and animal. Its animal form is always of a member of the species it represents. Animal lords are seen as protectors of nature and animals. They may step in and prevent hunters from destroying a race of animals or foresters from completely decimating a forest. They do not, however, interfere with nature itself (i.e., animals die, they are killed for food or clothing)—such is the way of the universe.
-
-#### Cat Lord
+### Animal Lord, Cat Lord
 
 There is only one. The Cat Lord is the Lord of All Felines. His natural form is that of a black panther with dark, ruby eyes. He can assume a human form, and in this form, he appears as a dark-skinned human with black hair, chiseled features, and ruby eyes. In human form, he almost always dresses in black. The Cat Lord spends his days roaming the planes. The Cat Lord can speak the secret language of druids.
 
@@ -156,7 +132,7 @@ Nine times per day, the Cat Lord can lick his wounds, curing 2d4 points of damag
 
 The Cat Lord sees five times as well as a human in shadowy illumination and normal light and can leap up to 30 feet forward, backward or laterally with minimal effort. The Cat Lord can communicate telepathically at a range of 100 feet.
 
-#### Mouse Lord
+### Animal Lord, Mouse Lord
 
 **Special**: Change shape, disease, magic resistance (95%), magical abilities, immune to mind-affecting effects (including illusions), surprise on 1-5 on 1d6, +1 or better weapon to hit
 
@@ -172,15 +148,11 @@ The Mouse Lord can use the following spells: *Astral spell* (1/day)*, confusion*
 
 *\* These creatures may be found in this book.*
 
-### Animated Objects
-
-Animated objects generally do not have minds of their own, being animated by a spell rather than by a spirit of some kind.They may follow programmed instructions, or might follow the orders of a master if the master is actually present. Since there are so many possible types of objects, and so many different ways in which an object might be animated, the exact details of the object are left to the Referee. Two examples are provided, although even with animated chairs and tables the exact details can (and should) occasionally differ.
-
-#### Animated Carpet
+### Animated Object, Carpet
 
 This version of an animated carpet attacks for no damage, but if the target is hit and fails a saving throw, the carpet holds the character, struggling, until a saving throw is successful.
 
-#### Animated Chair
+### Animated Object, Chair
 
 This version of an animated chair bumps against its opponents, with a successful hit causing the target to fall to the ground and take 1hp damage.
 
@@ -188,26 +160,15 @@ This version of an animated chair bumps against its opponents, with a successful
 
 Ankhegs are huge insects, 10 to 20ft long, resembling grasshoppers with vicious mandibles. They burrow through the ground, often in farmlands as well as in caverns. Once per day, an ankheg can squirt digestive acids for 5d6 points of damage (save for half), but this is a defense not used in normal hunting.
 
+### Ant, Giant (Worker)
 
-### Ant, Giant
-
-Giant ants live in vast subterranean hives tunneled through soil and even stone. A hive can hold as many as 100 ants, in a worker-to-warrior ratio of 5:1. The poison of a warrior ant does 2d6 points of damage if a saving throw is failed, 1d4 points of damage if the saving throw succeeds.
-
-#### Ant, Giant (Worker)
-
-[Giant Ant](http://www.swordsnwizardry.com/swords-and-wizardry-srd/for-the-referee/monsters/all-monsters#TOC-Ant-Giant) (Worker): **HD**: 2; **AC** 3 \[16\]; **Atk** Bite (1d6); **Save** 16; **Move** 18; **AL N;** **CL/XP** 2/30
-
-#### Ant, Giant (Warrior)
+### Ant, Giant (Warrior)
 
 The poison of a warrior ant does 2d6 points of damage if a saving throw is failed, 1d4 points of damage if the saving throw succeeds.
 
-[Giant Ant](http://www.swordsnwizardry.com/swords-and-wizardry-srd/for-the-referee/monsters/all-monsters#TOC-Ant-Giant) (Warrior): **HD**: 3; **AC** 3 \[16\]; **Atk** Bite (1d6 + poison); **Save** 14; **Move** 18; **AL N;** **CL/XP** 4/120; **Special**: Poison 2d6 (save for 1d4 only).
+### Ant, Giant (Queen)
 
-#### Ant, Giant (Queen)
-
-The queen of a [giant ant](http://www.swordsnwizardry.com/swords-and-wizardry-srd/for-the-referee/monsters/all-monsters#TOC-Ant-Giant) colony is larger, tougher, and slower than the average [giant ant](http://www.swordsnwizardry.com/swords-and-wizardry-srd/for-the-referee/monsters/all-monsters#TOC-Ant-Giant).
-
-[Giant Ant](http://www.swordsnwizardry.com/swords-and-wizardry-srd/for-the-referee/monsters/all-monsters#TOC-Ant-Giant) (Queen): **HD**: 10; **AC** 3 \[16\]; **Atk** Bite (1d6); **Save** 5; **Special** None; **Move** 3; **AL N;** **CL/XP** 8/800
+The queen of a giant ant colony is larger, tougher, and slower than the average [giant ant](http://www.swordsnwizardry.com/swords-and-wizardry-srd/for-the-referee/monsters/all-monsters#TOC-Ant-Giant).
 
 ### Ant Lion
 
@@ -331,8 +292,6 @@ The aurumvorax (also called the golden gorger) is an extremely vicious creature 
 
 Azers are dwarflike beings native to the Elemental Plane of Fire. They wear kilts of brass, bronze, or copper, and bear broad-headed spears or well-crafted hammers in combat. Their attacks deal +1 damage due to their intense heat. They are immune to fire damage. Stats are for the normal azer; sergeants and leaders can be much larger and will have more hit dice.
 
-## B
-
 ### Babbler
 
 Babblers are tall creatures that appear to a cross between a lizardman and a gorgosaurus. They have yellow scales, grey underbellies, and large, strong tails that keep them balanced when they stand on their hind legs. Most of their time is spent slithering on their stomach in search of prey. The babbler is a carnivore and is quite fond of human, elven, and dwarven flesh. They speak their own weird, gutteral language and understand Common but cannot speak it. A babbler making a surprise attack enjoys a +2 bonus to hit and damage.
@@ -340,8 +299,6 @@ Babblers are tall creatures that appear to a cross between a lizardman and a gor
 ### Baboon
 
 Baboons are vicious pack hunters, usually led by a stronger-than-normal alpha male. They might be susceptible to the influence of ancient and evil powers. Giant baboons stand 8ft tall on two legs, about twice the size of a normal baboon. As with normal baboons, they are susceptible to the influence of ancient and evil powers.
-
-
 
 ### Baccae
 
@@ -449,17 +406,15 @@ Giant bats are massive, man-sized cousins of the bat; they do not suck blood, bu
 
 These bats suck blood for automatic damage of 1d6 after a successful bite. They are the size of a falcon.
 
-### Bears
-
-#### Bear, Black
+### Bear, Black
 
 Black bears are smaller than grizzly bears and polar bears, and have a very broad size range, from 90 pounds (small females) to about 500 pounds (large males). If a black bear hits with both claws, it hugs for an additional 1d8 hit points of damage.
 
-#### Bear, Grizzly
+### Bear, Grizzly
 
 Very large brown bears, grizzlies hug for an additional 2d6 points of damage (if hitting with both claw attacks) and can automatically maintain the hold, crushing the victim and continuing attempts to bite as well.
 
-#### Bear, Cave or Polar
+### Bear, Cave or Polar
 
 Prehistoric bears and polar bears are even larger than a grizzly bear. When hitting with both claws, they hug for 3d6 points of damage.
 
@@ -481,49 +436,51 @@ A bedlam is a semi-amorphous, nearly vaporous creature composed of pure chaos. T
 
 Giant bees may be found in more than one variety: the giant bee addressed here is the hive-building honeybee. Other varieties include the larger giant bumblebees, which make nests rather than hives. The giant honeybee is essentially the same as normal bees, but they are the size of a football. Giant bees are not killed by stinging an opponent, but the sting only carries enough poison for one injection – if the bee continues to fight rather than fleeing, the sting will only inflict the normal damage caused by the stab itself. The honey produced by giant bees is of superlative quality, and the royal jelly produced to feed larvae has powerful medicinal properties.
 
-### Beetles (Giant)
+### Beetle (Giant), Arcane
 
-#### Beetle, Giant Arcane
+A gargantuan beetle with a carapace of mirror-like silver. Arcane Beetle are ideally suited as mounts for warring against magic-users and other arcane spellcasters due to their innate abilities. Any spell cast upon an Arcane Beetle, be it from spells or from magic items, is immediately reflected back at the wizard. *(Author: Skathros).*
 
-A gargantuan beetle with a carapace of mirror-like silver. Arcane Beetles are ideally suited as mounts for warring against magic-users and other arcane spellcasters due to their innate abilities. Any spell cast upon an Arcane Beetle, be it from spells or from magic items, is immediately reflected back at the wizard. *(Author: Skathros).*
-
-#### Beetle, Giant Blister
+### Beetle (Giant), Blister
 
 Blister beetles are 3 feet long with slick, dark green carapaces. Their legs are dark green or black and their mandibles are serrated, and black or green in color. When they snap them together, their mandibles produce an audible clicking sound that can be heard up to 10 feet away. When attacked, the beetle releases a foul stream of oily liquid up to 20 feet that irritates an attacker’s skin (1d3 damage, save avoids).
 
-#### Beetle, Giant Boring
+### Beetle (Giant), Boring
 
 Giant boring beetles are 9-foot long, with greenish-gray carapaces and wing-covers and black legs and mandibles. They feed primarily on wood, mold, fungus, and other organic matter and make their lairs inside ancient tunnels and caverns, where they harvest and grow molds and fungi. Shriekers are prized for both food and their use as alarms to warn the boring beetles of intrusion. Boring beetles are about 9 feet long. All boring beetles within 1 mile of each other are in constant communication. If one is aware of a particular danger, they all are. If one in the group is not surprised then none of them are.
 
-#### Beetle, Giant Deathwatch
+### Beetle (Giant), Deathwatch
 
 This creature appears as a giant beetle with a dark green carapace and wing-covers. Its body is covered in leaves and sticks. Its mandibles are silver and its legs are black. The death watch beetle makes its lair in forests and uses a mixture of saliva and earth to stick rubbish (leaves and twigs, for instance) to itself in order to attack by surprise. Once every hour, a death watch beetle can vibrate its carapace to produce a clicking noise that sets up vibrations in all creatures within 30 feet. Affected creatures with 6 HD or less must succeed on a saving throw or die immediately. Creatures with more than 6 HD or those that succeed on their saving throw take 4d6 points of damage. Since the effect stems from the vibrations set up in a victim’s body and not from the clicking noise itself, *silence* offers no protection against this attack. Likewise, a creature that cannot hear can still be affected.
 
-#### Beetle, Giant (Normal)
+### Beetle (Giant), Normal
 
 These stats are for a generic giant beetle about five feet long. Larger or smaller beetles might have different statistics or have unusual abilities; to reflect the vast range of possible sizes, assume one hit die and 1d4 damage per 1ft length of the monster. The common characteristics of giant beetles are a very good armor class (due to the carapace) and a single, strong bite from the mandibles. Uncommon varieties of giant beetle might have unusual characteristics – the giant fire beetle being a good example.
 
-#### Beetle, Giant Fire
+### Beetle (Giant), Fire
 
 A giant fire beetle’s oily light-glands glow reddishly, and continue to give off light for 1d6 days after they are removed (shedding light in a 10 ft. radius).
 
-#### Beetle, Giant Huhu
+### Beetle (Giant), Huhu
 
 This large winged beetle has a brown and yellow-striped carapace, horny black antennae and powerful jaws. Its barbed legs hook relentlessly into the victim’s hair, fur or clothing. It is attracted to light sources. The pale yellow HuHu grubs are extremely nutritious and taste like peanut butter. *(Author: Mudguard).*
 
-#### Beetle, Giant Rhinoceros
+### Beetle (Giant), Normal
+
+These stats are for a generic giant beetle about five feet long. Larger or smaller beetles might have different statistics or have unusual abilities; to reflect the vast range of possible sizes, assume one hit die and 1d4 damage per 1ft length of the monster. The common characteristics of giant beetles are a very good armor class (due to the carapace) and a single, strong bite from the mandibles. Uncommon varieties of giant beetle might have unusual characteristics – the giant fire beetle being a good example.
+
+### Beetle (Giant), Rhinoceros
 
 Giant rhinoceros beetles are 12-foot long beetles with grayish-brown carapaces and wing-covers and a large brownish-black “horns” between its mandibles. They are found in the warm jungles and forests of the world and spend their days searching for plants, fruits, and berries on which to sustain themselves. Giant rhinoceros beetles can trample smaller creatures by simply moving over them, inflicting 3d6 points of damage (save for half damage).
 
-#### Beetle, Giant Saw-Toothed
+### Beetle (Giant), Saw-Toothed
 
 A giant saw-toothed beetle has oversized serrated mandibles to chew and crush its food. These creatures are about 6 feet long. Their wing covers and carapace are silvery-green in color and have a dull sheen. Their legs are long with spiraling bands of green and black. Its compound eyes aid it in detecting creatures moving close by, though it usually relies on motion and scent to pick up its prey. If a serrated beetle hits with a bite, it holds the prey in is massive mandibles, automatically inflicting 1d6 damage in the next round until the creature is freed.
 
-#### Beetle, Giant Slicer
+### Beetle (Giant), Slicer
 
 This creature appears as a giant beetle with a triangular head and two long, razor sharp mandibles. Its body is black in color. It closely resembles a large stag beetle and is often mistaken for such. However, the slicer beetle is more aggressive than the stag beetle. The creature dines on carrion, fresh meat, and leaves. Slicer beetles are about 10 feet long, but can grow to lengths of 20 feet or more. If a slicer beetle scores a natural 20 on its attack roll and its victim fails a saving throw, it severs one of the opponent’s extremities (roll 1d6: 1-3 arm, 4-6 leg; 50% chance of either right or left).
 
-#### Beetle, Giant Water
+### Beetle (Giant), Water
 
 The highly aggressive giant water beetles average about 6 feet long though they can grow to a length of about 10 feet. Their body is cylindrical and hydrodynamic, tapering into a pointed tail section. Their body shape allows them to move rapidly through the water and also aids them in hunting, allowing them to dive quickly through the water when a target is spotted. Typical coloration is black or dark brown with their wing covers following their body coloration. Some species of giant water beetle have yellow legs or a silver stripe on their dorsal side. Females are slightly larger than males and have a red band around their front legs. They rarely come on land, and never venture far from a water source. Once per minute, a water beetle can eject a foul-smelling liquid from its abdomen that sickens creatures nearby.
 
@@ -735,14 +692,11 @@ Roughly ten feet in height, a bulette (boo-LAY) is covered in natural armor plat
 
 Bulettes, often called “landsharks,” resemble huge armadillos with wide, tooth-filled mouths. They burrow beneath the ground, and surge upward to attack prey. Bulettes can grow to be ten to fifteen feet long. Horses are a favorite food of bulettes.
 
-
-### Bumblebee, Giant
-
-#### Worker
+### Bumblebee, Giant (Worker)
 
 Giant bees live in enormous hives in massive tress, along cliffs or even tunneled through soil. A hive can hold as many as 100 bees and always contains one queen. The poison of a bee does 2d6 points of damage if a saving throw is failed, 1d4 points of damage if the saving throw succeeds.
 
-#### Queen
+### Bumblebee (Queen)
 
 The queen of a giant bee hive is larger and tougher, than the average giant bee. The poison of a bee does 2d6 points of damage if a saving throw is failed, 1d4 points of damage if the saving throw succeeds.
 
@@ -840,21 +794,19 @@ If a nest of centipedes manages to swarm over a character (either by landing on 
 
 A centipede nest is immune to any damage other than that caused by a bludgeoning weapon such as a mace (although the mere expedient of kicking and stomping can inflict 1d2 hps damage with a successful hit). Any spell which affects an area rather than a single target (such as burning hands) will inflict double damage. For every five hit points of damage inflicted by a nest of centipedes against a single opponent, there is enough poison injected into the victim’s body to cause paralysis for 3-12 turns. Fortunately, the poison is relatively weak (+2 on saving throw). *(Author: Matt Finch - First appeared in Monsters of Myth, published by First Edition Adventure Games.)*
 
-### Centipedes, Giant
-
-#### Centipede, Giant (Small, Lethal)
+### Centipede, Giant (Small, Lethal)
 
 Lethal giant centipedes of the small size inflict a deadly bite (+4 bonus to saving throw), but cause no damage if the saving throw is successful.
 
-#### Centipede, Giant (Small, Non-lethal)
+### Centipede, Giant (Small, Non-lethal)
 
 The non-lethal variety of giant centipede has a painful bits but its poison is only crippling, not lethal. Failing a saving throw (at a +4 bonus) against the poison of this centipede causes 1d4 rounds of crippling pain (the victim is helpless, as when asleep). Additionally, the limb (roll 1d4) is temporarily crippled (treat as a disease) for 2d4 days. A crippled leg reduces movement by 50%; a crippled shield arm cannot wield weapon or shield; a crippled sword arm attacks at -4. A second bite on a leg reduces movement to one quarter normal, and a third bite to the legs reduces movement to 1 foot per minute (prone, dragging oneself by the arms).
 
-#### Centipede, Giant (Man-sized)
+### Centipede, Giant (Man-sized)
 
 The man-sized giant centipede is a deadly predator with armored segments, a strong bite, and a lethal (though relatively weak) poison.
 
-#### Centipede, Giant (Large, 20 ft. long)
+### Centipede, Giant (Large, 20 ft. long)
 
 A twenty-foot long horror of chitin, multiple legs, and clashing pincers dripping with venom.
 
@@ -949,17 +901,7 @@ Perhaps more dangerous than the cloaker’s ability to enfold an opponent is its
 
 Finally, cloakers have the ability to manipulate darkness and shadows. They can cause *darkness 15-ft. radius* whenever desired, and as long as shadows or darkness are present, they can create shadowy *mirror images* of themselves (as per the spell) once per day (1d4 images).
 
-### Clockworks
-
-Clockworks are the creations of powerful machines called brain gears. Each clockwork creature varies from its brethren and each is assigned a task by the brain gear that created it. Clockworks are automatons and follow orders without question. It is through these various clockwork creations that brain gears seek to destroy all living creatures. They come in a wide variety of shapes and sizes.
-
-The clockwork creations controlled by a brain gear share several characteristics. Most constructs are immediately destroyed when reduced to 0 hit points. Clockworks with the self-repair special quality, however, are not destroyed at 0 or less hit points. While they do cease to function, they continue to self-repair, only at a slower rate. Once it has self-repaired itself to at least 1 hit point, the clockwork begins functioning normally again.
-
-Some clockworks (see below) can automatically repair themselves with spare parts and scrap, and a built-in mechanism allows them to self-repair even when seemingly destroyed. The clockwork automatically heals damage at a fixed rate per round, as given in the clockwork’s entry. Certain attack forms, typically acid, cold, and fire cannot be self-repaired. The clockwork’s descriptive text describes the details.
-
-A clockwork with self-repair can repair lost limbs (including its head), but it takes 3d6 rounds to do so. A clockwork reduced to 0 or less hit points is not destroyed, but begins to self-repair damage at one-half its normal rate (minimum 1 hit point per round). It still cannot repair damage dealt by acid, cold, or fire effects. For example, a clockwork with self-repair 3 normally regains 3 hit points per round. If reduced to 0 or less hit points, it regains 1 hit point per round until it has at least 1 hit point (at which time it self-repairs at its normal rate).
-
-#### Clockwork — Brain Gear
+### Clockwork — Brain Gear
 
 The original brain gear began as little more than a collection of gears, chains, counterweights, and levers, but was enhanced and grown into a controlling intellect through a process very similar to flesh golem creation. A brain gear in its true form resembles nothing more than a copper or gold box or cube that shines with a pale blue light. It is immobile, cannot attack, or speak. The casing of a brain gear is so hard that it ignores up to 5 points of damage from physical attacks.
 
@@ -973,39 +915,39 @@ The brain gear has a limited ability to send psychic messages to multiple creatu
 
 The secrets of clockwork construction are known only to the brain gear and to those it employs.
 
-#### Clockwork Drone
+### Clockwork, Drone
 
 Clockwork drones appear as human eyeballs encased within flat, metal disks. Imbued with magic that allows it to fly, a drone’s approach is announced by a low buzzing sound caused by its tiny gears and pistons working furiously to maintain this magical field. These clockworks are designed to act as observers. When a drone finds an advantageous position from which to maintain its watch, it uses a small, metallic claw on its underside to attach itself to a surface. Drones usually avoid combat at all costs. When they are pressed into fighting, they prefer to aid their fellow clockworks by distracting their enemies.
 
-#### Clockwork Overseer
+### Clockwork, Overseer
 
 Overseers are a recent invention of the brain gears. They look like three-foot tall wooden dolls with long, slender limbs. An overseer can journey up to 10 miles away from a brain gear while maintaining contact with it. An overseer acts as a field commander for brain gears, controlling up to 20 HD worth of clockworks that are within 100 feet of its position so long as the overseer remains within 10 miles of the brain gear. An overseer avoids direct combat at all costs under direct orders of a brain gear. If cornered with no way of escaping, an overseer fights, and attempts to flee as soon as possible.
 
-#### Clockwork Parasite
+### Clockwork, Parasite
 
 Clockwork parasites are fist-sized constructs that resemble mechanical beetles. They burrow into the skulls of the recently dead and reanimate the body using electrical impulses to control and direct the corpse. The animated corpses look and fight like zombies, though they cannot be turned or controlled. A host brought to 0 or less hit points is destroyed, but can be repaired by the clockwork parasite using its self-repair ability (though this only works if the host is brought to 0 or less hit points; a host does not gain the self-repair ability of the parasite while “alive”). A clockwork parasite regains 3 hit points per round. Damage dealt from acid, cold, or fire effects cannot be self-repaired. If reduced to 0 or less hit points, it regains 1 hit point per round (but still cannot repair damage caused by acid, cold, or fire effects) until it has at least 1 hit point (at which time it begins to self-repair at its normal rate of 3 hit points per round).
 
-#### Clockwork Scout
+### Clockwork, Scout
 
 Scouts are constructed to resemble animals commonly found in the area that the brain gear operates within. Their inner wood and metal workings are covered by an animal’s pelt. Characters have only a 1 in 6 chance to notice the deception (2 in 6 for demi-humans and 3 in 6 for druids and rangers). This camouflage helps them move about unnoticed and gives them the opportunity to strike from ambush. They are designed to serve as the mobile eyes and ears of a clockwork colony. While still restricted by the 2-mile radius they must remain within to keep contact with a brain gear, scouts serve an important role as reconnaissance, patrol, and pursuit troops. Only if the scouts have a chance to strike from a devastating ambush does the brain gear order them into battle.
 
-#### Clockwork Swarm
+### Clockwork, Swarm
 
 Clockwork swarms are a collection of tiny, insect-like clockworks that work together as a single creature. An individual member of the swarm poses little threat. Yet when acting in concert, a swarm poses a deadly threat to adventurers. Much like the clockwork warrior, the clockwork swarm forms a fighting frame from random pieces of trash, debris, and other cast-offs. The swarm, however, is much more capable of adapting to new situations and surviving combat. Unless the individual components of the swarm are destroyed, it simply reforms and continues its attack. Area of effect attacks, such as burning oil, *fireball*, or *lightning bolt* are the most effective means of destroying the swarm. A clockwork swarm typically appears as a ramshackle collection of spare parts and garbage draped in a thick, web-like substance and arranged in a vaguely humanoid form. Living creatures engulfed by the clockwork swarm must pass a saving throw or be unable to act during that round.
 
 A clockwork swarm regains 3 hit points per round. Damage dealt from acid, cold, or fire effects cannot be self-repaired. If a clockwork swarm takes damage from an area attack, it is unable to repair itself for 1d6 rounds following the attack. If reduced to 0 or less hit points, it regains 1 hit point per round (but still cannot repair damage caused by acid, cold, or fire effects) until it has at least 1 hit point (at which time it begins to self-repair at its normal rate of 3 hit points per round).
 
-#### Clockwork Titan
+### Clockwork, Titan
 
 Clockwork titans are huge, crab-like mechanical monstrosities. They have saucer-shaped hulls set atop four spindly legs that allow it to move with surprising speed and agility. Two iron-shod fists are mounted on the front of the hull. The clockwork titan has a long reach, and can attack from behind a line of clockwork warriors.
 
-#### Clockwork Warrior
+### Clockwork, Warrior
 
 Clockwork warriors are constructed from a wide range of materials but take the same general form of a 6-foot tall armored humanoid. They all feature a “nervous system” of thin steel wires that controls their individual pieces. Tiny clockworks that look much like metallic cockroaches infest the warrior, working to repair damage sustained by this construct. These tiny clockworks repair 1 hit point per round. Acid, fire, and cold effects destroy these maintenance clockworks, thus preventing the warrior from repairing damage from those sources. Unlike clockwork swarms (see below), the clockworks that repair the warrior lack the intelligence and sophistication to tackle any other task.
 
 **Clockworks** from the [Tome of Horrors Complete](http://shop.d20pfsrd.com/products/sw-the-tome-of-horrors-complete), Copyright 2011, Necromancer Games, Inc., published and distributed by Frog God Games; Authors Mike Mearls and Scott Greene.
 
-### Clockwork Bronze Giant
+### Clockwork, Bronze Giant
 
 A clockwork bronze giant is a massive automaton standing 25 feet tall constructed entirely of bronze. Other clockwork giants are rumored to be crafted of iron, steel, bronze or other metals. Clockworks giants have no mind of their own and follow commands and orders given by their creator. Lightning heals a 3 hit points per level of the spell cast at a clockwork bronze giant. They are immune to all other spells.
 
@@ -1081,7 +1023,7 @@ Crab men are bipedal creatures with a crab-like exoskeleton and a pincer at the 
 
 This giant-sized creature is a bipedal humanoid with a crab-like head, large hands that end in powerful pincers, feet that are splayed. It is covered with chitinous plates, reddish-brown in color. Two smaller humanoid arms protrude below its pincers. Crabmen inhabit coastal waters, hunting fish and gathering food. Crabmen communicate with others of their race through a series of hisses and clicks. A typical crabman stands about 9 feet tall. They speak their own language, and more intelligent examples of their species often speak Common. Crabmen are passive and peaceful creatures, rarely engaging in combat. Crabmen attack with their claws; their pincers prevent them from wielding weapons. Their humanoid arms end in human-like hands and are used for fine dexterity and manipulation; they are too weak to wield weapons effectively. Crabmen can survive indefinitely on land and under water. Crabmen make their homes in sea caves and coastal cliffs. Most tribes are led by male or female elders.
 
-#### Crabmen as Characters
+**Crabmen as Characters**
 
 Crabmen are rather hulking brutes, despite their passive dispositions. They begin the game with an extra hit dice and are capable of swimming at a speed of 9. Their chitinous exoskeletons provide an AC of 3 \[16\], which is convenient since crabmen are incable of wearing armor or using shields. Their pincer attacks do 1d6 points of damage - again, this is convenient since they are incapable of using weapons, their second set of humanoid arms being too frail for such heavy work.
 
@@ -1099,13 +1041,21 @@ Sometimes called living stalagmites, crag men appear as a normal stalagmite. In 
 
 Giant crayfish are freshwater creatures that dwell on the bottom of seas, lakes, ponds, and other shallow waters. They are predators and scavengers and exist on a diet of decaying flesh (dead fish and other water-based animals), algae, snails, worms, and other animals (including swimmers who come to close to their lair). Giant crayfish make their homes under rocks or in underwater tunnels burrowed out by the crayfish. Most underwater tunnels extend over long distances and include a “chimney” found along the edge of the water or even as far as 100 feet away from the water which allows the giant crayfish to enter and exit its passageways onto dry ground. A giant crayfish can survive out of the water for up to 7 hours before suffocating.
 
-### Crocodiles
+### Crypt Thing
 
-#### Crocodile, Normal
+Crypt things are hooded and robed skeletons found sitting in high-backed chairs, its eyes appearing as small pinpoints of reddish light. They are created by spellcasters as tomb guardians. They never leave their assigned area and never initiate combat. A crypt thing is content to sit (or stand) in its assigned area so long as intruders do not disturb it or anything in the assigned area. At the first sign of disturbance however, a crypt thing springs to life. Its first order of business is to attempt to remove the interlopers from its assigned area by teleporting them 1d10 x 100 feet in a random direction (roll 1d4: 1, north; 2, south; 3, east; 4, west). The recipient of this free, unplanned trip can resist it with a saving throw. A teleported creature arrives in the closest open space at the determined destination. A teleported creature can arrive in mid-air rather than on a solid surface, if the crypt thing wishes.
+
+**Create Crypt Thing**
+
+**Spell Level**: Cleric and Magic-User, 7th Level **Range**: 60 feet **Duration**: Instantaneous
+
+This spell allows you to animate a single corpse into a crypt thing. This spell must be cast in the area the creature is to guard or it fails. The corpse must be mostly intact and must be humanoid-shaped and have a skeletal system or structure. Only one crypt thing is created with this spell, and it remains in the area where it was created until destroyed. A black pearl gem worth at least 300 gp must be placed inside the mouth of the corpse. When the corpse animates, the gem is destroyed.
+
+### Crocodile, Normal
 
 Some normal crocodiles are man-eaters; all are dangerous and can conceal themselves well. Normal crocodiles can grow to be as long as 15 ft.
 
-#### Crocodile, Giant
+### Crocodile, Giant
 
 The smallest of giant crocodiles are about 20ft long (normal crocodiles can grow to be as long as 15-ft).
 
@@ -1119,19 +1069,9 @@ Crumblers are mountain and cavern-dwelling “rock men,” who serve as guardian
 
 *(Author: Old Crawler).*
 
-### Crypt Thing
-
-Crypt things are hooded and robed skeletons found sitting in high-backed chairs, its eyes appearing as small pinpoints of reddish light. They are created by spellcasters as tomb guardians. They never leave their assigned area and never initiate combat. A crypt thing is content to sit (or stand) in its assigned area so long as intruders do not disturb it or anything in the assigned area. At the first sign of disturbance however, a crypt thing springs to life. Its first order of business is to attempt to remove the interlopers from its assigned area by teleporting them 1d10 x 100 feet in a random direction (roll 1d4: 1, north; 2, south; 3, east; 4, west). The recipient of this free, unplanned trip can resist it with a saving throw. A teleported creature arrives in the closest open space at the determined destination. A teleported creature can arrive in mid-air rather than on a solid surface, if the crypt thing wishes.
-
-#### Crypt Guardian
+### Crypt Guardian
 
 There exists in some parts of the world (and perhaps only truly in legend; sages aren’t sure) a variant of the crypt thing known as a crypt guardian. This variant has all the same abilities and powers as a normal crypt thing, with the following changes. The variant does not possess the ability to teleport others. Instead, it can simultaneously paralyze and turn invisible all creatures within 50 feet. An affected creature can make a saving throw to negate the effects. Affected creatures remain paralyzed and invisible for 2d4 days. A new save is allowed each day until the effects are broken, dispelled, or the duration ends.
-
-#### Create Crypt Thing
-
-**Spell Level**: Cleric and Magic-User, 7th Level **Range**: 60 feet **Duration**: Instantaneous
-
-This spell allows you to animate a single corpse into a crypt thing. This spell must be cast in the area the creature is to guard or it fails. The corpse must be mostly intact and must be humanoid-shaped and have a skeletal system or structure. Only one crypt thing is created with this spell, and it remains in the area where it was created until destroyed. A black pearl gem worth at least 300 gp must be placed inside the mouth of the corpse. When the corpse animates, the gem is destroyed.
 
 ### Crystal Growth
 
@@ -1153,27 +1093,23 @@ A crystalline horror is a weird, unnatural humanoid made entirely of crystal and
 
 A crystallis is formed of quartz, earth, and crystal and stands about 13 feet tall. Its powerful arms and legs end in razor-sharp claws that glint and shine like polished steel. Its large rounded head sports two sunken crystalline eyes and a gaping toothless maw. A crystallis attacks with razor-sharp crystalline claws that cause opponents to bleed each round for 2 hit points of damage until a healing spell is cast on the creature. Once every 1d4+1 rounds, the creature can breathe a cloud of orange smoke that fills a 10-foot cube in front of the crystallis. Anyone inside this smoke must save or be turned into a crystal, gem-encrusted statue.
 
-### Daemons
-
-Demons are creatures of the lower planes of existence, but they are occasionally encountered in places where they have been enslaved to serve as guardians by powerful magic-users or evil priests. The more intelligent varieties might also be interrupted while carrying out plots of their own. *Swords & Wizardry* makes no game distinction between demons and daemons, for the convenience of those using only a three-alignment system; all are simply creatures of the lower planes, to be used as desired with the Referee’s own campaign.
-
-#### Daemon, Cacodaemon
+### Daemon, Cacodaemon
 
 Cacodaemons are tall, sleek, ebony humanoids with long, thick arms that end in powerful claws. The average cacodaemon stands about 7 feet tall and weighs about 800 pounds. They have sleek, hairless heads and bright, fiery red eyes. Their mouths are lined with sharpened teeth and fangs. They are employed as guards and soldiers in the Oinodaemon’s palace. Cacodaemons are completely loyal to the Oinodaemon and never question their position or authority; they do not take orders from any other daemon. Cacodaemons are relentless combatants and never back down from a fight. They often begin combat by changing forms and appearing as a race friendly to their potential opponents. Once an opponent is lured close to the cacodaemon, it changes to its natural form and attacks. Cacodaemons can cast the following spells: *darkness, esp, fear* and *hold person* (3/day).
 
-#### Daemon, Charon (Boatman of the Lower Planes)
+### Daemon, Charon (Boatman of the Lower Planes)
 
 Charon spends his time ferrying dead souls to their final resting place in the Lower Planes. He appears as a skeleton shrouded in a dark hooded robe with small pinpoints of crimson light burning in his empty eye sockets. He uses a large, flat skiff to ferry his passengers across the dangerous waters of the River Styx. On occasion, he ferries living souls to a desired location within the Lower Planes, though he charges a hefty price for such passage. A rare and costly (to one’s sanity) spell can be used to summon the dread boatman. Passage for living souls across the River Styx costs a single magic item, 500 pp, or two gems of at least 1,000 gp total value. If his price is refused, Charon turns his skiff and moves away. If attacked, Charon attacks but seeks to escape as soon as possible. Those within 30 feet meeting Charon’s gaze must succeed on a saving throw or be paralyzed with fear for a number of rounds equal to the value by which they failed their saving throw. A creature hit by Charon’s staff must succeed on a saving throw or be paralyzed for 2d6 minutes. Charon can see through invisibility. Once per day he can trace a s*ymbol of fear* or *symbol of stunning*. Three times per day, Charon can summon 2d4 charonadaemons. Charon can control the waters of the River Styx as if using the *control water* spell. Additionally, he can form a 16 HD water elemental using this ability. A Styx elemental uses the standard 16 HD water elemental statistics with the addition that its touch causes *feeblemind* in those who fail a saving throw. Charon can roam the planes in its skiff at will.
 
-#### Daemon, Charonodaemon
+### Daemon, Charonodaemon
 
 Charonadaemons resemble their master, Charon, the Boatman of the Lower Planes, and are often mistaken for him. Unlike their master, they care nothing for ferrying souls across the River Styx and merely seek to murder or steal from those that request passage. Travel across the River Styx by a charonadaemon costs a single magic item, 50 pp, or 2 gems (total value of both gems must be at least 100 gp). Even if the price is paid, the charonadaemon usually betrays his passengers, attempting to dump them into the River Styx or kill them outright. If more money or fare is offered, the charonadaemon might be persuaded not to attack. A charonadaemon can be summoned to the banks of the River Styx by casting *symbol* (any). Those within 30 feet meeting the gaze of a charonadaemon must succeed on a saving throw or be paralyzed with fear for a number of rounds equal to the value by which they failed their saving throw. Charonadaemons can cast, at will, the spells *cause fear* and *darkness*, and they can discern invisible creatures. Charonadaemons can roam the planes in their skiffs at will.
 
-#### Daemon, Dhergodaemon
+### Daemon, Dhergodaemon
 
 The derghodaemon is one of the strongest of the daemon races, but its low intelligence has relegated it to a position of brute warrior and little more. It is a tall, bloated, insect-like creature with five arms and three legs. Each of its arms ends in a sharpened, clawed hand. Its legs end in four-toed feet. Its flesh is mottled green and black and its eyes are large and black with no pupils. A derghodaemon stands 8 feet tall and weighs about 800 pounds. Twice per day, by clicking its mandibles, a derghodaemon can affect all creatures within 30 feet as if by a *feeblemind* spell. A derghodaemon’s head can rotate 360 degrees, making it almost impossible to surprise the creatures or back stab them. In addition, they can see invisible creatures. Derghodaemons can cast, at will, the spells *cause* *fear*, *darkness* and *sleep*.
 
-#### Daemon, Guardian
+### Daemon, Guardian
 
 A guardian daemon is summoned to the Material Plane by a spellcaster with the task of guarding an area or treasure. These daemons vary in size and appearance, though most resemble large bears, wild cats, or apes with added daemonic characteristics (horns, elongated fangs and nails, and so on). Despite its varying appearance and form, the guardian daemon is a dangerous adversary. Most guardian daemons are of neutral slant, though many, due to their daemonic heritage, are chaotic and usually only serve those of like alignment.
 
@@ -1183,11 +1119,11 @@ Three times per day a guardian daemon can breathe a cone of fire 30 feet long wi
 
 Guardian daemons are immune to mind-affecting effects (charms, compulsions, phantasms, patterns, and morale effects), *sleep, hold,* and *polymorph*. They cannot be harmed by acid and poison.
 
-#### Daemon, Hydrodaemon
+### Daemon, Hydrodaemon
 
 Hydrodaemons are frog-like daemons that swim the River Styx. They are the only known creatures in existence that can touch the waters of the Styx without suffering any ill effects. Hydrodaemons are 10 feet tall and weight about 4,000 pounds. Large flaps of skin under their arms allow them to glide when leaping. The flesh of a hydrodaemon is warty and green. Its eyes are a sickly yellow in color. Up to five times per day a hydrodaemon can expel a 20-foot long line of sputum that causes those hit to save vs. sleep (as the spell) for 6 rounds. Hydrodaemons can, at will, cast *cause fear, darkness, detect magic* and *dimenson door*. Once per day, they can summon an 8 HD water elemental.
 
-#### Daemon, The Oinodaemon
+### Daemon, The Oinodaemon
 
 The Oinodaemon claims rulership over all other daemons. There is no other single figure in the lower planes that commands more respect (and fear) than the Oinodaemon (excepting a few powerful arch devils). His position is constantly threatened by those that would usurp the throne and take the position for themselves. There are believed to be at least seven other extremely powerful daemons vying for the throne and title. Through subtle machinations, sheer power, and fear, the Oinodaemon has staved them off thus far.
 
@@ -1201,11 +1137,11 @@ Oinodaemon can cast spells as a 12th level cleric, as well as *detect magic, dis
 
 ***Staff of the Lower Planes:*** This 12-foot long, black wooden staff can only be wielded by the current Oinodaemon or any daemon he allows to wield it. In anyone else’s hands, the staff functions as a normal quarterstaff. Upon the current Oinodaemon’s death, the staff can be wielded (and it functions as detailed below) by the new Oinodaemon. The staff has the power of a staff of withering and can cast a charm monster spell that affects up to 20 targets, can lay a geas upon a person and can grant another’s wish.
 
-#### Servants of the Oinodaemon
+**Servants of the Oinodaemon**
 
 Followers of the Oinodaemon are usually evil humanoids and often consist of clerics and necromancers. Clerics of the Oinodaemon are called Servants of Decay and must sign a pact of evil with the Oinodaemon. Servants of Decay can receive cleric spells up to 3rd level from the Oinodaemon.
 
-#### Daemon, Piscodaemon
+### Daemon, Piscodaemon
 
 Piscodaemons look like 7-foot tall bipedal lobsters with long, gangly arms that end in powerful pincers. It has a short, fish-like tail on its posterior and a centipede-like head with several small tentacles located beneath its mouth and looking like a writhing beard. Piscodaemons are found throughout the Lower Planes bullying and killing weaker creatures. They are often themselves used as cannon fodder or slaves by the more powerful races of the Lower Planes. If a piscodaemon scores a natural 20 on its attack roll with a claw attack and its victim fails a saving throw, it severs one of the opponent’s extremities (roll 1d6: 1-3 arm, 4-6 leg; 50% chance of either right or left). A piscodaemon’s mouth tentacles are poisonous, affecting a victim as though with a slow spell for 1 minute if a saving throw is failed. Piscodaemons can cast the following spells: *Blink, cause fear, darkness, stinking cloud and mirror image* (2/day). The piscodaemon’s faceted eyes can see in all directions, making it difficult to surprise. In addition, they can see invisible creatures and objects.
 
@@ -1281,39 +1217,31 @@ A demilich is a skull with gems in place of its eyes and teeth. Demiliches canno
 
 The demiurge is the undead spirit of an evil human returned from the grave with a wrathful vengeance against all living creatures that enter its domain. The demiurge is very territorial, usually haunting an area of up to three square miles from its place of death. It appears as a humanoid with sunken nose, hollow eye sockets, and sickly pale white, semi-transparent flesh. Its hair is unkempt and dirty, and its clothes are nothing more than rags that hang loosely from its translucent form. Any creature within 30 feet meeting the demiurge’s gaze must succeed on a saving throw or be transfixed for one turn as if affected by a hold person spell. The touch of the demiurge brings the cold of the grave and deals 1d4 points of damage to a living creature touched. A creature that is moved through by a demiurge must pass a saving throw or die from shock. Animals can sense the unnatural presence of a demiurge at a distance of 30 feet. They will not willingly approach nearer than that and panic if forced to do so; they remain panicked as long as they are within that range.
 
-### Demodands
-
-Demons are creatures of the lower planes of existence, but they are occasionally encountered in places where they have been enslaved to serve as guardians by powerful magic-users or evil priests. The more intelligent varieties might also be interrupted while carrying out plots of their own. *Swords & Wizardry* makes no game distinction between demons and demodands, for the convenience of those using only a three-alignment system; all are simply creatures of the lower planes, to be used as desired with the Referee’s own campaign.
-
-#### Demodand, Shaggy
+### Demodand, Shaggy
 
 The mighty shaggy demodands are the ruling class of the demodand race. No greater demodands are known to exist, though rumors lately hint at a single, powerful demodand of near-deity status. Shaggy demodands are by far the most malign, selfish, evil, and ruthless of the tripartite race of demodands. They are the nobility and upper class of demodand society and commanders of the demodand armies. A typical shaggy demodand stands 6 feet tall and weighs about 550 pounds. They resemble bipedal frog-like creatures with crimson skin. Shaggy demodands are bloated and their skin hangs in great folds about its body. Large, bat-like wings protrude from the creature’s shoulders. Shaggy demodands can cast the following spells: *Charm monster* (1/day), *cloudkill* (3/day), *dispel magic* (1/day), *ESP, gaseous form, invisibility (self),* and *obscuring mist* (3/day).
 
-#### Demodand, Slime
+### Demodand, Slime
 
 Slime demodnads are 6 to 7-foot tall, bloated, slimy, black humanoids with large bat-like wings protruding from their shoulders. Its skin constantly drips and oozes a thick white-gray mucus. It has thick elephantine legs and long, powerful arms that end in razor-sharp talons. Slime demodands delight in torturing creatures of lesser skill and rank than themselves. The slimy secretions of the slime demodand are highly acidic, thus any contact with its skin causes 1d6 points of damage. Creatures hit by all three of the demodand’s attacks in a round are covered in the acidic slime and suffer 1d6 points of damage per round until they are doused in either sand or alcohol. Wine cuts the damage in half and water has no effect. Slime demodands exude a stench to a range of 30 feet. Any living creature in the area must succeed on a saving throw or become sickened, suffering a -2 penalty to hit and save each round they are in the area and 2d6 rounds after leaving the area. Slime demodands can cast the following spells: *Cause fear, dispel magic* (1/day), *ESP,* *gaseous form, invisibility (self)* and *obscuring mist*.
 
-#### Demodand, Tarry
+### Demodand, Tarry
 
 Tarry demodands are tall gray-skinned humanoids with green eyes and a long, oval heads. Two large, dull gray bat-like wings sprout from its shoulders. Its hands end in blackened claws. Cruel, malevolent creatures, they wander the planes of Tarterus as soldiers and warriors in the mighty demodand armies. Tarry demodands care little for anything and attack and kill just about anything weaker than themselves. When they take damage, they have a 50% chance of flying into a rage, gaining +2 bonus to hit and damage and suffering a -2 penalty to Armor Class. A tarry demodand exudes a thick tar-like substance that acts as a powerful adhesive, holding fast any creatures or items touching it. Removing a stuck item or body part requires an open door check. Because of their adhesive skin, tarry demodands enjoy a +2 bonus to grapple and pin opponents in combat. Strong alcohol dissolves the adhesive. A pint of wine or a similar liquid weakens it, but the tarry demodand can still grapple normally. A tarry demodand can dissolve its adhesive at will, and the substance breaks down 1 minute after the creature dies. Tarry demodands can cast the following spells: *Cause fear, dispel magic* (1/day), *ESP,* *gaseous form, invisibility (self)* and *obscuring mist*.
 
-### Demons
-
-Demons are creatures of the lower planes of existence, but they are occasionally encountered in places where they have been enslaved to serve as guardians by powerful magic-users or evil priests. The more intelligent varieties might also be interrupted while carrying out plots of their own. *Swords & Wizardry* makes no game distinction between demons and devils, for the convenience of those using only a three-alignment system; all are simply creatures of the lower planes, to be used as desired with the Referee’s own campaign.
-
-#### Demon, Achaierai
+### Demon, Achaierai
 
 Achaierai resemble hellish birds standing fifteen feet tall on four stilt-like legs with cruel talons. Three times per day an achaierai can breathe a black cloud of gas, inflicting 1d6 points of damage and requiring a saving throw to prevent being affected as if by a Confusion spell. As demons, they are immune to fire.
 
-#### Demon, Aeshma (Rage Demon)
+### Demon, Aeshma (Rage Demon)
 
 Aeshma are demons of rage. They creature are 8-foot tall humanoids with basalt-colored skin. Dark hair covers its head and its hair is long and braided. Its arms are well-muscled and its hands end in powerful claws. Its head is human-like and its eyes are sapphire blue. Large leathery, bat-like wings protrude from its shoulders. Aeshma, sometimes called “fiends of the wounding spear”, sometimes command battalions of lesser demons, usually vrocks or dretches. An aeshma that is reduced to half it normal hit points in combat flies into a berserk rage on its next turn, swinging madly with its longspear. A raging aeshma fights until either it or its opponent is dead and gains an additional attack each round. Aeshma continuously see invisibility. They can cast a web spell twice per day. Aeshma carry long *+1 spears* that cause terrible wounds when they hit. Creatures wounded by these spears suffer 1d2 points of damage each round after they are wounded from blood loss until the wounds are bound or magically healed.
 
-#### Demon, Alu-
+### Demon, Alu-
 
 The alu-demon is the female demonic offspring of a succubus and human. Though part demon, not all alu-demons are inherently chaotic (although lawful alu-demons are extremely rare). The typical alu-demon has black or brown hair and dark green, brown, or black eyes. Alu-demons might be sent to the Material Plane to seduce mortals. When on such missions they typically arrange their flowing hair so it hides their horns and also fold their wings against their backs (and tuck them under their robe, shirt, or whatever garment of clothing one happens to be wearing at the time). Each time an alu-demon hits with its claw attack it gains temporary hit points equal to the damage she inflicts. These temporary hit points disappear in one hour. Alu-demons can cast the following spells: *Charm person* (3/day), *dimension door* (1/day), *ESP* (3/day) and *suggestion* (1/day).
 
-#### Demon, Arauk (First-category Demon)
+### Demon, Arauk (First-category Demon)
 
 Arauks are a somewhat lesser-known first-category demon, unrelated to the Vrock type but roughly equal in strength to the other type. Arauk demons have heads resembling that of a horsefly and legs like a goat’s; the demon’s hair-covered torso is human, but with four arms. They have bat-like wings, but they are slow and clumsy fliers.
 
@@ -1321,7 +1249,7 @@ Arauks take only half damage from electricity, cold, fire, and poison gas. They 
 
 Arauk demons can be hit by normal weapons. They can *gate* in another Arauk (10% chance of success). *(Author: Matt Finch)*
 
-#### Demon, Baalroch (Balor) (Sixth-category Demon)
+### Demon, Baalroch (Balor) (Sixth-category Demon)
 
 Editor's Note
 
@@ -1337,15 +1265,15 @@ The Baalroch’s name means, roughly, the Bull of Baal: the Baal-aurochs (the au
 
 Baalrochs may attempt to gate in an ally with a 70% chance of success. The responding demon will usually be a third-category demon (01-80 on 1d100) but an unusually successful summoning might call a fourth-category demon (81-00 on 1d100).
 
-#### Demon, Balban (Brute Demon)
+### Demon, Balban (Brute Demon)
 
 A balban demon resembles a 12-foot-tall bipedal elephant. Balbans attack with its two fists. If it hits a single opponent with both fists, it pounds the victim into the ground for an additional 2d6 points of damage. Balbans can charge and trample creatures for 2d8 points of damage (save avoids).
 
-#### Demon, Cambion
+### Demon, Cambion
 
 When an incubus mates with a human female, the offspring is a cambion. Cambions, unlike their “sisters” the alu-demons, are always chaotic and care little for anyone or anything but their own well-being. They are selfish, self-centered, and egotistical. Cambions hate humans and are often employed as assassins. Cambions are always male. The typical cambion stands 6 or 7 feet tall and weighs 200 pounds or more. It is stocky in build and has scaly skin of various colors, with blue being the most common, small fangs, tiny horns and crimson eyes. Cambions usually speak the common tongue of men, the secret language of demons and at least one other language. Cambions can cast *cause fear, ESP,* *levitate* and *polymorph* *self* at will.
 
-#### Demon, Coral
+### Demon, Coral
 
 Coral demons are often associated with the Demon-Lord Thalasskoptis, although not all coral demons are in his service. These horrific undersea demons are often found leading large bands of water-ghouls and sea-wights when on the material planes of existence. Such a group will generally be composed of 1d6 sea-wights and 1d10+10 water-ghouls.
 
@@ -1355,31 +1283,31 @@ Coral demons have all the normal powers and resistances of demons, taking half d
 
 Clearly, coral demons are considerably weaker on land than under the water, and they seldom venture too far from their natural element. In the dark and dreaded seas of the abyss, coral demons are common, and few other demons venture willingly into the territories they claim as their own. *(Author: Matt Finch)*
 
-#### Demon, Chaaor (Beast Demon)
+### Demon, Chaaor (Beast Demon)
 
 A chaaor is a 12-foot-tall, hulking, ape-like brute with the head of a bear. Large downward curving, grayish-silver horns grow from its head and end in rounded points. A chaaor’s body is covered in reddish-black fur and is almost always caked or matted in blood. The powerful arms of a chaaor end in razor-sharp and filthy black claws. Long rows of sharpened teeth fill the chaaor’s mouth. When moving, the chaaor usually drops to all fours. When facing an aggressor it assumes a bipedal stance. If a chaaor hits with both claw attacks, it tears the flesh of its opponent for an automatic 2d8 points of damage. Three times per day, a chaaor can let loose a deadly roar that does 3d6 points of damage to all creatures within 60 feet (save for half). At will a chaaor can create *darkness* (15 foot radius) and *teleport*. Chaaor are immune to electricity and poison, and take half damage from cold, fire and acid.
 
-#### Demon, Choronzon (Chaos Demon)
+### Demon, Choronzon (Chaos Demon)
 
 A choronzon is a 20-foot-tall behemoth weighing 9,000 pounds with a muscular demonic body. It has bluish-black scaly flesh and horns and claws. Choronzons radiate confusion (as per the spell of the same name) within 20 feet and its decomposing breath deals 8d6 points of damage in a 50-foot diameter (save for half damage). The massive demon can cause darkness in a 20-foot radius and resists magic.
 
-#### Demon, Corruptor - Azizou (Pain Demon)
+### Demon, Corruptor - Azizou (Pain Demon)
 
 The azizou is slightly larger than the barizou and is quite strong for its size. They are relentless combatants and love to inflict pain and suffering on their opponents in combat. Azizoiu have jackal heads, grayish skin covered in patches of course, black hair and large, round eyes with slitpupils of gray. Membranous wings protrude from their backs and their hands and feet end in talons. A combatant who suffers damage from both of an azizou’s claw attacks in the same round suffers an additional 1d6 damage as its flesh is rended. Azizous can cast *cause fear, ESP, invisibility* *(self)* and *stinking cloud.*
 
-#### Demon, Corruptor - Barizou (Assassin Demon)
+### Demon, Corruptor - Barizou (Assassin Demon)
 
 Called assassin demons or infiltrator demons, the barizou are employed as such because their small size allows them to move unseen in many places larger demons cannot go. They look like gray-skinned halflings with the heads of wolves, membranous wings and talons on their hands and feet. A barizou’s mouth is filled with razor-sharp fangs and its back is mottled with sickly patches of bluish-gray. Barizou can cast *cause fear* and *invisibility (self)* at will. Barizou can alter their coloration to blend with their suroundings, allowing them to surprise on a roll of 1-4 on 1d6. When a barizou attacks a surprised opponent, they can backstab for double damage (as a thief).
 
-#### Demon, Corruptor - Geruzou (Slime Demon)
+### Demon, Corruptor - Geruzou (Slime Demon)
 
 Geruzou are sometimes called slime demons because their sickly-gray, leathery skin constantly drips and oozes thick, jelly-like mucus. Like their brethren, they are fierce combatants and are often employed as hunters and trackers by greater demons. The typical geruzou stands nearly 4 feet tall and has a horse-like head with downward-curving horns. It has long, sharp teeth exploding from its mouth, stretching its lips back in a perpetual snarl, and taloned hands and feet. A pair of large, membranous wings jut from its back. Three times per day, a geruzou can spit a stream of slimy goo in a 20-foot line. This spit attack requires a ranged attack against an AC of 10 plus its target’s Dexterity bonus to AC (if any). A creature hit by the slime is coated and slowed (as the *slow* spell) for 6 rounds if it fails a saving throw. A geruzou can cast *cause fear, darkness,* *ESP, invisibility (self)* and *mirror image*.
 
-#### Demon, Daraka (Swarm Demon)
+### Demon, Daraka (Swarm Demon)
 
 Darakas are 9-foot tall, black-skinned humanoids with the heads of rams. A daraka’s skin is leathery and oily and from a distance of 10 feet or more appears to be a mass of writhing flesh. Closer inspection reveals thousands of tiny scorpions swarming its flesh, skittering in and out of its mouth, ears and nose, seemingly unnoticed by the demon. They act as guards to the greater demons or as shock troops in demonic armies. Quite intelligent, they are often used as commanders or leaders, with each daraka having a battalion of minor demons at its command. Darakas can make themselves *invisible* at will and can cast the spell *feeblemind* once per day. They can sling scorpions at opponents as a range attacks. Those hit are covered in a swarm of the tiny vermin and stung repeatedly for 1d6 points of damage and, if a saving throw is failed, paralysis for 1d4 rounds.
 
-#### Demon, Darkswimmer
+### Demon, Darkswimmer
 
 Darkswimmers are demons generally associated with the Demon-Princess Teratashia, the ruler of dimensions and spirit bindings. They resemble long, black eels twenty feet in length, with a mouth full of sharp teeth and a pair of short, clawed arms.
 
@@ -1389,41 +1317,41 @@ Darkswimming demons take half damage from electricity, cold, fire, and poison ga
 
 Because these demons swim through water, air, and solids indifferently, treating all as an identical material for travel, they can be found in any element both in the abyss and on the prime material plane. They are 90% resistant to magic. *(Author: Matt Finch)*
 
-#### Demon, Dretch
+### Demon, Dretch
 
 These creatures are fat, with long, spindly arms and legs. They have rudimentary human heads, with slobbering jaws and folds of fat. Wretch demons have some weak demonic powers. Although they are not particularly intelligent, they can cause a horrible stinking cloud once per day, can teleport once per day, can cause darkness (10 ft. diameter) once per day, and can summon 1d4 giant rats once per day. The stinking cloud has a radius of 20ft and requires anyone caught within it to make a saving throw or be rendered helpless from nausea for 1d4+1 rounds.
 
-#### Demon, Erinyes
+### Demon, Erinyes
 
 The erinyes, the “furies” of Ancient Greek mythology, are female demons who pursue those guilty of crimes against the order of the gods. Their appearance is so terrible as to cause *fear* (saving throw). They are impossible to hide from, being able to see invisible things and locate objects at will. The furies carry a whip, which, if it hits, entangles the victim (saving throw) until the fury releases it. The furies are immune to fire and cold, and have a magic resistance of 25%. The blade of a fury’s sword causes *paralysis* (saving throw).
 
-#### Demon, Gallu- (Faceless Demon)
+### Demon, Gallu- (Faceless Demon)
 
 A gallu-demon is a 9-foot-tall featureless black humanoid with a mouth filled with rows of sharpened teeth. A gallu-demon can *polymorph self* and *dimension door* at will. Gallu-demons are immune to poison and electricity.
 
-#### Demon, Gharros (Scorpion Demon)
+### Demon, Gharros (Scorpion Demon)
 
 This hideous creature appears to be half-scorpion and half-human. Its upper torso is that of a greenish-silver humanoid with long, flowing dark hair and stark white eyes while its lower torso is that of a reddish-brown scorpion. Its tail splits into two separate stingers and the creature’s mouth is filled with razor-sharp teeth. Gharros serve as guards, soldiers, shock troops and assassins to some of the minor nobles and lesser demon lords of the Abyss. The poison from the gharros’ scorpion sting is lethal if one fails a saving throw. Gharros can cast the spells *darkness* and *mirror image* at will.
 
-#### Demon, Glabrezu (Third-Category Demon)
+### Demon, Glabrezu (Third-Category Demon)
 
 The third-category demons, Glabrezu, are massive and horrible, standing ten feet high or more. They have goat horns and humanoid shape, with no wings. Four arms sprout from the torso: two huge arms with great crab-pincers, and two much shorter arms with claws. Glabrezu can cause darkness in a 10ft radius, are immune to fire, can cause Fear at will, can levitate at will, can polymorph themselves, and are 60% resistant to magic. These demons have a 30% chance to *gate* in an ally (roll 1d4 to determine the category of demon that responds).
 
-#### Demon, Greruor (Frog Demon)
+### Demon, Greruor (Frog Demon)
 
 A greruor is a squat, bloated, frog-like demon with arms in place of its forelegs. Its wide, frog-like head has two 3-foot-long horns protruding just above its deep, sunken eyes. It moves by hopping on its rear legs, leaping up to 20 feet. Its arms end in talons that are usually clutched around the greruor’s deadly ranseur (2d6). Its huge mouth sports razor-sharp teeth of a dull gray color. The greruor’s flesh is greenish-brown mottled with red or gray. Its skin constantly oozes and secretes a thick, mucus-like clear slime. Once every 1d4 rounds, a greruor can spit a line of acid up to 30 feet that deals 4d4 points of damage. On the greruor’s next turn, the acid ignites and the opponent bursts into flame and takes 1d6 points of damage per round until extinguished. A save halves the acid damage and prevents the creature from bursting into flame. At will, a greruor can cause *confusion*, create *darkness* (15 foot radius), *hold person* and *detect good*. Greruor are immune to electricity and poison, and take half damage from cold, fire, and acid.
 
-#### Demon, Grimlek
+### Demon, Grimlek
 
 Grimleks are large wolf-like demons covered in dark, ratty fur. Their most striking features are over-sized canines that prevent their mouths from closing and their lack of eyes. The absence of eyes does not negatively affect them. They are often used in the service of powerful demons and sorcerers as guards, trackers, or assassins.
 
 A Grimlek may “latch on” to a victim after a successful attack, causing 1d6 points of damage every round until the victim is freed from the bite. Their bites can also cause a lycanthropic-like disease if the victim is not cured before the next new moon, at which point the infected person will become a hybrid similar to a werewolf. At this point even more powerful healing magics are needed to reverse the effects before the following new moon or the person will fully transform into a Grimlek and be lost forever.*(Author: the Lizard of Oz).*
 
-#### Demon, Hezrou (Second-Category Demon)
+### Demon, Hezrou (Second-Category Demon)
 
 Toad-like demons with bat wings, the Hezrou have magic resistance of 50%. At will, they can cause *fear* (per the spell), *detect invisibility* (per the spell), and cause *darkness 15-ft. radius*. They are immune to fire. Hezrou have a 20% chance to succeed at summoning another second-category demon to their aid.
 
-#### Demon, Khavorr (Third-Category Demon)
+### Demon, Khavorr (Third-Category Demon)
 
 Khavorr demons are considered to be a third-category demon, although they are unrelated to the more commonly summoned Glabrezu type. They resemble grossly fat humans, or perhaps giants, for they stand 10 ft. in height. A Khavorr demon has the head of an alligator, and these powerful jaws are a terrible weapon.
 
@@ -1431,7 +1359,7 @@ Khavorrs take only half damage from electricity, cold, fire, and poison gas. The
 
 Khavorr demons can be damaged by normal weapons. A Khavorr demon can attempt to *gate* in another demon with a 30% chance of success. The demon appearing may be of Category 1, 2, or 3 (roll 1d3 to determine). *(Author: Matt Finch)*
 
-#### Demon, Larvaxu (Second-Category Demon)
+### Demon, Larvaxu (Second-Category Demon)
 
 The Laravaxu are a second form of Type II demon existing in the depths of the abyss in addition to the better-documented Hezrou form. Laravaxu take half damage from electricity, cold, fire, and poison gas. They are able to cast *darkness* in a radius of 15-ft. at will, and to *teleport* twice per day. In addition, they have the ability to *detect invisibility*, cause *fear* (as per a wand), and to *telekinese* 200 pounds of weight, each usable at will.
 
@@ -1439,59 +1367,59 @@ Laravaxu have the form of a massive, slimy grub with a huge mouth. They cannot b
 
 A Laravaxu demon has the ability to *gate* in another Category 2 demon (20% chance of success). When a Laravaxu successfully *gates* in another demon, there is a 50% chance that the summoned demon will be a Hezrou and a 50% chance that it will be another Laravaxu. If several demons end up being summoned into the battle, if the Hezrou outnumber the Laravaxu by 2:1 or more, the Hezrou will fall upon the Laravaxu and attempt to kill them. *(Author: Matt Finch)*
 
-#### Demon, Lemure
+### Demon, Lemure
 
 Lemures are vaguely humanoid, but their flesh is mud-like, shifting and soft upon their horrible bodies. (This amorphous form allows them to regenerate 1 hp per round.) Lemures are lower forms of demons, the fleshly manifestations of damned souls. These demons can be permanently destroyed only by sprinkling their disgusting bodies with holy water.
 
-#### Demon, Mallor (Serpent Demon)
+### Demon, Mallor (Serpent Demon)
 
 A mallor is a 10- to 12-foot-long, powerful humanoid with the lower torso of a giant coral snake. Its humanoid frame is crimson-colored while its snake body is black with bands of yellow and red. Its arms end in sharpened claws, slightly curved under, just enough to tear through flesh, sinew and muscle. Mallors have black, gold, or amber hair. Their eyes are white with red or green pupils. Anyone meeting a mallor’s gaze must save or flee in fear for 1d6 rounds. All liquids, including potions, within 100 feet of a mallor automatically become foul and unsuitable to drink. Anyone drinking the water must save or become nauseated for 1 minute. A mallor injects a virulent poison when it hits an opponent with its claws. At will, a mallor can use *burning hands, dispel magic* and *teleport*. Once per day, a mallor can summon 1d6 giant vipers with a 50% chance of success. Mallors are immune to electricity and poison, and take half damage from cold, fire and acid.
 
-#### Demon, Manes
+### Demon, Manes
 
 Pathetic, damned souls, manes are demons no larger than humans, with gray skin and empty eyes. Non-magical weapons inflict only half normal damage on them.
 
-#### Demon, Marilith (Fifth-Category Demon)
+### Demon, Marilith (Fifth-Category Demon)
 
 Mariliths appear as a cruel-eyed beautiful woman with a six-armed torso, but the lower body of a huge constrictor snake. They can wield weapons in all six arms at once, and the tail, if it hits, constricts for automatic damage after the initial hit. Mariliths are among the most feared of demons – as much, even, as the mighty Baalrochs. They can, at will, cast *Charm Person*, *Levitate*, and *Polymorph Self*, and are 80% resistant to magic. Fire does not affect them. They have a 50% chance of success when attempting to gate in allies; if the attempt succeeds, roll 1d12 to determine the result. (1-3) First-category, (4-6) Second-category, (7-8) Third-category, (9-10) Fourth-category, (11) Sixth-category, (12) a demonlord or demon prince.
 
-#### Demon, Mehrim (Goat Demon)
+### Demon, Mehrim (Goat Demon)
 
 A mehrim is a man-sized black goat that exhales putrid black smoke when it breathes. It has three horns and jet black, glossy hooves. Its diseased bite inflicts 1 point of damage each day until cured. A mehrim can cast *darkness* at will, and *dispel magic* once per day. They are able to see invisible creatures at all times.
 
-#### Demon, Mezzalorn (Wasp Demon)
+### Demon, Mezzalorn (Wasp Demon)
 
 A mezzalorn looks like a hellish giant wasp with the head and torso of a man. When reduced to half its hit points it releases a pheromone that gives it and all other mezzalorns a +1 to-hit bonus. The poison injected by a mezzalorn’s stinger is lethal if the victim fails a saving throw.
 
-#### Demon, Nabasu (Death Stealer Demon)
+### Demon, Nabasu (Death Stealer Demon)
 
 A mehrim is a man-sized black goat that exhales putrid black smoke when it breathes. It has three horns and jet black, glossy hooves. Its diseased bite inflicts 1 point of damage each day until cured. A mehrim can cast *darkness* at will, and *dispel magic* once per day. They are able to see invisible creatures at all times.
 
 
-#### Demon, Nalfeshnee (Fourth-Category Demon)
+### Demon, Nalfeshnee (Fourth-Category Demon)
 
 Nalfeshnee demons have the body of an enormous gorilla, the head of a boar, and cloven hooves. These massive, brutish demons are actually quite intelligent, despite their appearance, an incongruity that has deceived and doomed many who would attempt to control or enslave them. The very size of a nalfeshnee prevents them from being particularly agile flyers, though they do have wings. Nalfeshnee are incredibly powerful (+2 to hit), and have various demonic powers in addition to being immune to fire: they cause fear as per the spell (at will), polymorph self (at will) and dispel magic (at will). They can create a symbol of discord once per day. A nalfeshnee demon has a 60% chance to *gate* in an ally (roll 1d6 to determine which category of demon will respond).
 
-#### Demon, Nerizo (Hound Demon)
+### Demon, Nerizo (Hound Demon)
 
 The bestial nerizo can be found on almost all planes of the Abyss. More animalistic than not, the nerizo are sometimes used as “hunting dogs” by the greater demons and lords. Neziro are man-sized demons with dark, blue-black skin. Their arms end in clawed hands and their legs in cloven hooves. They have long, barbed tails. These barbed tails deliver a poison that causes lethargy and weakness in the limbs; victims must pass a saving throw or suffer a -1 penalty to hit and damage and a 1 point penalty to AC. Once per hour, a nerizo can spit a glob of stomach bile in a 10-foot line. A creature hit takes 2d6 points of damage (saving throw allowed for half damage). Nerizos can cast *confusion* once per day.
 
-#### Demon, Nysrock (Cobra Demon)
+### Demon, Nysrock (Cobra Demon)
 
 A nysrock is a 14-foot-long cobra-like demon with a humanoid head. After a nysrock hits with its bite, it automatically constricts for 1d8 points of damage per round thereafter. The poison of a nysrock deals 1d6 points of damage each round until healing is applied. A nysrock can spit poison up to 40 feet. The poison spit causes blindness unless a saving throw is made.
 
-#### Demon, Ooze
+### Demon, Ooze
 
 Ooze demons are the forgotten children of Jubilex, The Faceless Lord, faithful servants that obey the will of their master without question. When the Faceless Lord went missing (see the module, ***G5 Chaos Rising***, by **Necromancer Games** for details) the ooze demons formed search parties and scoured the planes for signs of his whereabouts.
 
 Ooze demons, both lesser and greater, appear as a combination of ooze and demon. An ooze demon resembles a humanoid with a long, crocodilian snout, razor-sharp teeth, and long talons. From a distance, this monster looks like a typical demon (if such a thing exists). Up close, the horror is easily ascertainable; the creature is actually a single entity of swirling black and white or black and gray ooze in the shape of a humanoid.
 
 
-#### Demon, Quasit
+### Demon, Quasit
 
 Quasits are demon familiars, much like imps but without wings and with a less human-like shape. A quasit can polymorph into two other forms (commonly a giant centipede and a bat). These demons are 25% resistant to magic, regenerate at 1hp per round, can become invisible at will, and once per day can cast a Fear spell. Their claws are laden with poison that reduces an opponent’s dexterity by 1 point (saving throw applies, lasts for 2d6 rounds).
 
-#### Demon, Shaazavi (Fourth-Category Demon)
+### Demon, Shaazavi (Fourth-Category Demon)
 
 Shaazavi demons are a fourth-category demon with three vulture-like heads, a human torso, and the legs of a goat.
 
@@ -1503,19 +1431,19 @@ Shaazavi demons cannot be damaged by normal weapons; magic weapons are required 
 
 Most Shaazavis have individual names. (Author: Matt Finch)
 
-#### Demon, Shadow
+### Demon, Shadow
 
 This creature resembles a living shadow of inky darkness. Large bat-like wings protrude from its form. Shadow demons are the incorporeal form of a demon trapped in the form of a shadow as punishment for some wrongdoing. If anything can release a demon trapped in shadow form, only the dukes, princes, and lords of the Abyss know such secrets. As a result of their new form, shadow demons are especially malign and ill-tempered. In shadows and darkness, a shadow demon surprises foes on a roll of 1-5 on 1d6. Shadow demons are powerless in natural sunlight, and avoid it at all costs. Once per minute, a shadow demon can move at six times its normal speed. Shadow demons can cast *darkness, fear* and *magic jar* (1/week).
 
-#### Demon, Shrroth (Squid Demon)
+### Demon, Shrroth (Squid Demon)
 
 A shrroth is a 15-foot-tall copper-colored demon with the lower torso of an octopus and the upper torso of a powerful humanoid. Its arms end in 6-fingered talons. Its lower torso sports a mass of writing tentacles reaching lengths of 10 feet. Six larger tentacles stretching 20 feet surround the smaller tentacles. Its mouth is filled with serrated teeth. A mass of long black hair hangs from its head; from under which protrude two forward-curving, blackish horns. If a shrroth hits the same opponent with two tentacles, the victim is constricted for an automatic 2d6 points of damage each round thereafter. A shrroth can emit a cloud of grayish liquid in a 40-foot spread once per minute that conceals the creature (20% chance to miss) and forces any creature in the cloud to save or be sickened for 3 rounds. At will, a shrroth can *dispel* *magic*, create a *mirror image* or *teleport*. Twice a day it can use *feeblemind*, and once per day it can cast *power word blind*. A shrroth can jet backward in a straight line at a speed of 30 once per round. Shrroth are immune to electricity and poison, and take half damage from cold, fire and acid.
 
-#### Demon, Skitterdark
+### Demon, Skitterdark
 
 Skitterdarks are small humanoid-shaped creature no more than 1 foot tall with crimson leathery bat wings. Its body is blood red and somewhat stocky for its size. Its hands end in sharp claws and its eyes and teeth are sickly yellow. Skitterdarks are commonly found in groups and sometimes use poison on their weapons.
 
-#### Demon, Stirge
+### Demon, Stirge
 
 One of the most foul and despicable of all demonkind, the stirge demon hates all other demonic races and usually attacks them on sight. It savors the blood of vrocks and hezrous, but generally avoids any more powerful demonic races. Stirge demons look like a cross between a human, stirge and demonic fly. They have four, stirge-like hind legs and human forearms that end in chitinous, claw-like fingers. Stirge demons have the wings of stirges and human heads topped with bristly manes. Stirge demons have long, sharp noses that are used to pierce the flesh and draw blood.
 
@@ -1525,7 +1453,7 @@ Stirge demons constantly emit a droning sound from their winfs. All creatures wi
 
 Stirge demons can walk on walls, floors, ceilings, and other such surfaces at their normal movement rate. This is an inherent ability and cannot be dispelled or negated.
 
-#### Demon, Succubus
+### Demon, Succubus
 
 A succubus is a creature of demonic lust, a drinker of souls who offers fatal temptation to mortals that fall into the trap of her deadly embraces: each kiss drains one level of experience. (The male form of this demon is called an incubus. A succubus is always female, just as an incubus is always male.) The demon’s form is that of a supernaturally beautiful woman, curvaceous and alluring, but whose furled bat wings and delicate horns betray her true nature. Small white fangs gleam from behind the demoness’s full lips, and when she is enraged the pupils of her eyes will contract and shift into those of a vicious serpent.
 
@@ -1533,11 +1461,11 @@ A succubus can “cast” *Charm Person* whenever desired, as well as *ESP*, *Cl
 
 Succubi almost never rely upon physical attacks; they use their charm and suggestion abilities to allow them to bestow their deadly kisses upon opponents.
 
-#### Demon, Vrock (First-Category Demon)
+### Demon, Vrock (First-Category Demon)
 
 These demons are vulture-headed, with feathered but humanoid bodies, and huge dark-feathered wings. All can create darkness in a radius of 5-ft. and are immune to fire. They use their wings to allow both their arms and legs to be brought into combat, along with their beaked bite. Vrock demons are quite stupid, though like most demons they consider themselves to be tremendously intelligent. A Vrock has a 10% chance to *gate* another first-category demon to its assistance.
 
-#### Demon, Yildra
+### Demon, Yildra
 
 Yildra demons are servitors of Yildraathu, the Demon-Lord of Pestilence, and as such they are not considered to be a general demonic “type.” The Yildra take the form of massive rats standing on their hind legs, their fur crawling with vermin and their skin mottled with rot and mange. The demon’s long tail bears a wicked barb at the end, and their claws drip with foul ichor.
 
@@ -1547,7 +1475,7 @@ Yildras take only half damage from electricity, cold, fire, and poison gas. They
 
 Yildras can be hit with normal weapons, but such weapons have a penalty of -1 to hit and damage against the demon.
 
-#### Demon Lord, Baphomet (Demon Lord of Beasts)
+### Demon Lord, Baphomet (Demon Lord of Beasts)
 
 Baphomet is the demon prince of brutes, most especially ogres and minotaurs, but also bull-headed humans and petty tyrants. His iron keep is located within a large stone cavern on a desolate plane of the Abyss. It is said his castle is a maze of twisting rooms and corridors, with his personal throne room located at the heart of his maze keep. Those that have ventured there remember little about the place other than the never-ending corridors and maze of rooms. Baphomet stands 12 feet tall and weighs about 4,500 pounds. He looks like a powerfully muscled minotaur, his body covered in shaggy, black fur and marred with battle scars. Baphomet wields a wicked-looking *+2 halberd*. When the halberd causes damage on an armored opponent, it reduces the armor value (i.e. the AC bonus afforded by the armor) by 2 points.
 
@@ -1555,11 +1483,11 @@ Baphomet is a dangerous combatant. Once every 1d4 rounds, he can belch forth a s
 
 Baphomet can cast spells as a 12th level magic-user. He can cast *darkness, dispel magic, maze, passwall* and *wall of iron* three times per day each as magical abilities. Baphomet can summon 2d10 minotaurs per day.
 
-#### Servants of Baphomet
+**Servants of Baphomet**
 
 Followers of Baphomet are usually minotaurs or brutish humanoids like ogres, orcs or humans, and consist of clerics, necromancers, and sorcerers or adepts. Clerics of Baphomet are called Horned Ones and must sign a pact of evil with Baphomet. Horned ones are granted access to up to 3rd level cleric spells.
 
-#### Demon Lord, Beluiri (The Temptress)
+### Demon Lord, Beluiri (The Temptress)
 
 Beluiri is a bronze-skinned feminine demon standing about 6 feet tall. Her head is hairless and features four downward-curving horns jutting just above her forehead. The two lower horns are smaller than the topmost horns. A ridge of small spines runs from her brow down the center of her head and tapers off just below her shoulder blades. Her hands end in razor-sharp talons and her eyes are sapphire blue. Beluiri is one of the many concubines of Lord Baphomet (and one of his favorites). She is known throughout the Abyss as the Temptress, for in her many disguises she has seduced countless princes, lords, and generals of the demons. She sometimes journeys to the Material Plane (in one of her many guises) to tempt and seduce mortals, for she knows that all mortals, in their hearts, always give in to their true desires—be they power, greed, lust, or one of many countless other sins. Beluiri rarely wears clothing, but at times when she does, she enjoys gowns and robes of gold, white, and red.
 
@@ -1567,11 +1495,11 @@ Beluiri is a cunning combatant, preferring subterfuge to direct assaults, luring
 
 Through body language and movement, Beluiri can fascinate all creatures of the opposite sex (which could be either sex, depending on her current form) within 30 feet that observe her dancing. Those viewing this dance must succeed on a saving throw or fall under her influence for 1d6+1 hours as if affected by a charm monster spell. In addition, Beluiri can cast the following spells: *Cause fear, darkness, dispel magic,* *polymorph self* and *wall of fire.* Beluiri is completely immune to illusions and can see invisible creatures.
 
-#### Demon Lord, Caizel (Deposed Queen of Succubi)
+### Demon Lord, Caizel (Deposed Queen of Succubi)
 
 Caizel is an astonishingly beautiful creature standing just under 6 feet tall. Her skin is delicate, soft, and copper in color. Her eyes are blue-green. Two tiny horns are hidden beneath her long, raven-black hair. Her hands, while clawed, are shapely and delicate. Small leather wings protrude from her back, but she usually keeps these hidden beneath her robes and gowns. Caizel’s body courses with a virulent poison that she can intensify or suppress at will. It is not secreted through her skin (therefore her touch is not poisonous); rather it is delivered through the exchange of body fluids with another creature (kissing, consummating an encounter, etc.). At will she can cast charm monster, create darkness (15 foot radius), *detect good, teleport, read magic*, use *suggestion* and create a *wall of fire*. Once per day she can cast mirror image. Once per round, Caizel’s touch can flood a creature’s mind with pleasurable images if it fails a save. This stuns the creature for 1d4 rounds. Caizel is immune to electricity and poison, and takes half damage from cold, fire and acid. Any creature she hits with Bonerazor, her +2 dagger, must save or be held (as by a *hold person* spell).
 
-#### Demon Lord, Dagon (Demon Prince of the Sea)
+### Demon Lord, Dagon (Demon Prince of the Sea)
 
 Dagon is the demon prince of sea creatures. He is worshipped as a deity by legions of sahuagin, locathah, lizardfolk, tritons (those that have accepted the ways of chaos) and some merfolk. Dagon makes his home in a great underwater iron citadel called Thos located in the deepest recesses of his home plane. Dagon appears as a 10-foot tall merman and weighs about 2,000 pounds. He has blue-green skin and the lower torso of a black-scaled leviathan. A thin, translucent fin runs the length of his back, and a long mane of black hair falls from his head and down his finned back. His eyes are deep purple with glowing motes of crimson floating in them.
 
@@ -1581,11 +1509,11 @@ Dagon casts spells as a 12th level magic-user. He has the following magical abil
 
 Dagon wields a +3 trident that can telescope to up to 20 feet long on its master’s command. The trident is forged of black bronze with adamantine barbs. Creatures struck by the trident and suffering more than 10 points of damage are caught on the barbs, suffering an addition 1d4 points of damage per round and unable to move until they make a successful open doors roll. Creatures that extract themselves from the trident suffer 1d8 points of damage from their rending of their flesh by the barbs.
 
-#### Servants of Dagon
+**Servants of Dagon**
 
 Followers of Dagon are mermen, locathah, sahuagin, lizardmen and evil humanoids that revere the seas and oceans. Clerics of Dagon are called Scaled Ones and must sign a pact of evil with Dagon. Scaled Ones can receive up to 3rd level spells from Dagon.
 
-#### Demon Lord, Fraz-Urb'luu (Demon Prince of Deception)
+### Demon Lord, Fraz-Urb'luu (Demon Prince of Deception)
 
 Fraz-Urb’luu appears as a hulking, ape-like creature standing nearly three times as tall as a normal human. His head sports large, fan-like, pointed ears and a large, round mouth lined with sharpened teeth. His skin is gray and covered with fine, thin blue hair. A long, serpentine tail, gray and yielding to blue near the barbed end, trails behind him. Two large bat-like wings protrude from his back. Fraz-Urb’luu is one of the most physically powerful demon princes as well as one of the most cunning. His deceptions range far and wide, affecting and influencing not only those on the Material Plane but also other demon princes and demon lords. His malevolent nature lends itself well to his trickery and deception, and he bends others to do his will. Those that oppose him are quickly dispatched. Those he favors are often captured and taken back to his lair in the Abyss where they are forced into a life of servitude. When the day comes that Fraz-Urb’luu grows weary of them, he devours them or throws them to his other servants to do with as they wish. He makes his home deep within the Abyss on a smoldering and scarred layer devoid of most life. His keep is a large iron and stone castle situated near the very center of the layer. A constant stream of traffic emanates to and from his castle; demons and slaves tending to their daily tasks.
 
@@ -1593,11 +1521,11 @@ If Fraz-Urb’luu strikes the same creature with both of its clobber attacks in 
 
 Fraz-Urb’luu is immune to all charms, compulsions and phantasms. He casts spells as a 12th level magic-user and can use the following magical abilities: *Charm monster, darkness, dispel magic, ESP, polymorph other* (1/day), *polymorph self* (3/day), *power word blind* (1/day), *prismatic* *sphere* (1/day) and *suggestion*. Once per day, Fraz-Urb’luu can attempt to summon a demon lord or demon prince with a 70% chance of success, and deceive the summoned demon into believing it was called by his opponents. The summoned lord or prince must succeed on a saving throw at -10 or fall for the deception.
 
-#### Servants of Fraz-Urb'luu
+**Servants of Fraz-Urb'luu**
 
 Followers of Fraz-Urb’luu are usually evil humanoids and consist of charlatans, clerics, magic-users, politicians and aristocrats. Clerics of Fraz-Urb’luu are called Deceivers and must sign a pact of evil with Fraz-Urb’luu. Deceivers can receive spells up to 3rd level from Fraz-Urb’luu and are granted access to the magic-user spells *phantasmal force* and *suggestion* as though they were cleric spells of the same level.
 
-#### Demon Lord, Jubilex (The Faceless Lord)
+### Demon Lord, Jubilex (The Faceless Lord)
 
 Jubilex is a large, bubbling mass of greenish-black, foul-smelling liquid. Ooze, slime, and pus constantly squirt and seep from its form. Deep within the oozing form you notice several large red eyes. Jubilex is the ruler over all slimes, oozes, jellies, and other disgusting and foul ooze-like creatures – the cosmic ooze from which the forces of Law crafted reality and back to which reality always threatens to sink. Known by some as the Faceless Lord, his Abyssal home is a steaming, bubbling lair of putrid ooze and slime pits that are constantly shifting and changing at his whim. Even the other demonic rulers loathe to journey here. Jubilex makes his home in a huge slime pit somewhere on one of the many planes he controls. He is constantly attended by and surrounded with all sorts of slimes and oozes.
 
@@ -1607,11 +1535,11 @@ Once every six rounds, Jubilex can fire a stream of acidic slime in a 20-foot li
 
 Jubilex can cast spells as a 15th level cleric. He can also use the following magical abilities: *Circle of cold* (emanate cold in a 10-ft. radius; 5d6 damage, save for half damage, lasts 1 minute per level), *cause disease* (reverse of *cure disease*), *darkness, dispel magic, ESP, hold monster,* *invisibility (self), symbol of insanity and wall of acid* (as *wall of fire,* but deals acid damage). He is immune to illusions and can see invisible creatures without difficulty. Once per day, Jubilex can summon up to 2d4 ochre jellies, gray oozes, or gelatinous cubes, or 1d4 black puddings. Because of his ooze-like structure, Jubilex is immune to *sleep* effects, paralysis, polymorph, and stunning.
 
-#### Servants of Fraz-Urb'luu
+**Servants of Jubilex**
 
 Followers of Jubilex are evil humanoids with an affinity for slimes, jellies, and all things that ooze. Clerics of Jubilex are called Masters of the Ooze and must sign a pact of evil with Jubilex. Masters of the Ooze can receive spells up to 3rd level from Jubilex and are granted access to the circle of cold and wall of acid spells described above. *Circle of cold* is a 5th level cleric spell and *wall of acid* is a 5th level cleric spell.
 
-#### Demon Lord, Kostchtchie (Demon Prince of Wrath)
+### Demon Lord, Kostchtchie (Demon Prince of Wrath)
 
 Kostchtchie is the demon lord of cold and is the epitome of hatred and evil. If there is a demon lord more ruthless and malevolent than he, that lord has never made his presence known. Kostchtchie is hated by all (including other demon lords and princes). He moves across his Abyssal landscape with a shuffling gait, and is rarely, if ever, encountered alone. He appears as a 10 foot tall, ogrish creature, with yellowish skin and hairless save for it bushy eyebrows. He has two twisted, stumpy legs and a thick torso. His head is flat and oval and sports two large, sunken, crystal-blue eyes of immeasurable beauty. Kostchtchie’s Abyssal home is a frigid and mountainous realm of ice, rock, snow, and subfreezing temperatures. Unprotected travelers and those vulnerable to cold do not last long here.
 
@@ -1619,11 +1547,11 @@ Kostchtchie wields a cold-wrought *+3 warhammer* that must be wielded with two h
 
 Kostchtchie can cast spells as a 12th level magic-user. He can cast *cause serious wounds* (reverse of cure serious wounds), *charm monster,* *darkness* and *dispel magic* at will. Three times per day he can summon 1d4 frost giants or 1 large, adult white dragon.
 
-#### Servants of Kostchtchie
+**Servants of Kostchtchie**
 
 Followers of Kostchtchie are usually berserkers, frost giants and ogres. Clerics of Kostchtchie are called Ice Lords and must sign a pact of evil with Kostchtchie. Ice Lords cast receive spells up to 3rd level from Kostchtchie.
 
-#### Demon Lord, Maphistal (Second of Orcus)
+### Demon Lord, Maphistal (Second of Orcus)
 
 Maphistal is the second of Orcus, Demon Prince of the Undead. He makes his home on a stinking, smoldering layer of the Abyss and commands his troops from his great castle, Maalstege (The Keep of Bones, so called because it is believe to be constructed from the skeletal remains of those slain by Maphistal). He is loyal to no one but Orcus. He does not trust Sonechard, the General of Orcus’s undead legions, and seeks to discredit him at any opportunity, though he does not do this openly for fear of rebellion by his troops or punishment by Orcus. His machinations against Sonechard are primarily through his agents and spies in Sonechard’s camps.
 
@@ -1635,7 +1563,7 @@ Maphistal’s bite infects victims with a demonic fever that incubates for 1 day
 
 Maphistal can cast the following spells: *Animate dead, darkness, dispel* *magic, power word stun* and *suggestion*. Once per day, Maphistal can summon 3d10 zombies or skeletons, 2d6 ghouls, 2d4 ghasts, 1d6 wraiths or wights, or 1d4 spectres.
 
-#### Demon Lord, Orcus (Demon Prince of the Undead)
+### Demon Lord, Orcus (Demon Prince of the Undead)
 
 Orcus is the Prince of the Undead, and it said that he alone created the first undead that walked the worlds.
 
@@ -1655,11 +1583,11 @@ Three times per day, Orcus can summon one balor, 1d3 nalfeshnees or 1d4 marilith
 
 ***Wand of Orcus***: Mighty Orcus wields a huge black skull-tipped rod that functions as a *+3 heavy mace*. It slays any living creature it touches if the target fails a saving throw. Orcus can shut this ability off so as to allow his wand to pass into the Material Plane, usually into the hands of one of his servants. Further, the *Wand* has the following magical powers: 3/day—*animate dead, darkness* and *fear*; 2/day—*unholy word*.
 
-#### Servants of Orcus
+**Servants of Orcus**
 
 The followers of the Prince of Undead are clerics that venerate death, magic-users fascinated with death, and cambions and alu-demons. His followers are most often clerics and necromancers. Clerics of Orcus are known as Disciples of Orcus and must sign a pact of evil. Disciples of Orcus can receive spells up to 3rd level from Orcus.
 
-#### Demon Lord, Pazuzu (Demon Prince of Air)
+### Demon Lord, Pazuzu (Demon Prince of Air)
 
 Pazuzu is the demon prince of aerial creatures, and is revered as such on both the Abyssal plane and the Material Plane. Unlike other demon princes, his lair is not confined to a single plane or multiple adjoining planes; Pazuzu rules the sky realms above all layers of the Abyss. (No demon prince has contested his rulership of the skies thus far.) Pazuzu appears as a muscular human being with the head of a hawk and four great, feathery wings spanning its shoulders. His feathers are red and gold, fading to black at the tip and his eyes are red. Pazuzu’s heads and feet end in talons.
 
@@ -1669,11 +1597,11 @@ Three times per day, Pazuzu can automatically summon 2d6 harpies, 2d8 gargoyles 
 
 Pazuzu can cast spells as a 12th level magic-user. He can use the following magical abilities: *Control weather, darkness, dispel magic,* *flesh to stone, lightning bolt, shape change, wind walk* and, once per day, *wish*.
 
-#### Servants of Pazuzu
+**Servants of Pazuzu**
 
 Followers of Pazuzu are chaotic humanoids that respect and revere the air and sky. Clerics of Pazuzu are called Aerial Lords and must sign a pact of evil with Pazuzu. Aerial Lords can receive up to 3rd level spells from Pazuzu.
 
-#### Demon Lord, Sonechard (General of Orcus)
+### Demon Lord, Sonechard (General of Orcus)
 
 Sonechard is a ram-headed demon standing 14 feet tall. He has gray, leathery skin, large, curved horns (half of the left horn broken off) and two large, bat-like wings. Sonechard’s body is covered in thick, dark hair. Portions of the hair are torn away in areas revealing masses of battle-born scars and damage. Sonechard is a general in the infernal armies of Orcus and serves him—at least to all onlookers—with unswerving loyalty. He has countless numbers of demons and undead at his command. Though his true loyalty lies only to himself, he would never openly refuse a request by Orcus nor challenge his position as Prince of the Undead. Should the day come when Orcus weakens, Sonechard plans to be there to claim what he believes is rightfully his. Sonechard makes his home in a large castle that sits atop a plateau of scorched earth surrounded by a moat of blood. The walls are constructed of bone and sinew, and it is said that the souls of those who cross him are entombed within.
 
@@ -1685,7 +1613,7 @@ Sonechard can cast the following spells: *Animate dead, fireball* (3/day), *powe
 
 Sonechard’s *+2 military pick* deals an extra 1d3 points from blood loss when it hits a creature. This damage is inflicted every round thereafter until the wound is bound or magically healed.
 
-#### Demon Lord, Tsathogga (The Frog God)
+### Demon Lord, Tsathogga (The Frog God)
 
 Tsathogga is a gigantic frog no less than 60 feet long with spindly, elongated limbs and fingers. His body is covered in warts and sores and all ooze a putrid, yellowish mucus. His eyes are red and glow with an inherent evil and his massive mouth sports rows of sharpened teeth, each at least as long as a sword. Tsathogga cares less about the machinations of men and power than he does about obliterating light and life with the slow oozing sickness and decay that he represents. He is the viscous dark evil bubbling up from beneath the surface, the foul corruption at the heart of the earth. Tsathogga makes his home on both Tarterus and the Abyss, spending equal amounts of time in both places. His lair is a vast swamp of filth deposited by the River Styx as it flows between the two planes. Tsathogga thoughtlessly commands a host of evil creatures, notably his own vile frog race, the tsathar (see that entry in this book).
 
@@ -1697,15 +1625,15 @@ Three times per day, Tsathogga can unleash a piercing shriek that affects all no
 
 Tsathogga can cast spells as a 15th level magic-user. He can also use the following magical abilities: *Acid cone* (as *cone of cold*, but deals acid damage), *darkness, dispel magic, ESP, polymorph self* and *water* *breathing*. He can summon up to 30 HD of oozes, tsathar, giant frogs, or froghemoths each day.
 
-#### Servants of Tsathogga
+**Servants of Tsathogga**
 
 Followers of Tsathogga are the tsathar and some few evil and vile humans or giants. He has few other worshippers, though it is rumored that an evil cult of sahuagin worships him on the Material Plane. Clerics of Tsathogga are called Lords of the Gaping Maw and must sign a pact of evil with Tsathogga. Lords of the Gaping Maw receive up to 3rd level spells from Tsathogga.
 
-#### Demon Lord, Vepar (Duke of Dagon)
+### Demon Lord, Vepar (Duke of Dagon)
 
 Vepar is an Abyssal duke who resembles a 12-foot-tall merman. His upper torso is coppery-brown while his lower torso and fins are silver and scaled. Vepar’s hair is long and black, and he usually wears it tied back or braided. His eyes, usually blue in color, burn with a silvery fire when he is angered or excited. Under his hair, two small copper horns can be seen just above his eyes. Vepar’s hands end in wicked claws with silvery nails. At will, Vepar can *control winds, detect good,* *cause fear, dispel* *magic, teleport* and *polymorph self.* Once per day he can create an ice storm. Vepar wields his trident – named Demonbrand – which can fire up to seven *magic missiles* per day for 1d4+1 points of damage each. Anyone hit by Vepar’s claws must save or be overcome by bone-numbing cold that does 1d8 points of damage (save for half). He is immune to electricity and poison, and takes half damage from cold, fire and acid.
 
-#### Demon Prince, Isclaadra (Demon-Prince of Mists)
+### Demon Prince, Isclaadra (Demon-Prince of Mists)
 
 Isclaadra is a tall, human-like figure with the horns and legs of a goat, and massive bat wings. He is one of the weakest of the demon princes, and he is uncharacteristically subtle when compared to his peers. He has the spell-casting ability of an 8<sup>th</sup> level magic-user in addition to the powers described below, and can only be hit by weapons of +2 or greater.
 
@@ -1719,7 +1647,7 @@ Isclaadra’s Staff of Mist is a powerful magic artifact, allowing the holder to
 
 *Mist of Striking:* The Mist of Striking is a thin ribbon of vapor that extends from the staff up to a length of 100ft. It can attack once per round as a 30HD monster, inflicting 2d6 points of damage. Other than by *dispel magic* against a 12th level caster, the Mist of Striking cannot be killed, although it will disappear after 5d6 turns.
 
-#### Demon Prince, Kharkazax (Demon-Prince of Carrion)
+### Demon Prince, Kharkazax (Demon-Prince of Carrion)
 
 Kharkazax resembles a humanoid jackal with the wings and head of a vulture, and he is always accompanied by 6 vrock-type demons of maximum hit points. This demon-lord is known as the Prince of Carrion, for his followers are scavengers and carrion-eaters of all kinds, including, unpleasantly, his human cultists. Although he is brilliant and subtle, Kharkazax is more feral in combat than most demon princes; if he is forced into melee combat he will tear into his foes with beak and claws rather than using weapons. Any creature other than a demon coming within 50ft of him will be affected by his smell, as if by a *slow* spell (no saving throw). His bite is diseased, causing death within 1d4+1 rounds if the rapid course of the disease is not checked (if a saving throw succeeds, the disease merely causes 1d4 points of damage each round, for 1d4+1 rounds, but does not kill).
 
@@ -1727,7 +1655,7 @@ At will, Kharkazax can cast *charm monster, clairvoyance, continual darkness, di
 
 This demon-prince cannot be damaged by weapons of less than +3 enchantment. *(Author: Matt Finch)*
 
-#### Demon Prince, Orcus (Demon-Prince of the Undead)
+### Demon Prince, Orcus (Demon-Prince of the Undead)
 
 Orcus is one of the strongest (if not the strongest) and most powerful of all demon lords. Known as the Prince of the Undead, he fights a never-ending war against rival demon princes that spans several Abyssal layers. From his great bone palace he commands his troops as they wage war across the smoldering and stinking planes of the Abyss. Orcus spends most of his days in his palace, rarely leaving its confines unless he decides to leads his troops into battle (which has happened on more than one occasion). Most of the time though, he is content to let his generals and commanders lead the battles.
 
@@ -1745,7 +1673,7 @@ Three times per day, Orcus can summon one balor, 1d3 nalfeshnees or 1d4 marilith
 
 *Wand of Orcus*: Mighty Orcus wields a huge, black, skull-tipped rod that functions as a *+3 heavy mace*. It slays any living creature it touches if the target fails a saving throw. Further, the *Wand* has the following magical powers: 3/day—*animate dead, darkness and fear*; 2/day—*unholy word*. Orcus occasionally allows his wand to pass into the Material Plane, usually into the hands of one of his servants.
 
-#### Demon Princess, Teratashia (Demon-Princess of Dimensions)
+### Demon Princess, Teratashia (Demon-Princess of Dimensions)
 
 The Demon-Princess Teratashia’s dark palace in the depths of the Abyss is a nexus of countless gaps between dimensions, a warren of tunnels worming their way deep into a multitude of other realities. From the center of this web of connections, Teratashia sends her minions creeping and slithering through the planes of existence to do her bidding. Her darkswimmer demons (q.v.) are but one of the many types of servitors employed by this horrid creature.
 
@@ -1765,7 +1693,7 @@ Teratashia’s Necklace of Skulls has 25 charges, and recharges itself within 25
 
 Teratashia seldom involves herself in the quarrels of the other great demons, being far more interested in controlling the nooks and crannies between dimensions than with her political status in the Abyss.
 
-#### Demon Prince, Thalasskoptis (The Sea-Demon Lord)
+### Demon Prince, Thalasskoptis (The Sea-Demon Lord)
 
 Thalasskoptis is a mass of writhing tentacles with a feral, boyish face in the center. It is a powerful demon-prince that makes its lair in the deep, dark seas of the Abyss, living in a sprawling palace of coral that dives into deep subterranean tunnels beneath the sea floor. Thalasskoptis is the lord of underwater corruption, the sea-dead, and many horrific beasts of the dark, oceanic deeps. It is an occasional rival with Orcus, given that its rulership of the sea-undead conflicts with the broader claims of the other demon-prince, but the two demons are similar enough that they are allies more frequently than enemies in the grim power struggles of the Abyssal realms. Some rivals of Thalasskoptis even dismiss it as the underwater minion of Orcus, a claim which is likely to incur a terrible vengeance from the sea-demon.
 
@@ -1773,7 +1701,7 @@ Beyond the realms of the Abyss, Thalasskoptis has scattered followings of human 
 
 At will, Thalasskoptis can cast *animate dead*, *charm monster, clairvoyance, continual darkness, dispel magic, ESP, fear, read languages, read magic, telekinesis* (1,000 pounds of weight), *teleport*, *suggestion,* and *wall of stone*. Three times per day, the demon-prince can also squirt a vast cloud of poisonous ink into the air or water, with twice the dimensions of a fireball. Anyone in the area of the cloud must make a saving throw against this poison or die. Anyone looking directly at the demon must also make a saving throw each round or become entranced for 1d4+3 melee rounds, unable to take any actions until the fascination has ended. Thalasskoptis cannot be damaged by any weapon with less than a +3 enchantment. *(Author: Matt Finch)*
 
-#### Demon Prince, Yildraathu (Demon-Lord of Pestilence)
+### Demon Prince, Yildraathu (Demon-Lord of Pestilence)
 
 Yildraathu is a large, bubbling pool of viscous ichor, with tentacles constantly emerging from and sucking back into the horrid mass of the demon-lord’s “body.”
 
@@ -1838,24 +1766,20 @@ Dertesha have a sophisticated culture unseen by land-dwelling races, and they co
 
 Dheziks look rather like dwarves with green skin and yellow eyes. However, they are feral, naked savages who paint swirls on their bodies with the blood of their foes. Their long white hair, eyebrows and moustaches are prehensile, enabling the Dhezik to entangle an opponent in close combat (saving throw to avoid), then bite the beard-entwined opponents with their prominent canine fangs. After a fresh kill there is a 1 in 6 chance their bloodlust may cause them to attack each other. Dheziks are completely resistant to arcane magic directed at them, due to strange glyphs branded on their shoulders. They are of low intelligence, are infertile, have a pack mentality, and will viciously attack Dwarves (+1 to hit). *(Author Sean Wills).*
 
-### Devils
-
-Demons are creatures of the lower planes of existence, but they are occasionally encountered in places where they have been enslaved to serve as guardians by powerful magic-users or evil priests. The more intelligent varieties might also be interrupted while carrying out plots of their own. *Swords & Wizardry* makes no game distinction between demons and devils, for the convenience of those using only a three-alignment system; all are simply creatures of the lower planes, to be used as desired with the Referee’s own campaign.
-
-#### Devil, Amaimon
+### Devil, Amaimon
 
 Amaimons stand nearly 10 feet tall, weigh about 700 pounds and look like bloated, squat humanoids with scarlet flesh. They have a long, curved and forked tail, clawed hands and feet, and round, squashed heads with two small horns just above their sapphire colored eyes. Amiamons can breathe a cloud of poisonous fire that deals 3d8 points of damage. A saving throw halves the damage. Amaimons radiate fear in a 10-foot radius. At will, Amaimons can *teleport*, create a *phantasmal force* and cast *wall of fire*. Amaimons can use *ESP* at will.
 
-#### Devil, Blood Reaver (Garugin)
+### Devil, Blood Reaver (Garugin)
 
 Blood reavers, also known as garugins, are 7-foot-tall bipedal humanoids with reddish-bronze leathery flesh and gleaming, gold eyes. Its hands end in blood-stained claws and the smell of fresh blood always hangs in the air around a blood reaver. Its fearsome visage sports a slightly curved mouth laced with sharp, flesh-rending fangs. The blood reaver has a long, forked tail the same color as its body. Blood reavers radiate an aura in a 20-foot radius that causes creatures to bleed from their mouths, noses, eyes and ears. Affected creatures must save or lose 1d6 hit points each round. When a blood reaver hits with its barbed flail, the opponent must save or be stunned for 1 round. At will a blood reaver can *teleport*, *turn* *invisible* and create a *wall of fire*. Once per day it can create a *lightning* *bolt*. Blood reavers are immune to fire and poison, and take half damage from cold and acid.
     claws (2d6+3); **Move** 12; **Save** 6; **AL** C; **CL/XP** 13/2300; **Special**: Siphoning aura, magical abilities, summon devils, +1 weapons to hit, regenerates 5 hp/round
 
-#### Devil, Flayer (Marzach)
+### Devil, Flayer (Marzach)
 
 A flayer demon is a 13-foot-tall hulking brute with leathery, crimson skin, a large mouth lined with razor-sharp teeth, and large, round horns protruding from the sides of its hairless head. Its hands and feet end in large, sharpened claws and its eyes are bronze-colored and slitted. A flayer devil that rolls a natural 20 with its claw attack rips the flesh from its opponent’s body, dealing 2d6 points of damage. At will, a flayer can *detect good* and *teleport*. Once per day, it can cast *wall of fire.* Three times per day, the flayer devil can unleash a burst of hellish black vapor in a 30-foot radius that sickens anyone in the area for 1d6 rounds (save resists). Lawful creatures take 3d6 points of damage from this unholy aura if they fail their save. Flayers are immune to fire and poison, and take half damage from cold and acid.
 
-#### Devil, Ghaddar
+### Devil, Ghaddar
 
 The terrible and mighty ghaddars roam the planes of Hell devouring the unfortunate souls of those they encounter. They also consume the essence and being of any outcast devils and dukes that cross their path. A typical ghaddar stands 15 feet tall and has the head of a donkey with large, downward-curving horns. A ghaddar’s eyes are stark white, with hollow, black pupils. Its feet are splayed and it shuffles with a hunched gait.
 
@@ -1863,19 +1787,19 @@ If a ghaddar scores a natural “20” on its attack roll and its foe fails a sa
 
 Ghaddars can use the following spells: *Fireball* (3/day), *phantasmal* *force* and *wall of fire.*
 
-#### Devil, Hellstoker (Marnasoth)
+### Devil, Hellstoker (Marnasoth)
 
 Hellstokers stand just less than 6 feet tall and weigh about 180 pounds. Their rubbery, grayish-black flesh hangs loosely on their bodies, and is always smeared with a fine layer of yellowish-brown oil. Hellstokers have ovoid heads, no hair, and small upward curving horns. A hardened ridge of bone runs from their brow across the top of their head and disappears into their spine. Hellstokers have long, serpentine, forked tails. Their eyes are round with red or black pupils. A hellstoker carries a set of bellows that can fire a line of flame up to 30 feet. The oil coating a hellstoker is highly flammable, and any fire-based spell causes them to burst into flame, which adds an extra 1d6 points of damage to their claw attacks. Hellstokers can *teleport* at will. Once per day, they can cast *burning* *hands*. Hellstokers are immune to fire and poison, and take half damage from cold and acid.
 
-#### Devil, Lilin
+### Devil, Lilin
 
 A lilin is a crimson-skinned woman about 5-1/2 feet tall with long dark hair. Her eyes are dark, almost black as is her hair. A pair of small bat-like wings protrudes from her shoulders. She wields a gleaming long sword. Lilins can use *ESP* and cast *charm person, charm monster* or *teleport* at will. Three times per day they can *animate dead*. They can see perfectly in darkness of any kind.
 
-#### Devil, Nupperibo
+### Devil, Nupperibo
 
 Those evil souls that are taken to Hell and processed to become lemures but fail ultimately become nupperibo: a life-form even more disgusting and sad than the lowly lemure. Nupperibos are vaguely humanoid. They have clawed hands and dark, grayish-black flesh. They are gathered by the dukes and arch devils and used as fodder in their never-ending wars. A nupperibo killed in battle is 99% likely to be reformed (by a duke or arch devil) into another nupperibo; the remaining 1% are “promoted” to lemure status, having proved their worth in combat. Nupperibos are blind and deaf but can ascertain all foes within 60 feet using scent and vibration. Nupperibos are immune to all mind-influencing effects (charms, compulsions, phantasms, patterns, and morale effects).
 
-#### Devil, Tormentor (Tormentor of Souls)
+### Devil, Tormentor (Tormentor of Souls)
 
 These reddish-gray scaled humanoids stand taller than a human. Their hands are clawed and its feet cloven. Oversized fangs jut from their upper jaw and drip foul-smelling saliva. Small horns protrude from just above its eyes, curving backwards. Their bodies are hairless and they have small curving tails. Tormentors of Souls, known as tormentor devils, make their way across the uppermost plane of Hell searching for souls that have entered the realms of evil. They are in the employ of this devil lord or that devil lord and return captured souls to their current master, where they are justly rewarded. Tormentors often employ hell hounds when pursuing renegade or runaway souls.
 
@@ -1883,37 +1807,37 @@ Tormentor devils can cast the following spells: *ESP, scorching ray* (1/day, as 
 
 A tormentor devil’s net looks like a normal net and acts like a normal net save that it can entrap incorporeal creatures. The net has many small razor-sharp barbs lining it. These barbs deal 1d4 points of damage each round to any creature caught in the net, including incorporeal creatures. A tormentor’s +1 battleaxe can also deal damage against incorporeal creatures.
 
-#### Unique Devil, Alastor (Executioner of Hell)
+### Devil, Unique Alastor (Executioner of Hell)
 
 Alastor stands at least 16 feet tall, and his body is entirely cloaked in hellish red and yellow flames. Huge bat-like wings spread from his scaled body and his arms end in clawed hands that hold a tight grip on a wickedly curved iron battleaxe named Grimfang. Alastor’s eyes are black with red pupils and its mouth is filled with rows of fangs. At will, Alastor can *dispel magic*, cast *fireball* or use *ESP*.
 
-#### Unique Devil, Amon (Duke of Hell)
+### Devil, Unique Amon (Duke of Hell)
 
 Amon is a wolf-headed demon who stands 9 feet tall. His fur is brownish-black and his eyes and teeth are yellow. Amon is a vassal in service to Geryon, commanding no less than 3 legions of bone devils. He is completely loyal to the Great Serpent and never questions his post. On more than one occasion an arch devil has tried to seduce Amon into betraying his lord, but such attempts always fail Amon’s iron citadel sits high on a flat-topped mountain within the domain of Hell’s fifth plane. It is a great, dark place filled with devils, wolves, and creatures far worse.
 
 Amon’s gaze induces fear to a range of 30 feet. An affected creature must succeed on a saving throw or be affected as by a fear spell. Amon can cast the following spells: *Animate dead, charm monster, dispel magic, fly,* *produce flame, suggestion, symbol of discord* (1/day) and *wall of ice.* Once per day, Amon can summon a total of 40 HD of wolves and worgs. He can control up to 40 HD of wolves and worgs, whether summoned by him or not. Twice per day, Amon can summon 4d10 lemures or nupperibos, 2d4 bone devils, 1d4 barbed devils or 1 ghaddar devil or pit fiend.
 
-#### Unique Devil, Baal (Duke of Hell)
+### Devil, Unique Baal (Duke of Hell)
 
 Baal is a tall, golden-skinned humanoid dressed in battered bronze chainmail. His bovine head features large, round eyes of black, a large nose, the ears of a wolf and a large mouth lined with razor-sharp teeth. Tiny forward-curving horns protrude from his forehead. Baal is a duke in the employ of Great Mammon and leads 5 legions of barbed devils in his service. Baal follows Lord Mammon’s orders without question but secretly plans one day to wrest the throne from his master (who has become complacent as of late). For now, though, he waits and schemes.
 
 Baal attacks with a *+3 morningstar* that can telescope to up to 8 feet in length. He radiates a 20-foot-radius aura of fear (save or affected as *fear* spell). He can cast the following spells: *Animate dead, cause serious* *wounds, charm monster, dispel magic, invisibility* (self), *phantasmal force,* *produce fire, pyrotechnics, shape change* (2/day)**,** *suggestion* and *symbol* *of stunning* (1/day). Twice per day Baal can summon 4d10 lemures or nupperibo, 2d4 barbed devils or bearded devils, 1d4 erinyes, or 1 ghaddar devil, horned devil, or 1 pit fiend.
 
-#### Unique Devil, Baaphel (Duke of Hell)
+### Devil, Unique Baaphel (Duke of Hell)
 
 Baaphel is a grand duke in the service of Belial, leading 2 legions of bearded devils in battle for his lord. He is a dog-headed humanoid with grayish-brown skin, pale scarlet eyes, two crimson horns, two large bat wings, hooved feet and a forked crimson tail. Baaphel is constantly scheming against the other dukes in Belial’s service and takes every opportunity to discredit them in the eyes of their lord, though he never does this openly; it is always through lesser dukes and other devils that his machinations come to fruition. Baaphel yearns to be ruler of an entire plane and is waiting anxiously until the time comes that he can overthrow his lord. Baaphel makes his home in a great castle of basalt and iron on Hell’s fourth plane.
 
 Baaphel can induce fear by touch, an affected creature affected by a fear spell if they fail a saving throw. Baaphel can cast the following spells: *Charm monster, dispel magic, invisibility, suggestion,* *symbol of sleep* (1/day) and *transmute flesh to stone* (1/day). Twice per day Baaphel can automatically summon 4d10 nupperibos, 2d6 bearded devils, 1d4 barbed devils, bone devils, or erinyes or 1 ghaddar devil.
 
-#### Unique Devil, Caasimolar (Former President of Hell)
+### Devil, Unique Caasimolar (Former President of Hell)
 
 As President of Hell, Caasimolar was the second in command of the Abyss. Caasimolar appears as a wizened old man about 7 feet tall with a silver beard and balding head. His eyes are ruby red, as are the small rounded horns that jut from his head just above his eyes. His hands and feet are humanoid and his nails are ruby red. His long, snaky, thin forked tail is crimson. Caasimolar wears robes of purple, white, amber, or sapphire. Underneath his robes his body is crimson with small scales. By speaking, Caasimolar induces fear (as per the spell) in all creatures within 30 feet who fail a save. At will, Caasimolar can *animate dead*, cast a *cone of cold, detect magic, detect good, use ESP, dispel magic, teleport* and *polymorph self*. Three time a day he can cast wall of ice, and once a day he can cast power word kill. Caasimolar is immune to fire and poison, and takes half damage from cold and acid. Caasimolar’s rod is a 6-foot long iron rod that functions as a *+3 quarterstaff*. In addition, once per day it can unleash a *lightning bolt* for 10d6 points of damage (save for half), and three times a day it can cast *finger of death*. Each strike by Caasimolar’s rod does 1d6 points of damage and inflicts serious wounds (2d6+2).
 
-#### Unique Devil, Demoriel (Twice-Exiled Seductress)
+### Devil, Unique Demoriel (Twice-Exiled Seductress)
 
 Demoriel was once a powerful angel who made her home in the heavens among the other angels. Demoriel’s journey into evil altered her appearance and left her with black hair, coal black eyes, amber skin, small horns protruding above her eyes, and a thin, snake-like forked tail. Small bat-like wings protrude from her shoulders, though she often keeps these folded against her back and hidden beneath her robes. Anyone seeing Demoriel must save or stand enthralled for 1 minute (as per a *hold person* spell). At will, Demoriel can *charm monster*, *detect good*, *detect magic*, *dispel magic*, cast a *fireball*, *teleport*, turn *invisible*, *polymorph self*, make a *suggestion*, and create a *wall of fire*. Once per day she can create a *meteor swarm* and use *power word stun*. Demorial is immune to fire and poison, and takes half damage from cold and acid. Demorial wields *Reaver*, a *+3 short sword*.
 
-#### Unique Devil, Geryon (Arch-Devil)
+### Devil, Unique Geryon (Arch-Devil)
 
 Geryon is a towering creature with the upper torso of a humanoid with paw-like hands, blue-furred arms, dark hair, and piercing black eyes, and the lower torso of a massive black and gold banded snake. Called “the Great Serpent”, he rules Hell’s fifth plane. His fortress, a large iron citadel located in the heart of a great city, is situated at the center of his plane. Geryon often leaves his fortress to wander the city, but rarely ever journeys beyond the city’s gates. The city is a large, dark place filled with all manner of filth. Geryon is one of the most powerful arch devils (by physical standards) and enjoys displaying his physical prowess to any who would watch, often destroying pit fiends or minor dukes for sheer pleasure and entertainment. While he is weaker than other arch devils (in station and overall power), he has allied himself with Mephistopheles and as such is feared by many. For all of Hell’s inhabitants know, if any can wrest the throne of Hell from Asmodeus, it is Mephistopheles, and Geryon wants to make sure he is on the winning side when the time comes to challenge the current Overlord.
 
@@ -1921,13 +1845,13 @@ Geryon’s gaze induces fear (as the spell) to a range of 30 feet. His tail stin
 
 Geryon carries a great horn made of bone. He can blow this horn and summon 5d4 minotaurs who serve him until their death. This horn can be blown three times per week. Lawful creatures touching the horn take 5d6 points of electricity damage each round they touch it (no save).
 
-#### Unique Devil, Gorson (The Blood Duke)
+### Devil, Unique Gorson (The Blood Duke)
 
 The Blood Duke, Gorson, is a great lion-bodied centaur that serves Great Mammon as 2nd general of his infernal army. Gorson leads 5 legions of barbed devils in service to his lord. Gorson is called “The Lion” for his ferocity in battle and his general appearance. He often takes the entrails of those he has slain and makes a necklace, wrapping it around his neck or entwining them in his bloody mane-like hair. Wounds from his battleaxe do heal naturally, and until a *remove curse* is cast upon them, healing spells cure only 1 point of damage per casting.
 
 Gorson can cast the following spells: *Animate dead, charm monster, dispel magic, produce flame, suggestion, symbol of stunning* (1/day) and *wall of fire*. Twice per day Gorson can automatically summon 2d10 lemures or nupperibos, 2d4 bearded devils, 1d4 bone devils, erinyes, or barbed devils, or 1 pit fiend.
 
-#### Unique Devil, Hutijin (Duke of Hell)
+### Devil, Unique Hutijin (Duke of Hell)
 
 Hutijin is a tall humanoid with bat-like wings, a whip-like tail and dark red, scaled skin. He has a mouth filled with sharpened teeth and two oversized canine teeth and upward curving horns project from his head. Hutijin is a loyal servant of Mephistopheles and commands 2 companies of pit fiends in the infernal armies of the eighth plane of Hell. Hutijin is a noble of Mephistopheles’ court and commands much respect from the other dukes and nobles. His battle prowess and strong demeanor command respect from the other dukes of Hell.
 
@@ -1935,11 +1859,11 @@ Hutijin can cause fear by speaking. Creatures within 30 feet that hear his voice
 
 Upon command, Hutijin’s *trident* is sheathed in fire. The fire does not harm the wielder, but deals an extra 1d6 points of damage on a successful hit. His magical net holds fast any creature it hits.
 
-#### Unique Devil, Lilith (Former Queen of Hell)
+### Devil, Unique Lilith (Former Queen of Hell)
 
 Lilith is an insanely comely female standing 5’7” tall and weighing roughly 130 pounds. Her skin is cinnamon colored and her hair is waist length and blood red. She has a small pair of leathery black bat-like wings. Lilith can use *ESP* and cast *fireball*, *hold person*, *charm person* or *charm monster, suggestion and teleport* at will. Three times a day she can cast *lightning bolt* and *wall of fire*. One a week she can grant a wish. She can see perfectly in darkness of any kind. Lilth can summon 1d4+4 lilins with a 100% chance. She carries a +2 longsword that can fire a *finger of death* spell 3 times each day.
 
-#### Unique Devil, Lucifer (Prince of Darkness)
+### Devil, Unique Lucifer (Prince of Darkness)
 
 Lucifer has many names: The Prince of Lies, The Prince of Darkness, The Adversary, The Prince of Light, and Satan. It is believed that Lucifer was the first devil in existence, having been cast down from the heavens when he challenged the rulings of the gods of law. After being cast down, Lucifer constructed a plane he called Hell. There he built his palace of iron and basalt on the lowest and darkest region of Hell. He divided this realm into nine distinct regions and appointed his closest allies to rule. Each lord was allowed to mold and shape his domain as he saw fit, but all paid homage to Lucifer.
 
@@ -1963,7 +1887,7 @@ Once per week, Lucifer can attempt to summon each arch devil to his palace on th
 
 > ***Rod of Infernus*:** Lucifer’s black iron rod functions as a *+5 heavy mace*. Any lawful creature that touches the rod must pass a saving throw or suffer 10d6 points of electricity damage per round. Once per round, and no more than five times per day, the rod can fire a ray to a range of 60 feet. A creature struck by this ray must succeed on a saving throw at -2 or be annihilated instantly—not even a trace of dust is left behind. No form of mortal magic can restore life to a creature annihilated by this ray. Once per round, and no more than three times per day, the rod can fire a ray of hellish-red energy to a range of 60 feet that functions as a *magic jar* spell. A target can make a saving throw to resist the effects. If failed, the victim’s soul vanishes into Lucifer’s rod. Up to 10 such souls can be held in the rod at one time.
 
-#### Unique Devil, Moloch (Arch-Devil)
+### Devil, Unique Moloch (Arch-Devil)
 
 Moloch rules the sixth plane of Hell, a flat, stinking plane of acrid smoke and soot. He is currently plotting to wrest control of the plane completely from its true ruler, Baalzebul, for Moloch is nothing more than a lieutenant in Baalzebul’s infernal army or seneschal to Baalzebul’s court. Yet before he puts in motion steps to secure his plane, he must first deal with the machinations of the Great Serpent, Geryon. Geryon and Moloch hate each other; their infernal armies are constantly warring with each other either openly or through subterfuge.
 
@@ -1975,11 +1899,11 @@ Moloch casts spells as a 12th level cleric. He can use the following magical abi
 
 ***Unholy Shocking Six-Tailed Whip:*** Moloch’s *+3 six-tailed whip* deals an extra 1d6 points of electricity damage on a successful hit.
 
-#### Servants of Moloch
+**Servants of Moloch**
 
 Followers of Moloch are evil humanoids and usually consist of assassins, clerics and magic-users. Devout followers of Moloch are called Knights of Moloch and must sign a pact of evil with Moloch. Knights can receive up to 3rd level cleric spells from Moloch.
 
-#### Unique Devil, Xaphan (Duke of Infernus)
+### Devil, Unique Xaphan (Duke of Infernus)
 
 Xaphan is 13 feet tall and resembles a satyr, with the lower torso of a goat and the upper body of a powerful humanoid. His skin is blackish-brown and the fur on his lower torso black. Two small horns jut from his forehead, just above his golden eyes. His hair is long and black, and he often wears it in a braided ponytail. Two large, leathery bat-like wings protrude from his back. Xaphan can cause his entire body to erupt in flame, doing 2d6 points of damage to all creatures within 5 feet (no save). In addition, any creature meeting his gaze must save or begin to burn from the inside out, dealing 1d6 points on the 1st round, 3d6 on the 2nd, and 6d6 on the 3rd. The victim gets a save each round to negate the continuing damage. Xaphan casts spells as a 20th-level Magic-User. At will he can cast *animate dead*, *create darkness (15 foot radius)*, *cause fear*, *detect magic*, *dispel magic*, *fireball*, *pyrotechnics*, or *wall of fire*. Once per day he can cast *power word kill*, *symbol of fear* and *limited wish*.
 
@@ -1991,31 +1915,27 @@ The wolf-like devil dog is larger than a wolf — about 5 feet long and 3 feet h
 
 Digers are semi-transparent oozes about 9 feet in diameter that live in abandoned ruins or underground areas where they spend most of their time hunting for food. A large, reddish-colored gem, actually an eye, floats near the center of the creature. A diger’s gem-like eye offers it a means to lure its prey in so it can attack. A character has a 1 in 6 (2 in 6 for dwarves and elves) to realize the gem is not real. A diger attacks by hitting a foe with its slimy appendage, or by simply waiting, floating unnoticed until an opponent contacts it. A diger secretes a digestive acid that dissolves only flesh. Any melee hit deals acid damage. Digers also secrete an anaesthetizing slime. A creature making physical contact with a diger must succeed on a saving throw or be paralyzed for 1d6 rounds. Digers do not deliver this paralysis with an attack by one of their slimy appendages. A diger can automatically engulf a paralyzed foe. An opponent remains paralyzed for as long as it remains engulfed. A paralyzed foe is considered to be grappled and takes 1d4 points of acid damage every 10 minutes as the diger slowly digests it. By releasing naturally occurring helium from its body, a diger is able to fly for 2 rounds. After that, it must land and cannot fly again until it has rested for 2 rounds.
 
-### Dinosaurs
-
-Dinosaurs are particularly useful in time-traveling adventures, for valleys that time forgot, or for the mounts of sword & sorcery barbarians.
-
-#### Ankylosaurus
+### Ankylosaurus
 
 An ankylosaurus looks like a turtle with spikes around the edge of its shell and elephant-like legs. It has a tail with a clubbed end. They are herbivores, and travel in small groups.
 
-#### Brontosaurus
+### Brontosaurus
 
 Brontosaurus (Apatosaurus) is a massive, long-necked herbivore. They are encountered in groups or even herds. A brontosaurus stands 20 ft. tall at the shoulder, and weighs from 35 to 45 tons.
 
-#### Elasmosaurus
+### Elasmosaurus
 
 Fish-like, 15-ft. long carnivores, the elasmosaurus has a long neck like a sea serpent, but has a thick, saurian body with fins. This is a good sea monster for use in campaigns where the dark horrors of the far-forgotten past might still survive. These creatures cannot survive more than a few minutes on land.
 
-#### Stegosaurus
+### Stegosaurus
 
 These dinosaurs have large back-plates standing out from the spine, and a spiked tail. They are herbivores, and travel in small groups.
 
-#### Triceratops
+### Triceratops
 
 A triceratops has three horns protruding from its face, and a protective plate rising like an armored frill behind its head. They are extremely hard to damage with frontal assaults. The bony plate behind the head would also provide excellent protection for a rider. The horns inflict double damage if the creature charges.
 
-#### Tyrannosaurus
+### Tyrannosaurus
 
 Tyrannosaurus is a deadly carnivorous dinosaur, walking on two legs and attacking with a massively powerful bite. When it bites prey, it grabs the victim in its jaws, shaking and chewing for 3d8 points of automatic damage in subsequent rounds. It can inflict such damage even against opponents as large as a brontosaurus. Only creatures with shells, bone frills, or spines can avoid the horrendous tearing damage a tyrannosaur can inflict (e.g., triceratops, stegosaurus, ankylosaurus).
 
@@ -2029,7 +1949,7 @@ A frightened herd of dire bison flees as a group in a random direction (but alwa
 
 Dire corbies are wingless bipedal crows with slick black feathers, powerful arms that end in razor-sharp claws and a gold beaks. They dwell deep beneath the surface world, making their homes in large, open caverns, hollowing out individual shelters in the walls themselves. These creatures do not possess wings now, but did in some remote part of their past. Dire corbies are omnivores but prefer a diet of fresh meat, enjoying the flesh of subterranean rodents, animals, and even other races. They are particularly fond of the flesh of bats, savoring the leathery grit of their flesh. Dire corbies speak their own language of clicks and tweets. More intelligent dire corbies have a 10% chance of speaking Common as well. Dire corbies hunt in flocks. They enjoy the thrill of the hunt and enjoy running their prey down, toying with it before swooping in and tearing it to shreds with their claws. Dire corbies always fight to the death and never flee, even when faced with overwhelming odds.
 
-#### Dire corbies as Characters
+### Dire corbies as Characters
 
 Dire corby flocks are usually led by fighters. Dire corby characters are capable of seeing in the dark as elves. Their keen hearing assures that they never suffer penalties for fighting blind and succeed at listening through doors and thin walls on a roll of 1-3 on 1d6. A dire corby’s feathers and thick skin give is a natural AC of 8 \[11\]. Their coloration allows them to surprise foes on a roll of 1-2 on 1d6 in areas of darkness. Dire corbies can advance to 8th level as fighters (or up to 9th level with a strength of 14 or higher) and 4th level as thieves (or up to 5th level with a dexterity of 16 or higher).
 
@@ -2141,45 +2061,23 @@ A draconid appears as a giant spider with eight spindly legs. Where its head sho
 
 Dragolems are golems fashioned in the shape of dragons. These powerful constructs are usually used to guard valuable artifacts or vast treasures. A dragolem is unintelligent and is unaffected by charm spells, hold, sleep or other mind altering spells, as well a gases, cold, and fire. Dragolems are also immune to all spells of up to level 4, and to normal and silver weapons. Dragolems are able to see the invisible and 3 times per day they may breathe a poisonous cloud (20 X 20 X 20ft). The victim of the poisonous cloud must make a successful saving throw or die. *(Author: Skathros).*
 
-### Dragons
-
-The size of a dragon is roughly 5 ft of body length per age category, up to the adult size of 20 ft. Dragons have double normal treasure (that is, a gold piece value of four times the dragon’s XP value).
-
-Do not roll hit points for dragons as normal. Instead, determine the number of hit dice and the age category of the dragon. The age category indicates both the dragon’s hit points per die and how much damage the dragon’s breath weapon inflicts, given as points per hit die.:
-
-
-
-
-Note that dragons, while they are dangerous opponents, are not by any means invincible. In a medieval-type fantasy world, dragons are a common problem rather than godlike creatures of legend—so the statistics for dragons reflect a deadly but not mythical foe. The Referee is, of course, free to create stats for a more “mythical” conception of dragons. Since dice are not rolled for dragon hit points, it is possible for a truly mythical dragon to have more points per die than it is actually possible to roll on a hit die.
-
-Breath Weapons: All dragons have a breath weapon of some kind, which can be used three times in a day. The Referee chooses when a dragon will use its breath weapon, or may roll a 60% chance in any given round. Damage inflicted by a dragon’s breath weapon is indicated under the age category. When used breath weapons appear in three different shapes:
-
-**1** — Cloud-shape for gaseous exhalations
-**2** — A line, for spitting dragons**3** — Cone shape for any others.
-
-The dimensions of a dragon’s breath differ according to the dragon’s type.
-
-If a dragon is beaten down by subdual damage (see rules for Combat), the dragon will surrender and serve its conquerors, even to the point of allowing itself to be sold. However, subdued dragons are only loyal while they are impressed by and frightened of their masters; signs of weakness may cause the dragon to escape or even attack its master.
-
-A standard-colored dragon generally has a challenge level based on its hit points: CL=(hp/4) +2.
-
-#### Black Dragon
+### Dragon, Black
 
 Black dragons spit a deadly, corrosive acid which covers everything in a line 5 feet wide and 60 feet long. Black dragons have a 45% chance of being able to talk; talking black dragons have a 5% chance of being able to cast 1d4 first-level Magic-User spells.
 
-#### Blue Dragon
+### Dragon, Blue 
 
 Blue dragons spit a blast of lightning in a line 5 ft wide and 100 ft long, affecting everything in its path. A saving throw indicates half damage. Blue dragons have a 65% chance of being able to talk; talking blue dragons have a 15% chance of being able to cast 1d4 first-level Magic-User spells and 1d3 second-level Magic-User spells.
 
-#### Brass Dragon
+### Dragon, Brass
 
 Brass dragons are greedy, but not as inimical to humankind as most of their kin. A brass dragon can breath a cone-shaped blast of sleep gas (70ft long, to a width of 20ft at the end), or a cloud of fear gas 50 ft. in diameter (20ft from the ground to the top of the cloud). A saving throw is required for anyone caught in a brass dragon’s breath weapon, regardless of level. Sleep lasts until the victim is physically awakened; fear causes the victim to flee for 3d6 rounds. Brass dragons have a 50% chance of being able to talk; talking brass dragons have a 5% chance of being able to cast 1d4 first level magic-user spells. Brass dragons range in size from 6 to 8 hit dice.
 
-#### Bronze Dragon
+### Dragon, Bronze
 
 Bronze dragons are generally quite friendly to humankind. They can spit lightning in a line 100ft long (5-ft. wide) or exhale a cloud of misdirection gas in a 30 ft. diameter (20ft from ground to top of cloud). The misdirection gas forces anyone failing a saving throw to retreat away from the dragon for 6 full combat rounds. The lightning bolt causes full damage (age category times dragon’s hit dice) on a failed saving throw, half damage with a successful saving throw. Bronze dragons have a 70% chance of being able to talk; talking bronze dragons have a 15% chance of being able to cast 1d4 first level magic-user spells and 1d3 second level magic-user spells. These dragons range in size from 8 to 10 hit dice.
 
-#### Cloud Dragon (Draco Nimbus Celo)
+### Dragon, Cloud (Draco Nimbus Celo)
 
 Cloud dragons are the most reclusive of all dragons, rarely leaving the safety and sanctity of their cloudy lairs. They have fringed and frilled heads and wings that sweep back from shoulders to tail. Large, piercing rose colored eyes dominate their somewhat triangular heads. A cloud dragon wyrmling’s scales are silvery-blue with a slight hint of red at the tip of each scale. As the dragon ages, its color slowly changes to a bright sunset orange. The oldest cloud dragons resemble gold dragons, save for the large bony plates on their heads and backs. Their tails trail off becoming misty and translucent near the tip. Cloud dragons have a great disdain for non-flying creatures and creatures that must use non-natural means to fly. Cloud dragons are not highly aggressive, but dislike interlopers and attack them on sight.
 
@@ -2191,17 +2089,17 @@ Twice per day, an adult or older cloud dragon can create a maximum of 81 cubic f
 
 **Cloud Dragon** from the [Tome of Horrors Complete](http://shop.d20pfsrd.com/products/sw-the-tome-of-horrors-complete), Copyright 2011, Necromancer Games, Inc., published and distributed by Frog God Games; Author Scott Greene, based on original material by Gary Gygax.
 
-#### Copper Dragon
+### Dragon, Copper
 
 Copper dragons are generally hostile to evil/chaos, although they are not necessarily friendly to humans, either. They are greedy and covet wealth. A copper dragon can choose to spit a line of acid 5-ft. wide and 60ft long (saving throw for half damage), or to exhale a cloud of gas 30 ft. in diameter (20ft from top to bottom) that acts as a slow spell for a duration of 6 combat rounds (saving throw negates). Copper dragons have a 60% chance of being able to talk; talking copper dragons have a 10% chance of being able to cast 1d4 first level magic-user spells and 1d2 second level magic-user spells. These dragons range in size from 7 to 9 hit dice.
 
-#### Dungeon Dragon (Draco Carcer Dominus)
+### Dragon, Dungeon (Draco Carcer Dominus)
 
 The dungeon dragon is a rare dragon race that delights in building intricate underground dungeons and mazes in which to ensnare would-be-delvers. A dungeon dragon is approximately 15 feet long, with a long serpentine neck, small atrophied wings, and glistening scales. Two small horns dominate its triangular head. Its body is gray in color, with scales tipped in flecks of gold and green. Its eyes are rounded and gold or gray. A dungeon dragon spits a blast of warm mist in a 100-foot line or a 50-foot cone that causes confusion.
 
 **Dungeon Dragon** from the [Tome of Horrors Complete](http://shop.d20pfsrd.com/products/sw-the-tome-of-horrors-complete), Copyright 2011, Necromancer Games, Inc., published and distributed by Frog God Games; Author Erica Balsley.
 
-#### Faerie Dragon (Draco Fraudatio Minimus)
+### Dragon, Faerie (Draco Fraudatio Minimus)
 
 The faerie dragon is a tiny beast with delicate and brightly colored butterfly wings and a long, thin prehensile tail. Its scales are smooth and range in color from red to purple, with all colors of the spectrum falling in between. Its eyes are bluish-green, and its backward curving horns are silver with gold flecks. Faerie dragons are fey members of the dragon family and are believed to be distant cousins of the pseudodragon. Female faerie dragons have a golden sheen to their coloring while males have a silver sheen. Faerie dragons love to play pranks on passersby and employ their spells to this end. Some faerie dragons spend months on end preparing for the day they can unleash their single grand practical joke or prank. Faerie dragons avoid combat and only attack if cornered or if their lair or young are in immediate danger. A faerie dragon attacks with its breath weapon, spells, and bite.
 
@@ -2211,15 +2109,15 @@ A faerie dragon can replicate magic-user (65% chance) or druid spells (35% chanc
 
 **Faerie Dragon** from the [Tome of Horrors Complete](http://shop.d20pfsrd.com/products/sw-the-tome-of-horrors-complete), Copyright 2011, Necromancer Games, Inc., published and distributed by Frog God Games; Author Scott Greene, based on original material by Brian Jaeger and Gary Gygax.
 
-#### Gold Dragon
+### Dragon, Gold
 
 Gold dragons are the noble wyrms of story and song. They can breathe either a cloud of poisonous gas, 50 feet in diameter (a successful saving throw indicates half damage) or they can breathe fire in a cone-shape 90 feet long and roughly 30 feet wide at the base. Gold dragons have a 100% chance of being able to talk and a 25% chance of being able to cast Magic-User spells: 1d4 first-level, 1d3 second-level, 1d2 third-level, and 1 fourth-level spell.
 
-#### Green Dragon
+### Dragon, Green
 
 Green dragons breathe a cloud of poisonous gas, 50 ft. in diameter. (A successful saving throw indicates half damage.) Green dragons have a 55% chance of being able to talk; talking green dragons have a 10% chance of being able to cast 1d4 first level Magic-User spells and 1d2 second level Magic-User spells.
 
-#### Mist Dragon (Draco Nebulos Terra)
+### Dragon, Mist (Draco Nebulos Terra)
 
 Mist dragons are relatively passive and reclusive, preferring to spend their time away from most other folk, including other mist dragons. Mist dragons make their lairs near large sources of water such as waterfalls, lakes, and seashores. A mist dragon resembles a gold dragon in shape and size. Its scales are shiny-blue white as a hatchling and gradually darken to a blue-gray color with metallic silver splotches. It possesses no visible wings.
 
@@ -2233,25 +2131,25 @@ Mist dragons can breathe underwater indefinitely and can freely use their breath
 
 **Mist Dragon** from the [Tome of Horrors Complete](http://shop.d20pfsrd.com/products/sw-the-tome-of-horrors-complete), Copyright 2011, Necromancer Games, Inc., published and distributed by Frog God Games; Author Scott Greene, based on original material by Gary Gygax.
 
-#### Red Dragon
+### Dragon, Red
 
 Red dragons are the fire-breathing wyrms of legend. They breathe fire in a cone-shape 90 feet long and roughly 30 ft wide at the base. Red dragons have a 75% chance of being able to talk; talking red dragons have a 20% chance of being able to cast 1d4 first level Magic-User spells, 1d3 second level Magic-User spells, and 1d2 third level Magic-User spells.
 
-#### Silver Dragon
+### Dragon, Silver
 
 Silver dragons are active servants of law/good; although they do not necessarily pursue this goal by assisting humankind, most would protect human settlements and civilized regions in the face of serious threats. They have the ability to polymorph themselves into human and animal forms. Silver dragons can either breath a cone of cold (70ft long, to a width of 30ft) or exhale a cloud of paralytic gas 50 ft. in diameter and 20ft from ground to top (duration 3d6 turns, saving throw negates). Silver dragons have an 80% chance of being able to talk; talking silver dragons have a 20% chance of being able to cast 1d4 first level magic-user spells, 1d3 second level magic-user spells, and 1d2 third level magic-user spells. These dragons range in size from 9 to 11 hit dice.
 
-#### Smoke Dragon (Draco Fumo Suffoco)
+### Dragon, Smoke (Draco Fumo Suffoco)
 
 Smoke dragons are small, 3-foot long, black dragons with grayish underbellies and are often mistaken for immature black dragons because of their dark colored scales. Smoke dragons have smoke-gray talons and red-tinged wings. Their eyes are gray or, in some rare instances, blue. Small under-curved horns protrude from their heads and their serpentine tails are about 5 feet long. Smoke dragons spit a cone of smoke up to 20 feet that causes opponents to choke and cough (save avoids). Once per day, a smoke dragon can assume a smoky form (similar to *gaseous form*).
 
 **Smoke Dragon** from the [Tome of Horrors Complete](http://shop.d20pfsrd.com/products/sw-the-tome-of-horrors-complete), Copyright 2011, Necromancer Games, Inc., published and distributed by Frog God Games; Author Scott Greene.
 
-#### White Dragon
+### Dragon, White
 
 White dragons are usually found in cold regions, where they camouflage themselves in ice and snow, lying in wait for prey. They breathe a cone of intensely cold air and frost, with a length of 70 ft and a base of 30 ft. White dragons are not able to talk or cast spells.
 
-#### Wrath Dragon (Draco Sanctus Benevolentia)
+### Dragon, Wrath (Draco Sanctus Benevolentia)
 
 A wrath dragon is 30 feet long and weighs about 30,000 pounds. It has a serpentine neck and glittering silver scales. They breathe holy fire in a cone-shape 90 feet long and roughly 30 feet wide at the base. Wrath dragons have 75% chance of being able to talk; talking wrath dragons have a 50% chance of being able to cast spells as a 6th-level Cleric. They can turn undead as an 8th-level Cleric.
 
@@ -2414,37 +2312,33 @@ These statistics are for giant eels about ten feet in length. Larger eels would 
 
 Efreet are a type of genie, associated with fire (in contrast to the djinn, who have powers over the air). Efreet can carry up to 1000 pounds of weight, and under the right circumstances they can be forced to serve as a slave until they figure out how to free themselves. An efreeti can create a wall of fire (per the spell). They appear as giant humans with cruel features, their skin flickering with flames.
 
-### Elementals
-
-Elementals are living manifestations of the basic forms of matter: earth, air, fire, and water. They are usually summoned from their native planes of existence to do the bidding of a powerful wizard. These beings can also be “chained” within objects or structures to give the objects magical properties. Elementals are barely intelligent at all, but they are as powerful as the forces of nature that they actually are.
-
-#### Air Elemental
+### Elemental, Air 
 
 Air elementals can turn into a whirlwind of air with a diameter of 30 ft, hurling any creature of 1 HD or less for great distances (and almost certainly killing them). These elemental whirlwinds are approximately 100 ft. in height.
 
-#### Earth Elemental
+### Elemental, Earth
 
 Earth elementals are hulking man-shapes of rock and earth. They batter opponents with their great fists, although damage is reduced by 1d6 if the opponent is not standing upon earth or rock. Earth elementals can tear apart stone structures, able to rip down even a castle wall in a matter of 1d4+4 rounds (minutes).
 
-#### Fire Elemental
+### Elemental, Fire
 
 Fire elementals are formless masses of flame, perhaps with a vaguely human shape. Their attacks cause flammable materials (including wood) to ignite if the material fails a saving throw (as determined by the Referee).
 
-#### Gravity Elemental
+### Elemental, Gravity
 
 Gravity elementals are circular regions of absolute blackness that attack by hurling objects using telekinesis. They warp and manipulate gravity within 20 feet of them, giving arrows and other missile attacks a -6 to-hit penalty. Spells such as magic missile ignore this warped gravity field and strike true.
 
 **Gravity Elemental** from the [Tome of Horrors Complete](http://shop.d20pfsrd.com/products/sw-the-tome-of-horrors-complete), Copyright 2011, Necromancer Games, Inc., published and distributed by Frog God Games; Author Erica Balsley.
 
-#### Negative Energy Elemental
+### Elemental, Negative Energy
 
 A negative energy elemental appears as a sphere of translucent gray energy with small motes of light winking in and out of existence. The touch of a negative energy elemental drains 1 level with each hit. When slain, a negative energy elemental detonates in a 30-foot-radius blast that deals 1d6 points of damage per 2 HD.
 
-#### Positive Energy Elemental
+### Elemental, Positive Energy 
 
 A positive energy elemental appears as a shimmering sphere of brilliant white energy with small motes of light winking in and out of existence. Its attacks imbue bonus hit points upon targets that last up to one hour. A creature reaching double its normal hit points explodes. When slain, a positive energy elemental detonates in a 30-foot-radius blast that heals 1d6 points of damage per 2 HD.
 
-#### Psionic Elemental
+### Elemental, Psionic
 
 Psionic elementals appear as a dark, semi-translucent clouds of swirling vapor. They have their origin on a plane composed entirely of psionic matter and seldom venture from their home except when summoned by a spellcaster. It is unknown whether psionic elementals can speak; all communication with these creatures thus far has been through telepathy. Looking closely at a psionic elemental’s form reveals two small pinpoints and a mouth formed of solid bits of matter swirling in the elemental’s form.
 
@@ -2452,7 +2346,7 @@ Psionic elementals can cast the following spells: d*imension door*, *esp*, *magi
 
 By folding the dimensions around its body, a psionic elemental can automatically deflect one attack per round directed against it back upon the attacker. The attacker takes full damage just as if he had hit the psionic elemental (including any special effects of the attack). Spells can be reflected using this power, but only those that specifically target the elemental. Area of effect spells are not reflected and have full effect on the psionic elemental.
 
-#### Time Elemental
+### Elemental, Time
 
 Time elementals are creatures from an elemental plane most sages are unaware even exists. A time elemental is a powerful creature formed of pure time and matter such as is unknown to even the most learned of sages. It is unknown how or why time elementals enter the Material Plane, as they cannot be summoned using the standard summoning spells. Time elementals appear as formless clouds of coppery vapor or sparkling dust about 5 feet in diameter. They attack by forming misty or smoky arms from their forms and lashing at opponents or by spraying a fine mist onto their opponents so as to induce aging. Damage dealt by a time elemental’s slam attack does not heal naturally, but it can still be healed magically. A creature slain by a time elemental can only be raised through the successful casting of a *wish* spell.
 
@@ -2466,41 +2360,29 @@ A time elemental can slip through the time stream and appear anywhere on the sam
 
 Once per day, a royal time elemental can attempt to summon 1d4 common time elementals with a 70% chance of success or 1-2 noble time elementals with a 30% chance of success. Noble and royal time elementals can create an effect identical to a *time stop* spell once per day. All time elementals can see a few seconds into the future. This ability prevents it from being surprised. Time elementals are immune to all time-related spells and effects (though the *time stop* ability of the noble and royal time elementals can affect those time elementals of lesser power).
 
-#### Water Elemental
+### Elemental, Water
 
 Water elementals cannot move more than 60 ft. from a large body of water, and their damage is reduced by 1d6 if the opponent is not standing in water (or swimming, etc). These powerful beings can overturn small boats, and can overturn a ship if given 1d4+4 rounds to work at it. On water, they can attack ships, battering them to pieces within 1 hour if not prevented or distracted.
 
-### Elemental Constructs
-
-Elemental constructs are golems or automatons forged of one of the four basic elements—air, earth, fire, or water—bound to serve their creator. The creation of an elemental construct requires no less than five elemental spirits (of the same type) which are unwillingly bound into the form of the elemental construct.
-
-Elemental constructs are used by powerful mages as servants, bodyguards, and assassins. An elemental construct, like any other automaton follows any order or command given to it to the best of its ability.
-
-An elemental construct’s creator can command it if the construct is within 60 feet and can see and hear its creator. If not commanded, an elemental construct usually follows its last instruction to the best of its ability, though if attacked it returns the attack. The creator can give the elemental construct a simple command to govern its actions in his or her absence. The elemental construct’s creator can order the construct to obey the commands of another person (who might in turn place the elemental construct under someone else’s control, and so on), but the elemental construct’s creator can always resume control over his creation by commanding the elemental construct to obey him alone.
-
-Each elemental construct appears as a humanoid creature about 9 feet tall and is composed entirely of its native element.
-
-#### Air Elemental Construct
+### Elemental Construct, Air
 
 An air elemental construct is a 9-foot-tall semi-vaporous humanoid composed of air and mist. An air elemental construct transforms the air in a 30-foot radius around it into a forceful blast of wind and debris that deals 2d6 points of damage. *Control winds* and *control weather* spells heal an air elemental construct (1d8 per spell level). Any cold-based attack slows an air elemental construct. No other type of spell affects an air elemental construct.
 
 **Air Elemental Construct** from the [Tome of Horrors Complete](http://shop.d20pfsrd.com/products/sw-the-tome-of-horrors-complete), Copyright 2011, Necromancer Games, Inc., published and distributed by Frog God Games; Author Scott Greene.
 
-#### Earth Elemental Construct
+### Elemental Construct, Earth
 
 An earth elemental construct is a 12-foot-tall humanoid composed of dirt and rock. An earth elemental charges opponents, dealing 2d6 points of damage with a hit. An *earthquake* spell immediately destroys an earth elemental construct. *Transmute rock to mud* and *move earth* heals an earth elemental construct (1d8 per spell level). No other type of spell affects an earth elemental construct.
 
-#### Fire Elemental Construct
+### Elemental Construct, Fire
 
 A fire elemental construct is a 9-foot-tall humanoid composed of flame. Their attacks cause flammable materials (including wood) to ignite. A fire elemental construct launches a bolt of fire 90 feet that does 2d6 points of damage. Fire-based spells heal a fire elemental construct (1d8 per spell level). Cold-based spells do double damage to the creature. No other spells affect a fire elemental construct.
 
-#### Water Elemental Construct
+### Elemental Construct, Water
 
 A water elemental construct is a 10-foot-tall humanoid composed entirely of water. The elemental’s slam attack engulfs opponents, and they drown in 2d4 rounds if they can’t escape the creature’s liquid form. *Create water* heals a water elemental construct (1d8 per spell level). *Lower water* instantly destroys a water elemental construct, while *part water* divides the creature into 2 equal halves. Fire-based spells do double damage. No other spell affects a water elemental construct.
 
-### Elemental Dragons
-
-#### Air Elemental Dragon
+### Elemental Dragon, Air
 
 The Elemental Plane of Air is home to many creatures: elementals, belkers, and the great djinni. Yet none are as feared as the elemental air dragons. Their great form and majestic aura strike fear into the bravest of souls. Elemental air dragons are as chaotic as their brethren (the other elemental dragons) and take joy and pride in swooping over a settlement or village and destroying it with their cyclonic powers. Watching the frightened creatures flee in terror provokes some sort of perverse excitement in these dragons. Luckily, elemental air dragons rarely enter the Material Plane. Elemental air dragons dislike cloud dragons and mist dragons and seek to slay them whenever they are encountered. The average air elemental dragon is 30 feet long and appears to be a huge dragon composed of vapor and smoke. Three times per day, an elemental air dragons can breath a cone of superheated air. The cone measures 50 feet long and 30 feet at the base and inflicts 10d8 points of damage (save for half).
 
@@ -2508,7 +2390,7 @@ By beating its wings rapidly back and forth, a hovering elemental air dragon can
 
 Elemental air dragons can cast *control weather* once per day.
 
-#### Earth Elemental Dragon
+### Elemental Dragon, Earth
 
 Elemental earth dragons are the strongest of the elemental dragons. Using their great stone tail or earthen claws, they can destroy almost anything in short order. The majority of their time is spent burrowing through the Elemental Plane of Earth devouring gems, minerals, and silicate life forms. On occasion, they are summoned to the Material Plane by evil (and foolish) spellcasters who usually live just long enough to regret their mistake. Elemental earth dragons are chaotic (perhaps the most chaotic of the elemental dragons in addition to being the strongest) and despise most other forms of life. They rarely associate with other creatures, though a few have been known to have dealings with the occasional earth elemental. Elemental earth dragons cannot enter water; they must burrow under it or walk around it. The average elemental earth dragon is 30 feet long and resembles a massive wyrm composed of polished stone. Its roar can be heard up to 5 miles away.
 
@@ -2518,7 +2400,7 @@ When an elemental earth dragon slays an opponent, it dehydrates the flesh with i
 
 An elemental earth dragon can hold itself so still it appears to be a statue. An observer has a 1 in 10 chance (1 in 6 for dwarves) to notice that the elemental earth dragon is really alive. In addition, an elemental earth dragon can meld its body with any stone surface large enough to accommodate its entire body.
 
-#### Fire Elemental Dragon
+### Elemental Dragon, Fire
 
 *This creature appears as a 30-foot long dragon composed of fire. Its eyes burn with a white-hot flame and flames lick the dragon’s great mouth as it roars. As it flies overhead, its wings send sheets of flame roaring into the sky and crashing into the ground.*
 
@@ -2530,7 +2412,7 @@ Three times per day an elemental fire dragon can breath a cone of elemental fire
 
 An elemental fire dragon can hover and rapidly beat its wings causing fire to rain down on an area in a 100-foot radius. Creatures within the area must succeed on saving throw or take 2d8 points of fire damage as clothes catch fire or armor and weapons become searing hot. The damage continues for another 1d8 rounds after the attack or until the flames are extinguished. Combustibles in the area automatically catch on fire.
 
-#### Water Elemental Dragon
+### Elemental Dragon, Water
 
 From the Elemental Plane of Water comes the elemental water dragon. They make their homes in the deep oceans of the Material Plane and are rarely found far away from large expanses of water. An elemental water dragon is composed entirely of water and commands respect from the more intelligent sea creatures as well as those humanoids that ply their trade upon the waters. Elemental water dragons are chaotic and take great pleasure in demanding sacrifice from those that dare enter their realm. If the sacrifice placates the dragon, it lets the creature pass unabated; otherwise, it attacks with all of its might and most often destroys those that offend it or fail to appease its desires. Water dragons take great pleasure in capsizing and sinking ships. On occasion, a group of sahuagin or locathah can be found allied with an elemental water dragon, but this alliance is usually short-lived and often shaky and ends with the death of the fish men.
 
@@ -2622,23 +2504,21 @@ An eye of the deep’s central eye can, once per round, produce a cone extending
 
 An eyeless filcher is the undead body of a criminal maimed or tortured to death in brutal punishment for its crimes; usually these criminals were guilty of particularly heinous crimes during life. These creatures are animated by an extremely powerful undead force, which causes fear and horror in any onlooker: at the sight of an eyeless filcher, anyone failing a saving throw will either flee in terror for 1d12 rounds or be paralyzed until the undead is out of sight (equal chance). The eyeless filcher shares the same resistances and weaknesses of other powerful undead; it is immune to cold-based and mind-affecting spells, magical weapons are required to hit it, it can be turned by a cleric (as a wraith), and suffers harm from holy water (2d8). As there is precious little flesh left on its bones, the eyeless filcher suffers half damage from edged and pointed weapons. It may be distracted by the sight of symbols of law and justice, such as the insignia of the city watch or the holy symbol of a deity of law, and will break off attacking to focus its rage on this image. An eyeless filcher retains any criminal knowledge and thieving skills it had in life, and will use these to its advantage. In combat, if both of its claw attacks hit, it latches on with inhuman strength, strangling for automatic damage (2d6 total) per round thereafter; its deadly grip can only be broken by distracting symbols as above, the death of its victim, or a sincere apology from anyone involved in its own capture, trial, and punishment. If the eyeless filcher manages to kill an officer of the law, whether guard or magistrate or scribe of the court, the unfortunate victim rises from the dead the next day as a double-strength zombie under its control. The eyeless filcher attacks and steals, deliberately causing as much chaos and fear as it can. If a law officer renounces his profession in the creature’s presence it will sink to the ground, destroyed, with a mocking laugh. *(Auhtor Scott Wylie Roberts, "Myrystyr")*
 
-## F
-
 ### False Spider, Giant
 
 False spiders are spiderlike creatures that are very aggressive and highly predatory in nature, often hunting at night when the element of surprise is theirs to be had. False spiders dwell in shallow burrows which the dig with their massive pincers. There are two kinds of false spiders: pedipalps and solifugids.
 
 False spiders are highly territorial and are likely to attack any living creature that enters their area.
 
-#### Pedipalp
+**Pedipalp**
 
 Pedipalps are called whip scorpions and look like a cross between a spider and a scorpion. They have eight legs and two thin antennae. Its front sports two spider-like eyes and a set of large mandibles. Two large scorpion-like pincers protrude from just in front of its foremost legs. The average pedipalp is 5 feet long but can grow to a length of 10 feet.
 
-#### Pedipalp, Poisonous
+**Poisonous Pedipalp**
 
 The poisonous pedipalp is a rare variety of the species. Rarely encountered, the poisonous pedipalp is a solitary creature; no more than one has ever been encountered at a given time. They do not associate with others of their kind or with normal pedipalps. The poisonous pedipalp uses the same statistics as the normal pedipalp with save it has a challenge level of 3. When threatened, a poisonous pedipalp releases a cloud of noxious fumes in a 20-foot radius around its body. Living creatures within the cloud must succeed on a saving throw or be nauseated for 1d6 rounds. The poisonous pedipalp can use this cloud three times per day.
 
-#### Solifugid
+**Solifugid**
 
 Solifugids are at least 6 feet long but can grow to a length of 12 feet. They have eight legs, two spider-like eyes and a set of large, clicking, hooked mandibles. Two large scorpion-like pincers protrude from just in front of its foremost legs.
 
@@ -2822,19 +2702,17 @@ Formian cities are small, containing no more than 500 workers, 50 warriors, and 
 
 The Fox Monk is a short fox-like humanoid, garbed in a shabby, quilted robe and bearing only a begging bowl and walking stick. Fox monks have taken vows of poverty and transience; they rely upon charity for food and somewhere to sleep, never staying in one area for more than a few days. They may defend themselves with a bite (1d4 damage), or in unarmed combat. A fox monk’s strike causes the target’s nervous system to spasm, causing him to drop any items held and move at half normal speed for 1d4 rounds (saving throw negates). Fox monks may also forego all attacks to perform dodging leaps, causing enemies to attack at -3 to hit. Lastly, a fox monk can cast Protection from Evil and Purify Food and Drink once per day. Despite their vows, these pious beggars are considered troublemakers by most civilized folk. *(Author: Scott Wylie Roberts, "Myrystyr")*
 
-### Frog
-
-#### Frog, Giant
+### Frog, Giant
 
 Giant frogs range in size from two or three feet long (a “small” giant frog), up to massive specimens of eight feet long (a “large” giant frog). In between are the “medium” giant frogs, five to six feet long. Large giant frogs can swallow opponents whole on a natural attack roll of 20. All giant frogs can make a 100ft leap that reaches a height of 20ft. Small giant frogs increase this length to 150ft. If an opponent is swallowed whole, he dies in three rounds. To escape, the victim cannot attack normally, and must have a bladed weapon to even attempt cutting his way out of the frog. An attack roll of 18 or better, including any modifiers, indicates that the victim cuts his way out of the frog, slaying the beast in the process. Attacks on the giant frog have a chance to damage a swallowed creature. Giant frogs can use their tongues to grab prey and haul them to the frog’s mouth; anyone grabbed in this way takes no damage until the frog begins to bite it in the following round, hitting automatically and inflicting maximum damage on that one attack. A group of giant frogs will generally be evenly mixed among the three sizes (roll 1d3 for hit dice on each frog in the encounter).
 
-#### Frog, Giant Abyssal Dire
+### Frog, Giant Abyssal Dire
 
 Abyssal dire frogs come from the Plane of Slime and are wholly chaotic. They have a demonic aspect to them, with a spiny and usually poisonous hide of blackish-green. Their red eyes flicker with demonic intelligence. They speak the language of demons. Abyssal dire frogs are about 12 feet long. Once per day, an abyssal dire frog can make a normal attack against a lawful foe to deal additional damage equal to the frog’s total Hit Dice.
 
 An Abyssal Dire Frog’s tongue can be attacked. Damage dealt to the tongue is not dealt to the frog itself. If successful, the frog does not attempt a tongue attack against that opponent for the remaindof the combat. An Abyssal Dire frog’s tongue has an AC of 4\[15\]
 
-#### Frog, Giant, Killer
+### Frog, Giant, Killer
 
 About three feet long, giant killer frogs are the product of mad breeding experiments. They have claws and teeth, and attack relentlessly.
 
@@ -2883,8 +2761,6 @@ A fye resembles a translucent humanoid whose face is contorted and twisted as if
 ### Fyr
 
 A fyr is a 3-foot tall, goat-headed humanoid with large slightly-backward-curved horns, goat-like legs, a small bushy tail, and a human torso. Its entire body, except its arms and hands, is covered in thick brown fur. Fyrs often adorn their body with rings, necklaces, bracelets, earrings, and other such trinkets. A fyr attacks by butting with its horns, but some use weapons. A fyr can use various spell-like abilities: at will—*speak with animals*; 4/day—*charm monster*; 3/day—*warp wood*; 1/day—*plant doorway.*
-
-## G
 
 ### Gallows Tree
 
@@ -2952,17 +2828,15 @@ Greater gelid beetles are larger, meaner versions of the standard gelid beetle. 
 
 Gelid beetles appear as stark white beetles with silvery-black legs and dull silver mandibles. Some specimens have a mottled silver or black carapace and an even rarer species has dull crimson wing covers. Gelid beetles have two sets of eyes equally spaced on their heads dull silvery-black in color. Gelid beetles bite opponents, delivering cold damage with each hit. Once per day, a gelid beetle can release a spray in a 10-foot cone that deals 2d4 cold damage (save for half).
 
-### Genie
-
-#### Genie, Abasheen
+### Genie, Abasheen
 
 An abasheen stands about 8 feet tall and is always dressed in flowing robes colored to denote their current station. Their skin is dark and their build powerful. All have dark hair, either black or brown, and most wear their hair braided or pulled into a ponytail, tied with ribbons of gold or silver. They are akin to genie nobility and act the part. Abasheens slam opponents with their powerful fists and employ their spell-like abilities in combat: at will—*charm person*; 1/day—*quest*. An abasheen can turn itself into a whirlwind much like an air elemental, sweeping away creatures with one or fewer hit dice (the diameter of the whirlwind is 20 ft.)
 
-#### Genie, Hawanar
+### Genie, Hawanar
 
 Hawanar are 12-feet-tall genies whose lower torsos are shrouded in a cyclone of flame. A hawanar can create food and water as well as wooden and cloth objects. They can create metal objects (including coins), but all such magically created metals disappear in time. Hawanar can become *invisible* at will and can create realistic illusions that disappear when touched. Finally, a hawanar can turn into a flaming whirlwind that sweeps away creatures with one or fewer hit dice and deals 1d6 points of fire damage. (The diameter of the whirlwind is 10 feet.) Some hawanars can grant true wishes. A hawanar’s attacks cause flammable materials to burst into flame.
 
-#### Genie, Marid
+### Genie, Marid
 
 A marid is a blue genie standing about 16 feet tall and weighing nearly 2,500 pounds. These powerful beings can transform into a maelstrom in water to carry creatures and objects away. This watery cyclone overturns small boats and sinks larger vessels in 1d4+4 rounds. Marids also can rise out of the ocean to attack ships, and will batter vessels to pieces within 1 hour if not prevented or distracted. A marid can turn invisible, *polymorph self*, *create water* and *control water* at will. Some marids can grant limited wishes.
 
@@ -2978,7 +2852,7 @@ Ghasts are highly intelligent ghouls. Their charnel stench is so powerful that a
 
 There are innumerable types of ghosts with varying qualities, often depending on the nature and circumstances under which the person died. One example follows.
 
-#### Ghost, Strangling
+### Ghost, Strangling
 
 These apparitions are similar to banshees, but instead of screeching they can attack only a single opponent at a time, strangling the victim with insubstantial hands. If the attack hits, the victim must make a saving throw or die within 1d4+1 rounds. A *remove curse* spell will break the creature’s hold during this time period. *Protection from evil* spells will hold these creatures at bay. Anyone strangled by a strangling ghost will rise as a strangling ghost within 1d6 days. *(Author: Matt Finch)*
 
@@ -3010,23 +2884,19 @@ A ghoul-stirge resembles a large stirge with rotting flesh and broken wings. The
 
 Those hit by a ghoul-stirge’s bite attack must succeed on a saving throw or be paralyzed for 1d6+2 rounds. A ghoul-stirge can drain blood from a paralyzed or pinned opponent. Each round it deals 2d4 points of damage each round. Once the ghoul-stirge has dealt 8 points of damage, it flies off to digest its meal. If its victim dies before the ghoul-stirge’s appetite has been sated, the creature detaches and seeks a new target.
 
-### Giants
-
-Giants are a staple of fantasy gaming, huge and dangerous creatures that often have a taste for human flesh. Most are not particularly intelligent.
-
-#### Bronze Giant
+### Giant, Bronze
 
 A bronze giant is huge muscular being often mistaken for a statue of the gods. It is well proportioned and has flesh that gleams like polished bronze and hair the color of copper wire. Bronze giants stand about 25 feet tall and weigh about 14,000 pounds. A bronze giant can unleash a bellowing laugh that strikes fear (save negates) into the hearts of any creature within 100 feet that hears it. They throw rocks for 6d6 points of damage.
 
-#### Cave Giant
+### Giant, Cave
 
 Cave giants are the dumber, stronger cousins of hill giants. A cave giant is a massive creature, stocky and pot-bellied, with black scraggly hair streaming down over its shoulders. The skin of a cave giant is gray, mottled here and there with blotches of brown and black. The face of a cave giant has a bulbous nose between glaring eyes with thick, bushy eyebrows. A cave giant has two tusk-like teeth that extend down over its lower lip, causing it to drool almost constantly. Cave giants don’t throw rocks, but instead try to grab victims and pound them into the ground, ceiling or any nearby objects.
 
-#### Cloud Giant
+### Giant, Cloud
 
 Cloud giants are cunning beasts, often living in cloud-castles in the sky (hence their name). They throw rocks for 6d6 hit points of damage. Cloud giants are famous for their ability to smell out food, enemies, and Englishmen.
 
-#### Daimyo Giant
+### Giant, Daimyo
 
 Daimyo Giants are perhaps improperly named: the term “Daimyo” is ordinarily used as a title, whereas the daimyo giants are a particular sub-race in their own right. However, they are so often found leading groups of other giants (and ogres, as seen below) that the use of the title fits them well. They tend to attract followings of other giant-type creatures, for their charisma – to giant and ogre races only – is always treated as 18 regardless of the giant’s true charisma as it would affect members of other races. Storm giants and titans are the exception to this rule; they not only do not find daimyo giants to be more than normally charismatic, but consider them to be irritatingly arrogant. Daimyo giants, for their part, avoid territories claimed by a storm giant or a titan, although with enough followers a daimyo giant might very well attempt to kill a storm giant.
 
@@ -3043,29 +2913,29 @@ In addition to any giant followers present, a daimyo giant will always have a re
 
 Daimyo giants are sometimes found occupying ancient ruins in the deep jungle; these will not have retinues of giant followers, but will have twice the normal number of ogre followers (of each type) and their lairs will also be protected by predatory cats and carnivorous apes.
 
-#### Ferrous Giant
+### Giant, Ferrous
 
 Ferrous giant stand 20 feet tall and have dark ruddy skin. They wear their hair long and most males are bearded. Hair color ranges from brown to black. Their eyes are typically brown, hazel, or green. Common dress consists of furs, skins, or armor. Ferrous giants grab opponents and pound them into the ground, ceiling or any nearby objects. Ferrous giants can employ various spell-like abilities: at will—*heat metal*, *levitate*; 1/day—*wall of iron*. Ferrous giants are immune to fire.
 
-#### Fire Giant
+### Giant, Fire
 
 Fire giants are usually found near volcanic mountains, in great castles of basalt or even iron. They throw boulders for 5d6 hit points of damage.
 
-#### Frost Giant
+### Giant, Frost
 
 Frost giants dwell in cold regions, where they build (or conquer) castles in remote places of ice and snow. They throw boulders or great chunks of ice for 4d6 points of damage.
 
 Frost giants dwell in cold regions, where they build (or conquer) castles in remote places of ice and snow. They throw boulders or great chunks of ice for 4d6 points of damage.
 
-#### Hill Giant
+### Giant, Hill
 
 Hill giants are the least of the giant races; most are brutish cave-dwellers who dress in pelts and uncured hides. They throw rocks for 2d8 points of damage.
 
-#### Jack-In-Irons Giant
+### Giant, Jack-In-Irons 
 
 A jack-in-irons looks like a huge orc adorned in chains. It stands 20 to 25 feet tall and weighs 13,000 to 15,000 pounds. Any creature struck by its weapon must save or be stunned for 1 turn. A jack-in-irons can stomp its foot on the ground to cause powerful vibrations that radiate around the giant and cause opponents to fall down. The giant can throw rocks for 7d6 points of damage.
 
-#### Khmornian Giant
+### Giant, Khmornian
 
 Khmornian giants are often found living in jungles, but they can be found in virtually any non-arctic terrain. These giants have four arms, and long tusks protruding from wide mouths. Their lairs are often guarded (90% chance) by 1d4 giant pythons.
 
@@ -3076,7 +2946,7 @@ The polyandrous female khmornian giants are found in a 1:3 ratio with the males.
 Some extremely rare khmornian-giant females are sorceresses with the power of an 11th level magic-user; these individuals reside in well defended castles or ruined temples deep in the jungle. *(Author: Matt Finch)*
 
 
-#### Sand Giant
+### Giant, Sand
 
 Sand giants are brutal, somewhat barbaric giants that prey on those weaker than themselves. They have dark tan skin, brown hair, and dark brown or dark green eyes. An adult male stands approximately 20 feet tall. Males tend to wear their hair and beards braided. Sand giants wear light clothes and light armor (if any). In times of battle or war, males may don chainmail. A typical sand giant’s bag contains food, 3d4 mundane items and no more than 12d10 coins. Sand Giants speak their own harsh rongue and the common tongue. They can live to be 500 years old.
 
@@ -3086,27 +2956,27 @@ Once per day, a sand giant can form a volume of sand within 40 feet into the sha
 
 Sand giant scan also cast the following spells: *Transmute rock to mud* (2/day), *move earth* (2/day) and *earthquake* (1/day).
 
-#### Sea Giant
+### Giant, Sea
 
 Sea giants are bluish-green amphibious giants standing 10 feet tall and weighing about 6,000 pounds. Sea giants adorn themselves in loose flowing robes of white, blue, or green. Many wear wreathes of coral in their hair. Sea giants are the living embodiment of the sea’s bounty and destructive wrath. They can *control water* as per the spell five times per day. They can also increase the pressure of the water in a 10-foot radius around them for 5 rounds. Any creature in this denser water must save or take 1d8 points of damage from the crushing water. Sea giants can move freely in water without hindrances.
 
-#### Smoke Giant
+### Giant, Smoke
 
 This filthy giant resembles a 9-foot-tall humanoid with soot-colored skin. A smoke giant’s form is solid, but it can turn into a smoky form similar to *gaseous form*. The giant can cause a billowing smoke cloud to surround it at will. The giant can throw rocks for 2d6 points of damage.
 
-#### Stone Giant
+### Giant, Stone
 
 Stone giants dwell in caves, isolated in the mountain fastnesses. They throw rocks for 3d6 points of damage, and can be quite crafty in setting up ambushes in their native mountains. Travelers who wander into the territory of stone giants seldom return.
 
-#### Storm Giant
+### Giant, Storm
 
 Storm giants are the largest of giants, the most intelligent, the most magical, and the most likely to talk with humans rather than simply devour them. Storm giants can live in underwater sea-castles as well as on the heights of mountains. They throw boulders for 7d6 points of damage, and have the power to control weather (as per the spell).
 
-#### Volcano Giant
+### Giant, Volcano
 
 A volcano giant is an 18-foot tall barrel-chested giant with black or brown hair and brown, black, or dark amber eyes. Its skin is leathery and tanned reddish-brown. The hair of a volcano giant is tough and wiry, with the strength and texture of copper. Three times per day, a volcano giant can exhale a cloud of sulfuric gas in a 30-foot cone. This gas causes creatures who fail a save to succumb to fits of coughing and choking. Volcano giants can throw rocks for 2d8 points of damage. Volcano giants are immune to fire.
 
-#### Wood Giant
+### Giant, Wood
 
 *This giant resembles a wood elf of about 10 feet tall. It has brownish-green skin, a bald head, and bright green eyes.*
 
@@ -3188,35 +3058,33 @@ Gnolls are tall humanoids with hyena-like heads. They may be found both above gr
 
 Giant goats include giant mountain goats. These creatures are as large as a pony, and can be ridden.
 
-### Goblins
-
-#### Goblin
+### Goblin
 
 Goblins are small creatures (4 ft tall or so) that inhabit dark woods, underground caverns, and (possibly) the otherworldly realms of the fey. They attack at -1 in the full sunlight.
 
-#### Goblin, Belfry
+### Goblin, Belfry
 
 Belfry goblins appear to be related to the other goblinoid species, but they have wing membranes which run from their arms down their sides, quite similar to flying squirrels. These membranes grant the belfry goblin the ability to glide, and in no way inhibit the ability of their hands to manipulate objects. Hanging upside down on the ceiling in dark corners, belfry goblins are all but invisible, waiting for their prey to pass by and then attacking with a deadly swooping attack, a javelin in each hand, doing double damage on a successful hit with the swooping attack. If the swoop attack succeeds on a “to hit” roll of 18 or better, the belfry goblin does additional damage as it passes by, raking with its foot claws for an additional 1d6 damage. A belfry goblin has 2 attacks per round, with any combination of its hand held weapon, claws, or bite. The bite of a belfry goblin is dangerous in much the same way as a rat bite, with a 5% chance per bite the victim will contract a disease. Diseased victims will sicken and die within 1d6 days, unless the victim rolls a saving throw.
 
 For every 20 belfry goblins encountered there will be a leader with the maximum of 9 hit points and who attacks as a 2 HD creature. If a nest of 40 or more individuals is found, there will be a chieftain with 2+2 HD who attacks as a 3 HD monster. The chieftain will have an honor guard of 4 particularly fearsome warriors whose stats are equal to that of the leader type. There is also at least a 15% chance that in any belfry goblin encounter there will be a vampiric variant present. The chance to encounter these special vampiric belfry goblins increases to 30% for standard lairs and 60% for nests of 40 or more. (*Author: Cameron DuBeers and the Lizard of Oz)*
 
-#### Goblin, Belfry (Vampiric)
+### Goblin, Belfry (Vampiric)
 
 These creatures are physically weaker and lighter in coloration than the standard belfry goblin, having only 1-1 HD, but they are able to gain strength from drinking the blood of their victims. On a successful bite attack, the vampiric belfry goblin sucks blood from its victim for 1d4 points of damage, wrapping its arms and legs around the victim and holding them fast. Each subsequent round, the victim must break the grip or the vampiric belfry goblin automatically drains an additional 1d4 hit points of blood drain; the chance to break the grip is 30%. Vampiric belfry goblins gain temporary bonus hit points from blood they drink, gaining 1 hp for every 1 hit point drained from a victim, up to double its normal number of hit points. Once the vampiric belfry goblin exceeds its normal hit points, it gains +1 to hit and damage. (*Author: Cameron DuBeers and the Lizard of Oz)*
 
-#### Goblin, Oni-Aka (Asian Red Goblin)
+### Goblin, Oni-Aka (Asian Red Goblin)
 
 The Oni-aka (red goblins) are short, scaly humanoids with small horns on their slightly pointed heads. They have coarse black hair, and coal black eyes. These evil beings are known to raid villages to steal slaves and cattle. They are typically armed with clubs and short spears they use for throwing. These goblins are said to have been born of fire in the pits of the earth; and as such they are almost impervious to fire damage, suffering only half normal damage from any fire-based attack. Note that these goblins are from Asian mythology, and might not be related to normal goblins in anything but name. *(Author: MikeD)*
 
-#### Goblin, Oni-Kage (Asian Shadow Goblin)
+### Goblin, Oni-Kage (Asian Shadow Goblin)
 
 The Oni-kage (shadow goblins) are short, black-skinned humanoids with large, pale eyes, dwellers of dark caves and deep bamboo thickets. All oni-kage detest bright lights, and they suffer -1 penalties to combat in daylight. They have keen night vision, and their somewhat supernatural nature makes them completely invisible in darkness (visible only by use of spells). Note that these goblins are from Asian mythology, and might not be related to normal goblins in anything but name. (*Author: MikeD)*
 
-#### Goblin, Oni-Yama (Asian Mountain Goblin)
+### Goblin, Oni-Yama (Asian Mountain Goblin)
 
 The oni-yama are hairless, grey-skinned humanoids with short tusks protruding from their mouths. They are smaller than ogres, but much larger and bulkier than men -- though their distinctively hunched posture makes them appear somewhat smaller than they really are. These big goblins dwell in remote mountain caves and forgotten ruins, often preying upon merchants and travelers passing through their territories. In general, they arm themselves with such weapons as they can take from their victims, for they are not industrious. They wear an assortment of armor, usually misused but still functional. The oni-yama bully, and often enslave, lesser goblins. Despite their size, the oni-yama are extremely stealthy on their great, flat feet, and gain surprise on a roll of 1-3 on a d6. Note that these goblins are from Asian mythology, and might not be related to normal goblins in anything but name. (*Author: MikeD)*
 
-#### Goblin, Redcap (Chaos Goblin)
+### Goblin, Redcap (Chaos Goblin)
 
 Redcaps (or chaos goblins) are goblins driven mad by the insidious effects of raw Chaos, reducing them to a bestial state. Utterly devoid of empathy with any living creature, including ordinary goblins, redcaps delight in inflicting pain. Indeed, redcaps derive a strange form of sustenance from doing so. Any successful attack a redcap achieves heals it for an amount equal to the amount of damage it deals to its target. Worse yet, a redcap can double its total hit points in this manner. Thus, a undamaged redcap with 5 hit points who manages to deal 3 points of damage on its attack will now have 8 hit points and, assuming it continues to remain undamaged, can be “healed” for another 2 hit points before reaching its maximum potential hit points. Though thoroughly insane, redcaps work well with others of their kind, forming predatory packs that attack any creature they can find. Redcaps often take gruesome souvenirs of their victims, such as fingers, ears, and eyeballs, which they use to adorn themselves. Many also use the blood of their prey to dye their tattered clothing, including their hats, the practice of which gave these foul aberrations their common name. (*Author: James Malizsewski)*
 
@@ -3228,11 +3096,7 @@ A gohl is a 10-foot-wide, 10-foot-high, blob of mottled black and gray flesh, sl
 
 A gohl is a 10-foot-wide, 10-foot-high, blob of mottled black and gray flesh, slimy and rubbery to the touch. From its central form sprout six long tentacles of brownish flesh and three snake-like heads, each head perched atop a long, thin neck. Each head is gold with red eyes and has a wide mouth lined with double rows of needle-sharp teeth. Many small tendrils appear from the gohl’s central form at random intervals only to disappear back into its massive trunk. A gohl tries to grab victim in its tentacles. If an opponent is struck by two or more tentacles in the same round, he is constricted and takes 1d6+3 damage each round thereafter. Creatures held by a tentacle are pulled toward the creature’s mouth. The toxic bite of a gohl deals 1d8 points of acid damage.
 
-### Golems
-
-Golems are man-shaped creatures built to serve their masters, usually powerful wizards or high priests. They are often used as guardians. Golems cannot be hit with non-magical weapons, and are immune to the sorts of spells used to create them (iron golems being immune to fire, for instance). You can find the details in the specific monster descriptions.
-
-#### Blood Golem
+### Golem, Blood
 
 This creature looks like a hideous, bloated slug, blood red in color. Two long spindly arms protrude from its upper body. It has no other discernible features. Contrary to their name, blood golems are not constructs, but rather slug-shaped clots of living blood animated by a dark and ancient ritual. A typical blood golem is 10 feet long and weighs 700 pounds.
 
@@ -3242,70 +3106,70 @@ If a blood golem successfully hits an opponent with both of its slam attacks in 
 
 A blood golem is *slowed* (as the spell) for 1d4 rounds by any cold-based attacks or effects. A *purify food and water* spell deals 1d6 points of damage per caster level to a blood golem. A blood golem can attempt a saving throw to reduce the damage by half.
 
-#### Clay Golem
+### Golem, Clay
 
 The “original” golem of folklore, clay golems may be created by Clerics or powerful priests. They are massive clay statues of human beings, imbued with a rudimentary intelligence and the ability to move and follow their masters’ commands. For each round of combat, a clay golem has a 1% chance (cumulative) to go berserk, leaving its master’s control and attacking enemies and allies alike. Clay golems are not damaged by slashing or piercing weapons. They are immune to all spells other than those affecting earth, and these have very diminished effects – with one exception. An earthquake spell may be used to utterly destroy a clay golem.
 
-#### Flagstone Golem
+### Golem, Flagstone
 
 A flagstone golem is composed of large flat stones and bricks jointed and fitted together so as to allow the creature to fold itself flat. A flagstone golem stands 10 feet tall and weighs 1,200 pounds. Spells that affect rock are the only ones that affect flagstone golems. Any energy-based (acid, fire, cold, electricity) attack that directly effects a flagstone golem is absorbed into its body dealing no damage. A flagstone golem can use the absorbed energy to repair itself, healing 1 hit point for every 3 points of damage the attack would have otherwise dealt. Or it can release the energy in a 30-foot cone that deals 3d8 points of damage to all within the area. An opponent can save to reduce the damage by half.
 
-#### Flesh Golem
+### Golem, Flesh
 
 A creation stitched together from human limbs and other parts, a flesh golem is similar to Frankenstein’s monster. Only +1 or better magic weapons can harm a flesh golem, and it is slowed by fire and cold spells. Lightning heals the golem for the number of points of damage that it would normally inflict. No other type of spell affects a flesh golem.
 
-#### Furnace Golem
+### Golem, Furnace
 
 Furnace golems are 20-foot-tall suits of black iron armor with a large grate opening in their abdomen covering roaring flames. The fires are magical and cannot be extinguished. Once every 1d4 rounds, the golem belches forth a 50-foot line of fire that does 10d6 points of damage (save for half). If a furnace golem hits a single opponent with 2 slams, it grabs the opponent (save avoids) and shoves the victim into its furnace interior (2d6 damage per round while trapped). Cold-based spells slow the golem (as per the *slow* spell), while fire spells restore hit points. No other type of spell affects a furnace golem.
 
-#### Gelatinous Golem
+### Golem, Gelatinous
 
 A gelatinous golem is a humanoid-shaped, semi-transparent amoeba that stands 8 feet tall and weighs 600 pounds. It has rudimentary intelligence. A gelatinous golem secretes an anesthetizing slime that paralyzes opponents for 2d4 rounds who fail a save. If a gelatinous golem hits an opponent with both fists, it can decide to engulf the opponent automatically on the next round. An engulfed opponent takes 1d6 points of damage each round from the the gelatinous golem’s acid each round it remains trapped. Attacks on a gelatinous golem deal half their damage to anyone engulfed by the creature. Cold slows a gelatinous golem. It is immune to all other spells.
 
-#### Glass Golem
+### Golem, Glass
 
 A glass golem is a human-shaped statue of glass that has been animated by a captured spirit infused into its physical substance. These creatures are immune to all spells other than cold-based magic, which has the effect of a slow spell but does not damage the golem. Blunt weapons inflict double damage against them, and they can be hit by normal weapons. A glass golem glitters brilliantly unless it is in total darkness, capturing and reflecting light by a thousand-fold. Anyone looking upon a glass golem, even through a mirror, must make a saving throw or attack at -2 to hit. *(Conversion by Matt Finch, first appearing in* **Black Monastery** *by* **Frog God Games**)
 
-#### Ice Golem
+### Golem, Ice
 
 A gelatinous golem is a humanoid-shaped, semi-transparent amoeba that stands 8 feet tall and weighs 600 pounds. It has rudimentary intelligence. A gelatinous golem secretes an anesthetizing slime that paralyzes opponents for 2d4 rounds who fail a save. If a gelatinous golem hits an opponent with both fists, it can decide to engulf the opponent automatically on the next round. An engulfed opponent takes 1d6 points of damage each round from the the gelatinous golem’s acid each round it remains trapped. Attacks on a gelatinous golem deal half their damage to anyone engulfed by the creature. Cold slows a gelatinous golem. It is immune to all other spells.
 
-#### Iron Golem
+### Golem, Iron
 
 Iron golems are huge moving statues of iron. They can breathe a 10-foot-radius cloud of poison gas as well as attacking with great power. Weapons of +2 or less do not affect iron golems. These hulking statues are slowed by lightning spells, but fire-based spells actually restore hit points to them. No other type of spell affects them.
 
-#### Iron Maiden Golem
+### Golem, Iron Maiden 
 
 An iron maiden golem is a hollow torture device. The golem appears as a tall, well-muscled male or female warrior. An iron maiden golem has articulated arms and legs. If an iron maiden golem hits a victim with two slams, it must save or become trapped inside the golem. Trapped creatures take 20 points of damage each round from the dagger-like blades inside the lid. A creature slain inside the golem transforms into a zombie. Only +2 or better magic weapons can harm an iron maiden golem, and it is slowed by lightning spells. Fire-based spells heal the golem. No other type of spell affects an iron maiden golem.
 
-#### Magnesium Golem
+### Golem, Magnesium
 
 A magnesium golem is a silvery-white humanoid formed of magnesium standing 6-7 feet tall and weighing 600 pounds. The magnesium golem’s features are smooth and perfect, though it has no discernible ears, nose, or mouth. Its eyes are indentations in its face. A 10-foot aura of sickness radiates around the magnesium golem that sickens any creature it hits or that gets near it (save avoids). This sickness lasts for 1d4 turns. Water-based spells slow a magnesium golem (as per the slow spell), while fire-based spells heal the golem. They are immune to all other spells, and +1 weapons are required to hit them.
 
-#### Mummy Golem
+### Golem, Mummy
 
 A mummy golem stands 6 feet tall and weighs 300 pounds. Its body is composed of tightly knotted and rolled bandages held together by magic (and more bandages). A mummy golem can wrap bandages from its body around a grappled foe’s throat. The bandages can come from anywhere on its body, not just its arm or hand, so the mummy golem can continue using its fist. A strangled creature takes 1d6 points of damage each round. A mummy golem can strangle a maximum of 4 opponents. Fire and fire-based spells affect mummy golems normally. They are immune to all other spells.
 
-#### Ooze Golem
+### Golem, Ooze
 
 Ooze golems are 10-foot-tall amorphous creatures of swirling colors that can alter their shape to appear roughly humanoid. Their natural form resembles a column or pillar with two large pseudopods extending from its central trunk that function as arms. In humanoid form, an ooze golem’s lower torso ends in two powerful legs, and the creature can flatten its body to squeeze through cracks up to 2 inches in size. An ooze golem secretes a deadly acid that deals an extra 1d6 points of damage with each hit. Spells don’t affect ooze golems. When killed, an ooze golem explodes in a burst of acid that does 2d6 points of damage to all within 10 feet (save for half).
 
-#### Rope Golem
+### Golem, Rope
 
 A rope golem is a tangled mess of knotted and bundled ropes in roughly humanoid form. The typical rope golem stands 7 feet tall but weighs only about 100 pounds. Its long, gangly arms end in noose-like hands. Until it is activated, a rope golem appears to be nothing more than a pile of normal ropes. If a rope golem hits the same opponent with 2 slams, it twists the foe into its ropy clutches to strangle him for 1d8 damage for each round thereafter. A rope golem takes one and a half damage from all fire-based spells. *Rope trick* deals 1d6 points of damage. They are immune to all other spells.
 
-#### Stone Golem
+### Golem, Stone
 
 Stone golems are massive stone statues animated by very powerful magics (much more than just animate object, in other words). They are slowed by fire spells, damaged by rock-to-mud spells, and healed by the reverse. Spells that affect rock, and fire spells, are the only ones that affect stone golems. They can only be hit by +2 or better weapons.
 
-#### Stone Guardian Golem
+### Golem, Stone Guardian 
 
 Stone guardians are sometimes referred to as lesser stone golems. It resembles a stocky humanoid formed of mud and stone. Stone guardians are often used as guardians by their creators. When the stone guardian is first constructed, the creator crafts a magical ring that offers himself (or anyone to whom he gives the ring) protection from that stone guardian. A stone guardian can see invisible creatures.
 
 A stone guardian’s body is constructed from mud mixed with rare herbs and powders worth at least
 500 gp. A large chunk of stone inserted into the chest cavity functions as its “heart.” The magical ring that links a stone guardian is constructed at the same time and costs 300 gp to create.
 
-#### Tallow Golem
+### Golem, Tallow
 
 The tallow golem is a humanoid construct composed entirely of wax. It bears no facial features unless the creator chooses to render a lifelike “wax dummy,” in which case the golem can appear quite real indeed. Wizards who specialize in the creation of tallow golems refer to themselves as “chandlers.” Unlike other golem-sculptors, chandlers consider their work a form of art. The golem wears whatever clothing (if any) that its creator desires, usually rags or trousers. It has no possessions and no weapons. The golem cannot speak or utter any sound. It moves slowly, but relentlessly.
 
@@ -3313,15 +3177,15 @@ A creature hit by both of a tallow golem’s slam attacks in a single round must
 
 The tallow golem is formed from a large block of candle wax mixed with special powders worth at least 500 gp.
 
-#### Wax Golem
+### Golem, Wax
 
 Wax Golems are among the simplest type of golem to create. Their bodies are carved out of tallow or wax and imbued with the same basic level of intelligence as the more powerful Clay Golem. Unlike their stronger kin, Wax Golems have no chance of going berserk, nor are they automatically immune to spells. They do possess magic resistance of 25% and cannot be hit by non-magic weapons. Because of the pliable nature of their bodies, Wax Golems easily absorb the force delivered by blunt weapons and only take half damage from those sources. Slashing and piercing weapons inflict normal damage to Wax Golems. Fire and heat that damage the golem will inflict twice normal damage. (*Author: Andrew Trent)*
 
-#### Witch-Doll Golem
+### Golem, Witch-Doll 
 
 A witch-doll golem appears to be crafted from stuffed human skin dressed in a patchwork of ill-fitting clothes. Large needles and pins pierce the creature’s body where a humanoid’s vital organs would be. A witch-doll golem stands twice the height of a human and weighs about 1,000 pounds. A witch-doll golem can be commanded to target a specific foe. Against that foe, the witch-doll golem deals an extra 1d8 points of damage with each fist. Once the golem hits its intended target, half of any further damage the witch-doll golem takes is transferred to the victim so long as they are within 60 feet of each other. Only the linked target can attack a witch-doll golem and not take “linked damage.” Witch-doll golems take full damage from fire and do not pass this damage to their linked target. They are immune to all other spells.
 
-#### Wood Golem
+### Golem, Wood
 
 Arcane spellcasters used several ancient texts to arrive at a process to create inexpensive yet still quite powerful golems. They had master craftsmen create wood statues with articulating limbs and then performed the proper spells to animate and control them. The statues vary in shape and form and usually have weapons of some sort held in each hand. The wood golems were designed to act both as an alarm and a protection against intruders. Wood golems let out a piercing howl that lasts for 6 rounds when anyone other than its creator enters the area it is guarding or comes within 50 feet of the golem. This howl can be heard to a range of 100 feet. The pieces of a wood golem are assembled from blocks of fine wood and sprinkled with rare powders and crushed herbs worth at least 300 gp.
 
@@ -3383,21 +3247,11 @@ Gravebirds are highly intelligent undead birds (usually ravens or crows) that ha
 
 Gray nisps resemble hairless humanoids with smooth, slick skin; their hands and feet are webbed and end in claws, and their faces have large, dark pupiless eyes. They have no noses or ears, and its small fishlike mouth is filled with tiny, sharp teeth. Gray nisps are 9 feet tall, with light gray skin and a white underbelly, and weighs well over 300 pounds. If a gray nisp hits with both claws, it rends for an additional 2d6 points of damage. A gray nisp cannot survive on dry land.
 
-### Graymalkins
-
-Graymalkins are magical creatures that resemble ordinary cats. To the casual observer, a graymalkin appear to be nothing more than a raggedy-looking cat with nothing unusual about it. This disguise aids the graymalkin in its travels, allowing it to move unmolested among living creatures.
-
-Graymalkins always dwell near populated areas, preferring cities to towns, towns to villages, and so on. They often choose an owner (a living creature they deem gullible and easily manipulated) and convince that creature to take them home with them (by using their fascination ability). Once inside their owner’s house, a graymalkin uses its special abilities to kill its owner and any other family members. Such attacks usually occur at night (in the case of the slinker) or over a period of time (in the case of the tether).
-
-Graymalkins are often found serving as the familiar to an evil spellcaster or hag. They prefer females to males when serving as a familiar and very rarely do they ever use their special abilities against their true owner. (Some tales say that when a graymalkin is serving as a familiar, its master is actually immune to its special abilities.)
-
-Graymalkins avoid direct confrontations with opponents, preferring to attack helpless or otherwise unobservant foes. If forced into battle, a graymalkin seeks escape as quick as possible.
-
-#### Common Graymalkin
+### Graymalkin, Common
 
 Graymalkins are magical creatures that resemble ordinary cats. A graymalkin can attempt to charm a single opponent. The target can make a successful save to resist the attempt. Graymalkins are magical creatures that resemble ordinary cats. They appear to be nothing more than a raggedy-looking cat with nothing unusual about it. This disguise aids the graymalkin in its travels, allowing it to move unmolested among living creatures. A graymalkin can fascinate a single opponent (save resists). A creature that fails its save “adopts” the graymalkin as a pet, clinging to the cat and always keeping it close by. The effect is similar to a *charm person* spell. Once inside their owner’s house, a graymalkin kills its owner and any family members.
 
-#### Slinker Graymalkin
+### Graymalkin, Slinker
 
 A slinker is referred to in legend as a witch cat, hell cat, or demonic cat that creeps into a family’s house and steals the breath from their sleeping children. It appears as a large graymalkin. A slinker can fascinate a single opponent (save resists). A creature that fails its save “adopts” the slinker as a pet, clinging to the cat and always keeping it close by. The effect is similar to a *charm person* spell. Once inside their owner’s house, a slinker kills its owner and any family members at night by sucking the air from their lungs as they sleep (save resists). If the save fails, the victim loses a quarter of its hit points. A successful save means the victim awakens, although it is still charmed.
 
@@ -3493,17 +3347,15 @@ The gwurrum is composed of equal parts choking mist and thirst for blood. It can
 
 In the morning, when a gwurrum departs, dead leaves will be found scattered around the dwelling of anyone it attacked. Children who survive the attack of a gwurrum may, upon growing up, pass freely into the faerie realms. (*Author: Scott Wylie Roberts, “Myrystyr”)*
 
-### Hags
-
-#### Annis Hag
+### Hag, Annis
 
 Annis Hags are giantesses, horrid looking females as large as ogres. They lust for human flesh to eat, and often polymorph themselves into human form to hunt (an old lady being a common shape), or to lure their prey from places of safety. Strong as a bear, the annis can attack in similar fashion; if she hits with both claws, the victim is held and the annis inflicts automatic damage with all three attacks thereafter. The victim isn’t helpless, but cannot break free unless he is as strong as a giant. Annis are somewhat magical; they can summon mists to hide themselves and their rank lairs; some are also witches with the ability to cast spells (such being left to the Referee’s determination, if witch-hags are to be encountered).
 
-#### Mountain Hag (Yama-Uba)
+### Hag, Mountain (Yama-Uba)
 
 The mountain hags (“Yama-uba” in Asian-type settings) are solitary, horrid looking blue-skinned females as large as ogres. They live in mountainous regions and near passes where they can hunt for food. Mountain hags feast on all manner of flesh; but they prefer humans, attacking with their long claws and wicked mouths that stretch from ear to ear. (*Author: Mike Davison)*
 
-#### Sea Hag
+### Hag, Sea
 
 The sea hag is a giantess much like the annis, but living in the seas, or in fetid, salt-water marshes. These hags are so hideous that the sight of their faces causes weakness from fright and horror; if the victim fails a saving throw, his strength ability score is reduced by one-half for 1d6 full turns. The hag can also cast an evil eye upon those she chooses to slay; but only three times per day. The range of this deadly gaze is 30ft, and the hag’s eye need not be met in order for death to occur (saving throw). Like the annis, sea hags feast with gusto upon human flesh.
 
@@ -3515,7 +3367,7 @@ Half-ogres, though generally outcasts among humans and feared for their ugliness
 
 On rare occasions, half-ogres collect into hybrid communities of other half-ogre races (such as orogs and ogrillons) or humanoids (such as orcs and half-orcs). These rogue bands of outcasts form bandit clans or marauding groups that are the bane of other humanoid communities in their area.
 
-#### Half-Ogres as Characters
+**Half-Ogres as Characters**
 
 Half-ogre leaders tend to be barbaric fighters and can advance to the 6th level of ability (7th level if their strength score is 13 or higher). Half-ogre clerics worship “the Destroyer” and can advance to the 4th level of ability (5th level if their wisdom is 15 or higher). Half-ogres can also multi-class as fighter/clerics, reaching a maximum of 5th level as fighters and 3rd level as clerics.
 
@@ -3612,7 +3464,7 @@ The hippocampus is a mythical sea-horse, with the body, head, and forelegs of a 
 
 A hippocampus is often called a merhorse or sea horse, for it is indeed a half-horse/half-fish creature of the sea. The hindquarters of the animal are that of a great fish. Its body is covered in fine scales in the fore parts and large scales elsewhere. The hippocampus’ scales vary in color from ivory to deep green, with shades of blue and silver. Aquatic races often tame these animals, and they make fine steeds, for they are strong, swift, and very intelligent. A hippocampus is about 8 feet long and weighs about 600 pounds. Hippocampuses speak the language of merfolk and tritons, and about 10% speak common. Though they are unable to move on land, a hippocampus can breathe air and survive out of the water for 15 minutes.
 
-#### Training a Hippocampus
+**Training a Hippocampus**
 
 A hippocampus requires training before it can bear a rider in combat. To be trained, a hippocampus must have a friendly attitude toward the trainer. Training a friendly hippocampus requires six weeks of work and the assistance of an animal trainer. Riding a hippocampus requires an exotic saddle. A hippocampus can fight while carrying a rider, but the rider cannot also attack unless he or she succeeds on rolling 1d20 under their dexterity score, with fighters subtracting their level from the roll.
 
@@ -3683,32 +3535,25 @@ People struck in combat by the huecuva’s claws must pass a saving throw or com
 
 A huggermugger appears as a 3- to 4-foot-tall humanoid with short, cropped, black hair, hidden beneath a black hat, pulled low so as to hide its facial features. Its skin is pale and cold to the touch, regardless of the actual temperature in the surrounding area. A huggermugger’s normal attire, in addition to its hat, is a robe of black or dark gray. Huggermuggers do not speak, other than the incessant chattering and mumbling they seem to constantly indulge in. If three or more huggermuggers surround an opponent and begin chattering, it causes *confusion* in the creature (as per the spell).
 
-### Humans
-
-Humans are such a versatile race that any number of “monsters” and NPCs can be made from them. Berserker warriors, tribesmen, cavemen, princesses, evil high priests, captains of the guard, foot-soldiers, and tavern-keepers are all different human “monsters.” Don’t try to build your non-player characters according to the rules for player characters. Just make up their stats and abilities as you see fit.
-
-#### Bandit
+### Human, Bandit
 
 Bandits are roving groups of thieves, sometimes organized into small armies led by more powerful bandit chiefs and captains with higher hit dice.
 
-#### Berserker
+### Human, Berserker
 
 Berserkers are normal humans, but they fight with astounding ferocity. A bonus of +2 is added to their attack rolls. They do not wear armor heavier than leather armor.
 
-#### Sergeant-At-Arms
+### Human, Sergeant-At-Arms
 
 Human sergeants are normally found in command of 1d6+5 human soldiers. These are the leaders of city guard units and other small military groups.
 
-#### Soldier
+### Human, Soldier
 
 Human soldiers serve as city guardsmen, mercenaries, and men-at-arms. They are generally armed with leather armor and a mace, sword, or spear.
 
 ### Hydra
 
 Hydrae are great lizard-like or snake-like creatures with multiple heads. Each head has one hit die of its own, and when an individual head takes that much damage, that head dies. The body has as many hit dice as the total of the heads, so it is a matter of good strategy for adventurers to focus either on killing heads (when all the heads are dead the body dies) or killing the creature by attacking the body (in which case the heads die, too). Hydrae that breathe fire or regenerate their heads are also known to exist.
-
-
-
 
 ### Hyena
 
@@ -3717,8 +3562,6 @@ Hyenas are pack-hunters and scavengers, known for the eerie laughing sound they 
 ### Hyena, Giant
 
 Giant hyenas stand 8ft tall at the shoulder, and are more aggressive than their normal cousins. They might serve as mounts for tribes of gnolls in prehistoric or sword & sorcery campaigns.
-
-## I
 
 ### Igniguana
 
@@ -3738,33 +3581,25 @@ A parasitic organism that lies dormant inside a human host, an inner child can d
 
 An inner child has strong psionic abilities. It can read minds at will (per the ESP spell), “cast” charm person twice per day, cause a psychic blast at will (2d6 points of damage to all within a cone 60ft long and 60ft wide at the end, saving throw for half damage), and create a wall of mental force once per day (3ft thick, 50ft long and 50ft tall). If the host creature is killed, the inner child dies within 1d6 turns. (*Author: Chad Thorson)*
 
-### Inphidian
-
-Somewhere in humanities lost aeons a race of malformed serpentine humanoids rose, now known as inphidians.
-
-While the truth of their origins has been long forgotten, most sages subscribe to one of two theories. The first states the creatures are the failed results of horrific experiments performed by the dark and nameless sorcerers of an ancient snake-cult in their attempts to ensorcel their followers. The second theory contends the inphidians were once a cult of snake-worshippers cursed by an ancient snake-god for some transgression against the ethos. Whatever the truth, it appears as of late that the inphidians have evolved into true race, beyond the machinations of arcane experiments or curses. While there exist several known species, recent reports describe encounters with yet unidentified inphidians and others are sure to surface as encounters with the race grow more frequent.
-
-Inphidians, regardless of their subspecies, have viper heads in place of their hands. The creatures use these in combat to deliver a powerful bite that injects the victim with poison. Some inphidians, particularly the craftsmen, wear special gloves called *inphidian gauntlets* that let them use their hands like any other humanoid with five digits.
-
-#### Cobra-Back Inphidian
+### Inphidian, Cobra-Back 
 
 Cobra-backs appear as roughly humanoid creatures just over 6 feet tall with a large flap of skin (known as the hood) that runs the length of their neck/spine. Cobra-backs are blue-green scaled like other inphidians, their eyes are crimson, and their forked tongue is gray. Like their brethren, their hands are actually viper heads complete with sharpened fangs that secrete a virulent poison (3d4 points of damage, save for half). When threatened or enraged, the hood of the cobra-back fans open just like that of a true cobra. A cobra-back can spit a line of poison 20 feet from its mouth every 1d4 rounds (2d6 points of damage, save for half).
 
-#### Common Inphidian
+### Inphidian, Common 
 
 A common inphidian appears as a humanoid standing about 6 feet tall. Its skin is covered with blue-green scales and its head is almost snake-like in appearance. It has no hair on its head or body. The most unusual feature of an inphidian is its hands; for where they should be, they are not. Each hand has been replaced with the head of a viper with scales of the same blue-green color as the other parts of the inphidian. Common inphidians make up the bulk of the population in inphidian communities. They are the laborers, craftsmen, workers, citizens, guards, and militia.
 
 Once every 1d4 rounds, a common inphidian can spew forth a line of milky-white liquid that causes blindness (as the *blindness* spell) for 6 rounds to any creature struck. A successful saving throw avoids the spray. The spray has a range of 20 feet. The snake hands of the common inphidian deliver a debilitating poison with a successful bite from its snake-hands. The poison weakens the bitten victim, imposing a -2 penalty to hit and damage in melee combat.
 
-#### Dancer Inphidian
+### Inphidian, Dancer 
 
 Most dancer/charmer inphidians appear as shapely female humanoids; lithe and elegant in their movements. A charmer’s forked tongue is gray and their eyes are crimson. Like other inphidians their body is covered in blue-green scales and where their hands should be, a viper head sprouts from each of its arms. Each viper head is of the same blue-green color and scaled like the rest of the charmer’s body. The snake head hands strike with a weak poison (1d4 points of damage), so the inphidian usually relies on its entrancing dance to charm those seeing it (as per a *charm person* spell).
 
-#### Night Adder Inphidian
+### Inphidian, Night Adder 
 
 Usually dressed in black robes, an inphidian night adder has black scales covering its entire body. Its head is serpentine and its arms end in snake-like hands resembling a black mamba. A night adder stands 6-1/2 feet tall and weighs 190 pounds. The snake hands of a night adder deliver a deadly poison. About 40% of night adder inphidians can cast spells as a 7th-level Cleric.
 
-#### Rattler Inphidian
+### Inphidian, Rattler 
 
 A rattler inphidian is 6 feet tall and about 8 feet long, with a viper head and the lower torso of a giant rattlesnake. Colors vary, but most are brown, black, or dark gray with bands and diamond-shaped patterns. Like all inphidians, its hands are viper heads. Once every 1d4 rounds, a rattler inphidian can unleash a death rattle that does 2d6 points of damage to all creatures in a 40-foot-radius (save for half). The snake hand bite of a rattler inphidian delivers a paralytic poison (2d8 points of damage, paralysis, save resists).
 
@@ -3788,7 +3623,7 @@ When ordered to find a creature within 1 mile, an iron cobra does so unerringly,
 
 The bite of an iron cobra is poisonous, but being a construct, it does not produce its poison. The creator must fill the iron cobra’s poison sacs. The sacs can be filled with any poison type of poison, but the poison is usually fatal. The iron cobra can inject its poison three times before its sacs are emptied. It takes 5 rounds to refill the poison sacs.
 
-#### Iron Cobra Construction
+**Iron Cobra Construction**
 
 An iron cobra’s body is constructed from 100 pounds of iron costing at least 1,000 gp. Assembling the body requires the help of an armorer and a 10th level cleric.
 
@@ -4062,8 +3897,6 @@ A kurok-spirit is a non-human spirit that manifests as a ghostly crocodile, limn
 
 This weird but benevolent race exists outside of the normal concept of time. They may come from the distant future, but could just as easily hail from the distant past or from an alternate reality altogether. When encountered, they are generally working to defy the plans of their arch-enemies, the Tsalakians (another trans-dimensional race of beings), and to organize resistance against them. The Kzaddich (singular and plural) always appear as man-sized figures, completely covered by cowled cloaks. Their own speech sounds not unlike wind chimes. When dealing with sentient creatures, they use their native telepathy. Their true form defies immediate description; uncloaked, they appear as an amalgamation of shifting, softly glowing spheres in a rough approximation of a bipedal form. The Kzaddich can slip in and out of the time-stream at will, and as a result they are exceedingly difficult to harm. They can anticipate the future actions of their opponents, resulting in their almost unhittable armor class. Moreover, they make saving throws as an 8HD creature and take half or no damage from damage-causing spells that allow saving throws, and are allowed a saving throw against spells that normally do not allow one - whether these spells cause damage or not. They are immune to all person-affecting spells (hold person, charm person, etc.) and cannot be affected by spells that affect time, such as slow or time stop. Indeed, Kzaddich can ignore the effects of these spells and even interrupt and share any beneficial effects of such magics. Kzaddich are loathe to engage in combat, but if forced, they have the innate spell-like ability to haste themselves at will. If faced with certain capture or death, a Kzaddich can, at will, simply slip into the far future or past to avoid the situation. Kzaddich have considerable mental powers. They can mentally alter the density of their bodies from a weight of 0 to 500 pounds at will, heal all damage they have suffered five times per day, levitate at will, communicate telepathically within 100ft with any creature, and read psychic impressions left upon objects. The Kzaddich do not perceive time the way others do; they can perceive the outlines of the future (90% chance to make the most favorable choice between two actions). Kzaddich can never be taken by surprise. Twice per day, a Kzaddich have the ability to create a time stop (as per the spell, with a duration of 2 combat rounds). A Kzaddich can share the time stop with another creature with which it is in physical contact. Almost nothing is known of the Kzaddich culture; they vie against the machinations of the Tsalakians on a scale that mortal creatures cannot comprehend, in a vast war that spans time and dimensions. (*Author: John Turcotte)*
 
-## L
-
 ### Lamia
 
 Lamias are horrid, centaur-like creatures, always female. Below the female human torso is the body of a beast, usually with a lion’s forelegs and the hindquarters of a horse – but the beast-like part can vary. A lamia can cast charm person, charm monster, and suggestion once per day, these powers often being used to lure prey into the dismal and abandoned places where the lamia lairs. In addition, the lamia’s touch drains a point of wisdom permanently from the victim. Any victim whose wisdom falls to 3 or lower becomes the lamia’s slave (one or more such slaves might be used to guard the lair or even participate in luring victims to the place).
@@ -4242,31 +4075,27 @@ The lurker below is an aquatic variety of lurker above that makes its lair in an
 
 Lurkers resemble floating manta rays, with a rough, stone-like undersurface. They levitate to ceiling-tops and wait for prey to walk underneath, whereupon they drop and enfold the victim in their thick “wings” (to-hit roll). Anyone trapped inside a lurker’s clutches takes 1d6 points of damage per round from crushing, and will suffocate within 1d4+1 rounds unless the lurker is killed. There is normally only a 10% chance to detect a lurker’s presence visually before it attacks, and it has a 65% chance to gain initiative automatically (unless a “surprise roll” system is being used, in which case the lurker has a 4 in 6 chance to gain surprise).
 
-### Lycanthropes
-
-Lycanthropes are were-creatures, particularly those in whom the disease permits assumption of a hybrid form of the human and animal. They cannot be hit by normal weapons: only silver and magical weapons affect them. If anyone is attacked and brought below 50% hit points by a lycanthrope, the person will become a lycanthrope himself.
-
-#### Werebear
+### Lycanthrope, Werebear
 
 Werebears are often found in temperate forests. On an attack roll of 18+ (natural roll) with its claws, the werebear grabs its victim and hugs it for an additional 2d8 points of damage.
 
-#### Wereboar
+### Lycanthrope, Wereboar
 
 Wereboars are often found in the remote wilderness.They can take the form of a boar, a human, or a boar-like biped.
 
-#### Wererat
+### Lycanthrope, Wererat
 
 Wererats are often found in cities, lurking in shadowy alleyways. Wererats can control rats, and are extremely stealthy, surprising opponents on 1–4 on a d6.
 
-#### Weretiger
+### Lycanthrope, Weretiger
 
 Weretigers are often found in tropical cities and ancient jungle ruins, but will appear in more temperate climates as well, if tigers live in the surrounding wilderness. These lycanthropes can assume the form of a tiger, a human, or a bipedal, tiger-like hybrid of the two forms.
 
-#### Wereweasel
+### Lycanthrope, Wereweasel
 
 Wereweasels tend to be aggressive, cruel and vicious. In their lycanthrope form, they are sleek and quick, biting for 2d4 hit points of damage in addition to any weapons they may wield. They continue to drain blood after a successful bite, inflicting an additional 2d4 points of damage per melee round until slain or until they release their prey. As with other were-creatures, the bite also has a chance to inflict lycanthropy. These lithe creatures are fast, gaining a +1 bonus on initiative rolls. Wereweasels are often found with 1d4 giant weasels, which obey their commands. In human form, wereweasels tend to be thin and wiry, dark of aspect with sharp features. (*Author: John Turcotte)*
 
-#### Werewolf
+### Lycanthrope, Werewolf
 
 Werewolves are the traditional Lycanthropes seen in horror movies. They can turn into a wolf or into a wolf-man. Wolvesbane keeps them at bay.
 
@@ -4277,8 +4106,6 @@ If a giant lynx hits with both of its front claws, it can make 2 more attacks wi
 ### Lythic
 
 Lythics are 5- or 6-foot-tall humanoids composed of smoothly-carved rock. Their features are human-like but emotionless. Related to earth elementals, lythics are shy creatures that tend to flee rather than confront people. They are experts at blending into stone, and use this camouflage technique to seemingly vanish if threatened. Lythics can glide effortlessly stone and dirt like a fish through water.
-
-## M
 
 ### Macaw, Giant
 
@@ -4354,25 +4181,21 @@ The Maun-Ge are transparent-skinned humanoids. They live alone among humans in r
 
 A mawler’s natural form is that of a small blob of fleshy stuff approximately 2 feet across. Mawlers are rarely ever seen in their natural form, however, as they almost always take the shape of an article of clothing. A mawler can alter its texture, color and shape to match such substances as leather and metal. A single mawler usually takes on the form of a single article of clothing, such as a hat, helmet, scarf, codpiece or belt. A pair of these creatures encountered together can take the shape of a pair of boots or a pair of gloves. A mawler radiates as magic, which often lures victims to it who detect magic on the item the mawler is mimicking. When an unsuspecting person dons the mawler, it attacks with its bite. If a mawler hits, it automatically constricts for 1d4 points of damage in the next round. If a mawler rolls a natural 20 on its bite attack, it severs whatever appendage is within it at the time (a leg or hand, for example).
 
-### Mechanisms
-
-Mechanisms are, effectively, magically-constructed robots. They are not merely animated, for they have a mechanical component to their operations, but these mechanical components require magic in order to function.
-
-#### Bronze Cobra
+### Mechanism, Bronze Cobra
 
 Bronze cobras are similar to iron cobras, built in ancient days by powerful spell casters as mechanical servants using powerful magic. These jointed snakes are the size of a normal cobra, and follow commands given to them or programmed into them by their creators. Bronze cobras are not as lethal as iron cobras, being made of softer metal and having a five-dose supply of paralysis poison (3d6 turns) rather than a three-dose supply of lethal poison. They are, however, faster than the similar mechanism created from iron.
 
-#### Clockwork Cavalier
+### Mechanism, Clockwork Cavalier
 
 A clockwork cavalier is a metallic humanoid (usually plated with tarnished bronze), elaborately forged to resemble a handsome, mustached gentleman, with a winding mechanism (a key) in its back between the shoulder blades, and armed with a sword extending from its right forearm. Once it has been wound up, the cavalier will wait in place until it can perceive a male humanoid armed with a sword, whom it will challenge to fight a duel to the death. If the opponent declines, the cavalier will accuse him with cowardice, and attack the following round. During combat the Cavalier will mock its opponent with a selection of insults and taunts. Any other combatants striking the Cavalier will also become targets. A Cavalier never flees from a fight.
 
 The cavalier grows slower as it winds down. Each successive round it is in combat it gains a -1 to hit and to its movement rate. Eventually it comes to a complete halt (once movement rate reaches 0, in 12 rounds) and is thereafter totally unable to move or fight (although the insults continue for a further 1d4 rounds). Clockwork cavaliers are immune to Sleep, Charm and Hold, and to all non-magical piercing weapons. Any two-handed sword or axe that hits has a 1 in 6 chance of beheading the Cavalier - which causes it to halt and then explode within the next round (burst radius 20ft, 1d6 damage - a successful saving throw means that a person caught in the blast only takes half damage). (*Author: Sean Wills)*
 
-#### Giant Robot
+### Mechanism, Giant Robot
 
 Throughout time, every evil genius yearns deep in his heart to create a giant robot armed with a heat ray and machine guns - even (or perhaps especially) in worlds where the height of technology is represented by hammer-pounded iron, waterwheels, and crossbows. With the aid of magic, madness, and perseverance, however, some such evil geniuses succeed in the task against all odds. And then, there might be beings who live in the deserts of Mars, and beyond the dark void of the night sky. One never knows. Giant robots are 13-15 ft. tall. They tend to be sleek in design and most highly advanced. These heavy combat robots have machine guns for hands (each making four attacks per turn), a chest-mounted mortar (damages all in a 5-ft. radius of the target), and can fire a cone of heat from its head that is 90ft long and 30ft wide at its end, that inflicts hit points equal to the robot’s initial hit points (save for half damage). (*Author: Scott Casper)*
 
-#### Iron Cobra
+### Mechanism, Iron Cobra
 
 Iron cobras are a type of eldritch mechanism, created by the great wizards of yore using formulae from their legendary spellbooks and tomes of knowledge. They are jointed constructions of iron, the size of a normal cobra, that slither and attack as commanded (perhaps eons in the past) by their makers. The iron cobra contains a reservoir with three doses of lethal venom. Larger specimens might have been built, with an addition venom dose per additional hit die.
 
@@ -4416,23 +4239,19 @@ A creature that eats the memory moss temporarily gains the memories currently st
 
 When first encountered, there is a 25% chance that the memory moss has eaten within the last day and does not attack by stealing memories. In such a case, the moss contains 2d4 spells determined randomly. When a living creature moves within 60 feet of a sated memory moss, it assumes a vaguely humanoid form and casts the stolen spells at its targets.
 
-### Mephit
-
-Mephits are minor spirits usually related to fire and heat, that can, from time to time, be loosed on the Material Planes by natural means (such as a volcanic eruption) or by supernatural means (such as being summoned by wizards or sent on errands by demons or devils). All of these creatures have the ability to turn into a (mephitic) bad-smelling gaseous form for 1d6 rounds, once per day.
-
-#### Brimstone Mephit
+### Mephit, Brimstone 
 
 As with other mephits, brimstone mephits are elemental creatures; they are sly, but not highly intelligent. They spit a reeking cloud of yellowish gas that is 20ft long, by 10ft tall, by 10ft wide. This cloud is choking and caustic, inflicting 2d6 points of damage to anyone caught inside, with a saving throw allowed to reduce the damage to half. The mephit’s own gaseous form is not poisonous, although it smells foul. When in gaseous form, the mephit cannot be attacked other than with spells that would affect gas, but it cannot attack, either. (*Author: Matt Finch)*
 
-#### Fire Mephit
+### Mephit, Fire 
 
 Fire mephits are minor fire imps, cunning, but not terribly intelligent. They are often servitors of more powerful demonic or infernal beings, and may occasionally be found on the material planes under the circumstances described in the general description of mephits, above. A fire mephit can breathe flame for damage of 1d8+1, half if the victim makes a saving throw. The fire has a range of 20ft. When in gaseous form, the mephit is visible and foul-smelling; it cannot be attacked other than with spells that would affect gas, but it also cannot attack.
 
-#### Lightning Mephit
+### Mephit, Lightning 
 
 A lightning mephit is a winged imp about 4 feet tall and weighs about 1 pound. It breathes a 15-foot cone of lightning (1d8 electricity, save for half). Once per day it can call down a bolt of lightning for 2d6 points of damage. A successful save halves the damage. Once per day, a lightning mephit can attempt to summon another lightning mephit with a 25% chance of success. 
 
-#### Smoke Mephit
+### Mephit, Smoke 
 
 A smoke mephit is a winged imp about 4 feet tall and weighs about 1 pound. It breathes a 15-foot cone of hot soot (1d4 points of fire damage, save for half). Living creatures that fail their saves are tormented by burning eyes that impose a –2 to-hit penalty for 3 rounds. Once per day, the mephit can create a downpour of white-hot embers in a 20-foot radius that causes 2d6 points of fire damage to creature in the area. A successful save halves the damage. Once per day, a smoke mephit can attempt to summon another smoke mephit with a 25% chance of success. 
 
@@ -4660,24 +4479,20 @@ Standing 4 ft. in height, mushroom-men resemble humanoid mushrooms endowed with 
 
 Mushroom-men are initially created by magic. Once given life through magic they reproduce by way of spores. When a mushroom-man dies (0 hit points or less) it releases 1d6 spores which rapidly (within 1d4 rounds) grow into mushroom-men of 1 HD lower than the parent (1 HD mushroom-men do not produce spores upon death). The spores have 2 hit points (before becoming fully formed mushroom-men). (*Author: Skathros)*
 
-### Naga
-
-“Naga” is the Sanskrit word for dragon or snake. In mythology, the naga are benevolent and very powerful, equivalent to Asian dragons. The nagas portrayed here are more serpentine and less powerful; all have the body of a snake, although the head is not necessarily that of a serpent. All kinds of interesting abilities may be found in “unusual” nagas designed by the Referee, from breathing fire to moving in and out of strange planes of existence.
-
-#### Guardian Naga
+### Naga, Guardian 
 
 The largest and noblest of the naga, guardian nagas are from 20 to 25 feet in length. They do not necessarily have a humanlike head, but some characteristic (a flowing mane of hair, for instance) will immediately set their appearance apart from normal serpents. They can bite or spit with lethal poison, and if they hit with their coils they automatically cause 1d8 points of constriction damage per round thereafter. Guardian nagas cast clerical spells (2/2/1/1). A sample selection of spells for a guardian naga might include: level 1: *Cure light wounds* x2; level 2: *hold person*, *silence 15-foot radius*; level 3: *cure disease*; level 4: *cure serious wounds*.
 
-#### Hanu-Naga
+### Naga, Hanu
 
 Hanu-nagas are a predominantly tropical and subtropical form of naga, less magical than the human-headed variety. Rather than a human-headed giant snake, hanu-nagas have a feral monkey head upon a great serpentine body. These nagas lair in jungles and rainforests, haunting forgotten temples and ancient ruins, where many are worshipped by tribes of wild monkeys and/or apes. The most intelligent of hanu-nagas may have followings of tribesmen or cavemen. The stylized, writhing dance of a hanu-naga allows it to exert a mystic control over apes and monkeys within a radius of 300ft. These controlled creatures will act at the naga’s mental command. It is not necessary for the apes to actually see the naga’s dance to fall under its control; indeed, when a hanu-naga begins its dance, simian creatures within one mile (to a maximum of 20 apes) will immediately begin moving at top speed to the dancing naga’s presence. The naga may dance and attack at the same time. The bite of a hanu-naga is poisonous, and if the naga hits with its constricting attack it will inflict automatic damage of 1d6 per round until killed. (*Author: Matt Finch)*
 
 
-#### Spirit Naga
+### Naga, Spirit 
 
 Spirit nagas are malicious, evil creatures. Their gaze has the effect of a *Charm Person* spell, their bite is poison, and they cast both Magic-User spells (4/2/1) and Cleric spells (2/1). A sample spell selection for a spirit naga might be: Magic-User spells level 1: *Charm Person* x2, *Magic Missile*, *Sleep*; level 2: *Mirror Image*, *Web*; level 3: *Protection from Normal Missiles*. Cleric spells level 1: *Cure Light Wounds* x2; level 2: *Silence 15-foot Radius*. Such nagas are from 10 to 20 feet in length, and have a human head.
 
-#### Water Naga
+### Naga, Water
 
 Water nagas might be of any alignment. They do not ordinarily have human heads, but like the guardian nagas they will have some physical attributes separating them clearly from normal serpents. In the case of water nagas, this might be the color of the scales or the presence of flowing beard-like fins, perhaps. Water nagas are from 10 to 15-ft. long. Water nagas cast magic-user spells (4/2/1). A sample spell selection for a water naga might be: level 1: *charm person* x2, *magic missile, sleep*; level 2: *mirror image, web*; level 3: *protection from normal missiles*.
 
@@ -4819,21 +4634,15 @@ After a giant octopus hits with a tentacle, it does 1d6 points of damage per rou
 
 These spherical monstrosities are essentially gigantic eyeballs that drift through space in some of the more bizarre dimensions of existence. They are used as floating mounts by beings wild and weird. They may transmit their superhuman visual information to riders if desired, as well as make terrifying gaze attacks once per combat round. The concentrated gaze of an oculaktis actually transmits a powerful beam that can cause magnificent explosions, incinerate solid stone, or melt men to puddles of steaming jelly. The heat beam has a range of 100ft and the first time it is used it inflicts 6d6 points of damage (saving throw for half damage) to its target. Thereafter, unless the oculaktis has an hour or more to “recharge,” the beam only inflicts 3d6 points of damage (save for half). The oculaktis must make a successful to-hit roll with the heat beam. (*Author: Random)*
 
-### Ogres
-
-#### Ogre
-
-Ogres are normally quite stupid, but more intelligent versions might be encountered here and there.
-
-#### Ogre, Swamp
+### Ogre, Swamp
 
 Swamp Ogres are larger, semi-aquatic cousins of standard ogres. They range in color from moldy green to burnt yellowish-brown, and they have huge heads that protrude forward from their enormous, hunched shoulders. Their great arms are able to rotate around completely, allowing them to easily reach anywhere on their backs and shoulders. Swamp Ogres are often covered in moss, swamp grass, and mud, which facilitates their favorite mode of Attacks: Surprise. Swamp Ogres sit or lie down in the muck (depending on depth) so that just their great shoulder hump protrudes above the mire; when still, they need to breathe only once each hour. While in this position, a Swamp Ogre waits until someone or something sets foot upon its shoulders, whereupon its arms move with lightning speed to grab its victim and pull it down into the mire to be eaten. If the Swamp Ogre hits with both hands, it drags the opponent completely below the mire to drown in 4-6 rounds. If the Swamp Ogre hits with only one hand, it drags the opponent under on the following round, unless 8 points of damage is dealt to its hand or it is otherwise forced it to loosen its grip. Once its opponent is underneath the mire, the Swamp Ogre uses its conventional claw and bite attacks on the unfortunate victim. If a Swamp Ogre scores a natural 20 with its bite attack against a man-size or smaller opponent, it swallows that opponent whole. A swallowed opponent suffers 1d8 damage each round from stomach acid, can’t attack with anything larger than a dagger, and ultimately suffocates in 2d4 rounds. (*Author: Sean Stone)*
 
-#### Ogre, Tusken
+### Ogre, Tusken
 
 Tusken ogres are a race of ogres mid-way between the normal, feral ogre and the magically potent ogre mage. These ogres have a only a pale bluish tint to their skin, and powerful tusks protruding from their mouths. They are somewhat more intelligent than normal ogres, and are often found in the service of an ogre mage. Tusken ogres that are not minions of an ogre mage, encountered in the wild, often inhabit crude but human-like residences. They dress in silk garments taken from victims or merchants, and usually fight with polearms or outsized swords. They are inveterate slavers, and their lairs will often contain human prisoners, especially women. A tusken ogre has one magical ability, which is to create a single mirror image of itself at the beginning of a battle. As with the spell mirror image, the illusory double will disappear when it is hit. Female tusken ogres are encountered only rarely. Asian and European varieties of the tusken ogre are actually quite similar, although the European type would likely not be dressed in silk but in whatever finery might be available. (*Author: Matt Finch)*
 
-#### Ogre Mage
+### Ogre Mage
 
 The ogre mage is an ogre with magic powers, based on Japanese legend. An ogre mage can fly, turn invisible (per the spell), create a
 
@@ -4900,9 +4709,7 @@ Olive slime zombies have a telepathic bond with each other to a range of 100 fee
 
 Omgoths were once holy men who, through betrayal of their faith, now suffer from a curse that has given them a rotting, ghoulish appearance. Indeed, they look so much like ghouls that they are often mistaken for one. Their bodies are in always in a continuous state of decay and they must regularly feed on the living to replenish their lost flesh or the curse will consume them. Omgoths exude an aura of corruption that causes healing magics employed in their presence to damage the intended recipient instead of healing; be they from spells, potions or magical items. Though omgoths may be found in the company of undead creatures, they are not themselves undead and cannot be turned. (*Author: The Lizard of Oz)*
 
-### Oozes
-
-#### Crystal Ooze
+### Ooze, Crystal 
 
 The crystal ooze is an aquatic variety of the gray ooze. It is semitransparent and clear, almost impossible to see in the water and looks like nothing more than a puddle of water. The crystal ooze can grow to a length of up to 8 feet and a thickness of about 6 inches.
 
@@ -4912,19 +4719,19 @@ In addition to its digestive acid, a crystal ooze secretes a paralytic slime. A 
 
 Crystal oozes can survive out of the water for 5 hours. 
 
-#### Entropic Ooze
+### Ooze, Entropic 
 
 An entropic ooze is an amorphous mass of black protoplasm that covers an area of 15 feet or more. It resembles a black pudding, for which it is often mistaken. Entropic oozes devour the souls of creatures they slay. Creatures that lose their souls in such a way cannot be returned to life until the entropic ooze containing the soul is slain. Living creatures hit by an entropic ooze lose two levels unless they save to resist the level drain. 
 
-#### Entropic Ooze (Dark Matter)
+### Ooze, Entropic (Dark Matter)
 
 Dark matter entropic oozes are amorphous masses of black protoplasm that cover areas of 25 feet or more. They are the larger cousins of regular entropic oozes. Dark matter entropic oozes devour the souls of creatures they slay. Creatures that lose their souls in such a way cannot be returned to life until the entropic ooze containing the soul is slain. Living creatures hit by an entropic ooze lose three levels unless they save to resist the level drain. 
 
-#### Glacial Ooze
+### Ooze, Glacial 
 
 A glacial ooze is an enormous jelly found in arctic climates. This creature appears as translucent bluish-white icy sludge about 10 feet on each side (though larger specimens have been encountered). This ooze is conjectured to be a relative of the gelatinous cube. Glacial oozes absorb all bodily fluids and liquids from a corpse, leaving behind a frozen and rotting husk. They can form a pseudopod to pummel foes, and their freezing touch deals 1d6 damage. If a glacial ooze strikes a foe, it can decide on its next attack to instead engulf that opponent (save avoids). Engulfed enemies take 1d6 points of cold damage until freed.
 
-#### Magma Ooze
+### Ooze, Magma 
 
 A magma ooze appears to be a pool of bubbling and churning molten rock. They are almost always found in or near volcanoes and other warm or hot places. Magma oozes do not approach water and are never found near such sources. Magma oozes can grow to a length of 10 feet, with a thickness of about 6 inches. A magma ooze can climbs walls and move across ceilings.
 
@@ -4932,17 +4739,17 @@ The magma ooze is formed of molten rock. Any melee hit deals 2d6 points of burni
 
 Slashing and piercing weapons deal no damage to a magma ooze. Instead, they split the creature into two identical oozes, each with half of the original’s current hit points (round down). A magma ooze with 10 hit points or less cannot be further split.
 
-#### Mercury Ooze
+### Ooze, Mercury 
 
 A mercury ooze resembles a swirling thick pool of silvery-white mercury about 8 feet long and 6 inches thick. It can compress its body to a thickness of 1 inch to slip into cracks and crevices.
 
 A creature hit by a mercury ooze has 1 point of constitution and 1 point of dexterity permanently drained from them unless they pass a saving throw. One week after suffering the drain, the opponent must succeed on a saving throw or be affected as if by an *insanity* spell. The effects can be removed by the successful casting of a *wish* spell.
 
-#### Metallic Ooze (Hoard Ooze)
+### Ooze, Metallic (Hoard Ooze)
 
 A metallic ooze appears as a 9-foot blob of protoplasm of varying hue and color. Its form is coarse and rough giving it the appearance of piles of coins. A metallic ooze can flatten its body in order to squeeze through spaces and cracks. Metallic oozes come in a variety of sizes and colors: gold, silver, platinum, copper, brass, or bronze. They form pseudopods to attack foes. If a hoard ooze hits a creature, it can decide to engulf that opponent in the next round. Engulfed creatures are trapped inside its body, where the ooze’s acid desolves organic matter (1d6 points of damage each round). If burned, the ooze emits a cloud of vapor that burns the eyes and lungs of creatures within 10 feet (2d6 damage, save for half). 
 
-#### Undead Ooze
+### Ooze, Undead 
 
 This creature appears as a large, undulating mass of black goo from which rotted and broken bones protrude.
 
@@ -4954,7 +4761,7 @@ Although it moves slowly, an undead ooze can mow down creatures by moving over t
 
 Each round, in place of moving or striking, an undead ooze can expel 1d6 skeletons from its mass. Skeletons can act in the round they are expelled. Slain skeletons are engulfed by the undead ooze and can be reanimated and expelled again in 1 hour. 
 
-#### Vampiric Ooze
+### Ooze, Vampiric 
 
 Some think the vampiric ooze was created by a lich using ancient and forbidden magic. Others believe the vampiric ooze was formed when an ochre jelly slew a vampire and absorbed it. Whatever the monster’s origins, it looks like a thick, bubbling pool of mustard yellow muck. It can alter its shape so as to appear up to 12 feet long and 6 inches thick; it can also compress its body to slip through cracks as small as 1 inch wide. It spends its time slithering along floors, walls, and ceilings, or if above ground, hunting its prey at night.
 
@@ -4965,7 +4772,6 @@ Cold and electricity deal no damage to a vampiric ooze. Instead they cause the m
 ### Ophidian
 
 Ophidians are an ancient race of snake-beings, with scaly human arms and a somewhat human-looking head. They are denizens of hot climates, deserts and jungles both, often found in forgotten cities or temples from the days when their race held greater sway in the world. Anyone bitten by an ophidian and failing a saving throw will, within 1d4 weeks, produce ophidian children and die in the process. It is in this manner that ophidians reproduce; they are otherwise asexual. The deadly “pregnancy” can be ended by a cure disease spell or similar magics. Lesser, or “sterile,” ophidians (a non-breeding caste) are sometimes found – these have no effective bite.
-
 
 ### Orc
 
@@ -4990,8 +4796,6 @@ Owlbears have the body of a bear, but the beak of an owl (with some feathers on 
 ### Owl, Giant
 
 Giant owls are wise, but very predatory – many of them consider humans to be acceptable prey. Their eggs are very valuable on the open market, for if trained from birth, a giant owl can be used as a steed. In bright sunlight, giant owls fight with a penalty of –2 to their die rolls.
-
-## P
 
 ### Panther
 
@@ -5030,8 +4834,6 @@ Pseudo-dragons are tiny relatives of dragons or wyverns, less than 2ft long. Lik
 
 Purple worms are massive annelids that grow 40 ft and more in length, and sometimes exceed ten feet in width. They are subterranean, chewing tunnels in rock (or through sand, in deserts, where they are a tan color). These beasts swallow their prey whole on a roll 4 higher than the needed number, or if the worm rolls double the number required to hit. They can swallow anything the size of a horse or smaller. In addition to the worm’s dreaded bite, it has a poison stinger on its tail, the length of a sword and just as deadly even from the piercing wound it inflicts. In addition, the poison injected by the stinger is lethal if the victim fails a saving throw. What prey the purple worms once hunted with such natural weaponry (or perhaps still do, in deep places), must have been terrifying indeed. Aquatic versions of the purple worm might also exist.
 
-## Q
-
 ### Quadricorn
 
 Quadricorns resemble two-headed bulls, although the body is somewhat more massive than that of a normal bull, to accommodate the two heads. Unlike unicorns, with their propensity toward virgins, quadricorns have somewhat the reverse propensity, sometimes charging into villages or towns to find houses of ill-repute, where they batter down walls or doors in an attempt to escape with a captive or two.
@@ -5066,19 +4868,17 @@ Precisely how the Ranine reproduce is a mystery, as they appear to be completely
 
 Standing no taller than 4ft tall, ratlings, as their name implies, resemble humanoid rodents. Although not much of a threat individually, ratlings tend to attack in packs (of 4d6). Ratlings dealing damage via a bite may infect their victims with the same disease that mundane rats do. The chances of passing on the disease are identical to that of their giant-rat kin. (*Author: Skathros)*
 
-### Rats
-
-#### Rat, Giant
+### Rat, Giant
 
 Giant rats are often found in dungeons, and are about the size of a cat, or perhaps a lynx. The bite of some (1 in 20) giant rats causes disease. A saving throw is allowed (versus poison). The effects of the disease are decided by the Referee.
 
 Giant rats (monstrously huge) are often found in dungeons, and are vicious predators the size of a wolf. The bite of some (1 in 20) giant rats causes disease. A saving throw is allowed (versus poison). The effects of the disease are decided by the Referee.
 
-#### Rat, (Giant Desongnol Rat)
+### Rat, (Giant Desongnol Rat)
 
 The Desongnol rat in its larger form, about the size of a cat, is feared by farmer, woodsman and adventurer alike. It has a rather large nose and an extremely nasty temper and bite. When attacking, the Desongnol rat uses its venom to sicken its prey (in humans, a -1 damage penalty or similar effect) and then tears at it with its powerful claws to allow the rat to feed. It has been said to give off pig-like noises and to have a particular stench when in large numbers. These rats are usually found lurking near farms and settlements where food is easy to forage. It is known for constructing complex tunnel systems large enough for a small human/demi-human (halfling sized or smaller) to enter. (*Author: Chgowiz)*
 
-#### Rat, Wizard's Lab
+### Rat, Wizard's Lab
 
 Wizard’s lab rats are giant rats that have been subjected to any number of strange scientific or magical experiments, and have acquired one of a variety of permanent conditions. To determine the condition of a given lab rat, roll once on the magical potion table in the rulebook, with the lab rat gaining the indicated effect as a permanent ability. Ignore poison potions (these rats would have died in the laboratory) and note that a healing potion indicates a number of hit points regenerated per turn. A character bitten by a lab rat has a 5% chance to gain the lab rat’s condition for 1d6+1 turns. Any particular lab rat has a 20% chance of possessing human-like intelligence. (*Author: Random)*
 
@@ -5115,7 +4915,6 @@ Reef walkers are a cluster of anemones with a rudimentary intelligence, shaped i
 ### Remorhaz
 
 Remorhaz live in arctic regions, burrowing tunnels into the snow and ice. They resemble massive centipedes (30ft long), with fan-like rudimentary wings. They generate intense internal heat. Remorhaz with 10 or more hit dice can swallow man-sized prey whole (natural 20 required), and the monster’s internal temperature instantly kills anyone swallowed. The top of a remorhaz glows red with heat, and will melt non-magical weapons (also dealing tremendous damage to anyone touching it.
-
 
 ### Retriever
 
@@ -5220,7 +5019,7 @@ One possible spell list for a titan might include the following Magic-User and C
 Cleric: *Light* (1), *Protection From Evil* (1), *Hold Person* (2), *Speak with Animals* (2), *Cure Disease* (3), *Dispel Magic* (3), *Cure* *Serious Wounds* (4), *Neutralize Poison* (4), *Finger of Death* (5), *Quest* (5), *Blade Barrier* (6), *Word of Recall* (6), *Earthquake* (7), *Resurrection (Raise Dead Fully)* (7).
 
 
-#### Titan, Cursed
+### Titan, Cursed
 
 There are some acts so heinous and foul that the Gods – and fellow Titans themselves – may banish and curse one of the titans to an eternity of horrific toil. Now in a form no longer comely, but appalling and demonic, its powers twisted, these extremely rare creatures will be found forever attending to the geas placed upon them. In one case, such a titan was set as a guardian to slay the endless stream of creatures that emerged through a rift in space and time. Legends tell, too, of a cursed titan doomed to guard a treasure so coveted that all manner of beings would seek to take it…
 
@@ -5238,21 +5037,19 @@ A cursed titan will have two of the following three additional abilities: bellow
 
 In addition to the above, a cursed titan will have one beneficial power and one malevolent power. The Benevolent powers are (1) Reincarnate, (2) Remove Curse/Neutralize Poison, (3) Flesh to Stone, (4) Restoration. Malevolent powers include (1) Stone to Flesh, (2) Earthquake, (3) Creeping Doom, (4) Finger of Death. (*Author: Erol Otus)*
 
-### Toads
-
-#### Toad, Giant
+### Toad, Giant
 
 Giant toads are about the size and weight of a human. They are predators, willing to attack creatures as large as men. Giant toads can attack at the end of a hop, which is in addition to the toad’s normal move.
 
-#### Giant Horned Toad
+### Giant Horned Toad
 
 These lizard-looking creatures are as large as wolves, and are armored with a thick, knobbly hide. The head of a giant horned toad is wedge-shaped, with short, thick horns protruding from the sides. Twice per day, these monsters can squirt a jet of blood from their eyes, directed at a single target within 50ft. The target must make a successful saving throw or take full damage from the caustic blood (4d6 hit points); a successful saving throw results in only half damage. Giant horned toads are normally found only in dry regions such as deserts or badlands. (*Author: Matt Finch)*
 
-#### Giant Ice Toad
+### Giant Ice Toad
 
 These bizarre creatures are as intelligent as men (perhaps more so), and use their long, unwebbed fore-toes to carve structures and tunnels in the ice. They use tools, but do not bother with weapons, for their toothy mouths are quite deadly. An ice toad can radiate intense, damaging cold (10ft) once every second melee round, causing 2d6 points of damage. They can also hop to attack, as giant toads do. In the wilds of the arctic regions, in the deserts of snow and ice, there may be entire cities of these unusual beings, perhaps even civilizations remaining from times before known history.
 
-#### Giant Poisonous Toad
+### Giant Poisonous Toad
 
 Giant poisonous toads bite with lethal poison, and their skin is also poisonous to the touch. They are about the size of a large dog, and can attack at the end of a hop, just as non-poisonous giant toads do. These toads can sometimes be brightly colored in vibrant reds and greens.
 
@@ -5346,8 +5143,6 @@ Giant sea turtles do not hunt humans, but they are aggressive in their territory
 
 Giant snapping turtles are massive, having a shell with the same diameter in feet as the creature’s hit dice. Their incredibly thick shells make them almost invulnerable to attacks that are not targeted at the head or limbs.
 
-## U
-
 ### Unicorn
 
 Unicorns are generally shy and benevolent creatures, who will allow only a chaste maiden to approach them. They can teleport once per day to a distance of 360 ft, with a rider. The unicorn’s horn has healing properties, according to legend. (The details of this, if any, are left to the Referee). There is considerable room to create variant sorts of unicorns: evil ones, flying ones, etc.
@@ -5361,8 +5156,6 @@ By day, the urrslumber is a lurching heap of leafy vegetation, roughly in the sh
 Uruak, or “scrap gnolls” are a race of hyena-like humanoids from an alternate reality, similar to gnolls in appearance but much more intelligent. They are intelligent, civilised, and fanatically obsessed with mechanical devices and inventions. The culture of their world is equivalent to the Bronze Age. Scrap gnolls managed to survive magical cataclysms and inhospitable wastelands by combining their scavenging and tool-using skills. Although their world is now believed destroyed, they have somehow spread across the multiverse. Wherever they go, the landscape is littered with smashed sand ships, exploded steam engines, and rusting piles of scrap left behind their evolving technological skills.
 
 Scrap gnolls spend most of their time creating and testing tools and devices, for they are instinctively gifted artificers. Many scrap gnolls are skilled in alchemy, clockwork, mining and smithing, and they may possess crude explosives (3d6 damage in 10’ radius, must be thrown, may have a timing device of up to 3 rounds) or arquebus-type ‘smoke-powder’ weapons (1d10 damage, backfire and be unusable until repaired on an attack roll of 1). Any weapons they make will be finely crafted and lovingly cared for. In a group of 6 or more scrap gnolls, there will be a leader with magic-user spells and the vision to direct the gnolls in working together towards a major task, as well as a pet snake or scorpion as their mascot. For every male actively inventing, scrounging, or repairing, there will be a female of close kin seeing to the more mundane domestic tasks. All scrap gnolls yearn to regain the expertise of building ornithopters and battle-automata. (*Author: Scott Wylie Roberts, “Myrystyr”)*
-
-## V
 
 ### Vampire Tree (Jubokko)
 
@@ -5394,8 +5187,6 @@ A weapon that has been used by an eternal gladiator will be cursed forever after
 
 Vierds are creepy, two-headed cousins to ghouls, standing only 3ft tall. They are nocturnal albinos with pink eyes, yellow claws and dirty fangs. Like their kin, they are immune to charm and sleep spells. A vierd has a paralyzing touch on a failed save (2d6 turns), and if bitten, the victim must make a saving throw or contract a disease. The diseased spot must be purified (burning, amputation, holy water, etc.) in order to arrest the spread of the disease. (*Author: Oldcrawler)*
 
-## W
-
 ### Walking Slime
 
 These vaguely humanoid monsters slop their way through underground passages in search of living flesh to “eat.” They attack by smacking prey with their large oozing fists, attempting to cover them and turn them into living slimes as well (on a natural roll of 15+, the victim must make a saving throw or begin transforming into a walking slime). (*Author: Random)*
@@ -5424,13 +5215,11 @@ When the were-mist’s slave is weakened by combat, the mist will attempt to mov
 
 Were-mists are solitary due to their rarity, rather than due to an unwillingness to congregate; in rare instances there might be lairs containing more than one of these creatures. Since they do not appear to reproduce, such better-populated lairs might exist closer to whatever “source” creates the mists. (*Author: Matt Finch)*
 
-### Whales
-
-#### Whale, Killer (Orca)
+### Whale, Killer (Orca)
 
 Killer whales might be found as the allies of any intelligent underwater species, chaotic or lawful, good or evil. Some killer whales are as intelligent as humans, others are not.
 
-#### Whale, Sperm
+### Whale, Sperm
 
 Sperm whales can swallow small ships whole, and automatically swallow whole any human-sized prey they hit with an attack. Blows from their tails destroy boats and might also destroy ships, or damage them terribly. Some sperm whales are intelligent (and often malevolent).
 
@@ -5460,17 +5249,15 @@ As with normal wights, a successful attack by a sea-wight drains one level of ex
 
 Will o’ the wisps are phantom-like shapes of eerie light, creatures that live in dangerous places and try to lure travelers into quicksand, off the edges of cliffs, etc. They usually inhabit swamps or high moors. They can brighten or dim their own luminescence, and change their shapes as well, to appear as a group of lights, a wisp of light, or in the glowing wraithlike shape of a human (often female). They will generally depart if the attempt to lead victims into danger fails, but if they are attacked they can defend themselves with violent shocks of lightning-like power. These creatures are intelligent, and can be forced to reveal the location of their treasure hoards.
 
-### Wolves
-
-#### Wolf
+### Wolf
 
 Wolves are pack hunters, and may be found in large numbers. Male wolves weigh from 80 to 100 pounds.
 
-#### Wolf, Winter
+### Wolf, Winter
 
 Winter wolves are as intelligent as humans, and many packs or their leaders are not friendly to humankind. Some, indeed, are actively malevolent and hostile, hunting humans as prey and stalking arctic villages for lone victims. Winter wolves can breathe frost at a range of 10ft, blasting anything in front of them in a wide area for 4d6 points of damage (save for half). This ability can only be used once per turn (10 rounds). Winter wolf pelts are very valuable (1d4+2 x1000gp).
 
-#### Wolf, Worg
+### Wolf, Worg
 
 Worgs are large, intelligent, and evil wolves. They are believed by many to be normal wolves that are inhabited by malevolent spirits, gaining size and strength accordingly. Others simply believe that worgs are an intelligent species of great wolves.
 
@@ -5490,8 +5277,6 @@ Wraiths are powerful wights, immune to all non-magical weapons other than silver
 
 A wyvern is a two-legged form of dragon. These creatures are smaller and less intelligent than true four-legged dragons, not to mention that they do not have a breath weapon. Each wyvern has a poisonous sting at the end of its tail. However, they are not coordinated enough to attack with both bite and sting in a single round. In any given round, a wyvern is 60% likely to use its tail, which can lash out to the creature’s front even farther than its head can reach.
 
-## X
-
 ### Xole
 
 Xoles bear a close physical resemblance to the salamanders of the elemental plane of fire, having a somewhat human head, human arms, and a serpentine body. Rather than being creatures of fire, however, the xoles are creatures of stone, being native to the elemental plane of earth. As such, they are immune to fire and cold, and can be affected by *protection from evil*.
@@ -5509,8 +5294,6 @@ Xorn are bizarre creatures, originally from the elemental planes of earth, which
 These creatures are immune to fire and cold damage, and take only half damage from electrical attacks (no damage when saving throws are successful). A xorn can swim through stone, but requires a full melee round to enter solid rock, during which time it cannot attack. Phase Door spells will utterly destroy a xorn that is traveling through rock or readjusting its composition.
 
 Xorn are particularly vulnerable to spells that affect earth and stone. Move Earth spells may be used to hurl a xorn backwards 30ft and stun them for a full round. Stone to flesh and rock to mud spells weaken the xorn’s elemental structure, increasing the creature’s AC to 8 \[11\] until the xorn concentrates for a full round to readjust its composition. Passwall spells inflict 1d10+10 points of damage with no saving throw.
-
-## Y
 
 ### Yaruga
 
@@ -5545,27 +5328,24 @@ For every 5 yurmp in a group there is a cumulative 2 in 6 chance that a wrestler
 
 Zetans are a grey skinned collective-intelligence race originally hailing from somewhere beyond the material plane. Workers are about four feet tall, and leaders are as tall as six feet. All zetans have thin arms and legs, oversized heads and eyes, and extremely long fingers. They are encountered most frequently on the Ethereal and Astral planes. Their purpose in visiting the Material Plane is a mystery, although they have been known to abduct mortals or livestock, sometimes in broad daylight. Zetans have an aura which causes Fear (as per the spell, saving throw negates), and they are immune to non-magical weapons. It is believed that Zetans are not truly evil, but merely inscrutable and totally alien in motivation; individuals that have met the Zetans will have wildly different stories to tell about them. Smaller Zetans seem to function most often as workers; the taller leader-types are conjectured to have more independence, but still serve the collective. Zetans travel in a thought conveyance which is only temporarily physical, glows various unearthly colors, and is able to become invisible (by entering the Ethereal Plane) at will. For every fifteen Zetans there will always be at least one leader type. A leader must be present for transport of any mortals or livestock. If a Zetan is killed on the prime material plane it is dispatched back to the collective unless its leader is killed as well, in which case it is dispersed. More permanent Zetan fortresses may exist under some of the more inaccessible desert areas of the world; nomads speak of the sound of great machines beneath the sands. (*Author: Michael Kotschi)*
 
-
-### Zombies
-
-#### Zombie
+### Zombie
 
 Zombies are mindless creatures, the walking dead. (These are merely animated corpses, not carriers of any sort of undead contagion as are ghouls.) If their Undeath is contagious, they should be worth a few more experience points than described here, and if a single hit from a zombie causes contagion or any other sort of disease, they should be worth considerably more experience. However, the standard zombie is simply a corpse animated to do its creator’s bidding.
 
-#### Brain-Eating Zombie
+### Zombie, Brain-Eating
 
 Brain-eaters are a rare variety of zombie, appearing as bloated, swollen-headed walking corpses. These semi-intelligent monsters hunger for the brains of intelligent creatures, especially those with the ability to cast spells. Brain-eaters are capable of absorbing the energy of magical spells cast near them, negating any effect they might have had. A brain-eater may absorb up to 2d4 spell levels, its head growing ever larger during the process. When its capacity is reached, the brain-eater’s head violently explodes. A brain-eater regains the ability to absorb an additional spell level with each fresh brain it eats. (*Author: Random)*
 
-#### Brine Zombie
+### Zombie, Brine 
 
-#### Leper Zombie
+### Zombie, Leper 
 
 Leper zombies are clearly undead, afflicted with a horrific disease resembling a form of leprosy, more agile than other types of zombies, and far more deadly: any who battle them must save vs disease at the end of the fight or contract Zombie Leprosy (die in 3 days and return as a Leper Zombie). Leper zombies may be turned by clerics as ghouls, and they are immune to sleep and charm spells. Anyone slain by a Leper Zombie reanimates as a leper zombie in 1d6 rounds. Carrying equipment, arms or armor of one slain by a leper zombie or used to destroy a leper zombie carries a risk to the bearer, they must save vs disease at +4 each day or contract Zombie Leprosy. Holy water, remove curse and other methods of cleansing may render the gear safe again. (*Author: JD Jarvis)*
 
-#### Pyre Zombie
+### Zombie, Pyre 
 
 These undead creatures are weirdly enchanted with some sort of necromancy. When hit by a melee weapon, they burst violently into flame, inflicting 1d6 points of damage to anyone within 5-ft. Only the bones remain after this conflagration: the remaining skeleton fights as a skeleton rather than as a zombie (including the lower hit points). The flesh re-grows rapidly, and the creature will fight as a zombie again in 10 combat rounds, including the restored ability to immolate itself. (*Author: Scott Casper)*
 
-#### Raven Zombie
+### Zombie, Raven 
 
 Zombie Ravens are the rotting, undead bodies of ravens. As with other zombies, they have no independent intellect and move very slowly. (*Author: Matt Finch)*

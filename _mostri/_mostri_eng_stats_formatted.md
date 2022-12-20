@@ -20,7 +20,7 @@
 **CL/XP**: 9/1100  
 **Special**: Spells, magic resistance 25%
 
-### Abasheen
+### Genie, Abasheen
 
 **HD**: 8  
 **AC**: 4 \[15\]  
@@ -104,7 +104,7 @@
 **CL/XP**: 4/120  
 **Special**: maggot spray
 
-### Achaierai Demon
+### Demon, Achaierai
 
 **HD**: 6  
 **AC**: 3 \[16\]  
@@ -135,7 +135,7 @@
 **CL/XP**: 20/4400  
 **Special**: Throttle, invisibility, only harmed by magic weapons, wind blast
 
-### Aeshma (Rage Demon)
+### Demon, Aeshma (Rage Demon)
 
 **HD**: 12  
 **AC**: -1 \[20\]  
@@ -168,7 +168,7 @@
 **CL/XP**: 5/240  
 **Special**: Breath weapon, impale
 
-### Air Elemental (12 HD)
+### Elemental, Air (12 HD)
 
 **HD**: 12  
 **AC**: 2 \[17\]  
@@ -179,7 +179,7 @@
 **CL/XP**: 13/2300  
 **Special**: Whirlwind, immune to non-magic weapons.
 
-### Air Elemental (16 HD)
+### Elemental, Air (16 HD)
 
 **HD**: 16  
 **AC**: 2 \[17\]  
@@ -190,7 +190,7 @@
 **CL/XP**: 17/3500  
 **Special**: Whirlwind, immune to non-magic weapons.
 
-### Air Elemental (8 HD)
+### Elemental, Air (8 HD)
 
 **HD**: 8  
 **AC**: 2 \[17\]  
@@ -201,7 +201,7 @@
 **CL/XP**: 9/1100  
 **Special**: Whirlwind, immune to non-magic weapons.
 
-### Air Elemental (Construct)
+### Elemental Construct, Air
 
 **HD**: 90 hit points  
 **AC**: 2 \[17\]  
@@ -212,7 +212,7 @@
 **CL/XP**: 17/3500  
 **Special**: Immune to magic, +2 or better magic weapon required to hit
 
-### Air Elemental (Dragon)
+### Elemental Dragon, Air
 
 **HD**: 24  
 **AC**: -2 \[21\]  
@@ -277,7 +277,7 @@
 **CL/XP**: 7/600  
 **Special**: drains wisdom, hypnosis.
 
-### Alu-Demon
+### Demon, Alu-Demon
 
 **HD**: 6  
 **AC**: 1 \[18\]  
@@ -496,7 +496,7 @@
 **CL/XP**: 9/1100XP  
 **Special**: Spits acid 5d6 (1/day, save for half).
 
-### Ankylosaurus
+### Dinosaur, Ankylosaurus
 
 **HD**: 9  
 **AC**: 0 \[19\]  
@@ -616,7 +616,7 @@
 **CL/XP**: 7/600  
 **Special**: Webs, Spells.
 
-### Arauk Demon
+### Demon, Arauk (First-category Demon)
 
 **HD**: 8  
 **AC**: 0 \[19\]  
@@ -823,7 +823,7 @@
 **CL/XP**: 26/6200  
 **Special**: Fear aura, spells, summon devils, +1 or better weapon to hit, immunity to fire and poison, magic resistance (70%), regeneration (3 hp/round), telepathy 100 ft.
 
-### Baalroch Demon
+### Demon, Baalroch (Balor) (Sixth-category Demon) 
 
 **HD**: 10  
 **AC**: 2 \[17\]  
@@ -931,7 +931,7 @@
 **CL/XP**: 1/15  
 **Special**: Bites and holds.
 
-### Balban (Brute Demon)
+### Demon, Balban (Brute Demon)
 
 **HD**: 9  
 **AC**: 2 \[17\]  
@@ -1324,7 +1324,7 @@ AC 4 \[15\]
 **CL/XP**: 2/30  
 **Special**: Swooping attack, chance of disease.
 
-### Beluiri (The Temptress)
+### Demon Lord, Beluiri (The Temptress)
 
 **HD**: 16 (70 hp)  
 **AC**: -2 \[21\]  
@@ -1638,7 +1638,7 @@ AC 4 \[15\]
 **Special** Resist fire (half damage)  
 **Equipment** leather armor, shield, longsword, belt pouch with 1d10hs
 
-### Brontosaurus
+### Dinosaur, Brontosaurus
 
 **HD**: 30  
 **AC**: 5 \[14\]  
@@ -1831,7 +1831,7 @@ AC 4 \[15\]
 **CL/XP**: 32/5900  
 **Special**: Fear, magical abilities, summon devils, +3 magic weapons to hit, regenerate 7 hp/round, magic resistance (40%), immune to fire and poison, resists acid and cold
 
-### Cacodaemon
+### Daemon, Cacodaemon
 
 **HD**: 12  
 **AC**: -3 \[22\]  
@@ -1862,7 +1862,7 @@ AC 4 \[15\]
 **CL/XP**: 4/120  
 **Special**: Disease, reanimation
 
-### Caizel (Deposed Queen of Succubi)
+### Demon Lord, Caizel (Deposed Queen of Succubi)
 
 **HD**: 18  
 **AC**: -4 \[23\]  
@@ -1873,7 +1873,7 @@ AC 4 \[15\]
 **CL/XP**: 22/5000  
 **Special**: Poison, magical abilities, summon demons, touch of ecstasy, +1 magic weapons to hit, immune to electricity and poison, resists cold, fire and acid
 
-### Cambion
+### Demon, Cambion
 
 **HD**: 8  
 **AC**: 1 \[18\]  
@@ -2145,7 +2145,7 @@ AC 4 \[15\]
 **CL/XP**: 11/1700  
 **Special**: Consume brain, create zombie, fear gaze, web
 
-### Chaaor (Beast Demon)
+### Demon, Chaaor (Beast Demon)
 
 **HD**: 11  
 **AC**: 1 \[18\]  
@@ -2177,7 +2177,7 @@ AC 4 \[15\]
 **CL/XP**: 14/2600  
 **Special**: Special dimension door, wall of ice, spikes of ice, pass through walls, telekinesis, random spell effect, immune to non-magical weapons.
 
-### Charon
+### Deamon, Charon
 
 **HD**: 32 (128 hp)  
 **AC**: -5 \[24\]  
@@ -2188,7 +2188,7 @@ AC 4 \[15\]
 **CL/XP**: 40/10800  
 **Special**: Control Styx, fear gaze, paralysis, spells, +1 or better weapons to hit, immunity to acid and poison, magic resistance (90%), telepathy 100 ft.
 
-### Charonodaemon
+### Daemon, Charonodaemon
 
 **HD**: 10  
 **AC**: -2 \[21\]  
@@ -2198,6 +2198,16 @@ AC 4 \[15\]
 **AL**: C  
 **CL/XP**: 15/2900  
 **Special**: Fear gaze, spells, only harmed by silver weapons, immunity to acid and poison, magic resistance (45%), telepathy 100 ft.
+
+###  Daemon, Dhergodaemon
+**HD**: 10
+**AC**: -2 \[21\]
+**Atk**: 5 claws (1d4) or 2 claws (1d4) and 3 swords (2d6)
+**Move**: 15
+**Save**: 5
+**AL**: C
+**CL/XP**: 15/2900
+**Special**: Feeblemind, spells, only harmed by silver weapons, immunity to acid and poison, magic resistance (50%), telepathy 100 ft.
 
 ### Cherum
 
@@ -2220,7 +2230,7 @@ AC 4 \[15\]
 **CL/XP**: 11/1700  
 **Special**: Breathes fire.
 
-### Choronzon (Chaos Demon)
+### Demon, Choronzon (Chaos Demon)
 
 **HD**: 16  
 **AC**: 0 \[19\]  
@@ -2580,7 +2590,7 @@ AC 4 \[15\]
 **CL/XP**: 8/800  
 **Special**: Grab victims.
 
-### Coral Demon
+### Demon, Coral
 
 **HD**: 10  
 **AC**: -1 \[20\]  
@@ -2642,7 +2652,7 @@ AC 4 \[15\]
 **CL/XP**: 8/800  
 **Special**: Hypnotic Lights
 
-### Corruptor Demon - Azizou (Pain Demon)
+### Demon, Corruptor - Azizou (Pain Demon)
 
 **HD**: 4  
 **AC**: 1 \[18\]  
@@ -2653,7 +2663,7 @@ AC 4 \[15\]
 **CL/XP**: 7/600  
 **Special**: Spells, whisper of madness, rending claws, +1 or better weapon to hit, immunity to electricity and poison, magic resistance (10%), telepathy 100 ft.
 
-### Corruptor Demon - Barizou (Assassin Demon)
+### Demon, Corruptor - Barizou (Assassin Demon)
 
 **HD**: 3  
 **AC**: 2 \[17\]  
@@ -2664,7 +2674,7 @@ AC 4 \[15\]
 **CL/XP**: 6/400  
 **Special**: Spells, whisper of madness, chamelon, backstab, +1 or better weapon to hit, immunity to electricity and poison, magic resistance (5%), telepathy 100 ft.
 
-### Corruptor Demon - Geruzou (Slime Demon)
+### Demon, Corruptor - Geruzou (Slime Demon)
 
 **HD**: 5  
 **AC**: 0 \[19\]  
@@ -2888,7 +2898,7 @@ AC 4 \[15\]
 **CL/XP**: 19/4100  
 **Special**: Magic resistance (50%), immune to non-magical weapons, special abilities.
 
-### Dagon (Demon Prince of the Sea)
+### Demon Lord, Dagon (Demon Prince of the Sea)
 
 **HD**: 20 (110 hp)  
 **AC**: -5 \[24\]  
@@ -2986,7 +2996,7 @@ AC 4 \[15\]
 **CL/XP**: 8/800  
 **Special**: Create special darkness, death-flash, level 4 thief.
 
-### Darkswimmer Demon
+### Demon, Darkswimmer
 
 **HD**: 9  
 **AC**: 4 \[15\]  
@@ -3104,7 +3114,7 @@ AC 4 \[15\]
 **CL/XP**: 18/3800  
 **Special**: Adhesive, spells, +1 or better weapon to hit, immune to acid and poison, immune to mental effects, magic resistance (50%)
 
-### Demon Prince Isclaadra
+### Demon Prince, Isclaadra (Demon-Prince of Mists)
 
 **HD**: 22 (110 hp)  
 **AC**: -6 \[25\]  
@@ -3115,7 +3125,7 @@ AC 4 \[15\]
 **CL/XP**: 30/7400  
 **Special**: Magic resistance (90%), +2 magic weapon required to hit, spells, staff of mist, magical abilities.
 
-### Demon Prince Kharkazax
+### Demon Prince, Kharkazax (Demon-Prince of Carrion)
 
 **HD**: 30 (120 hp)  
 **AC**: -6 \[25\]  
@@ -3126,7 +3136,7 @@ AC 4 \[15\]
 **CL/XP**: 38/9800  
 **Special**: Magic resistance (70%), +3 magic weapon required to hit, magical abilities.
 
-### Demon Prince Thalasskoptis
+### Demon Prince, Thalasskoptis (The Sea-Demon Lord)
 
 **HD**: 30 (125 hp)  
 **AC**: -6 \[25\]  
@@ -3137,7 +3147,7 @@ AC 4 \[15\]
 **CL/XP**: 39/10100  
 **Special**: Magic resistance (90%), +3 or better weapon to hit, poison ink, gaze attack, demonic powers.
 
-### Demon Prince Yildraathy
+### Demon Prince, Yildraathu (Demon-Lord of Pestilence)
 
 **HD**: 32 (160 hp)  
 **AC**: -7 \[26\]  
@@ -3148,7 +3158,7 @@ AC 4 \[15\]
 **CL/XP**: 40/10400  
 **Special**: Magic resistance (60%), +2 weapon to hit, disease, pestilential breath weapon, demonic and magical powers.
 
-### Demon Princess Teratashia
+### Demon Princess, Teratashia (Demon-Princess of Dimensions)
 
 **HD**: 25 (130 hp)  
 **AC**: -6 \[25\] or -8 \[27\]  
@@ -3159,7 +3169,7 @@ AC 4 \[15\]
 **CL/XP**: 42/11000  
 **Special**: Magic resistance (85%), +2 or better weapon to hit, regeneration in darkness, improved AC (speed) in light, necklace of skulls, demonic powers.
 
-### Demon, Daraka
+### Demon, Daraka (Swarm Demon)
 
 **HD**: 12  
 **AC**: -3 \[22\]  
@@ -3203,7 +3213,7 @@ AC 4 \[15\]
 **CL/XP**: 14/2600  
 **Special**: Breath of unlife, fear, magic resistance (30%), +1 or better weapon to hit, spells, summon demons
 
-### Demonling Nabasu
+### Demon, Nabasu (Death Stealer Demon) - Demonling
 
 **HD**: 7  
 **AC**: -1 \[20\]  
@@ -4286,7 +4296,7 @@ AC 4 \[15\]
 **CL/XP**: 7/600  
 **Special**: +1 or better weapon to hit, double damage from silver weapons, immune to mind-affecting spells and abilities
 
-### Dretch Demon
+### Demon, Dretch
 
 **HD**: 4  
 **AC**: 2 \[17\]  
@@ -4396,7 +4406,7 @@ AC 4 \[15\]
 **CL/XP**: 5/240  
 **Special**: None.
 
-### Earth Elemental (12 HD)
+### Elemental, Earth (12 HD)
 
 **HD**: 12  
 **AC**: 2 \[17\]  
@@ -4407,7 +4417,7 @@ AC 4 \[15\]
 **CL/XP**: 13/2300  
 **Special**: Tear down stonework, immune to non-magic weapons.
 
-### Earth Elemental (16 HD)
+### Elemental, Earth (16 HD)
 
 **HD**: 16  
 **AC**: 2 \[17\]  
@@ -4418,7 +4428,7 @@ AC 4 \[15\]
 **CL/XP**: 17/3400  
 **Special**: Tear down stonework, immune to non-magic weapons.
 
-### Earth Elemental (8 HD)
+### Elemental, Earth (8 HD)
 
 **HD**: 8  
 **AC**: 2 \[17\]  
@@ -4429,7 +4439,7 @@ AC 4 \[15\]
 **CL/XP**: 9/1100  
 **Special**: Tear down stonework, immune to non-magic weapons.
 
-### Earth Elemental (Construct)
+### Elemental Construct, Earth
 
 **HD**: 90 hit points  
 **AC**: 2 \[17\]  
@@ -4440,7 +4450,7 @@ AC 4 \[15\]
 **CL/XP**: 17/3500  
 **Special**: Immune to magic, +2 or better magic weapon required to hit
 
-### Earth Elemental (Dragon)
+### Elemental Dragon, Earth
 
 **HD**: 24  
 **AC**: -3 \[22\]  
@@ -4484,7 +4494,7 @@ AC 4 \[15\]
 **CL/XP**: 12/2000  
 **Special**: Wall of fire.
 
-### Elasmosaurus
+### Dinosaur, Elasmosaurus
 
 **HD**: 15  
 **AC**: 7 \[12\]  
@@ -4570,7 +4580,7 @@ AC 4 \[15\]
 **CL/XP**: 23/1700
 **Special**: 25% magic resistant, devour soul
 
-### Erinyes Demon
+### Demon, Erinyes
 
 **HD**: 6  
 **AC**: 2 \[17\]  
@@ -4818,7 +4828,7 @@ AC 4 \[15\]
 **CL/XP**: 3/60  
 **Special**: Freezing touch, immune to cold, vulnerable to fire
 
-### Fifth-category Demon (Marilith Type)
+### Demon, Marilith (Fifth-Category Demon)
 
 **HD**: 7  
 **AC**: 7 \[12\]  
@@ -4851,7 +4861,7 @@ AC 4 \[15\]
 **CL/XP**: 4/120  
 **Special**: Heat, immune to fire
 
-### Fire Elemental (12 HD)
+### Elemental, Fire (12 HD)
 
 **HD**: 12  
 **AC**: 2 \[17\]  
@@ -4862,7 +4872,7 @@ AC 4 \[15\]
 **CL/XP**: 13/2300  
 **Special**: Ignite materials, immune to non-magic weapons.
 
-### Fire Elemental (16 HD)
+### Elemental, Fire (16 HD)
 
 **HD**: 16  
 **AC**: 2 \[17\]  
@@ -4873,7 +4883,7 @@ AC 4 \[15\]
 **CL/XP**: 17/3400  
 **Special**: Ignite materials, immune to non-magic weapons.
 
-### Fire Elemental (8 HD)
+### Elemental, Fire (8 HD)
 
 **HD**: 8  
 **AC**: 2 \[17\]  
@@ -4884,7 +4894,7 @@ AC 4 \[15\]
 **CL/XP**: 9/1100  
 **Special**: Ignite materials, immune to non-magic weapons.
 
-### Fire Elemental Construct
+### Elemental Costruct, Fire
 
 **HD**: 90 hit points  
 **AC**: 2 \[17\]  
@@ -4895,7 +4905,7 @@ AC 4 \[15\]
 **CL/XP**: 17/3500  
 **Special**: Immune to magic, immune to fire, +2 or better magic weapon required to hit, ignite materials
 
-### Fire Elemental Dragon
+### Elemental Dragon, Fire
 
 **HD**: 24  
 **AC**: -5 \[24\]  
@@ -5255,7 +5265,7 @@ AC 4 \[15\]
 **CL/XP**: 6/400  
 **Special**: +1 or better weapon to hit, freeze
 
-### Fourth-category Demon (Nalfeshenee Type)
+### Demon, Nalfeshnee (Fourth-Category Demon)
 
 **HD**: 10  
 **AC**: 4 \[15\]  
@@ -5277,7 +5287,7 @@ AC 4 \[15\]
 **CL/XP**: 3/60  
 **Special**: Spells, monkish strike.
 
-### Fraz-Urb'luu (Demon Prince of Deception)
+### Demon Lord, Fraz-Urb'luu (Demon Prince of Deception)
 
 **HD**: 25 (130 hp)  
 **AC**: -3 \[22\]  
@@ -5288,7 +5298,7 @@ AC 4 \[15\]
 **CL/XP**: 35/8900  
 **Special**: Gnashing teeth, spells, summon demonic entity, +2 or better weapon to hit, immunity to electricity and poison, sealed mind, magic resistance (75%), telepathy 100 ft.
 
-### Frog (large), Giant
+### Frog, Giant (large)
 
 **HD**: 3  
 **AC**: 7 \[12\]  
@@ -5299,7 +5309,7 @@ AC 4 \[15\]
 **CL/XP**: 4/120  
 **Special**: Leap, swallow whole.**
 
-### Frog (medium), Giant
+### Frog, Giant (medium)
 
 **HD**: 2  
 **AC**: 7 \[12\]  
@@ -5310,7 +5320,7 @@ AC 4 \[15\]
 **CL/XP**: 2/30  
 **Special**: Leap.**
 
-### Frog (small), Giant
+### Frog, Giant (small)
 
 **HD**: 1  
 **AC**: 7 \[12\]  
@@ -5475,7 +5485,7 @@ AC 4 \[15\]
 **CL/XP**: 15/2900  
 **Special**: Create gallows tree zombies, grab, +1 magic weapons to hit, resists fire
 
-### Gallu-Demon (Faceless Demon)
+### Demon, Gallu-Demon (Faceless Demon)
 
 **HD**: 7  
 **AC**: 0 \[19\]  
@@ -5585,7 +5595,7 @@ AC 4 \[15\]
 **CL/XP**: 31/7700  
 **Special**: Fear gaze, spells, *bull’s horn*, summon devils, +2 or better weapon to hit, immunity to fire and poison, regeneration (3 hp/round), see in darkness, magic
 
-### Gharros Demon (Scorpion Demon)
+### Demon, Gharros (Scorpion Demon)
 
 **HD**: 16  
 **AC**: -3 \[22\]  
@@ -5901,7 +5911,7 @@ AC 4 \[15\]
 **CL/XP**: 3/120  
 **Special**: Disease upon successful hit (save applies), Speak with the Dead.
 
-### Gravity Elemental (12 HD)
+### Elemental, Gravity (12 HD)
 
 **HD**: 12  
 **AC**: 2 \[17\]  
@@ -5912,7 +5922,7 @@ AC 4 \[15\]
 **CL/XP**: 13/2300  
 **Special**: telekinesis
 
-### Gravity Elemental (16 HD)
+### Elemental, Gravity (16 HD)
 
 **HD**: 16  
 **AC**: 2 \[17\]  
@@ -5923,7 +5933,7 @@ AC 4 \[15\]
 **CL/XP**: 17/3500  
 **Special**: telekinesis
 
-### Gravity Elemental (8 HD)
+### Elemental, Gravity (8 HD)
 
 **HD**: 8  
 **AC**: 2 \[17\]  
@@ -5966,7 +5976,7 @@ AC 4 \[15\]
 **CL/XP**: 13/2300  
 **Special**: Foul breath, petrifying gaze, poison
 
-### Greater Ooze Demon
+### Demon, Greater Ooze
 
 **HD**: 10  
 **AC**: 0 \[19\]  
@@ -6010,7 +6020,7 @@ AC 4 \[15\]
 **CL/XP**: B/10  
 **Special**: Magic resistance (15%), +1 magic weapon needed to hit, *invisible*
 
-### Greruor Demon (Frog Demon)
+### Demon, Greruor (Frog Demon)
 
 **HD**: 10  
 **AC**: -1 \[20\]  
@@ -6054,7 +6064,7 @@ AC 4 \[15\]
 **CL/XP**: 8/800  
 **Special**: None.
 
-### Grimlek
+### Demon, Grimlek
 
 **HD**: 5+3  
 **AC**: 5 \[14\]  
@@ -6174,10 +6184,10 @@ AC 4 \[15\]
 **CL/XP**: 2/30  
 **Special**: None.
 
-### Guardian Daemon
+### Daemon, Guardian
 
-**HD**: 8**  
-** **AC**: -1 \[20\]  
+**HD**: 8
+**AC**: -1 \[20\]  
 **Atk**: Bite (2d6), 2 claws (1d6)  
 **Move**: 12  
 **Save**: 8  
@@ -6316,7 +6326,7 @@ AC 4 \[15\]
 **CL/XP**: 8/800  
 **Special**: Alternate form, dexterity damage, immune to turning, malevolence, rejuvenation, strangle, vulnerabilities
 
-### Hawanar
+### Genie, Hawanar
 
 **HD**: 11  
 **AC**: 2 \[17\]  
@@ -6820,7 +6830,7 @@ AC 4 \[15\]
 **CL/XP**: 11/1700  
 **Special**: None.
 
-### Hydrodaemon
+### Daemon, Hydrodaemon
 
 **HD**: 7**  
 ** **AC**: 0 \[19\]  
@@ -7148,7 +7158,7 @@ AC 4 \[15\]
 **CL/XP**: 4/120  
 **Special**: Poison, transparent (surprise on roll of 1-2 on 1d6)
 
-### Jubilex (The Faceless Lord)
+### Demon Lord, Jubilex (The Faceless Lord)
 
 **HD**: 20 (120 hp)  
 **AC**: -2 \[21\]  
@@ -7461,7 +7471,7 @@ AC 4 \[15\]
 **CL/XP**: 8/800  
 **Special**: Animate hair, laugh, magic resistance (30%)
 
-### Kostchtchie (Demon Prince of Wrath)
+### Demon Lord, Kostchtchie (Demon Prince of Wrath)
 
 **HD**: 15 (100 hp)  
 **AC**: -4 \[23\]  
@@ -7653,7 +7663,7 @@ AC 4 \[15\]
 **CL/XP**: 7/600  
 **Special**: Sucks blood (6 hp/round).
 
-### Lemure Demon
+### Demon, Lemure
 
 **HD**: 3  
 **AC**: 7 \[12\]  
@@ -7717,7 +7727,7 @@ AC 4 \[15\]
 **AL**: N  
 **CL/XP**: 3/60;**Special**:Spells, magic resistance 60%
 
-### Lesser Ooze Demon
+### Demon, Lesser Ooze
 
 **HD**: 4  
 **AC**: 4 \[15\]  
@@ -8146,7 +8156,7 @@ AC 4 \[15\]
 **CL/XP**: 1/15  
 **Special**: None.
 
-### Mallor Demon (Serpent Demon)
+### Demon, Mallor (Serpent Demon)
 
 **HD**: 14  
 **AC**: -4 \[23\]  
@@ -8222,7 +8232,7 @@ AC 4 \[15\]
 **CL/XP**: 3/60
 **Special**: Constrict, light blindness, resistance to fire (50%), magic resistance (10%)
 
-### Manes Demon
+### Demon, Manes
 
 **HD**: 1  
 **AC**: 5 \[14\]  
@@ -8274,7 +8284,7 @@ AC 4 \[15\]
 **CL/XP**: 0/1400
 **Special**: breath weapon, spikes
 
-### Maphistal (Second of Orcus)
+### Demon Lord, Maphistal (Second of Orcus)
 
 **HD**: 20 (90 hp)  
 **AC**: -3 \[22\]  
@@ -8307,7 +8317,7 @@ AC 4 \[15\]
 **CL/XP**: 8/800  
 **Special**: +1 or better weapon to hit, freeze
 
-### Marid
+### Genie, Marid
 
 **HD**: 11  
 **AC**: 5 \[14\]  
@@ -8329,7 +8339,7 @@ AC 4 \[15\]
 **CL/XP**: 5/240  
 **Special**: Soul Chill, Slashing/Piercing Resistance.
 
-### Mature Nabasu
+### Demon, Nabasu (Death Stealer Demon) - Mature
 
 **HD**: 13  
 **AC**: -2 \[21\]  
@@ -8382,7 +8392,7 @@ AC 4 \[15\]
 **CL/XP**: 8/800  
 **Special**: Gaze turns to stone, poison.
 
-### Mehrim Demon (Goat Demon)
+### Demon, Mehrim (Goat Demon)
 
 **HD**: 6  
 **AC**: 3 \[16\]  
@@ -8498,7 +8508,7 @@ AC 4 \[15\]
 **CL/XP**: 8/800  
 **Special**: Acid, irritating fumes, immune to blunt weapons
 
-### Mezzalorn Demon (Wasp Demon)
+### Demon, Mezzalorn (Wasp Demon)
 
 **HD**: 12  
 **AC**: -3 \[22\]  
@@ -8933,7 +8943,7 @@ AC 4 \[15\]
 **CL/XP**: 5/240
 **Special**: Dance of death, paralysis
 
-### Negative Energy Elemental (12 HD)
+### Elemental, Negative Energy (12 HD)
 
 **HD**: 12  
 **AC**: 2 \[17\]  
@@ -8944,7 +8954,7 @@ AC 4 \[15\]
 **CL/XP**: 13/2300  
 **Special**: Level drain (1 level with hit)
 
-### Negative Energy Elemental (16 HD)
+### Elemental, Negative Energy (16 HD)
 
 **HD**: 16  
 **AC**: 2 \[17\]  
@@ -8955,7 +8965,7 @@ AC 4 \[15\]
 **CL/XP**: 17/3500  
 **Special**: Level drain (1 level with hit)
 
-### Negative Energy Elemental (8 HD)
+### Elemental, Negative Energy (8 HD)
 
 **HD**: 8  
 **AC**: 2 \[17\]  
@@ -8980,7 +8990,7 @@ Stats depend on circumstances.
 **CL/XP**: 8/800  
 **Special**: Beguilement, kiss, poison spittle, spells, change shape, magic resistance (40%), transparency, vulnerability
 
-### Nerizo (Hound Demon)
+### Demon, Nerizo (Hound Demon)
 
 **HD**: 10  
 **AC**: -1 \[20\]  
@@ -9119,7 +9129,7 @@ Stats depend on circumstances.
 **CL/XP**: 5/240  
 **Special**: Sight causes blindness or death.
 
-### Nysrock (Cobra Demon)
+### Demon, Nysrock (Cobra Demon)
 
 **HD**: 10  
 **AC**: 0 \[19\]  
@@ -9343,7 +9353,7 @@ Stats depend on circumstances.
 **CL/XP**: 1/15  
 **Special**: None.
 
-### Orcus (Demon Prince of the Undead)
+### Demon Prince, Orcus (Demon Prince of the Undead)
 
 **HD**: 30 (120 hp)  
 **AC**: -5 \[24\]  
@@ -9420,7 +9430,7 @@ Stats depend on circumstances.
 **CL/XP**: 5/240  
 **Special**: hug for additional 2d8 if to-hit roll is 18+.
 
-### Pazuzu (Demon Prince of Air)
+### Demon Lord, Pazuzu (Demon Prince of Air)
 
 **HD**: 20 (110 hp)  
 **AC**: -2 \[21\]  
@@ -9519,7 +9529,7 @@ Stats depend on circumstances.
 **CL/XP**: 4/120  
 **Special**: None.
 
-### Piscodaemon
+### Daemon, Piscodaemon
 
 **HD**: 10**  
 ** **AC**: -1 \[20\]  
@@ -9574,7 +9584,7 @@ Stats depend on circumstances.
 **CL/XP**: 4/120  
 **Special**: Magical abilities, cooperative dimension door.
 
-### Positive Energy Elemental (12 HD)
+### Elemental, Positive Energy (12 HD)
 
 **HD**: 12  
 **AC**: 2 \[17\]  
@@ -9585,7 +9595,7 @@ Stats depend on circumstances.
 **CL/XP**: 13/2300  
 **Special**: Positive energy burst
 
-### Positive Energy Elemental (16 HD)
+### Elemental, Positive Energy (16 HD)
 
 **HD**: 16  
 **AC**: 2 \[17\]  
@@ -9596,7 +9606,7 @@ Stats depend on circumstances.
 **CL/XP**: 17/3500  
 **Special**: Positive energy burst
 
-### Positive Energy Elemental (8 HD)
+### Elemental, Positive Energy (8 HD)
 
 **HD**: 8  
 **AC**: 2 \[17\]  
@@ -9629,7 +9639,7 @@ Stats depend on circumstances.
 **CL/XP**: 5/240  
 **Special**: Poison, invisibility, 25% magic resistance.
 
-### Psionic Elemental (12 HD)
+### Elemental, Psionic (12 HD)
 
 **HD**: 12  
 **AC**: 1 \[18\]  
@@ -9640,7 +9650,7 @@ Stats depend on circumstances.
 **CL/XP**: 16/3200  
 **Special**: Psionic powers, +1 or better weapon to hit, magic resistance (30%), telepathy 100 ft., warp reality
 
-### Psionic Elemental (16 HD)
+### Elemental, Psionic (16 HD)
 
 **HD**: 16  
 **AC**: 1 \[18\]  
@@ -9651,7 +9661,7 @@ Stats depend on circumstances.
 **CL/XP**: 20/4400  
 **Special**: Psionic powers, +1 or better weapon to hit, magic resistance (30%), telepathy 100 ft., warp reality
 
-### Psionic Elemental (8 HD)
+### Elemental, Psionic (8 HD)
 
 **HD**: 8  
 **AC**: 1 \[18\]  
@@ -9706,7 +9716,7 @@ Stats depend on circumstances.
 **CL/XP**: 6/400  
 **Special**: Turn to stone, sink into ground.
 
-### Quasit
+### Demon, Quasit
 
 **HD**: 3  
 **AC**: 2 \[17\]  
@@ -10058,7 +10068,7 @@ Stats depend on circumstances.
 **CL/XP**: 5/240  
 **Special**: Disease, delayed strike, 30% magical resistance.
 
-### Royal Time Elemental
+### Elemental, Time 
 
 **HD**: 24  
 **AC**: -5 \[24\]  
@@ -10157,7 +10167,7 @@ Stats depend on circumstances.
 **CL/XP**: 7/600  
 **Special**: Drain 1 level with hit, hit only by magic or silver weapons, command other undead.
 
-### Second-Category Demon (Hezrou Type)
+### Demon, Hezrou (Second-Category Demon)
 
 **HD**: 9  
 **AC**: -2 \[21\]  
@@ -10168,7 +10178,7 @@ Stats depend on circumstances.
 **CL/XP**: 11/1700  
 **Special**: Magic resistance 50%, demonic magical powers.
 
-### Second-Category Demon (LarvaxuType)
+### Demon, Larvaxu (Second-Category Demon)
 
 **HD**: 9  
 **AC**: -2 \[21\]  
@@ -10179,7 +10189,7 @@ Stats depend on circumstances.
 **CL/XP**: 13/2300  
 **Special**: Magic resistance 50%, swallow whole, demonic magical powers.
 
-### Shaazavi
+### Demon, Shaazavi (Fourth-Category Demon)
 
 **HD**: 10  
 **AC**: -1 \[20\]  
@@ -10190,7 +10200,7 @@ Stats depend on circumstances.
 **CL/XP**: 15/2900  
 **Special**: Magic resistance (60%), immune to non-magic weapons, demonic and magical abilities.
 
-### Shadow Demon
+### Demon, Shadow
 
 **HD**: 7  
 **AC**: 4 \[15\]  
@@ -10201,7 +10211,7 @@ Stats depend on circumstances.
 **CL/XP**: 12/2000  
 **Special**: Incorporeal, spells, immunity to electricity and poison, shadow blend, sunlight powerlessness, telepathy 100 ft.
 
-### Shrroth (Squid Demon)
+### Demon, Shrroth (Squid Demon)
 
 **HD**: 12  
 **AC**: 2 \[17\]  
@@ -10212,7 +10222,7 @@ Stats depend on circumstances.
 **CL/XP**: 15/2900  
 **Special**: Constrict, sickness cloud, magical abilities, summon demons, +1 weapons to hit
 
-### Skitterdark Demon
+### Demon, Skitterdark
 
 **HD**: 2  
 **AC**: 4 \[15\]  
@@ -10311,7 +10321,7 @@ Stats depend on circumstances.
 **CL/XP**: 5/240  
 **Special**: none
 
-### Sonechard (General of Orcus)
+### Demon Lord, Sonechard (General of Orcus)
 
 **HD**: 18  
 **AC**: -2 \[21\]  
@@ -10344,7 +10354,7 @@ Stats depend on circumstances.
 **CL/XP**: 13/2300  
 **Special**: Poison, charm gaze, spells.
 
-### Stegosaurus
+### Dinosaur, Stegosaurus
 
 **HD**: 17  
 **AC**: 2 \[17\]  
@@ -10385,7 +10395,7 @@ Atk1 two-handed weapon (1d8+1) or weapon with shield (1d8)
 **CL/XP**: 2/30  
 **Special**: non-lethal poison.
 
-### Stirge Demon
+### Demon, Stirge
 
 **HD**: 8  
 **AC**: 0 \[19\]  
@@ -10451,7 +10461,7 @@ Atk1 two-handed weapon (1d8+1) or weapon with shield (1d8)
 **CL/XP**: 7/600  
 **Special**: Magic Resistance (50%), magic or silver weapon required to hit, strangles (if hit, save or die in 1d4+1 rounds).
 
-### Succubus
+### Demon, Succubus
 
 **HD**: 6  
 **AC**: 9 \[10\]  
@@ -10528,7 +10538,7 @@ Atk1 two-handed weapon (1d8+1) or weapon with shield (1d8)
 **CL/XP**: 9/1100  
 **Special**: Swallow whole.
 
-### The Oinodaemon
+### Daemon, The Oinodaemon
 
 **HD**: 25 (100 hp)  
 **AC**: -3 \[22\]  
@@ -10539,7 +10549,7 @@ Atk1 two-handed weapon (1d8+1) or weapon with shield (1d8)
 **CL/XP**: 34/8600  
 **Special**: Spittle, spells, only hamed by silver weapons, immunity to acid and poison, magic resistance (35%), telepathy 100 ft.
 
-### Third-Category Demon (KhavorrType)
+### Demon, Khavorr (Third-Category Demon)
 
 **HD**: 10  
 **AC**: -3 \[22\]  
@@ -10550,7 +10560,7 @@ Atk1 two-handed weapon (1d8+1) or weapon with shield (1d8)
 **CL/XP**: 13/2300  
 **Special**: Magic resistance 55%, demonic magical powers.
 
-### Third-Category Demon
+### Demon, Glabrezu (Third-Category Demon)
 
 **HD**: 10  
 **AC**: –4 \[23\]  
@@ -10847,7 +10857,7 @@ Atk1 two-handed weapon (1d8+1) or weapon with shield (1d8)
 **CL/XP**: : 10/1400  
 **Special**: Charisma drain, Insect Plague, animate wood, immune to normal weapons, cold, electricity, acid, and non-magical fire.
 
-### Triceratops
+### Dinosaur, Triceratops
 
 **HD**: 16  
 **AC**: 1 \[18\] front, 6 \[13\] back  
@@ -10902,7 +10912,7 @@ Atk1 two-handed weapon (1d8+1) or weapon with shield (1d8)
 **CL/XP**: : 7/600  
 **Special**: Incorporeal/teleport movement, perceive secret and hidden things, immune to spells affecting a “person,” saving throw against all magic, reduced damage from spells, immune to restraint, detect good, magic and evil, sense emotions (empathy).
 
-### Tsathogga (The Frog God)
+### Demon Lord, Tsathogga (The Frog God)
 
 **HD**: 5 (130 hp)  
 **AC**: -4 \[23\]  
@@ -10935,7 +10945,7 @@ Atk1 two-handed weapon (1d8+1) or weapon with shield (1d8)
 **CL/XP**: 5/240  
 **Special**: Single mirror image.
 
-### Tyrannosaurus Rex
+### Dinosaur, Tyrannosaurus Rex
 
 **HD**: 18  
 **AC**: 4 \[15\]  
@@ -11074,7 +11084,7 @@ Atk1 two-handed weapon (1d8+1) or weapon with shield (1d8)
 **CL/XP**: 5/240  
 **Special**: Undead immunities, takes double damage from fire.
 
-### Vepar (Duke of Dagon)
+### Demon Lord, Vepar (Duke of Dagon)
 
 **HD**: 22  
 **AC**: -4 \[23\]  
@@ -11118,7 +11128,7 @@ Atk1 two-handed weapon (1d8+1) or weapon with shield (1d8)
 **CL/XP**: 16/3200  
 **Special**: Hurl boulders, breath weapon, immune to fire
 
-### Vrock Demon
+### Demon, Vrock (First-Category Demon)
 
 **HD**: 8  
 **AC**: 0 \[19\]  
@@ -11162,7 +11172,7 @@ Atk1 two-handed weapon (1d8+1) or weapon with shield (1d8)
 **CL/XP**: 6/400  
 **Special**: Paralyzing poison, larvae.
 
-### Water Elemental (12 HD)
+### Elemental, Water (12 HD)
 
 **HD**: 12  
 **AC**: 2 \[17\]  
@@ -11172,7 +11182,7 @@ Atk1 two-handed weapon (1d8+1) or weapon with shield (1d8)
 **CL/XP**: 13/2300  
 **Special**: overturn boats, immune to non-magic weapons.
 
-### Water Elemental (16 HD)
+### Elemental, Water (16 HD)
 
 **HD**: 16  
 **AC**: 2 \[17\]  
@@ -11182,7 +11192,7 @@ Atk1 two-handed weapon (1d8+1) or weapon with shield (1d8)
 **CL/XP**: 17/3500  
 **Special**: overturn boats, immune to non-magic weapons.
 
-### Water Elemental (8 HD)
+### Elemental, Water (8 HD)
 
 **HD**: 8  
 **AC**: 2 \[17\]  
@@ -11192,7 +11202,7 @@ Atk1 two-handed weapon (1d8+1) or weapon with shield (1d8)
 **CL/XP**: 9/1100  
 **Special**: overturn boats, immune to non-magic weapons.
 
-### Water Elemental (Construct)
+### Elemental Construct, Water 
 
 **HD**: 90 hit points  
 **AC**: 2 \[17\]  
@@ -11203,7 +11213,7 @@ Atk1 two-handed weapon (1d8+1) or weapon with shield (1d8)
 **CL/XP**: 17/3500  
 **Special**: Immune to magic, +2 or better magic weapon required to hit, engulf, drown
 
-### Water Elemental (Dragon)
+### Elemental Dragon, Water
 
 **HD**: 24  
 **AC**: -2 \[21\]  
@@ -11584,7 +11594,7 @@ Atk1 two-handed weapon (1d8+1) or weapon with shield (1d8)
 **CL/XP**: 1/15  
 **Special**: grab and pin arms, swarm over the top of battle lines.
 
-### Yildra Demon
+### Demon, Yildra
 
 **HD**: 7  
 **AC**: 3 \[16\]  

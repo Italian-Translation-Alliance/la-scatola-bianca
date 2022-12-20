@@ -2556,7 +2556,7 @@
 **CL/XP**: 11/1700  
 **Special**: Fly, poison (lethal), spells, polymorph.
 
-### Cow/Ox
+### Cow (Ox)
 
 **HD**: 3  
 **AC**: 7 \[12\]  
@@ -6021,7 +6021,7 @@
 **CL/XP**: 5/240  
 **Special**: Attach, implant eggs.
 
-### Guard/War Dog
+### Guard (War Dog)
 
 **HD**: 2  
 **AC**: 7 \[12\]  

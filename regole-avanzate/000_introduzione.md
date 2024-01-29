@@ -29,8 +29,8 @@ Nel **Capitolo 8** troverete più di settanta mostri aggiuntivi e le tabelle di 
 
 Per i personaggi di alto livello che hanno guadagnato risorse, fama e persino nobilità, nel **Capitolo 9** si dettagliano le regole di costruzione delle roccaforti, che porta il gioco a livello di "gestione dei domini".
 
-Può capitare a volte che la sessione programmata possa saltare per impegni dell'ultimo minuto e relativa assenza di giocatori. Nel **Capitolo 9** viene spiegato un sistema per giocare con gruppi ridotti senza cambiare nulla delle statistiche di PG o mostri né dell'eventuale avventura preparata. Questo capitolo è utilissimo anche per il gioco in solitaria.
+Può capitare a volte che la sessione programmata possa saltare per impegni dell'ultimo minuto e relativa assenza di giocatori. Nel **Capitolo 10** viene spiegato un sistema per giocare con gruppi ridotti senza cambiare nulla delle statistiche di PG o mostri né dell'eventuale avventura preparata. Questo capitolo è utilissimo anche per il gioco in solitaria.
 
-Nei **Capitoli 9 e 10** sono espressamente indirizzati agli Arbitri con consigli per condurre il gioco e strumenti per generare dungeon e PNG.
+Nei **Capitoli 11 e 12** sono espressamente indirizzati agli Arbitri con consigli per condurre il gioco e strumenti per generare dungeon e PNG.
 
 Buone avventure e ricordate: lo scopo è divertirsi!
